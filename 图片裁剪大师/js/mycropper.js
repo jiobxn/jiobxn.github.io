@@ -16,14 +16,16 @@ $(function () {
   var $dataRotate = $('#dataRotate');
   var $dataScaleX = $('#dataScaleX');
   var $dataScaleY = $('#dataScaleY');
+  var $isThumbnail=$('#isThumbnail')
   var options = {
     // aspectRatio: 1,
     preview: '.img-preview',
     crop: function (e) {
+	  let dom=$(".cropper-crop-box")[0];
       $dataX.val(Math.round(e.detail.x));
       $dataY.val(Math.round(e.detail.y));
-      $dataHeight.val(Math.round(e.detail.height));
-      $dataWidth.val(Math.round(e.detail.width));
+      $dataHeight.val($isThumbnail.prop("checked")?$(dom).height():Math.round(e.detail.height));
+      $dataWidth.val($isThumbnail.prop("checked")?$(dom).width():Math.round(e.detail.width));
       $dataRotate.val(e.detail.rotate);
       $dataScaleX.val(e.detail.scaleX);
       $dataScaleY.val(e.detail.scaleY);
@@ -133,10 +135,14 @@ $(function () {
               data.option = {};
             }
             data.option.fillColor = '#fff';
+			if($isThumbnail.prop("checked")){
+				let dom=$(".cropper-crop-box")[0]
+				data.option.width=$(dom).width()
+				data.option.height=$(dom).height()
+			}
           }
           break;
       }
-
       result = $image.cropper(data.method, data.option, data.secondOption);
 
       switch (data.method) {
