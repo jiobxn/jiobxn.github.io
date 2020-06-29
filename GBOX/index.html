@@ -17,7 +17,6 @@
     color: #FFFFFF;
     border: none;
     opacity: 0.7;
-    title :'代码'
  }
  .layui-layer-shade{
    background-color: #24256C!important ;
@@ -101,6 +100,7 @@
           let Convertor = new showdown.Converter();
           let html = Convertor.makeHtml(res);
           layer.open({
+            title :'代码',
             type: 1,
             anim: 3,
             skin: 'layui-layer-myskin',
