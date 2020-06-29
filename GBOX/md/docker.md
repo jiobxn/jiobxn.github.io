@@ -1,5 +1,7 @@
 # 安装Docker环境
 
+****
+
 <table><tr><td bgcolor=#24256C><font face="黑体" color=#FADD0B size=4>
 
 ````bash
@@ -13,6 +15,8 @@ echo "ip_resolve=4" >>/etc/yum.conf
 ````
 
 </font></td></tr></table>
+
+****
 
     https://download.docker.com/linux/static/stable/x86_64/
     https://github.com/docker/compose/releases/
