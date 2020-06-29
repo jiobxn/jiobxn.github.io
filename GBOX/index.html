@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GBOX.ORG | 开箱即用</title>
+  <link rel="stylesheet" href="./lib/css/layui.css">
+
+  <link type="text/css" rel="stylesheet" href="./lib/rotator.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="./lib/custom.css" media="all" />
+
+  <!-- Note: rotator.js needs to be included AFTER the CSS-files -->
+<style>
+ .layui-layer-myskin .layui-layer-title{
+  background: #24256C;
+    color: #FFFFFF;
+    border: none;
+    opacity: 0.9;
+ }
+ .layui-layer-shade{
+   background-color: #24256C!important ;
+   opacity: 0.2;
+ }
+</style>
+
+</head>
+
+<body>
+  <div class="content">
+    <div id='div-main'>
+      <div class='div-rotator'>
+
+
+
+        <a class='big' data-src='md/1.md?index=1'  href="javascript:;">测试一</a>
+
+        <a class='big' data-src="2" href="javascript:;">测试二</a>
+
+        <a class='medium' data-src="3" href="javascript:;">测试三</a>
+
+        <a class='big' href="javascript:;">Sun</a>
+
+        <a class='small' href="javascript:;">About Me</a>
+
+        <a class='medium' href="javascript:;">Change</a>
+
+        <a class='small' href="javascript:;">Architecture</a>
+
+        <a class='small' href="javascript:;">Information</a>
+
+        <a class='small' href="javascript:;">Philosophy</a>
+
+        <a class='medium' href="javascript:">Solar</a>
+
+        <a class='medium' href=" javascript:">Donate</a>
+
+        <a class='medium' href=" javascript:"><img src='img/docker.png'></a>
+
+        <a class='small' href=" javascript:;">My IT-Skills</a>
+
+        <a class='small' href=" javascript:;">Contact</a>
+
+
+
+
+      </div>
+    </div>
+  </div>
+  <div class="DetailDisplay">
+
+  </div>
+
+</body>
+<script src="./lib/jquery-2.1.4.js"></script>
+<script src="./lib/layui.js"></script>
+<script type="text/javascript" src="./lib/jquery.mobile.custom.min.js"></script>
+<script type="text/javascript" src="./lib/rotator.js"></script>
+<script src="./lib/md/showdown.min.js"></script>
+
+
+<script>
+  $(function () {
+    var layer;
+    layui.use('layer', function () {
+      layer = layui.layer;
+
+
+    });
+    $('.div-rotator a').click(function (event) {
+      event.stopPropagation();
+      
+      let src = $(this).attr('data-src');
+      console.log(src)
+      $.ajax({
+     //   url: 'http://119.3.184.238:5000/README.md?name=' + src,
+        url:src,
+        method: 'get',
+        success: function (res) {
+          let Convertor = new showdown.Converter();
+          let html = Convertor.makeHtml(res);
+          layer.open({
+            type: 1,
+            anim: 3,
+            skin: 'layui-layer-myskin',
+
+            offset: 'auto',
+            // offset: ['100px', '100px','100px','400px'],
+            maxmin: true,
+            area: ['800px', '500px'],
+            // shade: 0,
+            shadeClose: true,
+            content: html //这里content是一个普通的String
+          });
+        }
+      })
+
+    })
+    $('.content').click(function () {
+
+      layer.closeAll();
+
+    })
+  })
+</script>
+
+</html>
