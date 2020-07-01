@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>项目大厅列表</title>
+  <link rel="stylesheet" href="./lib/css/layui.css">
+
+  <link type="text/css" rel="stylesheet" href="./lib/rotator.css" media="all" />
+  <link type="text/css" rel="stylesheet" href="./lib/custom.css" media="all" />
+
+  <!-- Note: rotator.js needs to be included AFTER the CSS-files -->
+
+
+</head>
+
+<body>
+  <div class="content">
+    <div id='div-main'>
+      <div class='div-rotator'>
+  
+  
+  
+        <a class='big' data-src='https://linux.org/' href="javascript:;">测试一</a>
+  
+        <a class='big' data-src="https://zb.oschina.net/" href="javascript:;">测试二</a>
+  
+        <a class='medium' data-src="./md.html" href="javascript:;">测试三</a>
+  
+        <a class='big' href="javascript:;">Sun</a>
+  
+        <a class='small' href="javascript:;">About Me</a>
+  
+        <a class='medium' href="javascript:;">Change</a>
+  
+        <a class='small' href="javascript:;">Architecture</a>
+  
+        <a class='small' href="javascript:;">Information</a>
+  
+        <a class='small' href="javascript:;">Philosophy</a>
+  
+        <a class='medium' href="javascript:">Solar</a>
+  
+        <a class='medium' href=" javascript:">Donate</a>
+  
+        <a class='medium' href=" javascript:"><img src='image/docker.png'></a>
+  
+        <a class='small' href=" javascript:;">My IT-Skills</a>
+  
+        <a class='small' href=" javascript:;">Contact</a>
+  
+  
+  
+  
+      </div>
+    </div>
+  </div>
+  
+
+</body>
+<script src="./lib/jquery-2.1.4.js"></script>
+<script src="./lib/layui.js"></script>
+<script type="text/javascript" src="./lib/jquery.mobile.custom.min.js"></script>
+<script type="text/javascript" src="./lib/rotator.js"></script>
+
+<script>
+  $(function () {
+    var layer ;
+    layui.use('layer', function () {
+       layer = layui.layer;
+
+
+    });
+    function renderMD(param){
+        let path = Params[0].file;
+        if(param !== null && param !== undefined && param !== ' '){
+            path = Params[param].file;
+        }
+        let tmp =  Ajax({
+            url:path,
+            headers:{
+                'content-type':'text/plain'
+            },
+            method:'get'
+        });
+        tmp.then(res => {
+            // console.log(res);
+            let Convertor = new showdown.Converter();
+            let html = Convertor.makeHtml(res);
+            document.getElementsByClassName('DetailDisplay')[0].innerHTML = html;
+        });
+    };
+    $('.div-rotator a').click(function (event) {
+      event.stopPropagation();   
+ let src=$(this).attr('data-src');
+ console.log(src);
+ layer.open({
+   type: 2,
+   anim: 3,
+   
+   offset: 'auto',
+   //offset: ['200px', '200px','200px','200px'],
+   //offset: ['100px', '', '100px', '100px'],
+   maxmin: true,
+   area: 'auto',
+   //area: ['', '500px'],
+   shade: 0,
+   content: src //这里content是一个普通的String
+ });
+})
+    $('.content').click(function(){
+
+      layer.closeAll(); 
+     
+    })
+  })
+</script>
+
+</html>
