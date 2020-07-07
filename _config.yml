@@ -7,7 +7,7 @@
 
 # Site settings
 title: JIOBXN
-brief-intro: Linux Operations and Maintenance Engineer
+brief-intro: action action action
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jiobxn.github.io" # the base hostname & protocol for your site
 
@@ -17,8 +17,8 @@ permalink: /:year/:month/:day/:title/
 twitter_username: 
 facebook_username: 
 github_username:  jiobxn
-email: 
-weibo_username: 
+email: jiobxn@gmail.com
+weibo_username: 520124416
 zhihu_username: 
 linkedIn_username: 
 dribbble_username:
