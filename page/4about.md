@@ -15,7 +15,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/jiobxn)
+* GitHub：[jiobxn](https://github.com/jiobxn)
 * email：jiobxn@gmail.com
 * [Weibo](https://weibo.com/520124416)
 
