@@ -15,8 +15,8 @@ type: page
 
 ## 联系我
 
-* GitHub：[jiobxn](https://github.com/jiobxn)
-* email：jiobxn@gmail.com
+* [GitHub](https://github.com/jiobxn)
+* [Email](mailto:jiobxn@gmail.com)
 * [Weibo](https://weibo.com/520124416)
 
 ## 友情链接
