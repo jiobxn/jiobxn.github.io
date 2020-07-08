@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Markdown Preview YouTube"
+categories: JavaScript
+tags: video
+author: jiobxn
+---
+
+* content
+{:toc}
+
+## 使用youtube的预览图片
+您还可以使用youtube生成的图片为您的视频。
+
+对于youtube网址的形式：
+
+```
+https://www.youtube.com/watch?v=<VIDEO ID>
+https://youtu.be/<VIDEO URL>
+```
+
+预览网址 采用以下形式：
+
+```
+https://img.youtube.com/vi/<VIDEO ID>/maxresdefault.jpg
+https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg
+```
+
+例：
+
+[![Watch the video](https://img.youtube.com/vi/nR5daomt2BM/hqdefault.jpg)](https://www.youtube.com/watch?v=nR5daomt2BM)
