@@ -11,6 +11,6 @@ author: Jiobxn
 
 ## 行动！行动！行动！
 
-```shell
+```
 Action! Action! Action!
 ```
