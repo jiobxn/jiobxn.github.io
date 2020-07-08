@@ -3,7 +3,7 @@ layout: post
 title:  "hello world"
 categories: JavaScript
 tags: 行动
-author: Jiobxn
+author: jiobxn
 ---
 
 * content
