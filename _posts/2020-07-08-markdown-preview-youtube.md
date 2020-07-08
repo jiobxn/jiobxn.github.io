@@ -28,4 +28,10 @@ https://img.youtube.com/vi/<VIDEO ID>/hqdefault.jpg
 
 例：
 
+```
+[![Watch the video](https://img.youtube.com/vi/nR5daomt2BM/hqdefault.jpg)](https://www.youtube.com/watch?v=nR5daomt2BM)
+```
+
+结果：
+
 [![Watch the video](https://img.youtube.com/vi/nR5daomt2BM/hqdefault.jpg)](https://www.youtube.com/watch?v=nR5daomt2BM)
