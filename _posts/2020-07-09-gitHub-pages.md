@@ -11,8 +11,8 @@ author: jiobxn
 
 在历经wordpress之后，终究会选择简(bai)单(piao)
 
-> * 符合习惯
-> * 简约稳定
+> 符合习惯  
+> 简约稳定
 
 
 
