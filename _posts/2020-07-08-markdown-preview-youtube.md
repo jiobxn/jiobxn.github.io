@@ -9,6 +9,12 @@ author: jiobxn
 * content
 {:toc}
 
+在Markdown页面如显示视频
+
+> 展示带超链接的预览图  
+
+
+
 ## 使用youtube的预览图片
 您还可以使用youtube生成的图片为您的视频。
 
