@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "hello world"
-categories: JavaScript
+categories: 未分类
 tags: 行动
 author: jiobxn
 ---
