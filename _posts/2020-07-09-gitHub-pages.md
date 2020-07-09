@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "使用 GitHub Pages 构建自己的网站"
+title:  "GitHub Pages 构建自己的网站"
 categories: Web
 tags: 白嫖
 author: jiobxn
