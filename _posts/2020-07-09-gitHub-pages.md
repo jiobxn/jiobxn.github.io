@@ -25,9 +25,9 @@ author: jiobxn
 * [这里](https://github.com/Gaohaoyang/gaohaoyang.github.io)
 
 ## 自定义域名
-* **方式一** 在项目Settings
+* **方式一** 在项目[Settings](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
 
-[![domain](https://jiobxn.files.wordpress.com/2020/07/github_domain.png?w=800&h=800)](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
+![domain](https://jiobxn.files.wordpress.com/2020/07/github_domain.png?w=800&h=800)
 
 查看源站IP
 
