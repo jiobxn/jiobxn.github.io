@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Markdown Preview YouTube"
-categories: JavaScript
+title:  "Markdown 预览 YouTube"
+categories: Web
 tags: video
 author: jiobxn
 ---
