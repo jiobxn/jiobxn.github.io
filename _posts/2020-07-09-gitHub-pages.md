@@ -27,7 +27,7 @@ author: jiobxn
 ## 自定义域名
 * **方式一** 在项目Settings
 
-[![domain](https://jiobxn.files.wordpress.com/2020/07/github_domain.png)](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
+[![domain](https://jiobxn.files.wordpress.com/2020/07/github_domain.png?w=800&h=800)](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
 
 查看源站IP
 
