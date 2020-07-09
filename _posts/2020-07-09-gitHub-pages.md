@@ -35,3 +35,7 @@ author: jiobxn
 ```
 docker run -d --restart unless-stopped --network host -v /docker/www:/www -v /docker/logs:/var/log/nginx -v /docker/nginx:/key -e PROXY_SERVER="jiobxn.com,www.jiobxn.com|jiobxn.github.io^backend_https=y,alias=/filedownload|/www,log=Y,http2=Y" --name nginx jiobxn/nginx
 ```
+
+****
+
+_[白嫖3G床图空间](https://wordpress.com/?ref=footer_website)_
