@@ -29,6 +29,13 @@ author: jiobxn
 
 [![domain](https://jiobxn.files.wordpress.com/2020/07/github_domain.png)](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site)
 
+查看源站IP
+
+```
+dig jiobxn.github.io +nostats +nocomments +nocmd
+```
+
+****
 
 * **方式二** 使用反向代理
 
