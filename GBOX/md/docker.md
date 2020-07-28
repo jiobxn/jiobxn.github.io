@@ -2,7 +2,7 @@
 
 ****
 
-<table><tr><td bgcolor=#0000B1><font face="黑体" color=#E2A300 size=3>
+<table><tr><td bgcolor=#24256C><font face="黑体" color=#FADD0B size=3>
 
 ````bash
  yum clean all; yum -y install epel-release; yum -y update
