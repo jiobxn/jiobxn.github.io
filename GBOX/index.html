@@ -93,7 +93,6 @@
       let src = $(this).attr('data-src');
       console.log(src)
       $.ajax({
-     //   url: 'http://119.3.184.238:5000/README.md?name=' + src,
         url:src,
         method: 'get',
         success: function (res) {
