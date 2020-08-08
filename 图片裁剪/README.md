@@ -16,3 +16,7 @@
 ****
 
 ## [免费照片](https://librestock.com/)
+
+****
+
+## [消除图片的背景](https://www.remove.bg/zh)
