@@ -11,17 +11,18 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/jiobxn?s=1" style="border: 0;height: 142px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jiobxn&show_icons=true&hide=["prs","contribs","issues"])](https://github.com/anuraghazra/github-readme-stats)
 
 ## 联系我
 
 * [GitHub](https://github.com/jiobxn)
+* [Docker Hub](https://hub.docker.com/u/jiobxn)
 * [Email](mailto:jiobxn@gmail.com)
 * [Weibo](https://weibo.com/520124416)
 
 ## 友情链接
 
-[P站](https://#/) \| [T站](https://#) 
+[没有](https://#/) \| [没有](https://#/) \| [通过](https://www.google.com/) 
 
 ## Comments
 
