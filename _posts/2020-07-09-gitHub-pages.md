@@ -40,7 +40,7 @@ dig jiobxn.github.io +nostats +nocomments +nocmd
 * **方式二** 使用反向代理
 
 ```
-docker run -d --restart unless-stopped --network host -v /docker/www:/www -v /docker/logs:/var/log/nginx -v /docker/nginx:/key -e PROXY_SERVER="jiobxn.com,www.jiobxn.com|jiobxn.github.io^backend_https=y,alias=/filedownload|/www,log=Y,http2=Y" --name nginx jiobxn/nginx
+docker run -d --restart unless-stopped --network host -v /docker/www:/www -v /docker/logs:/var/log/nginx -v /docker/nginx:/key -e PROXY_SERVER="example.com,www.example.com|example.github.io^backend_https=y,alias=/filedownload|/www,log=Y,http2=Y" --name nginx jiobxn/nginx
 ```
 
 ****
