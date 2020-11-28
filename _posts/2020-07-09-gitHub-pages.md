@@ -32,7 +32,7 @@ author: jiobxn
 查看源站IP
 
 ```
-dig jiobxn.github.io +nostats +nocomments +nocmd
+dig example.github.io +nostats +nocomments +nocmd
 ```
 
 ****
