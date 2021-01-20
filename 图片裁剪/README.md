@@ -36,3 +36,7 @@
 ****
 
 ## [mp3瘦身](https://online-audio-converter.com/cn/)
+
+****
+
+## [视频变速](https://www.apowersoft.cn/adjust-video-speed)
