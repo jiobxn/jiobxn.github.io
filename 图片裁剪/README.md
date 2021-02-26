@@ -40,3 +40,7 @@
 ****
 
 ## [视频变速](https://www.apowersoft.cn/adjust-video-speed)
+
+****
+
+## [查找声音](https://www.findsounds.com/)
