@@ -44,3 +44,13 @@
 ****
 
 ## [查找声音](https://www.findsounds.com/)
+
+****
+
+## [修改图片尺寸](https://www.sojson.com/image/change.html)
+
+****
+
+## [制作ico图标](http://www.bitbug.net/)
+
+****
