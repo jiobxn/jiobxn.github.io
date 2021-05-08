@@ -7,7 +7,7 @@
 
 ****
 
-## [图片压缩](https://tinypng.com/)
+## [图片压缩](https://www.bejson.com/ui/compress_img/)
 
 ****
 
