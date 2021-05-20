@@ -7,6 +7,10 @@
 
 ****
 
+## [照片特效](https://photofunia.com/cn/)
+
+****
+
 ## [图片压缩](https://www.bejson.com/ui/compress_img/)
 
 ****
