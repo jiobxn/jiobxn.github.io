@@ -58,3 +58,5 @@
 ## [制作ico图标](http://www.bitbug.net/)
 
 ****
+
+## [A-Z单词](http://www.aerchi.com/tool/danci/)
