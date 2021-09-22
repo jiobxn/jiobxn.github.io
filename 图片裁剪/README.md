@@ -81,3 +81,7 @@
 
 ## [连接WiFi](https://wificard.io/)
 
+
+****
+
+## [ip查询](https://ip.zxinc.org/api.php?type=js&ip=1.1.1.1)
