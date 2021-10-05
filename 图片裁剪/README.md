@@ -23,7 +23,7 @@
 
 ****
 
-## [消除图片的背景](https://www.remove.bg/zh)
+## 消除图片的背景 [remove](https://www.remove.bg/zh)、[fococlipping](https://www.fococlipping.com/)
 
 ****
 
