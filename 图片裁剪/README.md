@@ -85,3 +85,8 @@
 ****
 
 ## [ip查询](https://ip.zxinc.org/api.php?type=js&ip=1.1.1.1)
+
+****
+
+## 网站测速 [17ce](https://www.17ce.com/)、[boce](https://www.boce.com/)、[chinaz](http://tool.chinaz.com/)
+
