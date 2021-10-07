@@ -96,3 +96,12 @@
 
 <!-- ## [18+](https://theporndude.com/zh) -->
 
+****
+
+[音乐转伴奏](https://www.edityouraudio.com/zh-Hans/)
+
+****
+
+[MP3转M4R](https://ringtonemaker.com/zh/)
+
+
