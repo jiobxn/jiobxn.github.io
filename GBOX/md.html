@@ -1,25 +1,173 @@
 <!DOCTYPE html>
 <html manifest="index.appcache">
   <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="referrer" content="none">
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="referrer" content="no-referrer" />
     <title>有道云笔记</title>
   </head>
   <body data-mode="edit">
+    <div class="ui-layout-north">
+      <div id="toolbar" style="display: none;" class="noselect" data-open-title="Hide Toolbar" data-closed-title="Show Toolbar">
+        <div class="icon">
+          <i title="粗体" type="Bold" class="svg-icon svg-bold styling-icon" data-modifier="**"> </i>
+        </div>
+        <div class="icon">
+          <i title="斜体" type="Italic" class="svg-icon svg-italic styling-icon" data-modifier="*"> </i>
+        </div>
+        <div class="icon">
+          <i title="下划线" type="Underline" class="svg-icon svg-underline styling-icon" data-modifier="++"> </i>
+        </div>
+        <div class="icon">
+          <i title="删除线" type="Strikethrough" class="svg-icon svg-strikethrough styling-icon" data-modifier="~~"> </i>
+        </div>
+        <div class="icon">
+          <i title="文本高亮" type="Mark" class="svg-icon svg-pencil styling-icon" data-modifier="=="> </i>
+        </div>
+        <div class="dividor">|</div>
+        <div class="drop-down" id="heading-drop-down" title="标题">
+          <div class="drop-down-wrapper">
+            <i class="svg-icon svg-heading"></i>
+            <span class="svg-unfold"></span>
+          </div>
+        </div>
+        <!-- <i title="Heading 2" class="svg-icon svg-heading2 heading-icon" data-level="2">
+  </i>
+  <i title="Heading 3" class="svg-icon svg-heading3 heading-icon" data-level="3">
+  </i>
+  <i title="Heading 4" class="svg-icon svg-heading4 heading-icon" data-level="4">
+  </i>
+  <i title="Heading 5" class="svg-icon svg-heading5 heading-icon" data-level="5">
+  </i>
+  <i title="Heading 6" class="svg-icon svg-heading6 heading-icon" data-level="6">
+  </i> -->
+        <div class="dividor">|</div>
+        <div class="icon">
+          <i title="水平线" class="svg-icon svg-hr" id="horizontal-rule"> </i>
+        </div>
+        <div class="icon">
+          <i title="引用" class="svg-icon svg-quote list-icon" data-prefix="> "> </i>
+        </div>
+        <div class="icon">
+          <i title="无序列表" class="svg-icon svg-ul list-icon" data-prefix="- "> </i>
+        </div>
+        <div class="icon">
+          <i title="有序列表" class="svg-icon svg-ol list-icon" data-prefix="1. "> </i>
+        </div>
+        <div class="icon">
+          <i title="未完成任务" class="svg-icon svg-unchecked list-icon" data-prefix="- [ ] "> </i>
+        </div>
+        <div class="icon">
+          <i title="已完成任务" class="svg-icon svg-checked list-icon" data-prefix="- [x] "> </i>
+        </div>
+        <!-- <i title="Html block" class="svg-icon svg-html" id="html-icon">
+  </i> -->
+        <div class="dividor">|</div>
+        <div class="icon">
+          <i
+            title="插入链接"
+            class="svg-icon svg-link"
+            id="link-icon"
+            data-sample-text="link"
+            data-sample-url="https://note.youdao.com/"
+          >
+          </i>
+        </div>
+        <div class="icon">
+          <i
+            title="插入图片"
+            class="svg-icon svg-image"
+            id="image-icon"
+            data-sample-text="image"
+            data-sample-url="https://note.youdao.com/favicon.ico"
+          >
+          </i>
+        </div>
+        <div class="icon">
+          <i title="内嵌代码" class="svg-icon svg-inline" id="inline-icon"> </i>
+        </div>
+        <div class="icon">
+          <i title="插入代码块" class="svg-icon svg-code" id="code-icon"> </i>
+        </div>
+        <div class="icon">
+          <i title="插入表格" class="svg-icon svg-table" id="table-icon"> </i>
+        </div>
+        <div class="dividor">|</div>
+        <div class="icon">
+          <i title="数学公式" class="svg-icon svg-formula math-icon" data-sample="E = mc^2"> </i>
+        </div>
+        <div class="icon">
+          <i
+            title="化学公式"
+            class="svg-icon svg-chemistry math-icon"
+            data-sample="\ce{SO4^2- + Ba^2+ -> BaSO4 v}"
+          >
+          </i>
+        </div>
+        <div class="icon">
+          <i title="流程图" class="svg-icon svg-flow mermaid-icon" data-type="flowchart"> </i>
+        </div>
+        <div class="icon">
+          <i title="时序图" class="svg-icon svg-seq mermaid-icon" data-type="sequenceDiagram"> </i>
+        </div>
+        <div class="icon">
+          <i title="甘特图" class="svg-icon svg-gantt mermaid-icon" data-type="gantt"> </i>
+        </div>
+        <div class="drop-down" id="diagram-drop-down">
+          <div class="drop-down-wrapper">
+            <span>更多</span>
+            <span class="svg-unfold"></span>
+          </div>
+        </div>
+        <div class="dividor">|</div>
+        <div class="icon">
+          <i title="主题" class="svg-icon svg-theme theme-icon"> </i>
+        </div>
+        <a class="help" href="https://note.youdao.com/help-center" target="_blank">
+          <i title="帮助" class="svg-icon svg-help help-icon"> </i>
+        </a>
+      </div>
+    </div>
     <div class="ui-layout-toggler" id="north-toggler"></div>
     <div class="ui-layout-south">
       <div class="ui-layout-center">
-        <div id="editor"></div> <!-- 编辑器 -->
+        <div id="editor"></div>
+        <!-- 编辑器 -->
       </div>
       <div class="ui-layout-toggler" id="east-toggler"></div>
       <div class="ui-layout-east">
-        <article class="markdown-body" id="preview" data-open-title="Hide Preview" data-closed-title="Show Preview">
-        </article> <!-- 实时预览 -->
+        <article class="markdown-body" id="preview">
+          <div id="markdown-preview"></div>
+        </article>
+        <!-- 实时预览 -->
       </div>
     </div>
     <div class="theme-list"></div>
-    <script src="https://note.youdao.com/md/vendor-27771b2ba8.js"></script>
-    <script src="https://note.youdao.com/md/index-e2937f0918.js"></script>
+    <div class="heading-list" style="display: none;">
+      <div class="heading-item heading1" data-level="1">标题 1</div>
+      <div class="heading-item heading2" data-level="2">标题 2</div>
+      <div class="heading-item heading3" data-level="3">标题 3</div>
+      <div class="heading-item heading4" data-level="4">标题 4</div>
+      <div class="heading-item heading5" data-level="5">标题 5</div>
+      <div class="heading-item heading6" data-level="6">标题 6</div>
+    </div>
+    <div class="diagram-list" style="display: none;">
+      <div class="diagram-item" data-type="classDiagram">类图</div>
+      <div class="diagram-item" data-type="stateDiagram">状态图</div>
+      <div class="diagram-item" data-type="erDiagram">E-R图</div>
+      <div class="diagram-item" data-type="pie">饼图</div>
+      <!-- <div class="diagram-item" data-type="">需求图</div> -->
+      <div class="diagram-item" data-type="journey">用户旅程图</div>
+    </div>
+    <div class="table-helper" style="display: none;">
+      <div class="table-view"></div>
+      <div class="table-size">
+        <div class="table-row"></div>
+        <div>x</div>
+        <div class="table-column"></div>
+      </div>
+    </div>
+    <script src="vendor-27771b2ba8.js"></script>
+    <script src="index-87d493fd43.js"></script>
   </body>
 </html>
