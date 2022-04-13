@@ -108,3 +108,7 @@
 
 ## [IonCube解密](https://easytoyou.eu/)
 
+****
+
+## [网页浏览器](https://hs.etherdream.com/)
+
