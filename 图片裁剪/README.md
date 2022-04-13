@@ -110,5 +110,5 @@
 
 ****
 
-## [网页浏览器](https://hs.etherdream.com/)
+## [浏览器WEB](https://hs.etherdream.com/)
 
