@@ -124,4 +124,9 @@
 
 ## [AI换脸](https://faceswapper.ai/)
 
+****
+
+## [数字销售数据](http://www.digitalsalesdata.com/diydsd.php) ; [世界iTunes排行榜和App Store排行榜](https://itopchart.com/) ; [kworb](https://kworb.net/charts/) ; [icharts](https://www.icharts.co.za/us/music/topsongs) ; [popvortex](https://www.popvortex.com/music/charts/) ; [billboard](https://www.billboard.com/) 
+
+
 
