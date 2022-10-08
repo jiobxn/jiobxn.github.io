@@ -132,5 +132,7 @@
 
 ## [批量打开网址](http://www.openurls.com.cn/)
 
+****
 
+## [照片转油画](https://nffp.dogged.cn/)
 
