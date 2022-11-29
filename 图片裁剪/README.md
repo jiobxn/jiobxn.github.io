@@ -3,7 +3,7 @@
 
 ****
 
-## [图片特效](https://photomosh.com/)
+## [图片特效](https://photomosh.com/)、[图片噪音](https://pinetools.com/add-noise-image)
 
 ****
 
