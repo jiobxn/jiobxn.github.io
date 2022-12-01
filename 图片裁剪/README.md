@@ -3,7 +3,11 @@
 
 ****
 
-## [图片特效](https://photomosh.com/)、[图片噪音](https://pinetools.com/add-noise-image)
+## [图片特效](https://photomosh.com/)
+
+****
+
+## [图片噪音](https://pinetools.com/add-noise-image)
 
 ****
 
@@ -15,7 +19,7 @@
 
 ****
 
-## 图标库 [iconfont](https://www.iconfont.cn/)、[icons](https://icon-icons.com/)、[getbootstrap](https://icons.getbootstrap.com/)
+## 图标库 [1](https://www.iconfont.cn/)、[2](https://icon-icons.com/)、[3](https://icons.getbootstrap.com/)
 
 ****
 
@@ -23,7 +27,11 @@
 
 ****
 
-## 消除图片的背景 [remove](https://www.remove.bg/zh)、[fococlipping](https://www.fococlipping.com/)
+## 消除图片的背景 [1](https://www.remove.bg/zh)、[2](https://www.fococlipping.com/)、[3](https://bgsub.cn/)
+
+****
+
+## [图片修复](https://huggingface.co/spaces/Sanster/Lama-Cleaner-lama)
 
 ****
 
