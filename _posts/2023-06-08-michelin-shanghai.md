@@ -17,16 +17,14 @@ author: jiobxn
 ----
 ----
 
-<div style="display:flex;">
 
-![](https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4b40ba72cf224bfa89c12a0558db1e36) 
+![](https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4b40ba72cf224bfa89c12a0558db1e36)
 
-![](https://axwwgrkdco.cloudimg.io/v7/__gmpics__/590bb871af0b4641b4a707b9cba18c13) 
+![](https://axwwgrkdco.cloudimg.io/v7/__gmpics__/590bb871af0b4641b4a707b9cba18c13)
 
 ![](https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b83deb3df500406b91cf934ad751ee52)
 
 
-</div>
 
 ## 壹零贰小馆
 
