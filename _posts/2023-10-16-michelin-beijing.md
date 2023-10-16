@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2023北京米其林指南"
+title:  "2024北京米其林指南"
 categories: food
 tags: 米其林
 author: jiobxn
@@ -9,10 +9,11 @@ author: jiobxn
 * content
 {:toc}
 
-米其林指南（2023-北京）
+米其林指南（2024-北京）
 
     等级排序（高到低）：三星、二星、一星、必比登推介、小店
-    价格排序（高到低）：$$$$奢华、$$$优质的、$$中档、$负担得起
+    价格排序（高到低）：￥￥￥￥奢华、￥￥￥优质的、￥￥中档、￥负担得起
+
 
 ----
 ----
@@ -30,7 +31,7 @@ author: jiobxn
 ## 1949 - 全鸭季
 
   * 东城区金宝街98号, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -53,6 +54,7 @@ author: jiobxn
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 6521 2221  [](tel:+86 10 6521 2221)
@@ -68,9 +70,9 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cd9e19fe68d9406c8687c9b9c47e4e2b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a95a7340d1fb4f74b58b5357ac5c9e0b" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7e242a8652234b9c963866933f6e1ab8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9c09ca5b6d8e435bb8a1ea06ce0190a8" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/633862350ab249fdb160fa5254988edd" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -79,7 +81,7 @@ author: jiobxn
 ## Amico BJ
 
   * 朝阳区工人体育场北路甲2号盈科中心一层109单元, Beijing, 中国大陆地区
-  * .¥¥¥ · 时尚欧陆菜 
+  * ¥¥¥ · 时尚欧陆菜 
 
 
 
@@ -91,10 +93,15 @@ author: jiobxn
 
 ###  设施与服务
 
+  * Visa 
+  * 万事达卡 
   * 不接受海外信用卡 
   * 中国银联 
+  * 室外停车场 
   * 柜台式 
   * 空调 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -102,54 +109,7 @@ author: jiobxn
 
 
 
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c66c0b691c81494392cd055bf7ef53e3" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4babe458bf424b51820a604766a79060" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/45dc09eccf2941dd93b5473cf65f37fc" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 聚
-
-  * 海淀区紫竹院路29号香格里拉饭店新阁1层, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 时尚法国菜 
-
-
-
-
-
-###  米其林指南的观点
-
-餐厅灵感来自主厨位于蔚蓝海岸的餐厅，经典菜式带有清新风格而且味道细腻，不妨试试主厨的招牌鸭肝坯。餐厅的布置同样令人难忘，蔚蓝色调配上夺目的水晶吊灯，充满个性。友善的服务团队，配合奢华的气氛，为美食之旅展开序幕。请于两款主厨套餐中选择其一，然后好好放松，沉醉于精致美食之中。
-
-###  设施与服务
-
-  * JCB 
-  * Maestro 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 供应优质餐酒 
-  * 大来卡 (Diners Club) 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-  * 美国运通 
-  * 轮椅通道 
-
-###  电话
-
-+86 10 8882 6727  [](tel:+86 10 8882 6727)
-
-
-
-<a href="https://www.shangri-la.com/beijing/shangrila/" target="_blank">访问网站</a>
+<a href="http://amicobj-restaurant.com" target="_blank">访问网站</a>
 
 
 
@@ -158,18 +118,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/814b8ac32f6c4872b333d78ea4283764" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1de23711dd094fb088fc06d3e52e94c3" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d7607ec338dc4b31a1bc401c84066df6" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/89ff045cffcf4a9e9de810938029a9c6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/14a91398cd774be0bcad120b4c880021" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/630f5733ccb1430db0eee07700c0edd1" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 羊大爷涮肉 (麦子店西街)
 
   * 朝阳区麦子店西街39号, Beijing, 中国大陆地区
-  * .¥¥ · 火锅 
+  * ¥¥ · 火锅 
 
 
 
@@ -183,6 +143,7 @@ author: jiobxn
 
   * 不接受海外信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -206,7 +167,7 @@ author: jiobxn
 ## 百味园饺子馆
 
   * 朝阳区团结湖路52号, Beijing, 中国大陆地区
-  * .¥ · 饺子 
+  * ¥ · 饺子 
 
 
 
@@ -220,6 +181,7 @@ author: jiobxn
 
   * 只接受现金 
   * 空调 
+
 
 ###  电话
 
@@ -241,10 +203,10 @@ author: jiobxn
 
 </div>
 
-## 爆肚金生隆
+## 爆肚金生隆 (安德路)
 
   * 西城区安德路六铺炕1巷, Beijing, 中国大陆地区
-  * .¥¥ · 火锅 
+  * ¥¥ · 火锅 
 
 
 
@@ -261,6 +223,7 @@ author: jiobxn
 
   * 只接受现金 
   * 空调 
+
 
 ###  电话
 
@@ -285,7 +248,7 @@ author: jiobxn
 ## 宝源
 
   * 朝阳区麦子店街6号楼北侧, Beijing, 中国大陆地区
-  * .¥ · 饺子 
+  * ¥ · 饺子 
 
 
 
@@ -302,6 +265,7 @@ author: jiobxn
 
   * 只接受现金 
   * 空调 
+
 
 ###  电话
 
@@ -325,7 +289,7 @@ author: jiobxn
 ## 匠牛饺子
 
   * 朝阳区顺源街5号, Beijing, 中国大陆地区
-  * .¥ · 饺子 
+  * ¥ · 饺子 
 
 
 
@@ -340,9 +304,55 @@ author: jiobxn
   * 只接受现金 
   * 空调 
 
+
 ###  电话
 
 +86 10 5094 4979  [](tel:+86 10 5094 4979)
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e77782686992461987c8333ac3348f7b" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e26ea667fd894858a4e49e8d07a3935f" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/812f61a4a76e460f9eaa7173ae096695" alt="Image 3" style="width: 200px; height: auto;">
+
+</div>
+
+## 壮壮酒馆
+
+  * 朝阳区朝阳公园路6号蓝色港湾M175号, Beijing, 中国大陆地区
+  * ¥¥ · 烤肉餐馆 
+
+
+
+
+
+###  米其林指南的观点
+
+主打来自内蒙古的新鲜羊肉，餐厅会以不同方式烹调各部位，如采用西式扒炉烤制或中式炭火烤串，各具特色。推荐羊肉牛肝菌酥盒，其用料十足，且以松露油等提味，酥脆可口。酒饮选择丰富，除了啤酒、葡萄酒，更有加入了风干羊肉、羊奶酪等羊元素的鸡尾酒。若少人用餐不妨预约吧枱位置，欣赏料理过程。
+
+###  设施与服务
+
+  * Visa 
+  * 万事达卡 
+  * 不接受海外信用卡 
+  * 大来卡 (Diners Club) 
+  * 室外停车场 
+  * 柜台式 
+  * 空调 
+  * 轮椅通道 
+  * 阳台 
+
+
+###  电话
+
++86 186 1095 3870  [](tel:+86 186 1095 3870)
 
 
 
@@ -362,7 +372,7 @@ author: jiobxn
 ## 花开素食 (东城)
 
   * 东城区东直门内大街144号, Beijing, 中国大陆地区
-  * .¥¥ · 素食 
+  * ¥¥ · 素食 
 
 
 
@@ -377,6 +387,7 @@ author: jiobxn
   * 不接受海外信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 10 6401 2228  [](tel:+86 10 6401 2228)
@@ -388,18 +399,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/84cc73cb2c0d4f7c84e15884a60f947f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/628b36f8faae4b5aa9712e22e41e6c52" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d05ac7fa640f4f99984ae30847f0eb88" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d025d3539c8d401fa5b2c756801da7b2" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/db3c461748184f70b973279676248398" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/92ce07c1cfb1410e8d3bc1fa1e3e60b7" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 鸢尾宫 1893
 
   * 东城区金鱼胡同5-15号华尔道夫酒店1层, Beijing, 中国大陆地区
-  * .¥¥¥ · 时尚法国菜 
+  * ¥¥¥ · 时尚法国菜 
 
 
 
@@ -407,11 +418,12 @@ author: jiobxn
 
 ###  米其林指南的观点
 
-名字虽是酒馆，实际上是一家高贵优雅的餐厅。走进室内，除了一些引人注目的艺术品，开放式厨房也是焦点所在。不妨预订座位，让厨师在面前展现手艺。以当代法式料理技巧，烹调本地的优质食材，无论卖相还是味道都非常出色。招牌菜包括鸭肝批大黄酱波特酒，以及波士顿嫩龙蝦伴云南时令菇菌。
+英文店名意思是酒馆，实际上它却是一家高贵优雅的餐厅。走进室内，除了引人注目的艺术品，开放式厨房也是焦点所在。来自法国布列塔尼的主厨以当代法式料理技巧，烹调本地的优质食材，不论卖相或味道都非常出色。菜单定时更换，当中包含别具创意的菜式，例如以鲍鱼搭配玉米慕斯、培根和爆米花，口感妙不可言。
 
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -421,6 +433,7 @@ author: jiobxn
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -448,7 +461,7 @@ author: jiobxn
 ## 紫膳
 
   * 东城区王府井大街269号王府井文华东方酒店5层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -456,7 +469,7 @@ author: jiobxn
 
 ###  米其林指南的观点
 
-系出文华东方酒店，紫膳由拥有丰富经验的厨师领班，为食客带来传统精致的粤式佳餚。菜单由香港文华厅的黄师傅设计，精巧细腻，但亦涵盖海鲜、蔬菜、汤羹等不同类别，而且尽是经典菜式，让客人能充分体验粤菜滋味。室内以中式元素装潢却不失时尚，设有户外平台，能眺望故宫的宏伟景色。
+系出文华东方酒店，紫膳由拥有丰富经验的厨师领班，为食客带来传统精致的粤式佳肴。菜单设计得精巧细腻，涵盖海鲜、海味、汤羹等不同类别，而且满是经典菜式，让客人能充分体验粤菜滋味。不妨试试以中国茶为基底的特调饮品，清爽而有特色。室内以中式元素装潢却不失时尚，设有户外平台，能眺望故宫的宏伟景色。
 
 ###  设施与服务
 
@@ -464,6 +477,7 @@ author: jiobxn
   * Visa 
   * 万事达卡 
   * 上佳景观 
+  * 中国银联 
   * 代客泊车 
   * 大来卡 (Diners Club) 
   * 室外停车场 
@@ -473,13 +487,14 @@ author: jiobxn
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 10 8509 8820  [](tel:+86 10 8509 8820)
 
 
 
-<a href="https://www.mandarinoriental.com/beijing/wangfujing/luxury-hotel/" target="_blank">访问网站</a>
+<a href="https://www.mandarinoriental.com/en/beijing/wangfujing/dine/cafe-zi" target="_blank">访问网站</a>
 
 
 
@@ -488,9 +503,9 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7760645153c3439b9eb75e9431077263" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/02e38b43abfe457b824a0d8c04e3506d" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/795fb2eb64f147e3be934f5231e4de96" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/021bddd3206d4b5cbc1458f32fd8cc04" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -500,7 +515,7 @@ author: jiobxn
 ## 采逸轩
 
   * 朝阳区亮马桥路48号四季酒店2层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -509,7 +524,7 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 厨师团队拥有丰富粤菜经验，致力提供正宗而上乘的广东菜肴。菜单上选择琳琅满目，且使用的都是优质食材，无论准备功夫还是烹饪技巧，都一丝不苟。特别推介厨师引以为傲的黑蒜大千虾球。以粤菜为主的菜单除了供应传统菜式，更包括多款东北佳肴，以照顾不同口味的老饕，而餐酒单也相当不俗。
 
@@ -528,6 +543,7 @@ author: jiobxn
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 5695 8520  [](tel:+86 10 5695 8520)
@@ -543,18 +559,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7eca0cd8abef456b806fc299a5990abb" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/42583f03e56d437c86d16d54682521a4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/62d9c7afd7fd4accad895be5c7820cab" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6cc492e2e2fc4a39aa57bfa7b2b63fe4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/36c553a2070e4415bc6a8016a2667f8c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3a8b6384ca294c27b925b23f2f4b0ad1" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 意味轩
 
   * 西城区金城坊东街1号金融街丽思卡尔顿酒店大堂层, Beijing, 中国大陆地区
-  * .¥¥¥ · 意大利菜 
+  * ¥¥¥ · 意大利菜 
 
 
 
@@ -562,7 +578,7 @@ author: jiobxn
 
 ###  米其林指南的观点
 
-此乃城中具有标志性的意大利餐厅，供应精致意式美食。室内装潢风格经典而优雅，营造舒适宜人的用餐环境，建议预订更为私密的豪华卡座。主厨拥逾十五年丰富经验，对意大利菜有精妙见解。其招牌菜有龙虾意大利面和香煎扇贝等。为美好的一餐作结，不妨点选味美的提拉米苏。
+此店供应精致的意式美食，是城中具有标志性的意大利餐厅。室内装潢风格经典而优雅，用餐环境舒适宜人，建议预订更为私密的豪华卡座。主厨在此掌勺多年，烹调意大利菜经验丰富，其招牌菜龙虾扁面搭配海鲜汁，味道鲜美可口，龙虾肉质爽弹，值得一试。为美好的一餐作结，提拉米苏是个不错的选择。
 
 ###  设施与服务
 
@@ -573,6 +589,7 @@ author: jiobxn
   * 中国银联 
   * 代客泊车 
   * 供应优质餐酒 
+  * 供应素食菜单 
   * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
@@ -580,13 +597,14 @@ author: jiobxn
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 6629 6996  [](tel:+86 10 6629 6996)
 
 
 
-<a href="https://www.ritzcarlton.com/" target="_blank">访问网站</a>
+<a href="https://www.ritzcarlton.com/en/hotels/bjsfs-the-ritz-carlton-beijing-financial-street/dining/" target="_blank">访问网站</a>
 
 
 
@@ -595,19 +613,19 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2487bd817e144ae486f54872cc4c4f2e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4a61503efa904ef58b20dbf7e4bd191e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b4dd3b23b2744747809f7a6e0cf70b5e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fbeade86e0564abeb516d758816a0573" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b0e0457df5a64f8daf8d15265c55ec01" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3512b702c60842b0a10a8cb2b4cef49c" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
 
-## 潮上潮
+## 潮上潮 (朝阳)
 
-  * 朝阳区光华路10号正大中心4层L406B, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 潮州菜 
+  * 朝阳区金和东路20号正大中心4层L406B, Beijing, 中国大陆地区
+  * ¥¥¥¥ · 潮州菜 
 
 
 
@@ -616,9 +634,9 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+三星：卓越烹饪
 
-甫进餐室可见店东珍藏的花胶，还有不少带潮汕特色的摆设，与餐厅供应的高档次潮州菜互相映衬。主厨曾于多地工作，带领以潮州及广东人为主的团队，为食客烹制传统的潮州菜式。当中鲍汁炆花胶及咸煎东星斑为招牌菜，而手工粿条、以黄鳝制作的鱼蛋也尽显厨师实力。部分海鲜如潮汕响螺须提前预订。
+餐室内放满店东珍藏的花胶，与此处供应的高档次潮州菜互相映衬。厨房团队多来自潮州及广东，每道菜都尽显手艺和对食材处理的一丝不苟。除了传统菜肴，主厨亦精益求精，为菜品注入新意，例如陈皮梅子烧荷包鳝，改以较繁复的红烧方式烹制，味道和层次更上一层。茗茶和葡萄酒单均选择不俗。欲享海鲜或须提前预订。
 
 ###  设施与服务
 
@@ -635,6 +653,7 @@ author: jiobxn
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -649,16 +668,16 @@ author: jiobxn
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/63bf998db79948bbb77ecd179aa359ed" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5cf9b01806e145fd9676f45e6b84c163" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/88b0cb176ddd4cd0b6f8d6980d0cd70c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/87a76d3a826d44dabc4c981aff50f739" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/07b2528035bf40648fea7ca95aae6058" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 恰 (南三里屯路)
 
   * 朝阳区南三里屯路1号通盈中心三里屯洲际酒店3层, Beijing, 中国大陆地区
-  * .¥¥¥ · 扒房 
+  * ¥¥¥ · 扒房 
 
 
 
@@ -666,11 +685,12 @@ author: jiobxn
 
 ###  米其林指南的观点
 
-来到这家牛排馆，要先穿过一条亮着红色霓虹灯、放有铜牛雕像的通道。餐厅搜罗了一系列优质牛肉，包括澳大利亚Blackmore和牛。和亲友聚餐时，不妨点选分量巨大的战斧牛排，或者澳大利亚杰克溪谷和牛丁骨牛排，配以多款不同味道的盐和芥末，更添滋味。建议选择阳台座位，欣赏三里屯的迷人风景。
+穿过一条亮着红色霓虹灯、放有铜牛雕像的通道，便会到达用餐区。在这里，客人可享受一系列优质牛肉，包括澳大利亚Blackmore和牛。和亲友良朋聚餐时，不妨点选分量巨大的战斧牛排，或者重达一公斤的丁骨牛排，厨师会推车到桌边为客人现场分切，并提供多种盐和芥末佐吃。建议选择阳台座位，欣赏三里屯的迷人风景。
 
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 上佳景观 
@@ -683,13 +703,14 @@ author: jiobxn
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 10 8516 0065  [](tel:+86 10 8516 0065)
 
 
 
-<a href="https://www.intercontinental.com/hotels/fr/fr/reservation/" target="_blank">访问网站</a>
+<a href="https://www.ihg.com/intercontinental/hotels/gb/en/beijing/peghe/hoteldetail/dining" target="_blank">访问网站</a>
 
 
 
@@ -698,18 +719,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fcfd8af3747e4d11838106f6090ce051" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7d54d75de89241ec9789300533a220c4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/64319606f625435091dbc0e306ba7a05" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ce77dbdd90b948618487be5d9c99addb" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/11f38010ba7e454891aa67959738bba2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/66dd3d8bbb27455d8d2f8313197b3f6b" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 唐人馆
+## 1996川菜 · 主厨餐厅
 
-  * 东城区大甜水井胡同王府中环商场西座3层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * 朝阳区星火东路将台洼甲4号, Beijing, 中国大陆地区
+  * ¥¥¥ · 川菜 
 
 
 
@@ -717,7 +738,58 @@ author: jiobxn
 
 ###  米其林指南的观点
 
-以高级粤菜馆作招徕，餐室简洁舒适，亦设有多个包厢，适合举办宴请聚餐。厨师团队内多为广东师傅，各式时令炖汤、仅于午市供应的广式点心均不容错过。脆皮妙龄鸽为其中一道招牌菜，其外皮香脆、肉质软嫩、香气四溢，美味非常。如欲品尝海鲜菜式，建议提前预订，以免向隅。
+坐落在竹林掩映的偏僻位置，餐厅外有着一方带着水雾、凉亭、石阶的小庭院，环境清秀雅致。客人将于包间用餐，享用以四川食材烹制的精致川菜。酥皮樟茶鸭为其招牌，厨师将鸭子以果木烤制，再以樟树和茶叶烟熏，香气迷人。宫保大虾带有经典的糊辣荔枝味，也值得一试。采用套餐配菜制，并以手工菜式为主，建议提前与店家沟通。
+
+###  设施与服务
+
+  * JCB 
+  * Maestro 
+  * Visa 
+  * 万事达卡 
+  * 中国银联 
+  * 室外停车场 
+  * 接受信用卡 
+  * 空调 
+  * 美国运通 
+  * 轮椅通道 
+  * 阳台 
+
+
+###  电话
+
++86 135 2150 9321  [](tel:+86 135 2150 9321)
+
+
+
+<a href="http://www.chef1996.com" target="_blank">访问网站</a>
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/66c1810e26844fc7b8ad9fa125536794" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/59667835b8694107a276c4072385aeb7" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ce005c13cc104deba39847039ebdad02" alt="Image 3" style="width: 200px; height: auto;">
+
+</div>
+
+## 唐人馆
+
+  * 东城区王府井大街269号院王府中环1号楼3层307号, Beijing, 中国大陆地区
+  * ¥¥¥ · 粤菜 
+
+
+
+
+
+###  米其林指南的观点
+
+以高级粤菜作招徕，餐室简洁舒适，亦设有多个包厢，适合宴请聚餐。厨师团队内多为广东师傅，各式时令炖汤、仅于午市供应的广式点心均富有水准，不容错过。此外，用上山东大葱调味的脆葱低温慢煮鲍鱼也值得一试。如欲品尝海鲜菜式，建议提前预订，以免向隅。
 
 ###  设施与服务
 
@@ -726,10 +798,62 @@ author: jiobxn
   * 中国银联 
   * 室外停车场 
   * 接受信用卡 
+  * 轮椅通道 
+
 
 ###  电话
 
 +86 10 6528 5125  [](tel:+86 10 6528 5125)
+
+
+
+<a href="http://www.chinatang.com" target="_blank">访问网站</a>
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/33fff3c8c42a457e8bdd5fe9607fad26" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e2ff6ea47d12448b8bc6c68e9edbab78" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/58781a641b854fd1b715614a875fbee9" alt="Image 3" style="width: 200px; height: auto;">
+
+</div>
+
+## 楚膳四季
+
+  * 朝阳区东三环北路7号金茂威斯汀大饭店4层, Beijing, 中国大陆地区
+  * ¥¥¥ · 鄂菜 
+
+
+
+
+
+###  米其林指南的观点
+
+老板和厨师长都是湖北人，使用大量家乡食材，并自行烹制酱料腌菜，以求呈现湘菜原味。菜单中除了当地特色河鲜，亦有传统的爆炒菜肴及炕肉。其中，炕蒸土猪肉做法繁复，兼具肉香米香，入口松脆，不能错过。鲜鱼肚鱼杂、甜品鸽蛋米酒或酸奶冻也值得推荐。菜单顺应节气变化而调整，部分菜肴须提前预订。
+
+###  设施与服务
+
+  * 不接受海外信用卡 
+  * 中国银联 
+  * 室外停车场 
+  * 空调 
+  * 轮椅通道 
+
+
+###  电话
+
++86 10 5922 8546  [](tel:+86 10 5922 8546)
+
+
+
+<a href="http://www.chushansiji.com.cn" target="_blank">访问网站</a>
+
 
 
 
@@ -744,22 +868,18 @@ author: jiobxn
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/72fe30fa00524155b64222fcd47d797f" alt="Image 3" style="width: 200px; height: auto;">
 
-
 </div>
 
 ## 乡味小厨
 
   * 朝阳区朝阳门外大街1号呼家楼京广中心瑰丽酒店3层, Beijing, 中国大陆地区
-  * .¥¥¥ · 京菜 
+  * ¥¥¥ · 京菜 
 
 
 
 
 
 ###  米其林指南的观点
-
-
-一星：优质烹调，不妨一试！
 
 进入餐厅，很快会被开放式厨房的烤鸭区域所吸引，一排排的肥美鸭子，甚为壮观。虽以北方美食和新派京菜为卖点，但主厨每年都会到不同地方游历，因此也提供一些地方菜。招牌菜包括几乎绝迹的北京老菜炉灶肉，和传统北京烤鸭，所用鸭种以板栗饲养，带特殊香气，鸭皮入口即化。靠窗位置可俯览城市景观。
 
@@ -781,13 +901,14 @@ author: jiobxn
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 10 6536 0066  [](tel:+86 10 6536 0066)
 
 
 
-<a href="https://www.rosewoodhotels.com/en/beijing/" target="_blank">访问网站</a>
+<a href="https://www.rosewoodhotels.com/en/beijing" target="_blank">访问网站</a>
 
 
 
@@ -796,18 +917,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/aa2fdacbed144a80be4fbc576a7d2974" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9106ba48094e4144bf8ee4a3bba8f30e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6400bb5c89974e5eb4eed4d3570094a8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8c8598efee584b479f88de4c5581339c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7fa66477b33a4fc99de9b1b6b9e71a21" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ad5a78713ff34f9a8e7163b82bb4cef7" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 曲廊院
 
   * 东城区东四十一条25号, Beijing, 中国大陆地区
-  * .¥¥¥ · 创新菜 
+  * ¥¥¥ · 创新菜 
 
 
 
@@ -820,6 +941,7 @@ author: jiobxn
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -827,10 +949,16 @@ author: jiobxn
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
 +86 10 8403 8229  [](tel:+86 10 8403 8229)
+
+
+
+<a href="http://www.qulangyuan.cn/" target="_blank">访问网站</a>
 
 
 
@@ -851,7 +979,7 @@ author: jiobxn
 ## 美‧大董
 
   * 东城区东四十条甲22号南新仓商务大厦1-2层, Beijing, 中国大陆地区
-  * .¥¥¥ · 时尚中国菜 
+  * ¥¥¥ · 时尚中国菜 
 
 
 
@@ -860,7 +988,7 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 位于明代仓库遗迹南新仓对面，餐厅于2021年重新装修，格调更上一层。菜单亦随着改名加入不少新菜式，当中包括以时令菇菌及海鲜制作的菜品。烤鸭仍然是店内招牌菜，选用22天小雏鸭，搭配厚薄适中的么么皮、京葱、面酱等同吃，十分美味。此外，于席前作最后处理的烧海参也值得品尝。
 
@@ -877,13 +1005,14 @@ author: jiobxn
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 51690328  [](tel:+86 51690328)
 
 
 
-<a href="http://www.dadongdadong.com/" target="_blank">访问网站</a>
+<a href="http://www.dadongdadong.com" target="_blank">访问网站</a>
 
 
 
@@ -892,18 +1021,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/47bb2c60f93c4057aaf0281e3b46c521" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7e04123707cc4c8281471f1758f3e1a1" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b5dd834aafbc489a998e7b6bdbeac042" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/92f971b6be1646dc9488f46b0281426d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/892c67f77ffd4c51890a03ca55f8afcb" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f20115ab5048442095c8637066962278" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 德缘 (大栅栏西街)
+## 新长福
 
-  * 西城区大栅栏西街57号, Beijing, 中国大陆地区
-  * .¥¥ · 京菜, 湘菜 
+  * 西城区车公庄大街21号首创新大都39幢F101-111, Beijing, 中国大陆地区
+  * ¥¥¥ · 湘菜 
 
 
 
@@ -911,16 +1040,25 @@ author: jiobxn
 
 ###  米其林指南的观点
 
-这是德缘的总店，开业已逾二十年。由于大厨是湖南人，菜单上除了京菜还有湘菜，但招牌菜式仍是烤鸭。烤鸭价钱相宜而且分量不少，厨师会把鸭分成三碟，分别是鸭皮、鸭肉、皮连肉，三种吃法呈现不同口感，加上手工制作的么么皮和少见的蒜辣酱，让食客自行搭配，更可以加点鸭汤。八位或以上方可订座。
+新长福为湖南的知名湘菜菜馆，这家是在北京的首家门店，厨师皆来自当地。推荐长沙肉炒肉，以上乘的猪里脊肉和猪油渣同爆炒，油香四溢，更可加入应季菌菇，配饭一流。从湖南常德空运而来的新鲜黄鳝品质绝佳，建议以地道的黄焖做法烹煮，能尝到鳝鱼本身的鲜甜。品牌于湖南自设工厂生产腊味，品种多样，不妨选点一二。
 
 ###  设施与服务
 
-  * 不接受海外信用卡 
-  * 空调 
+  * Visa 
+  * 万事达卡 
+  * 中国银联 
+  * 室外停车场 
+  * 接受信用卡 
+  * 轮椅通道 
+
 
 ###  电话
 
-+86 10 6308 5371  [](tel:+86 10 6308 5371)
++86 10 6831 0256  [](tel:+86 10 6831 0256)
+
+
+
+<a href="http://www.china-xcf.com" target="_blank">访问网站</a>
 
 
 
@@ -929,18 +1067,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/992b87aa9ac843b7a9c6790f5ad000dd" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d847299f594343e3a2183277f5b3cbb7" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9518e6873c62441fbc8510d1032780f4" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e3cec82dd3d34e9b891d42b0cfa1786d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4d701c231d794b11b93577ac3da717d0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fb638159192343feb1eb14addbd5f74f" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 锦庭
+## 晶采轩
 
-  * 朝阳区建国门外大街2号柏悦酒店63层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * 朝阳区景辉街31号三星大厦4层, Beijing, 中国大陆地区
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -948,29 +1086,21 @@ author: jiobxn
 
 ###  米其林指南的观点
 
-英文名字为“Dining
-Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室环境优雅，被落地玻璃环抱，可饱览北京市的迷人景色。厨师长拥有丰富经验，除了供应多款粤式佳肴，也不时更换不同地方菜式，甚至加入东南亚口味，照顾客人的多元需求。不妨试试南方石锅小炒以及北京烤鸭。
+空间注入长城和中国红的设计元素，大气而华丽。菜单以粤菜为基础，也不乏江浙菜式，黑毛猪、走地鸡等原材均来自集团设于上海的生态农场。推荐以黑毛猪烹制的晶采酱香肉，采用传统上海酱油肉的做法，酒香浓郁，咸甜适口。白切走地鸡肉质清甜，鸡皮油亮爽滑，十分美味。设有多个包间，可请经理预先排菜。
 
 ###  设施与服务
 
-  * JCB 
-  * Maestro 
   * Visa 
   * 万事达卡 
-  * 上佳景观 
   * 中国银联 
-  * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
-+86 10 8567 1795  [](tel:+86 10 8567 1795)
-
-
-
-<a href="https://www.hyatt.com/en-US/hotel/china/park-hyatt-beijing/beiph?src=vanity_parkhyattbeijing.com/" target="_blank">访问网站</a>
++86 10 6357 7779  [](tel:+86 10 6357 7779)
 
 
 
@@ -979,18 +1109,18 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a2cbf11a634a46bebd5fa06562e7f193" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/39f4e65c37304ef99c48347be9b8af90" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8236fc87fe8c489ab0cb808ae0fe9371" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b70c5e06040f4f3a87e6d5a509867bf3" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d5b2359a97484c0b9c02c49a8ddecef6" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 老北京炸酱面大王 (东兴隆街)
 
   * 东城区东兴隆街56号, Beijing, 中国大陆地区
-  * .¥ · 京菜 
+  * ¥ · 京菜 
 
 
 
@@ -1004,6 +1134,8 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
   * 只接受现金 
   * 空调 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -1018,9 +1150,9 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b6d968aeaf8a458bb234ffb10a724692" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/169a788f527b468fafcfcf75d96039cc" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/85635f0a588541b0a66afccb6f9a4170" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/46dcbda73410468c843941972cac8e53" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1028,7 +1160,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ## 富临饭店
 
   * 东城区王府井大街2号睿世酒店2层, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 粤菜 
+  * ¥¥¥¥ · 粤菜 
 
 
 
@@ -1037,26 +1169,28 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 于2022年初开业，为香港富临饭店于北京开设的首间分店。设计富丽堂皇，充满气派，适合商务宴请。主厨经验丰富，菜单与香港店大致相同。不少招牌菜式均在列上，如味道鲜甜、口感嫩滑的珊瑚鸽蛋龙虾球，以及用料丰富、镬气十足的富临炒饭。鲍鱼为镇店之宝，选择多样，不容错过。
 
 ###  设施与服务
 
   * Visa 
+  * 万事达卡 
   * 中国银联 
   * 供应优质餐酒 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
-+86 10 8555 3679  [](tel:+86 10 8555 3679)
++86 152 1008 2027  [](tel:+86 152 1008 2027)
 
 
 
-<a href="http://www.forumrestaurant1977.com/" target="_blank">访问网站</a>
+<a href="http://www.forumrestaurant1977.com" target="_blank">访问网站</a>
 
 
 
@@ -1065,11 +1199,11 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/723dbbb901ff4bd4a20b51da4e395d08" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4da6d111dd274f34bc356dea0dc0c6e9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b786f77c3a774b0eb5ac67dfb3903440" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/33b353ddd39b41ff8ff6cedae6316fe7" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0ab884028eac4d088ea57a776588f125" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1077,7 +1211,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ## 富春居
 
   * 东城区王府井大街1号璞瑄酒店3层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -1086,9 +1220,9 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-由德国顶尖建筑设计师奥雷．舍人设计，采用琥珀玻璃、精巧木器和石雕，抬头可见天井形灯饰。每一桌都是一个独立的圆形空间，只留一处开口上菜，既舒适又具隐私。厨师来自香港，拥有多年粤菜经验，功夫稳札。菜单设有多款单人分量菜式，点菜更具弹性。招牌乳鸽广受食客欢迎，建议提前预订。
+由德国顶尖建筑设计师奥雷．舍人设计，采用琥珀玻璃、精巧木器和石雕，抬头可见天井形灯饰。每一桌都是一个独立的圆形空间，只留一处开口上菜，既舒适又具隐私。厨师来自香港，拥有多年粤菜经验，功夫稳札。菜单设有多款单人分量菜式，点菜更具弹性。招牌乳鸽皮脆肉嫩且多汁，建议提前预订。
 
 ###  设施与服务
 
@@ -1103,6 +1237,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
   * 美国运通 
   * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -1119,18 +1254,19 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4059961f38a44a0b8c732f51ac26c40a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9c91e016836b467e9d3e29646685c872" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0b4438fd87b34b44b244bc0951d415e4" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7ca3201335fb4852bfd1c6658114dafb" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/43288911a6b74c43b639531402e0d92a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d47d817d2461417689d668a31a6a737b" alt="Image 3" style="width: 200px; height: auto;">
+
 
 </div>
 
-## 孚道
+## 闽中闽 (东三环北路)
 
-  * 朝阳区和平里西街3号易亨‧东道产业园东道设计B座, Beijing, 中国大陆地区
-  * .¥¥¥ · 时尚欧陆菜 
+  * 朝阳区东三环北路甲26號凱德星貿商業110-111号, Beijing, 中国大陆地区
+  * ¥¥ · 闽菜 
 
 
 
@@ -1138,25 +1274,20 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 ###  米其林指南的观点
 
-这里曾是美术馆，被改为餐厅后仍然保留艺术气息，到处摆放着画作和雕塑，室外则有悠闲露天座位。单点菜单丰富，包括各式时尚欧陆菜，并以法国和意大利菜为主。牛蛙腿配蒜香牛乳糖肉质爽嫩，甜味之中带点蒜香，充满特色。香草布雷搭配青苹果冰霜和味道酸甜的洛神花酱，令人一试难忘。
+
+必比登推介：具素质且经济实惠的美食
+
+门头挂着的小金鸭，像是昭告姜母鸭是其招牌菜。菜单主打古早情怀的福建乡土菜和闽南小吃，厨师团队及海鲜食材大都来自厦门，还原传统的福建味道。其姜母鸭遵循家族的老食谱制作，层次和味道丰富。另一看家菜红蟳米糕则蟹膏饱满，蟹肉清甜。甜品芋泥芋香十足，质地软绵细腻，同样值得一试。
 
 ###  设施与服务
 
-  * JCB 
-  * Maestro 
-  * Visa 
-  * 万事达卡 
-  * 不接受海外信用卡 
-  * 中国银联 
-  * 大来卡 (Diners Club) 
-  * 室外停车场 
+  * 只接受现金 
   * 空调 
-  * 美国运通 
-  * 阳台 
+
 
 ###  电话
 
-+86 135 0112 6352  [](tel:+86 135 0112 6352)
++86 185 1304 0592  [](tel:+86 185 1304 0592)
 
 
 
@@ -1176,7 +1307,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ## 福满圆 (新源里)
 
   * 朝阳区新东路新源里16号琨莎中心2座1层102号, Beijing, 中国大陆地区
-  * .¥¥ · 京菜 
+  * ¥¥ · 京菜 
 
 
 
@@ -1191,6 +1322,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
   * 不接受海外信用卡 
   * 室外停车场 
   * 空调 
+
 
 ###  电话
 
@@ -1215,7 +1347,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ## 芙蓉无双
 
   * 西城区金融大街丙9号威斯汀酒店1层, Beijing, 中国大陆地区
-  * .¥¥¥ · 湘菜 
+  * ¥¥¥ · 湘菜 
 
 
 
@@ -1224,7 +1356,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 新荣记集团于2020年开创的湘菜品牌，“芙蓉”为湖南省花，“无双”则代表餐厅对独一无二的追求。厨师团队由湖南主厨领军，多款招牌菜甚具水准：酸萝卜煲鲜牛肝菌猪肚汤采用炭火新鲜熬煮，剁椒蒸千岛湖大鱼头咸香鲜辣，两者均须提前预留。不少菜式设有小分量选择，让客人有机会品尝更多美食。  
 
@@ -1240,6 +1372,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
   * 接受信用卡 
   * 空调 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -1258,12 +1391,13 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7431499f21c8405db930baac72373627" alt="Image 3" style="width: 200px; height: auto;">
 
+
 </div>
 
 ## 迦达花园
 
   * 朝阳区建国门外大街1号中国大饭店3层, Beijing, 中国大陆地区
-  * .¥¥¥ · 意大利菜 
+  * ¥¥¥¥ · 意大利菜 
 
 
 
@@ -1271,18 +1405,27 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 ###  米其林指南的观点
 
+
+一星：高品质烹饪
+
 由时装品牌开设，室内设计贯彻品牌形象，优雅非常，且设绿意洋溢的户外座位。菜单满载意国经典美食，如适合分享的米兰小牛排。自制的意大利面和品项丰富的面包同样不容错过。如欲有完整的用餐体验，建议点选套餐，尽尝各式菜肴。杯装葡萄酒选择丰富，囊括意大利不同地区的佳酿。
 
 ###  设施与服务
 
+  * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
+  * 代客泊车 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -1295,11 +1438,11 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bcfbaf6391a9426ab742dba6f0188e2d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/83ec74f56a0e45bbabc6714fb6cf035d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ad29f501d4b845e3a47b89c41ca794ad" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d4d4a0dbc7f847d28fcf3de9f8521963" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/536b63efb38a48279f7618ff2cfc381c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e888800fade74f77bf4fcec628a143fa" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1307,7 +1450,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ## 功德林
 
   * 东城区前门东大街2号, Beijing, 中国大陆地区
-  * .¥¥ · 素食 
+  * ¥¥ · 素食 
 
 
 
@@ -1323,9 +1466,11 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ###  设施与服务
 
   * Visa 
-  * 万事达卡 
+  * 中国银联 
   * 接受信用卡 
   * 空调 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -1333,23 +1478,25 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 
 
+
+
 ----
 ----
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ca6eba571cab41019981510afce1ec25" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/67fe5e3509444015825633df708ed996" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/45a2e3b9033644bdb09524399f52eea0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/89c0b8830d7c4174b78bd78dfd087856" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2e215b9c829e495e90e8151e5213eed8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a44dadd0a5244651a940937f1aa98d77" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 国贸79
+## 西院·东
 
-  * 朝阳区建国门外大街1号国贸大酒店79层, Beijing, 中国大陆地区
-  * .¥¥¥ · 时尚欧陆菜 
+  * 海淀区中关村南大街1号66幢1层, Beijing, 中国大陆地区
+  * ¥¥¥ · 京菜 
 
 
 
@@ -1357,24 +1504,23 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 ###  米其林指南的观点
 
-位于国贸大酒店的七十九楼，居高临下，饱览城市的迷人景色，充满浪漫色彩。另外，贵为北京藏酒量最丰富的餐厅之一，巨幅的玻璃酒窖也是一大特色。菜式以欧陆菜为主，加上现代风格，并搜罗了世界顶级的牛排，值得一试。以红色为主调的华丽布置，以及细心的服务，令用餐体验更趋美满。
+老板是艺术收藏家，餐厅各处都有艺术品的踪影。食物风格融合南北特色，除了单点菜单，也可预先订制菜式，所需食材于用餐当天运达，确保最佳质量。选料新鲜上乘，烹饪技巧同样出色，热炒菜式充满镬气，如欲品尝特色或手工菜肴，务必提前查询。若正值菇菌当造的季节到访，建试尝尝螺丝椒炒红葱菌。
 
 ###  设施与服务
 
-  * 上佳景观 
+  * Visa 
+  * 万事达卡 
+  * 不接受海外信用卡 
+  * 中国银联 
   * 供应优质餐酒 
   * 室外停车场 
-  * 接受信用卡 
   * 空调 
-  * 轮椅通道 
+  * 美国运通 
+
 
 ###  电话
 
-+86 10 6505 2299  [](tel:+86 10 6505 2299)
-
-
-
-<a href="https://www.shangri-la.com/beijing/chinaworldsummitwing/dining/restaurants/grill-79/" target="_blank">访问网站</a>
++86 158 0166 5010  [](tel:+86 158 0166 5010)
 
 
 
@@ -1383,18 +1529,18 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9535bf7663214abab825ee73a6688b2e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0f553064511f496db1b5a5f3cc58ab39" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9cb8aca197cc4d11a42ddb0f52835a31" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8ac8859ea9bb4e8caf554f2e549869eb" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c92308a6ef00439693f8f3e98fc93d4f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/80af81a0e76e4d40965c87259f7979d5" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 东煦‧炉端酒场
+## 禾苑 (丰盛胡同)
 
-  * 朝阳区新源街13号, Beijing, 中国大陆地区
-  * .¥¥¥ · 日本菜 
+  * 西城区丰盛胡同20号丰铭国际大厦B座1层, Beijing, 中国大陆地区
+  * ¥¥¥ · 台州菜 
 
 
 
@@ -1402,7 +1548,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 ###  米其林指南的观点
 
-位于安静的街区，内部装潢富日式风格，穿和服的服务员非常亲切，令人放松。餐厅中央设有吧台，层架展示了满满的清酒，可以请侍酒师介绍，以美酒搭配日式炉端烧。推介菜式包括野生甘鲷、鱼子酱鳗鱼白烧、多汁可口的霸王鸡肉串，以及炸割烹活虾紫苏。此外更提供刺身、寿司等。
+作为前里集团的高端品牌，餐室空间具现代感，除了设有酒窖、海味展示间，还有养着活海鲜的鱼缸。主打东海海产和浙江一带的菜肴，同时加入了自家特色元素，例如戚继光烩菜是精细版的传统咸羮，刀板香甲鱼则是安徽腌猪肉蒸湖南放养甲鱼。“味语”套餐选用新鲜时令的食材，价格实惠。葡萄酒选择丰富，值得一试。
 
 ###  设施与服务
 
@@ -1410,16 +1556,16 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
   * Maestro 
   * Visa 
   * 万事达卡 
-  * 不接受海外信用卡 
   * 中国银联 
-  * 大来卡 (Diners Club) 
-  * 柜台式 
+  * 室外停车场 
+  * 接受信用卡 
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
-+86 10 8569 3898  [](tel:+86 10 8569 3898)
++86 83061399  [](tel:+86 83061399)
 
 
 
@@ -1428,18 +1574,18 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/737a10bba4024ef592e8b534f78ab608" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c1bc416536674f2bb2d4cebd58930cd6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1d39a9f8590e45969a35e8704e63b832" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/df8d2f48759c4afd9be1c994f748bf2d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bff174bad0184bf889ee8e6eacb2c3a7" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5d4bc10a42b34a4a9b957f884c3ba0cd" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 泓0871
 
   * 朝阳区双树北路E9区创新工场6号楼, Beijing, 中国大陆地区
-  * .¥¥ · 滇菜 
+  * ¥¥ · 滇菜 
 
 
 
@@ -1451,10 +1597,12 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 ###  设施与服务
 
-  * 不接受海外信用卡 
   * 中国银联 
   * 室外停车场 
+  * 接受信用卡 
   * 空调 
+  * 美国运通 
+
 
 ###  电话
 
@@ -1467,9 +1615,9 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1dec3ea1850440cd9067d9e35f5ff795" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/70b03050179c493bbc63c1289ad37933" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7c29159fa36f45bd877988e37ec7a807" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/977493c757344655ae189dc15d748f81" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -1478,7 +1626,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ## 海天阁
 
   * 朝阳区光华路1号嘉里大酒店1层, Beijing, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -1491,6 +1639,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -1498,8 +1647,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
   * 室外停车场 
   * 接受信用卡 
   * 空调 
-  * 美国运通 
-  * 轮椅通道 
+
 
 ###  电话
 
@@ -1507,7 +1655,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 
 
-<a href="https://www.shangri-la.com/beijing/kerry/" target="_blank">访问网站</a>
+<a href="https://www.shangri-la.com/beijing/kerry/dining/restaurants/the-horizon/" target="_blank">访问网站</a>
 
 
 
@@ -1525,10 +1673,10 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 </div>
 
-## 淮扬府
+## 淮扬府 (东城)
 
   * 东城区安定门外大街198号, Beijing, 中国大陆地区
-  * .¥¥ · 淮扬菜 
+  * ¥¥ · 淮扬菜 
 
 
 
@@ -1537,7 +1685,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 为了让客人在北京也能体验江南风情，餐厅以砖墙青瓦作装潢，一隅的园林山水更尽显高雅格调。翻新后设有卡座，比从前更加舒适。菜式方面，供应多款经典淮扬菜：清汤松茸菊花豆腐、扬州大煮干丝、老上海熏鱼、秘制红烧肉等都深受食客欢迎。而在时令菜式中，雪菜水晶黄鱼冻卖相精致，鲜味突出，不妨一试。
 
@@ -1550,6 +1698,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 10 6426 5959  [](tel:+86 10 6426 5959)
@@ -1561,18 +1710,18 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/78a8cf4a3c904254b2a351ed83eb76be" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/13948e68fc3a47f9a46112dbe847a489" alt="Image 3" style="width: 200px; height: auto;">
+
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/04877df184b146fb919b84797067b1cd" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e89dbe944d844c8da17b3043a96d04e6" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cdaa5ef48f644f75aa4d528738864aaf" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 凰庭
 
   * 东城区王府井金鱼胡同8号王府半岛酒店B2层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -1580,7 +1729,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 ###  米其林指南的观点
 
-装潢灵感来自中式庭院，古色古香，配合传统茶文化主题，入口处设有茶室。供应经典粤菜，烧味和点心均由广东师傅主理；来自上海的行政主厨则为菜肴添上江南特色。推荐松露脆皮鸡：选用广东湛江鸡制作，鸡内酿有黑松露与肉末，厨师会在席前片皮，并将手撕鸡肉混以溢出的黑松露汁，香气馥郁，值得品尝。
+装潢灵感来自中式庭院，古色古香，配合传统茶文化主题，入口处设有茶室。供应经典粤菜，烧味和点心均由广东师傅主理。推荐松露脆皮鸡：选用广东湛江鸡制作，鸡内酿有黑松露与肉末，厨师会在席前片皮，并将手撕鸡肉混以溢出的黑松露汁，香气馥郁，值得品尝。
 
 ###  设施与服务
 
@@ -1595,13 +1744,16 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
   * 空调 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 8516 2888  [](tel:+86 10 8516 2888)
 
 
 
-<a href="https://www.peninsula.com/en/beijing/5-star-luxury-hotel-wangfujing/" target="_blank">访问网站</a>
+<a href="http://peninsula.com/en/beijing/hotel-fine-dining/huang-ting-chinese-restaurant" target="_blank">访问网站</a>
+
+
 
 
 
@@ -1610,11 +1762,11 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5110bb4efd5547e88feac61aefab57d6" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a395d73ce3374d02aa6a703b8655308d" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/334207aa561a4664862cb3ae7484bc99" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1576fd007a0e42ab8be132e3b1168c43" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7a5d07bace304503b7d51de14a744394" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1622,7 +1774,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ## Il Ristorante - Niko Romito
 
   * 朝阳区新源南路8号院2号楼宝格丽酒店1层, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 意大利菜 
+  * ¥¥¥¥ · 意大利菜 
 
 
 
@@ -1631,7 +1783,7 @@ Room”，营造舒适气氛，让食客就像在家中用餐般自在。餐室�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 位于时尚的宝格丽酒店，室內玻璃吊灯型格漂亮，配衬意大利大理石装潢，空间偌大又明亮，并可以欣赏酒店的园林景色。由来自米兰的厨师Niko
 Romito监督，为传统意大利菜注入现代元素，提升口味的深度和精细度。菜单按季节更新，套餐更会每月变换菜式。酒单选择丰富，以意大利佳酿搭配美食，可谓相得益彰。
@@ -1650,13 +1802,14 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 10 8555 8555  [](tel:+86 10 8555 8555)
 
 
 
-<a href="https://www.bulgarihotels.com/beijing/" target="_blank">访问网站</a>
+<a href="https://www.bulgarihotels.com/beijing" target="_blank">访问网站</a>
 
 
 
@@ -1677,7 +1830,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ## 湘爱 (工体东路)
 
   * 朝阳区工人体育场东路工人体育场东2门旁, Beijing, 中国大陆地区
-  * .¥¥¥ · 湘菜 
+  * ¥¥¥ · 湘菜 
 
 
 
@@ -1686,7 +1839,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 环境充满时尚感，更设有户外用餐区，可欣赏湖景。厨师来自湖南，在湘菜重油重辣的传统基础上，融入了很多创新想法。而且大部分食材均由湖南运送到店，包括招牌菜双椒蒸千岛湖鱼头，肉质鲜美、入口爽滑。菜单每季更新，并定期推出时令菜式。由于鱼头等菜式准备需时，建议于订座时预留。
 
@@ -1702,6 +1855,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
   * 空调 
   * 美国运通 
   * 阳台 
+
 
 ###  电话
 
@@ -1722,10 +1876,10 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 </div>
 
-## 禾家
+## 禾家 (朝阳)
 
   * 朝阳区将台路甲2号诺金酒店1层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -1748,13 +1902,14 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 5926 8281  [](tel:+86 10 5926 8281)
 
 
 
-<a href="https://www.nuohotel.com/en/" target="_blank">访问网站</a>
+<a href="https://www.nuohotel.com/en/beijing/beijing-jiangtai/restaurants/jia/" target="_blank">访问网站</a>
 
 
 
@@ -1763,11 +1918,55 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e9bc66f01cc346feb3622a57c98f9929" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/157fd50acbf146c782846371f2004115" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b9c49890f06142769cadc9715d076257" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ce7106de16474563a1c7c2c9ed8a25ed" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f4dafde67c554c4db9b639eca3c8edad" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/13ceefd85ac644779f6e5241a385de5e" alt="Image 3" style="width: 200px; height: auto;">
+
+</div>
+
+## 寂川
+
+  * 朝阳区西大望路甲2号亚朵酒店1层, Beijing, 中国大陆地区
+  * ¥¥ · 川菜 
+
+
+
+
+
+###  米其林指南的观点
+
+寂川以麻辣口味的渝派川菜为核心，大量采用来自四川及重庆的食材，同时加入创新元素。推介凉菜泡椒桃仁，微酸带甜，让人胃口大开。招牌菜三两雪花牛肉麻婆豆腐，其盐卤豆腐豆香浓郁，牛肉则丰富了口感。最后不妨以加入水果、酒酿、红豆等配料的手工冰粉缓解辛辣。同时备有多款酒品，适合三五知己轻松相聚。
+
+###  设施与服务
+
+  * JCB 
+  * Visa 
+  * 万事达卡 
+  * 中国银联 
+  * 大来卡 (Diners Club) 
+  * 接受信用卡 
+  * 空调 
+  * 美国运通 
+
+
+###  电话
+
++86 10 5339 5553  [](tel:+86 10 5339 5553)
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/574184a72ba94b6898971b201d8fda2b" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b5ff25b67e7e41e89a9fc9d19fd4aad1" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8ef7f3b441da4509b666584ef35bcc82" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1775,7 +1974,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ## Jing
 
   * 东城区金鱼胡同8号王府半岛酒店B1层, Beijing, 中国大陆地区
-  * .¥¥¥ · 时尚法国菜 
+  * ¥¥¥ · 时尚法国菜 
 
 
 
@@ -1784,7 +1983,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 走进这家地下楼层的餐厅，会立即被其型格酒吧、刺绣屏风及艺术品吸引。新任法国主厨曾于欧洲多间著名餐厅工作，善用纽西兰野生螯虾、羔羊排等优质食材创作菜式，在传统法国料理中增添个人色彩。如52度低温鸡蛋，配上马铃薯泡沫和白松露，芳香味美。设有需预订的主厨餐桌，能与主厨作深入交流。
 
@@ -1800,43 +1999,16 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
   * 空调 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 8516 2888  [](tel:+86 10 8516 2888)
 
 
 
-<a href="https://www.peninsula.com/en/beijing/5-star-luxury-hotel-wangfujing/" target="_blank">访问网站</a>
+<a href="https://www.peninsula.com/en/beijing/5-star-luxury-hotel-wangfujing" target="_blank">访问网站</a>
 
-营业时间
 
-周一
-
-----:00-22:00
-
-周二
-
-----:00-22:00
-
-周三
-
-----:00-22:00
-
-周四
-
-----:00-22:00
-
-周五
-
-----:00-22:00
-
-周六
-
-----:00-22:00
-
-周日
-
-----:00-22:00
 
 
 
@@ -1847,9 +2019,9 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/08a9b1fd255348b4bd9ac593588d4a9c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/185c63b76dd940b8a3154019c1f282da" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/176fdd8d04f6445a9d5a306f1b7536ab" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a2e273a745594ea79e9d7cb43dea994f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7a71a18cff78499b898457ae6f6b47a8" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1857,7 +2029,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ## 京季
 
   * 朝阳区建国路甲83号丽思卡尔顿酒店2层, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 京菜 
+  * ¥¥¥¥ · 京菜 
 
 
 
@@ -1866,9 +2038,9 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
-餐厅名字的“京”代表北京，“季”是北京市花月季。采用海产、应季蔬菜、菌类等新鲜材料，同时集合各个菜系的精髓，炮制出传统官府菜。除了使用高级食材的炖品，建议品尝独家菜式沙蒜麻婆豆腐，以及充满儿时回忆的风干羊肉老北京炒饼。餐酒均经精挑细选，且价格相宜。员工热心亲切，令人感到宾至如归。
+“京”代表北京，“季”是北京市花月季。采用海产、应季蔬菜、菌类等新鲜材料，同时集合各个菜系的精髓，炮制出传统官府菜。其中蟹粉扒脆皮花胶选用鸭巴肚，加上甘香的蟹黄和嫩滑的蟹肉，不容错过。另推荐使用高级食材的炖品，以及怀旧的风干羊肉老北京炒饼。宾至如归的服务令人难忘；建议于订座时查询海鲜菜式。
 
 ###  设施与服务
 
@@ -1881,8 +2053,8 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
   * 室外停车场 
   * 接受信用卡 
   * 空调 
-  * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -1897,9 +2069,9 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e3c927ab093a4b35860c5af293fdc637" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9f1425d57e084784888301766b3777d0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/af06927819b64c5ba1dc7ddc9f07e0e3" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/aced87f986e5482b8bb6620ba4314915" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ab0070775a604b6782f52dfd55bb9186" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1907,7 +2079,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ## 京雅堂
 
   * 朝阳区三里屯路11号三里屯太古里北区瑜舍酒店LG层, Beijing, 中国大陆地区
-  * .¥¥¥ · 京菜 
+  * ¥¥¥ · 京菜 
 
 
 
@@ -1916,9 +2088,9 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-有别于三里屯的人声鼎沸，这里气氛沉静、设计优雅。走进室内，立即会被位于两端的酒吧和烤鸭炉吸引视线。厨师精选45天成熟的北京鸭，以枣木熏烤一小时，肉香可口。除了烤鸭和其他京菜，亦提供多款标志性地方美食，包括以新鲜菇菌入馔的菜式、带着淡淡香气的桂花糯米藕等，菜单更会不时更新。
+纵然位于人声鼎沸的三里屯，但餐厅的气氛沉静、设计优雅，甫进室内即被两端的酒吧和烤鸭炉吸引视线。厨师精选四十五天成熟的北京鸭，以枣木熏烤一小时，肉香可口。菜单不时更新，除了京菜，亦提供川味、粤味等标志性地方美食。酒单包含专门搭配烤鸭的葡萄酒，也有以中国茶为基底的特调饮品，创意满满。
 
 ###  设施与服务
 
@@ -1935,6 +2107,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 6410 5230  [](tel:+86 10 6410 5230)
@@ -1950,11 +2123,11 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/58112f5668c349408731444635ed950e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/aa83a87b86684c898e037957915cfd86" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fb78c766a75048d686a49a3bd8a80c88" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fea2e623f3ad40dd83cdd0f1825761f5" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/49964587519748cbb8370dc2fa54e2a3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1bb48c5899ad4f139762186269279e08" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1962,7 +2135,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ## 京艳•翰林书院
 
   * 东城区箭厂胡同22号, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 京菜 
+  * ¥¥¥¥ · 京菜 
 
 
 
@@ -1971,9 +2144,9 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-餐厅所在的三进式四合院为歴史建筑，环境优美。菜单提供多样的京菜：传统枣木烤鸭皮给烤得酥脆、香浓可口，可选择一鸭三吃或传统片皮吃法；煲仔饭采用黑龙江的五常大米，依时令调整食材，并在席前为客人准备，风味十足；京式酱汤金沙参也值得一试。备有杯装葡萄酒或黄酒供佐餐。
+餐厅所在的三进式四合院为历史建筑，环境优美，主餐室的层高阔绰，甚具气派。菜单提供多样的京菜：传统枣木烤鸭皮给烤得酥脆、香浓可口，可选择一鸭三吃或传统片皮吃法；煲仔饭采用黑龙江的五常大米，依时令调整食材，并在席前为客人准备，风味十足；京式酱汤金沙参也值得一试。
 
 ###  设施与服务
 
@@ -1990,6 +2163,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 10 8663 2999  [](tel:+86 10 8663 2999)
@@ -2001,11 +2175,11 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b374c50b72334d43b974ae4780e49400" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/185579f04c99409e8ba379522403fc73" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c2ff6f50828f41558fb6ad6809bd8c04" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/171e063c834c40a298bf38bb570e8c01" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/13fb4971b04440828045c186cdfea8f5" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f1c3afe247d47b3a15c785f455261bb" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -2013,7 +2187,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 ## 静一 (西城)
 
   * 西城区琉璃厂东街2号, Beijing, 中国大陆地区
-  * .¥ · 鄂菜 
+  * ¥ · 鄂菜 
 
 
 
@@ -2030,6 +2204,7 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
   * 只接受现金 
   * 空调 
+
 
 ###  电话
 
@@ -2052,8 +2227,8 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 ## 老干杯 (东城)
 
-  * 东城区王府井大街269号王府中环西座4层406号, Beijing, 中国大陆地区
-  * .¥¥¥ · 烧烤 
+  * 东城区王府井大街269号王府中环西座4层406号铺, Beijing, 中国大陆地区
+  * ¥¥¥ · 烧烤 
 
 
 
@@ -2061,11 +2236,10 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 ###  米其林指南的观点
 
-来自台湾的日式烧肉品牌，以自家农场饲养的澳大利亚和牛为主角，由厨师进行熟成过程。每天都有不同菜单，另有当季新菜，特别推荐和牛板腱肉以及羽下肉。专业的服务员除了介绍菜式，也会替客人烤肉。备有满柜的日式清酒，当中更有独家代理的品牌，佐餐享用一流。包厢可看到故宫美景，是聚餐的绝佳场所。
+来自台湾的日式烧肉品牌，主打自家农场养殖的澳大利亚和牛，并由厨师进行熟成。每天都有不同菜单，另有当季新菜，特别推荐和牛板腱肉及羽下肉。服务员除了会替客人烧烤食物外，还会建议酱料搭配，以达到最佳味道。备有满柜的日式清酒，当中更有独家代理的品牌。包厢坐拥故宫美景，是聚餐的绝佳场所。
 
 ###  设施与服务
 
-  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -2073,11 +2247,12 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
   * 接受信用卡 
   * 柜台式 
   * 空调 
-  * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
-+86 10 6526 3699  [](tel:+86 10 6526 3699)
++86 173 1039 7720  [](tel:+86 173 1039 7720)
 
 
 
@@ -2086,52 +2261,9 @@ Romito监督，为传统意大利菜注入现代元素，提升口味的深度�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/14d21814f9f347688ff48a02beedea2f" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/258918c7374246d1aeed9c2c3c985fb2" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ac9f900f6d6e42eea035cb9844889107" alt="Image 3" style="width: 200px; height: auto;">
-
-
-</div>
-
-## 摩登泰 (朝阳)
-
-  * 朝阳区朝阳北路101号朝阳大悦城6层25号, Beijing, 中国大陆地区
-  * .¥¥ · 泰国菜 
-
-
-
-
-
-###  米其林指南的观点
-
-
-必比登推介：具素质且经济实惠的美食
-
-英文名字取材于泰国岛屿神木岛，内部装潢、餐具等也都色彩缤纷，营造出东南亚的梦幻风光。食物由经验丰富的泰国主厨负责，可品尝她为泰国皇室亲自研发、共六道菜的皇家花宴，每款均精致味美，但只供两位起享用。另外推荐惹味的冬阴功海鲜汤和青咖哩鸡肉，最后以香浓幼滑的黄金猫山提拉米苏作结。
-
-###  设施与服务
-
-  * 万事达卡 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-
-###  电话
-
-+86 10 8585 6636  [](tel:+86 10 8585 6636)
-
-
-
-----
-----
-
-<div style="display:flex;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5832e3e28f0b4ebcbc8459518017dde8" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1a95e7f7baff4811a672aa337cc0a16c" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0b633b28b0234d1a93258cb49f7f0632" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ff032e8012ae488c9572ab1e42fb2e52" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -2142,7 +2274,7 @@ durable-da572d846714b6dc47b903cc42ee4899.svg)
 ## 京兆尹
 
   * 东城区五道营胡同2号, Beijing, 中国大陆地区
-  * .¥¥¥ · 素食 
+  * ¥¥¥ · 素食 
 
 
 
@@ -2151,7 +2283,7 @@ durable-da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-三星：卓越的烹调，值得专程到访。
+三星：卓越烹饪
 
 位于富历史的四合院内，玻璃天花令餐室额外开扬。现场设竖琴演奏，气氛平静优雅。主厨对食材要求极高，每天自本地农场购入有机蔬菜，制作成精致佳肴。仅提供套餐：珍味．经典套膳包含餐厅多道招牌菜式；另有根据二十四节气设计和更换的套餐，不断为客人带来源源新鲜感。
 
@@ -2185,6 +2317,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 10 8404 9191  [](tel:+86 10 8404 9191)
@@ -2196,19 +2329,19 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a8e2c75ab1b544d2b0ec542927c095c3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f0c3c216ac2e45159a0e2bfb9d6dbf7f" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/12fe1c46bb874dd5ae6529e2ac8203ff" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2bf9d24e93154a19acc76ff83c66f45c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/29bbce8340ee4e638e7a500f03526d00" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/00d0242e4b2548ee904601b7561688ce" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
 
-## 柴氏风味斋 (海淀)
+## 柴氏风味斋
 
   * 海淀区甘家口北街甘家口小区21号楼, Beijing, 中国大陆地区
-  * .¥ · 面食 
+  * ¥ · 面食 
 
 
 
@@ -2219,7 +2352,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 必比登推介：具素质且经济实惠的美食
 
-这家清真牛肉面店以酱牛肉驰名，其秘方由东主的父亲于1920年所创。繁忙时段一桌难求，而且几乎必须拼桌。找到位置后服务员会递上菜单，自行填写后交回并付款，再凭票到切牛肉的柜台领取食物。酱牛肉味道浓郁，香味四溢，更可选择肥瘦程度，一般人半斤已足够。另可搭配蓑衣黄瓜等凉菜。
+这家清真牛肉面店以酱牛肉驰名，其秘方由东主的父亲于1920年所创。酱牛肉味道浓郁，香味四溢，按重量下单，一般人半斤已足够，也可选择其肥瘦程度。搭配的素面备有两个分量，面条软硬适中且带嚼劲，配上香浓的老汤，十分可口。另可佐以蓑衣黄瓜等凉菜。食客须自行到柜台领取酱牛肉，繁忙时段一位难求，几乎都要拼桌。
 
 ###  设施与服务
 
@@ -2227,9 +2360,56 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 室外停车场 
   * 空调 
 
+
 ###  电话
 
 +86 10 8838 5108  [](tel:+86 10 8838 5108)
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e78d33af79fe477fb9da544cd3506cff" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/41747e01d0cd4ea891d6487723e59a3e" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/afc94cc497f04b52842d062ad976adfc" alt="Image 3" style="width: 200px; height: auto;">
+
+
+</div>
+
+## 兰斋
+
+  * 朝阳区工体北路四号院14幢1层04室, Beijing, 中国大陆地区
+  * ¥¥¥¥ · 素食 
+
+
+
+
+
+###  米其林指南的观点
+
+
+一星：高品质烹饪
+
+三角形屋顶用上透光玻璃，空间明亮舒适，并设可供用餐的阳台。主厨曾于知名素食餐厅工作，对烹调精致素食充满经验，采用时令蔬食，制作出四季变更的套餐。招牌豆腐以松茸和海带苗浸泡两小时，再加入自家酿制的酱油，味道丰富。提供两款餐酒搭配，包含与酒庄合作定制的酒款，和以五常大米制成的黄酒。
+
+###  设施与服务
+
+  * 不接受海外信用卡 
+  * 中国银联 
+  * 供应优质餐酒 
+  * 供应素食菜单 
+  * 空调 
+  * 阳台 
+
+
+###  电话
+
++86 10 8597 8888  [](tel:+86 10 8597 8888)
 
 
 
@@ -2250,7 +2430,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 老川办
 
   * 东城区东总布胡同贡院头条5号, Beijing, 中国大陆地区
-  * .¥¥ · 川菜 
+  * ¥¥ · 川菜 
 
 
 
@@ -2269,6 +2449,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 室外停车场 
   * 空调 
 
+
 ###  电话
 
 +86 138 1149 3707  [](tel:+86 138 1149 3707)
@@ -2280,19 +2461,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4b0186b24f6e4cc79843304b9b255259" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5b3fc6fcea48486d9daddfdd7e4fc0a6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2aca6c5910af488aa8dedfeedcbf6aa3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/32d5faef1b834fee854ab50bbd76eed1" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/26945ccbd69447979afcb2827d4542ec" alt="Image 3" style="width: 200px; height: auto;">
-
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9dbc7c311fad4279b41d25719d7e5cc9" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 老吉堂 (工人体育场南路)
+## 腊罗巴
 
-  * 朝阳区工人体育场南路15号, Beijing, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * 海淀区皂君庙路皂君西里7号楼, Beijing, 中国大陆地区
+  * ¥ · 滇菜 
 
 
 
@@ -2300,23 +2480,17 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 ###  米其林指南的观点
 
-
-一星：优质烹调，不妨一试！
-
-偏暗的灯光，加上五颜六色的灯箱和老上海照片，充满昔日风情。食物方面，厨师团队曾于上海老字号食府工作多年，带来口味正宗的沪菜。不要错过招牌菜熟醉蟹，酒味香浓，吃罢齿颊留香。另外，虾仁双拼能一次尝到清炒、油爆两种做法；外婆红烧肉和葱香烤鱼头也值得一试。餐厅经常座无虚席，宜提前订座。
+腊罗巴是云南大理彝族的支系，菜单主打云南少数民族特色菜，大量采用当地的新鲜食材和调味料，室内装潢及员工服饰亦充满民族风情。大理锅巴油粉以手工制作，锅巴绵韧，油粉软糯细腻。白族酸木瓜鱼以糟辣椒和百花木瓜入馔，爽口开胃。店家也提供酥油茶、自酿的糯米酒和梅子酒，甚或米凉虾等特色食品。
 
 ###  设施与服务
 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 室外停车场 
-  * 接受信用卡 
+  * 只接受现金 
   * 空调 
+
 
 ###  电话
 
-+86 10 8561 2685  [](tel:+86 10 8561 2685)
++86 10 6212 0281  [](tel:+86 10 6212 0281)
 
 
 
@@ -2325,18 +2499,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/10f2c4ea23fb4dd9b1dee675c94a7764" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8488e49adae44259ad4ec967c24c8778" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a0b7d94e05024fba92eba52491bd66aa" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/738e81c9d2a8497b81d8080befcaef8e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/38b60cf5efc14d0cb0e7e75b04f34144" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b3ea02473fb8450c8dc68b698aa7311e" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 叶叶菩提 (光华路)
 
   * 朝阳区光华路2号阳光100国际公寓F座202号, Beijing, 中国大陆地区
-  * .¥¥¥ · 素食 
+  * ¥¥¥ · 素食 
 
 
 
@@ -2351,6 +2525,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 不接受海外信用卡 
   * 室外停车场 
   * 空调 
+
 
 ###  电话
 
@@ -2375,7 +2550,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 利苑 (金宝大厦)
 
   * 东城区金宝街89号金宝大厦3层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -2384,7 +2559,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 利苑发迹于香港，以传统粤菜广受欢迎。其红紫相衬的装潢，加上亲切的服务员，令人感到喜气惬意。更重要的是，餐厅对食材十分讲究，甚至自设农场生产，以保持食物鲜度与质量。建议于订座时预留沙发区，并预订皮脆肉嫩的冰烧三层肉。另外，每天不同的汤品及清凉爽口的杨枝甘露也值得一尝。
 
@@ -2398,6 +2573,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -2414,18 +2590,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6b4d5a30ee6c447e98d5d7daa2e26ab9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/112f7d346c91400db39d555ba076451d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3d9b464ea72741749006758c685de052" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/34e6c2cf918c4fa1b408456810ab149e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/56853e7d4bcc4f89a5b3e57ca6de46e4" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/35051296e70040c796f4fdabeb65b19d" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 乐‧墨瑞
 
   * 朝阳区麦子店街37号盛福大厦1层, Beijing, 中国大陆地区
-  * .¥¥¥ · 时尚法国菜 
+  * ¥¥¥ · 时尚法国菜 
 
 
 
@@ -2433,12 +2609,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 ###  米其林指南的观点
 
-这家亮马河畔的餐厅由两位朋友合伙经营，麻雀虽小，却五脏俱全，为客人提供优质的现代法国料理。菜单上有着令人印象深刻的照片，食物也毫不逊色，不仅漂亮得像一幅画，且选料上乘、烹调用心，同样证明了厨师的热情。在享用主菜之余，别忘了预留空间，和亲朋伴侣分享法式甜点国王饼。
+这家位于亮马河畔的餐厅，麻雀虽小却五脏俱全，提供优质的现代法式料理。晚市备有两款套餐，食物不仅漂亮得像一幅画，且选料上乘、烹调用心，足见厨师对料理的热情。享用主菜之余，别忘了预留空间，和亲朋伴侣分享法式甜点国王饼。设有配酒服务，加上优雅的用餐环境，适合庆祝活动。
 
 ###  设施与服务
 
   * JCB 
-  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -2446,6 +2621,8 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+  * 美国运通 
+
 
 ###  电话
 
@@ -2458,11 +2635,51 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/24fee41566d041f89553157b8727d900" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d2f334a094b749c0872cd1bb6e301f37" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3f4867422cb54f81b41c6140649ceb9c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b6c6840b5d0d43e9884813b5023d229b" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1240c7d995d548f08fa222dfafe1aad5" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f4ed7a16099544d9b6dbb33762750dcd" alt="Image 3" style="width: 200px; height: auto;">
+
+</div>
+
+## 乐福
+
+  * 朝阳区东四环中路92号九十二号院A11-1, Beijing, 中国大陆地区
+  * ¥¥¥¥ · 时尚法国菜 
+
+
+
+
+
+###  米其林指南的观点
+
+室内以鲜花及银器点缀，营造舒适自在的用餐氛围。客人到达后，会先在沙发稍作安顿，喝一口香槟才正式入座。套餐采用各种时令食材，并以海鲜为主，也包含主厨钟爱的鸭料理和各种辛香料，通过法式烹饪技巧一一呈现。厨房为半开放式空间，可看到主厨独力准备菜肴的身影。由于只有三桌座位，务必订座。
+
+###  设施与服务
+
+  * Visa 
+  * 中国银联 
+  * 接受信用卡 
+  * 空调 
+
+
+###  电话
+
++86 166 1993 1196  [](tel:+86 166 1993 1196)
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c8baae00c3bb41dda6590d721afcf462" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/25dd22da0edb4f7093f4e6972725609d" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6d60b5d2744c4a60bf19b7db52bceb01" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -2470,7 +2687,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 玲珑
 
   * 朝阳区工人体育场北路2号首北兆龙STEY三里屯酒店3层, Beijing, 中国大陆地区
-  * .¥¥¥ · 创新菜 
+  * ¥¥¥ · 创新菜 
 
 
 
@@ -2479,7 +2696,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 装潢简洁，空间感十足的餐室仅设数张餐桌，建议订座。年轻主厨自14岁起接受厨艺训练，擅长烹调欧陆菜，并着重选用本地食材，菜单上不难看到多款中西融合的创意菜式，例如以产自山东的和牛搭配蚝油的招牌菜蚝与牛。午、晚市提供不同的套餐，但均以时令食材为灵感，且含多种自制的发酵和腌制品。
 
@@ -2495,6 +2712,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -2519,7 +2737,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 柳泉居
 
   * 西城区新街口南大街176号, Beijing, 中国大陆地区
-  * .¥¥ · 鲁菜 
+  * ¥¥ · 鲁菜 
 
 
 
@@ -2537,6 +2755,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 10 8322 7678  [](tel:+86 10 8322 7678)
@@ -2548,11 +2767,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7ca3ee953445402c81d97fcad5e3035c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4c3bb71de0624b8cb3f29f41d04423e6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f2b0e9acaa5140abaa37f4e2a3a6dfbb" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4a318e647055433cae8baa44ce83492e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d8c23fcf92264ed4bad8b40459c04f71" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ce8ea0444a72445c901a5eb74a6ae09f" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -2560,7 +2779,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 鲁上鲁
 
   * 朝阳区景辉街33号院1号楼阳光金融中心2层2A01-2A03/2A05-2A13, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 鲁菜 
+  * ¥¥¥¥ · 鲁菜 
 
 
 
@@ -2569,9 +2788,9 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-与潮上潮属同一集团，但以供应鲁菜为主，菜单包含孔府菜和胶东海产，擅于烹调海参菜式。厨师长来自烟台，对当地食材了如指掌。餐厅每天空运新鲜食材到店，并提前为客人订制菜单。不妨一试其烤鸭鱼子酱山东煎饼，融合了京菜与鲁菜的特色，以煎饼和脆虾片取代传统配料，创新而富巧思。设多个厢房，方便宴请。
+与潮上潮属同一集团，但以供应鲁菜为主，菜单包含孔府菜和胶东海产，精于海参菜式。厨师长来自烟台，对当地食材了如指掌，会提前为客人订制菜单，充分利用每天空运到店的新鲜食材。其中，烤鸭鱼子酱山东煎饼融合京菜与鲁菜的特色，粗粮所制的煎饼口感独特，并以脆虾片取代传统配料，不妨一试。设多个厢房，方便宴请。
 
 ###  设施与服务
 
@@ -2584,6 +2803,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -2608,7 +2828,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 鲁采 (安定路)
 
   * 朝阳区安定路5号院6号楼环宇荟5层, Beijing, 中国大陆地区
-  * .¥¥¥ · 鲁菜 
+  * ¥¥¥ · 鲁菜 
 
 
 
@@ -2617,9 +2837,9 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-餐室宽敞，以竹叶作点缀，石级更刻上诗经句子，增添优雅气息。厨师团队大多祖籍山东，他们采用来自威海的海鲜，炮制多款工序繁复的传统菜式，例如制作过程耗时五天的葱烧威海一头活刺参。另推荐山东特色菜沂蒙六味煎饼，手工饼皮包着丰富的配料，松脆惹味。以驴奶每天鲜制的酸奶也不容错过。
+宽敞的餐室以竹叶作点缀，石级更刻上诗经句子，增添优雅气息。厨师团队大多祖籍山东，采用来自威海的海鲜，炮制多款工序繁复的传统菜式，例如葱烧威海一头活刺参需耗时五天制作。另推荐松脆惹味的沂蒙六味煎饼，以及每天鲜制的酸奶。部分菜式限量供应，建议预订，亦不妨请侍酒师建议佐餐葡萄酒。
 
 ###  设施与服务
 
@@ -2629,6 +2849,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -2641,9 +2862,9 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f49e85aa3c6a496eb10f8a8037ddfdc0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fcf09607092842c8bced30e2311d745e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/493441a84ea94b96b5ffe6df9b8cc0d5" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a28f1795195f41689dd770b2e879b52b" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/14fc657380d04ebcba552322ec018eae" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -2652,7 +2873,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 福楼
 
   * 朝阳区霄云路18号, Beijing, 中国大陆地区
-  * .¥¥¥ · 法国菜 
+  * ¥¥¥ · 法国菜 
 
 
 
@@ -2665,6 +2886,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -2675,6 +2897,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 10 6595 5135  [](tel:+86 10 6595 5135)
@@ -2682,6 +2905,8 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 <a href="https://flo.cn/" target="_blank">访问网站</a>
+
+
 
 
 
@@ -2701,7 +2926,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 文华扒房
 
   * 东城区王府井大街269号王府井文华东方酒店5层, Beijing, 中国大陆地区
-  * .¥¥¥ · 烤肉餐馆 
+  * ¥¥¥¥ · 烤肉餐馆 
 
 
 
@@ -2709,7 +2934,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 ###  米其林指南的观点
 
-皮沙发卡座、抛光的木材建筑、洁白的亚麻桌布，營造出优雅的用餐环境，呈现文华扒房应有的气派。其花园阳台更可饱览紫禁城的壮丽景色。在这里，大家可以品尝到一系列的生蚝、蟹肉饼、烧烤菜式，以及从世界各地搜罗的顶级碳烤牛排。不妨在餐前点选一杯鸡尾酒，并在餐后到阳台享受悠闲时光。
+皮沙发卡座、抛光的木材建筑、洁白的亚麻桌布，营造出优雅的用餐环境，呈现文华扒房应有的气派。其花园阳台更可饱览紫禁城的壮丽景色。菜单上罗列一系列经典扒房菜式，如生蚝、香煎鸭肝、龙虾浓汤、各式烧烤等，当然还有来自美国和澳洲的顶级碳烤牛排。不妨在餐前点选一杯鸡尾酒，并在餐后到阳台享受悠闲时光。
 
 ###  设施与服务
 
@@ -2718,12 +2943,16 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 万事达卡 
   * 上佳景观 
   * 中国银联 
+  * 供应素食菜单 
   * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
+  * 早午拼餐 
   * 空调 
+  * 美国运通 
   * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -2731,7 +2960,47 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="https://www.mandarinoriental.com/beijing/wangfujing/luxury-hotel/" target="_blank">访问网站</a>
+<a href="https://www.mandarinoriental.com/en/beijing/wangfujing/dine/mandarin-grill" target="_blank">访问网站</a>
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0ab9d0fbaa154788b89ad4dc9127faf8" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/577d6f685ff64fe9a832f56f8b07a2b8" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c869062510144c99b9eb7f3468cbdaa6" alt="Image 3" style="width: 200px; height: auto;">
+
+</div>
+
+## 郇厨
+
+  * 东城区前门街道北芦草园胡同85号, Beijing, 中国大陆地区
+  * ¥¥¥¥ · 江浙菜 
+
+
+
+
+
+###  米其林指南的观点
+
+餐厅位于胡同内，保留了四合院的原始外观，内部装饰却充满时尚感。仅供应套餐，主厨根据当日新鲜食材构思菜式，尤以各地的时令海鲜为主。其中选用白蟹烹调的蟹骨酱颇受欢迎；招牌葱油鸡则肉香皮爽，也值得一试。全包间设计，四合院中庭设有户外沙发，提供下午茶，感觉惬意。必须提前订位。
+
+###  设施与服务
+
+  * Visa 
+  * 万事达卡 
+  * 中国银联 
+  * 接受信用卡 
+
+
+###  电话
+
++86 151 9575 0429  [](tel:+86 151 9575 0429)
 
 
 
@@ -2744,15 +3013,14 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/989f8345a6184105bea1d0afd5e3b5d3" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/df4621f553b8445aab7c30ec465a3d24" alt="Image 3" style="width: 200px; height: auto;">
-
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e0f78b71f43642e29e90e89c3c85470b" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Mio
 
   * 朝阳区亮马桥路48号四季酒店3层, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 意大利菜 
+  * ¥¥¥¥ · 意大利菜 
 
 
 
@@ -2760,10 +3028,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 ###  米其林指南的观点
 
-
-一星：优质烹调，不妨一试！
-
-餐室内的镜面天花、玻璃弔灯，加上开放式厨房，营造出时尚氛围。新任意大利主厨以现代烹饪技巧融合其传统家乡菜，并随季节更替菜单，为客人带来耳目一新的佳肴。其中，波士顿龙虾粗管面的面条富有嚼劲，搭配西红柿干和新鲜龙虾肉，可口鲜美。酒吧供应各款意大利主题的鸡尾酒，值得一试。
+餐室内的镜面天花、玻璃吊灯，加上开放式厨房，营造出时尚氛围。意大利主厨以现代烹调技巧融合其传统家乡菜，并随季节更替菜单，为客人带来一系列意式佳肴。其中，波士顿龙虾粗管面的面条富有嚼劲，搭配西红柿干和新鲜龙虾肉，可口鲜美。酒吧供应各款意大利主题的鸡尾酒，值得一试。
 
 ###  设施与服务
 
@@ -2780,6 +3045,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 56958522  [](tel:+86 56958522)
@@ -2795,24 +3061,28 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5c1192ce299641c8aa99aa46a2b10393" alt="Image 3" style="width: 200px; height: auto;">
+
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/dfdb979662be4071b766d36bf616878d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/93fb2d8e096944e09f521fe2831cecd0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/62928d19aaf541e88fda51909286fee6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/53cae6950dfd4d9cbaaecfed7dcb6328" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 茉
 
-  * 朝阳区光华路10号正大中心3层L307, Beijing, 中国大陆地区
-  * .¥¥¥ · 京菜 
+  * 朝阳区金和东路20号正大中心3层L307, Beijing, 中国大陆地区
+  * ¥¥¥ · 京菜 
 
 
 
 
 
 ###  米其林指南的观点
+
+
+一星：高品质烹饪
 
 于2022年初正式开业，为拾久旗下的京菜品牌。装潢富有格调，环境典雅，无论是浪漫约会或亲友小聚，都能让人沉醉其中。供应的是以京菜和鲁菜为基础的创意菜式，卖相精致讲究，尤其推介烤鸭和海参。其中，位上的招牌烤鸭包括了前菜，烤鸭皮酥而充满油香，搭配咸香的鱼子酱进食，美味可口。
 
@@ -2825,10 +3095,60 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
 +86 10 8582 1919  [](tel:+86 10 8582 1919)
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c521e3c247f84806b85f2007e3992318" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/29d396116eb6420f888b1b1f39ba1c69" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c724ca9c8b094a99851dae995c2dce24" alt="Image 3" style="width: 200px; height: auto;">
+
+</div>
+
+## 锦
+
+  * 朝阳区金和东路20号正大中心3层L303, Beijing, 中国大陆地区
+  * ¥¥¥¥ · 日本菜 
+
+
+
+
+
+###  米其林指南的观点
+
+餐厅礼聘主厨Agustin
+Balbi担任顾问，菜式以日式料理为基础，以上佳渔获为菜单设计的重点，且融入欧陆元素。备有四款套餐，并按季节时令更新，十多道菜式让客人品尝到世界各地的顶级食材。设有配酒服务，不妨向侍酒师查询罕有酒款。餐厅除了不同大小的包厢，另设一张能欣赏菜肴准备过程的六人餐桌，建议提早预约。
+
+###  设施与服务
+
+  * JCB 
+  * Visa 
+  * 万事达卡 
+  * 中国银联 
+  * 供应优质餐酒 
+  * 大来卡 (Diners Club) 
+  * 室外停车场 
+  * 接受信用卡 
+  * 柜台式 
+  * 空调 
+  * 美国运通 
+
+
+###  电话
+
++86 65006676  [](tel:+86 65006676)
 
 
 
@@ -2849,7 +3169,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 牛街清真满恒记
 
   * 西城区平安里西大街14号, Beijing, 中国大陆地区
-  * .¥¥ · 火锅 
+  * ¥¥ · 火锅 
 
 
 
@@ -2868,6 +3188,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 中国银联 
   * 空调 
 
+
 ###  电话
 
 +86 10 6612 6825  [](tel:+86 10 6612 6825)
@@ -2881,9 +3202,9 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1f99ba7b9c474316b94065d4efed7638" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4beaeced058a4ab59df7012c272cc597" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d13c47389be0482596917f8411360364" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1bbba167b4774b5097504660af8616a0" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -2891,7 +3212,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 方砖厂69号炸酱面 (方砖厂胡同)
 
   * 东城区方砖厂胡同1号, Beijing, 中国大陆地区
-  * .¥ · 面食 
+  * ¥ · 面食 
 
 
 
@@ -2912,6 +3233,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 只接受现金 
   * 空调 
 
+
 ###  电话
 
 +86 136 9115 0449  [](tel:+86 136 9115 0449)
@@ -2923,11 +3245,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/376e261445844a478ad31dfa9d6de743" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c7cde7b07edf4f49a7387fa3475f7bf4" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c29b56bf64ae4ed7b5099acb3db917ad" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6833a461067147a2bbdead86880cca87" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -2935,7 +3257,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## Opera Bombana
 
   * 朝阳区东大桥路9号桥福芳草地LG2层21号, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 意大利菜 
+  * ¥¥¥¥ · 意大利菜 
 
 
 
@@ -2944,7 +3266,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 餐室内悬挂了多幅著名影星的巨型画像，非常夺目，跟所处的购物中心一样亮丽而富格调。意大利厨师Umberto
 Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，一次尝尽品牌多道精选菜式。新鲜烤制的面包同样美味，不妨外带和亲友分享。酒单选择丰富，提供多款产自皮埃蒙特和托斯卡纳的餐酒。
@@ -2964,43 +3286,16 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 5690 7177  [](tel:+86 10 5690 7177)
 
 
 
-<a href="https://www.ottoemezzobombana.com/" target="_blank">访问网站</a>
+<a href="https://www.ottoemezzobombana.com" target="_blank">访问网站</a>
 
-营业时间
 
-周一
-
-----:30-22:00
-
-周二
-
-----:30-22:00
-
-周三
-
-----:30-22:00
-
-周四
-
-----:30-22:00
-
-周五
-
-----:30-22:00
-
-周六
-
-----:30-22:00
-
-周日
-
-----:30-22:00
 
 
 
@@ -3009,19 +3304,19 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/dc8197d65aae46b2ba3e526f47af99b7" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ad67191659594b769a441d23291ec343" alt="Image 3" style="width: 200px; height: auto;">
+
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ae44bc9dc4554089b62341842dea46b9" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b80066c040f54f739c20fd6637f2d795" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/86df7b580eb8415f86f6ab7ac3a85416" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
 
-## 胖妹面庄 (东城)
+## 胖妹面庄 (香饵胡同)
 
   * 东城区东四北大街69号香饵胡同, Beijing, 中国大陆地区
-  * .¥ · 面食 
+  * ¥ · 面食 
 
 
 
@@ -3035,12 +3330,13 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 小店
 
-本店在重庆，北京只此一家分店。装潢简约舒适，由于不设订座，建议提早前往排队。供应各式重庆面食和小吃。大受欢迎的筋品牛肉面除了可以选择分量，也有四种不同辣度。此外，豌杂面、香脆可口的薄荷酥肉，以及嫩滑的麻辣冒脑花也是不错的选择。最后不妨试试手制的糍粑红糖冰粉，既解辣又清凉。
+本店在重庆，这是在北京的首家分店。装潢简约舒适，由于不设订座，建议提早前往排队。供应各式重庆面食和小吃。大受欢迎的筋品牛肉面除了可以选择分量，也有四种不同辣度。此外，豌杂面、香脆可口的薄荷酥肉，以及嫩滑的麻辣冒脑花也是不错的选择。最后不妨试试手制的糍粑红糖冰粉，既解辣又清凉。
 
 ###  设施与服务
 
   * 只接受现金 
   * 空调 
+
 
 ###  电话
 
@@ -3065,7 +3361,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 拾久 (东三环中路)
 
   * 朝阳区东三环中路61号, Beijing, 中国大陆地区
-  * .¥¥ · 京菜 
+  * ¥¥ · 京菜 
 
 
 
@@ -3074,7 +3370,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 餐厅名字有“拾回久远”的意思，寄意用全新的方式演译京菜。装潢亦同样充满巧思，门外设竹林庭院，室内则饰以当代艺术水墨画。食物价格亲民，招牌菜包括每天限量供应一百份的烧鱼头，及用明火烤制、伴以手制饼皮的烤鸭。甜品方面，桂花山药酪是很好的选择。酒单选择不俗，不妨和三五知己共享。
 
@@ -3087,7 +3383,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 室外停车场 
   * 接受信用卡 
   * 空调 
-  * 美国运通 
+
 
 ###  电话
 
@@ -3100,18 +3396,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cc801b688f484fa79529d4d02c8dea96" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/86e8eb5bb6484c5bb82a53ed0c00edb8" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/045b8a6f681f441db0dcc39082475a1b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0a26a01380f44fd3a19e944b205194fb" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8c496ab0bf7a49eb824c177022e85f4a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c61e13df57624bee96d8102a6199f5db" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 金阁
 
   * 西城区金城坊东街1号金融街丽思卡尔顿酒店2层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -3137,13 +3433,14 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 6629 6999  [](tel:+86 10 6629 6999)
 
 
 
-<a href="https://www.ritzcarlton.com/" target="_blank">访问网站</a>
+<a href="https://www.ritzcarlton.com/en/hotels/bjsfs-the-ritz-carlton-beijing-financial-street/dining/" target="_blank">访问网站</a>
 
 
 
@@ -3163,7 +3460,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 前里
 
   * 朝阳区建国路87号北京SKP 5层D5202, Beijing, 中国大陆地区
-  * .¥¥ · 台州菜 
+  * ¥¥ · 台州菜 
 
 
 
@@ -3175,10 +3472,15 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  设施与服务
 
+  * JCB 
+  * Visa 
+  * 万事达卡 
   * 不接受海外信用卡 
   * 中国银联 
   * 室外停车场 
   * 空调 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -3191,18 +3493,19 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/72a1500039b140d7afacad9f867a634b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b85b3c6823ea474e9e222eb67c446e15" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2742dfa14fd34dbdab355fdd06d1ea73" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/40df8a5b03334be8b66df682927db65e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/be4d2b05ef1a46a48ec9487bafe5de83" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f42dc998b79e4c41a1905332058f3577" alt="Image 3" style="width: 200px; height: auto;">
+
 
 </div>
 
-## 全聚德 (前门大街)
+## 钱塘花园
 
-  * 东城区前门大街30号, Beijing, 中国大陆地区
-  * .¥¥ · 京菜 
+  * 海淀区双榆树北路59号, Beijing, 中国大陆地区
+  * ¥¥ · 宁波菜 
 
 
 
@@ -3210,16 +3513,19 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  米其林指南的观点
 
-建于1864年，青砖木梁都是清末民初的风格，而其中的全聚德老墙，已成为市级文物保护单位。招牌菜是用枣木烤制的盛世牡丹烤鸭，师傅会于餐桌旁将鸭肉排成牡丹花造型，适合宴客。火燎鸭心、芝麻鸭方等也很出色。建议预訂胡同老铺的座位，除了保留清朝馆子的装饰，服务员更身穿掌柜衣装，甚有特色，唯订座设最低消费要求。
+
+必比登推介：具素质且经济实惠的美食
+
+开业近廿年，来自宁波的老板一直提供具有家乡特色的佳肴，并与浙江渔民合作，将海鲜每日直运北京，建议向经理咨询最应季食材。油爆河虾煮得外酥内嫩，咸甜中带有醋和姜末的风味，十分推荐。雷达网带鱼品质上乘，可选择多种烹调方式，是颇受欢迎的招牌菜。每年杨梅季更有自家熬制的杨梅汁，生津开胃。
 
 ###  设施与服务
 
-  * 接受信用卡 
-  * 空调 
+  * 只接受现金 
+
 
 ###  电话
 
-+86 10 6511 2418  [](tel:+86 10 6511 2418)
++86 10 6255 0308  [](tel:+86 10 6255 0308)
 
 
 
@@ -3228,56 +3534,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e1b9d481e1a7435a81cb5fb13bc8b459" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cc19c2e95b80485581b7e7567590cd13" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4ac5e5a200d74eb7ab50b243602681cd" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8b839702e24144e6b3ccca34ed20b482" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c3593897b2924c8a8896344e8ad213cb" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 拉兹
-
-  * 西城区鼓楼西大街31号, Beijing, 中国大陆地区
-  * .¥ · 印度菜 
-
-
-
-
-
-###  米其林指南的观点
-
-老板曾在印度经商，故决定将当地美食带回北京。装潢充满印度元素，加上昏暗灯光，带点神秘气氛。以北印度料理为主，厨师和服务员皆为印度人，较难用中文沟通，但菜单详细介绍菜式的用料和起源。推介前菜田园蔬菜恰特、马萨拉洋葱龙力鱼，以及咖哩黑红豆。要完整体验印度风情，别忘了以冰凉奶茶佐餐。
-
-###  设施与服务
-
-  * 不接受海外信用卡 
-  * 供应素食菜单 
-  * 空调 
-
-###  电话
-
-+86 10 6401 1675  [](tel:+86 10 6401 1675)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/322e1269e8ff4d1088b34b5e7acfca8f" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d6f29a253fbd45a6ab1347c05c417e95" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fd239f7dcfc04412862cf4f77a350b3b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/51fb0f639ecd4a61a40cbeb5aa229019" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 程府宴 (西城)
 
   * 西城区南长街38号, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 创新菜 
+  * ¥¥¥¥ · 创新菜 
 
 
 
@@ -3289,11 +3557,17 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  设施与服务
 
+  * JCB 
+  * Visa 
+  * 万事达卡 
   * 上佳景观 
   * 中国银联 
   * 代客泊车 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
+  * 美国运通 
+
 
 ###  电话
 
@@ -3306,18 +3580,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/898a40ac24f440dc99224c352991205f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3c315c316008477e8c0e40e96605476c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a1b82f6a00d44524a70f4a23164873c8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/39a34fa1cf4449599036f2104fc48e8c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/16675e5e7abb4f358fbbb5b81b332abc" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2e10050388574bc8b38bbe91c4066a99" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Refer
 
   * 朝陽区三里屯路11号三里屯太古里北区N8号楼5层, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 创新菜 
+  * ¥¥¥¥ · 创新菜 
 
 
 
@@ -3329,6 +3603,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -3336,8 +3611,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 室外停车场 
   * 接受信用卡 
   * 空调 
-  * 美国运通 
-  * 轮椅通道 
+
 
 ###  电话
 
@@ -3354,9 +3628,9 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0b6a7b2f75ae409984ecc24eca13fb46" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6b7f4664a1264c459c23e4581239a0cb" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2844948484fc451aa6c9a5fb3ac72b5c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/075eaa67d7b14bf090a0510669804a82" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2d4ee7aacf9d41c58775aa91c18b5cb3" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -3365,7 +3639,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 左岸
 
   * 东城区王府井大街1号璞瑄酒店2层, Beijing, 中国大陆地区
-  * .¥¥¥ · 时尚法国菜 
+  * ¥¥¥ · 时尚法国菜 
 
 
 
@@ -3373,11 +3647,12 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  米其林指南的观点
 
-璞瑄酒店以时尚建筑闻名，位于二楼的左岸餐厅，以巴黎左岸的波西米亚风格作设计灵感，悠闲之余不失现代感。在这里，大家尝到的不限于传统法国口味，还有独特、创新的菜式。一道道佳肴看似简单，却充满对比和复杂性。来自香港的新任总厨经验丰富，选择包含六道菜的品尝菜单，便有机会尝尽他的全新作品。
+璞瑄酒店以时尚建筑闻名，位于二楼的左岸餐厅，设计灵感源自巴黎左岸的波西米亚风格，悠闲之余不失现代感。在这里，大家享用的菜肴不限于传统法国口味，还不时融入中国元素，例如龙井奶冻及餐前面包搭配的腐乳味黄油，充满对比和复杂性。建议选择六道菜的品尝菜单，一尝香港总厨的创新作品。
 
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -3389,6 +3664,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 美国运通 
   * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -3407,9 +3683,9 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5382542b832c41d689820174e9ce024a" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fd75b800ce2f4b40a69bac7123fee1e0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ef49cf9359ed438696daa2ac74dcc5b0" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ebe7db04f9f64be7b95887e3c04323ab" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fa32d61af5b74158acb8607f9b75ea5c" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3417,7 +3693,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 荣小馆 (百子湾南二路)
 
   * 朝阳区百子湾南二路77号, Beijing, 中国大陆地区
-  * .¥¥ · 台州菜 
+  * ¥¥ · 台州菜 
 
 
 
@@ -3428,15 +3704,23 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 必比登推介：具素质且经济实惠的美食
 
-荣小馆是新荣记的亲民版本，以实惠价格提供原汁原味的台州美食。除了闻名的黄鱼，也有其他海鲜菜式，包括鲳鱼烧年糕。小鲳鱼肉质细嫩，搭配充满口感的年糕，十分好吃。另外，夹着梅干菜与肉末的古城麦饼，以及红烧仔排都广受欢迎。特别的是，餐厅设置了吧台、圆桌、包厢等不同用餐空间，适合各类客人。
+作为新荣记的亲民版本，荣小馆以实惠价格提供正宗台州美食。此店菜单比其他分店更齐全，亦会定期更新。除了闻名的黄鱼，也供应多种海鲜菜式，包括肉质细嫩的鲳鱼烧年糕，以及口感丰富的鲜鱿茭白炒雪菜。设多款一人份菜式，并设置圆桌、包厢等不同用餐空间，适合商务宴请。装潢洋溢渔家元素，还带有露台区域。
 
 ###  设施与服务
 
+  * JCB 
+  * Maestro 
+  * Visa 
+  * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 接受信用卡 
   * 柜台式 
   * 空调 
+  * 美国运通 
+  * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -3460,7 +3744,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 三清潭 (三里屯路)
 
   * 朝阳区三里屯路三里屯太古里北区B1层NLG-09A号, Beijing, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -3469,13 +3753,14 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 北京烤鸭远近驰名，三清潭的招牌菜却是烧鹅，以及香蜜鹅肝、卤水鹅头拼掌翼等菜式。選用广东黑棕鹅，每只在7. 2-7.
-----斤之间，定期空运到北京，保持鹅的鲜度和口感。可自由选择烧鹅的肥瘦和部位，但由于数量有限，建议预订。除了烧鹅，同样需预订的炖汤也十分出色。另外亦提供经典粤菜、点心和煲仔菜。
+6斤之间，定期空运到北京，保持鹅的鲜度和口感。可自由选择烧鹅的肥瘦和部位，但由于数量有限，建议预订。除了烧鹅，同样需预订的炖汤也十分出色。另外亦提供经典粤菜、点心和煲仔菜。
 
 ###  设施与服务
 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -3488,66 +3773,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7e05d06a2294433ea51376dd9343b3cc" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c6000a1752df42fabb3bc9c7795c8591" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/88660583808f4e88a781d80063845339" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/daa2e652f254495794826d6ffd59106e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d8399586bd574ca28392cd7f297b7555" alt="Image 3" style="width: 200px; height: auto;">
-
-
-</div>
-
-## 家全七福
-
-  * 朝阳区建国门外大街1号国贸大酒店4层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
-
-
-
-
-
-###  米其林指南的观点
-
-
-一星：优质烹调，不妨一试！
-
-来自香港的家全七福，是北京著名的高级粤菜食府。不仅装潢华丽，也选用优质食材，从平实的家常菜到名贵的山珍海味，应有尽有。凭借师傅的精湛传统厨艺，烹调出食物的原汁原味。招牌菜当红脆皮鸡外皮香脆，肉质软嫩。瑶柱荷叶饭上桌时香气四溢，且米饭粒粒分明。焗酿鲜蟹盖金黄酥脆，同样值得一试。
-
-###  设施与服务
-
-  * JCB 
-  * Maestro 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 代客泊车 
-  * 大来卡 (Diners Club) 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-  * 美国运通 
-  * 轮椅通道 
-
-###  电话
-
-+86 10 8571 6888  [](tel:+86 10 8571 6888)
-
-
-
-<a href="https://www.seventhson.hk/" target="_blank">访问网站</a>
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/02513a6118d242319438067ab9ced839" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1e916a13872d4c2e8d55e9cb22817890" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9010ff57136049ac9cfa88dcd663e88c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a4e4f323afe345868076c9025d7146e7" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3555,7 +3785,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 屋里厢
 
   * 朝阳区工人体育场北路甲2号盈科中心南侧, Beijing, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -3564,12 +3794,13 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
-厨师团队以上海人为主，店名就是上海话“家里”的意思，希望以平凡的材料，烹调出带有家庭温暖的上海菜。菜单尽是传统菜式，例如扣三丝，选用金华火腿丝、笋丝及鸡丝制成，手工精细巧妙，不容错过。酱冬瓜、田螺塞肉亦教人再三回味。特设主厨私宴厅，让主厨于席前为客人烧菜，气派十足。
+以上海话“家里”意思为名，上海人为主的厨师团队提供带有家庭温暖的家乡菜。菜单尽是传统菜式，包括手工精细的扣三丝，令人回味的酱冬瓜和田螺塞肉。另外，不要错过因应季节推出的美食，例如使用猪大腿肉的蒜香南乳炸大排。店员服务细心，设有主厨私宴厅，由主厨于席前为客人烧菜，气派十足。
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -3577,6 +3808,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -3589,18 +3821,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8432014872d64584bc2a5c07deb0de2c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2611e4583079490db88399bdbf5a33ad" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/acf35ea4178c45b293b4639e64989fca" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/85e0fc6715af4ecf9e440bbf10ba8a37" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0fce644b00a7440e912581c1fdc4ac73" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/216a507f0e1048f19d329409f9d44335" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 上海滩
 
   * 朝阳区建国门外大街1号国贸商城北区6层NL6008, Beijing, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -3613,65 +3845,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  设施与服务
 
   * Visa 
-  * 万事达卡 
   * 中国银联 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-  * 轮椅通道 
-
-###  电话
-
-+86 10 5961 1777  [](tel:+86 10 5961 1777)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/46ae44a7e18e4f0b95bbe512a054afbd" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b190b96d9075442a8c503a4361a9ad3c" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2faf9394498642488eb6523374ec9c00" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 香宫
-
-  * 海淀区紫竹院路29号香格里拉饭店景阁2层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
-
-
-
-
-
-###  米其林指南的观点
-
-装潢以金色为主，并设有两个凉亭般的楼阁，加上桃木架子、紫砂茶具等，充满中国特色。丰富的粤菜菜单之中，不乏一些惹味小菜，例如全年均有供应的避风塘炒蟹，蟹身内夹有蟹黄，肉质结实且鲜味，并带椒盐、蒜香，十分出色。此外，烤鸭也跟随香格里拉集团的做法，以枣木烤制，是一道必吃菜式。
-
-###  设施与服务
-
-  * JCB 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+  * 阳台 
+
 
 ###  电话
 
-+86 10 6841 2211  [](tel:+86 10 6841 2211)
-
-
-
-<a href="https://www.shangri-la.com/beijing/shangrila/" target="_blank">访问网站</a>
++86 10 5961 1777  [](tel:+86 10 5961 1777)
 
 
 
@@ -3692,7 +3877,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 晟永兴 (朝阳)
 
   * 朝阳区新东路5号, Beijing, 中国大陆地区
-  * .¥¥¥ · 京菜 
+  * ¥¥¥ · 京菜 
 
 
 
@@ -3701,9 +3886,9 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-一楼设有大型玻璃酒窖和吧台，装潢带点江南建筑风格，有强烈的中西融合之感。经过石梯到达二楼，便会见到石造烤炉里，挂满了餐厅的招牌枣酥香烤鸭。烤鸭不仅外皮酥脆、肉质鲜嫩，还可加配鱼子酱进食。其他京式菜肴中，炸酱面更是不能错过。也可以请侍酒师提供餐酒搭配建议。
+坐落于三里屯使馆区，传统的青砖墙搭配玻璃天窗和吧台，风格中西融合。到达二楼，便会见到砖砌烤炉，以及忙着准备招牌枣酥香烤鸭的厨师。烤鸭采用45天大、附来源证明的北京填鸭，经枣木挂炉烤制后，皮酥肉嫩，肥而不腻，还可增选鱼子酱享用。虾籽烧大虾球滑嫩弹牙，也不容错过。嗜酒者不妨请侍酒师搭配餐酒。
 
 ###  设施与服务
 
@@ -3712,10 +3897,10 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 万事达卡 
   * 中国银联 
   * 供应优质餐酒 
-  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -3728,18 +3913,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1c502bb8604945afb4b1ca86cc40a9ca" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/eb251e2fc6544db8ac7043af135f66ec" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bcbfcf35036a4d38aa940ecd01ce6fb9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8f89cc8234fd4652adf516aa4f59536f" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1c4b3923434c415b8952a28a96bf4e7c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/524beae7ce064de3841aded3870c7c7a" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 苏帮袁 (将台路)
 
   * 朝阳区将台路6号丽都广场, Beijing, 中国大陆地区
-  * .¥¥ · 淮扬菜 
+  * ¥¥ · 淮扬菜 
 
 
 
@@ -3747,7 +3932,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  米其林指南的观点
 
-以随园食单作基础，配合每天由苏州运送而来的材料，发扬传统淮扬菜的精髓。其中一道招牌菜为苏帮醉蟹，已熟的螃蟹酒香浓郁，味道鲜甜，宜于订座时预订。此外，蟹粉汤包、响油鳝丝等也是深受欢迎的菜式。而无论是仿江南景色的布置，还是亲切有礼的服务和亲民的价格，都令人享受到轻松的用餐体验。
+所处位置远离市中心，由青瓦白墙、山水画、翠竹等勾勒出江南风韵，与室内的中式装修相呼应。菜品灵感源自袁枚的《随园食单》，以江南水产为特色，既有淮扬的淡雅、苏锡的鲜甜，也包含苏北的咸辣。其中文火清炖狮子头遵循细切粗斩的传统做法，肥瘦适宜，汤底清鲜。南塘美人米炒虾仁以手剥高邮虾仁与芡实同炒，滋味清新。
 
 ###  设施与服务
 
@@ -3755,145 +3940,10 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 空调 
   * 阳台 
 
+
 ###  电话
 
 +86 10 5711 0517  [](tel:+86 10 5711 0517)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/62a9bcb1edf44859a52c26bae1d2628c" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c288fe2f859842a4b5e28110a194d0ce" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/867bb7d6275a4e82b48f95fa258fb3f7" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 夏宫
-
-  * 朝阳区建国门外大街1号中国大饭店2层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜, 淮扬菜 
-
-
-
-
-
-###  米其林指南的观点
-
-金黄色为主调的天花，配合如白玉般的柱身，以及种种瓷器摆设，尽显气派。邻近国贸中心，是商务宴请的绝佳地点。食物同样出色，粤菜和淮扬菜都由相关厨师主理，炮制多款时令菜式，午市同时供应点心。北京填鸭则以最高级的枣木烧烤，口感酥脆，并带油香。更设独立的鸭馔菜单，供应多款鸭肉佳肴。
-
-###  设施与服务
-
-  * JCB 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 大来卡 (Diners Club) 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-  * 美国运通 
-  * 轮椅通道 
-
-###  电话
-
-+86 10 6505 5827  [](tel:+86 10 6505 5827)
-
-
-
-<a href="https://www.shangri-la.com/beijing/chinaworld/" target="_blank">访问网站</a>
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d2a1161a455e4caaa947e51c52cf6016" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9656a859ebf1425ca2a0d5c4e829fc22" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a089d1569cd441c8a57d27b04183b4ea" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 鮨龙
-
-  * 朝阳区麦子店街53号亮马港湾大厦4层403, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 寿司 
-
-
-
-
-
-###  米其林指南的观点
-
-迁址后的鮨龙，除了板前座位，另设两个可连接的包厢。主厨曾于日本学艺，经验丰富，且重视食材品质，特别选用来自日本的新鲜食材，制作包含刺身和江户前手握寿司的套餐。寿司饭以新泻县的新、旧米按特定比例煮成，再根据食材的特性，搭配米醋或赤醋混和。客人须订座，并透过通讯软件提前选择套餐。
-
-###  设施与服务
-
-  * Visa 
-  * 万事达卡 
-  * 不接受海外信用卡 
-  * 中国银联 
-  * 室外停车场 
-  * 柜台式 
-  * 空调 
-  * 美国运通 
-  * 轮椅通道 
-
-###  电话
-
-+86 185 1888 8805  [](tel:+86 185 1888 8805)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3a3bbcdb663c47f39d3da489e9508a82" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5ff32670102f414ba3dbc8773ab5472c" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a62c9927a1d44958bf7a86d9683f97e1" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 桐寿司
-
-  * 朝阳区工人体育场东路工人体育场东2门旁, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 日本菜 
-
-
-
-
-
-###  米其林指南的观点
-
-中文菜单由日本主管亲手书写，他也很乐意介绍店内的清酒。食物方面更加讲究，隔天从日本进口新鲜渔获，包括野生金仓鱼、金目鲷和池鱼，以及其他时令食材，由厨师即席制作成寿司。米饭使用秋田和鱼沼产的米，并混合了四种不同的醋。除了寿司吧枱，餐厅设有多个包厢，提供另外三款料理比例较多的套餐。
-
-###  设施与服务
-
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 室外停车场 
-  * 接受信用卡 
-  * 柜台式 
-  * 空调 
-  * 美国运通 
-
-###  电话
-
-+86 133 1111 0150  [](tel:+86 133 1111 0150)
 
 
 
@@ -3911,10 +3961,10 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 </div>
 
-## 北京厨房
+## 北京厨房（建国路）
 
   * 朝阳区建国路87号北京SKP 6层D6007, Beijing, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -3923,12 +3973,13 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 供应粤菜却名为“北京厨房”，是希望增加亲切感，令客人可以像回家一样，愉快地享用美食。来自香港、经验丰富的主厨兼老板，在传统粤菜和港式点心的基础上，不时添加时令及创新菜式。不要错过炖汤和烧味，当中乳鸽皇选用三十天大的乳鸽，经三次上皮制成，鸽皮香脆，特别出色。最后不妨以秘制杨枝甘露作结。
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -3937,6 +3988,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -3949,106 +4001,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2ab41399c9884257b121c18b37ee9c23" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c017b27c07b3452ba5ce3ae99f768dc6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2eabc78dc21e45d9a9070a114d4c8c0d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/64e3800452d945c9914b6b5eff6214e8" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d3696fdc8d7540c2adff84b56c1efdcb" alt="Image 3" style="width: 200px; height: auto;">
-
-
-</div>
-
-## 玉河一号
-
-  * 东城区地安门东大街东不压桥胡同45号玉河1号院, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 时尚欧陆菜 
-
-
-
-
-
-###  米其林指南的观点
-
-
-一星：优质烹调，不妨一试！
-
-餐厅所在的河畔四合院，是丹麦首饰品牌营造的艺术空间。午餐菜单风格悠闲，包括丹麦常见的开放式三明治和腌制火腿。晚餐菜式则精致小巧，因此可以饱尝多款具有北欧风味的佳肴，尤其是烟熏、腌制餐点，体验和认识当地饮食文化及烹饪技巧。如欲充分体验厨师的创意，经典套餐和品尝套餐是不二之选。
-
-###  设施与服务
-
-  * JCB 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 供应优质餐酒 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-  * 美国运通 
-  * 轮椅通道 
-
-###  电话
-
-+86 84085300  [](tel:+86 84085300)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/50a9d99814084a3c9594ed637ccaaaca" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/66f360898f91437da9ca594f14cfb180" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fa1fdb5846034e728b6fceeccc95eb7f" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 和木私厨 (西城)
-
-  * 西城区大栅栏街櫻桃斜街51号, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 时尚中国菜 
-
-
-
-
-
-###  米其林指南的观点
-
-位于四合院内，餐厅内部也全是独立包间，一位服务员负责一个房间，服务周到且私密度高。其中一个房间装置了投影设备，特定菜单配合灯光效果，同时满足味觉和视觉享受。共有九款套餐，菜单定期更新，推荐翡翠清煎海盐小牛肉，以慢煮方式制作，嫩滑多汁，配上川椒酱汁，调味得宜。建议订座。
-
-###  设施与服务
-
-  * JCB 
-  * Maestro 
-  * Visa 
-  * 万事达卡 
-  * 不接受海外信用卡 
-  * 中国银联 
-  * 代客泊车 
-  * 大来卡 (Diners Club) 
-  * 室外停车场 
-  * 空调 
-  * 美国运通 
-
-###  电话
-
-+86 10 8311 1661  [](tel:+86 10 8311 1661)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/01ed8f3e55e04db1b2a173f5f44d432d" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bc77d0a7571f4ed68430470a54a48135" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ed008b9db7cf42439d732a4f099a09b0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/45fe99d76d1c4b8a9df4163200c5b153" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4056,7 +4013,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 红馆
 
   * 朝阳区建国门外大街1号国贸大酒店4层, Beijing, 中国大陆地区
-  * .¥¥ · 京菜 
+  * ¥¥ · 京菜 
 
 
 
@@ -4072,14 +4029,17 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -4096,11 +4056,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/413fcf9d892249e4a917d1bacce45a96" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b2320c8747fd4acda9eaa5abb5a0f70e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8d021beb142c466eb9f63921ab13d5d6" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/955a7415eb4e403a82a80ca099d21c5c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0fae295bdb05412590098acebe7577d9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9097a8e5112b435980a1f3bfa0f211bc" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4108,7 +4068,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 承味堂
 
   * 朝阳区工人体育场北路4号21幢平房, Beijing, 中国大陆地区
-  * .¥¥¥ · 江浙菜 
+  * ¥¥¥ · 江浙菜 
 
 
 
@@ -4117,7 +4077,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 由机电厂所改建，院子里保留原有的树木，并以云墙作为区隔，自成一角。餐室设计高雅，从屋檐透入自然光，玻璃门间隔也大大提升空间感。设有五个包厢，宜提前预订。菜式方面，以江南菜为主，同时加入多元化元素，用料新鲜。招牌菜枣木烤鸭选用特定重量的填鸭，用果木烤至酥脆，吃罢鸭香萦绕。
 
@@ -4136,9 +4096,10 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
-+86 10 8588 5655  [](tel:+86 10 8588 5655)
++86 136 8311 4225  [](tel:+86 136 8311 4225)
 
 
 
@@ -4147,11 +4108,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/226c2fd661894cb686e59a3681294ea2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5a8b073c993f43d8b52ed4b41b624ae8" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/510306cb091a4dbfa2e0b781bd7aef3b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/565f6785b3b74863856b3120444b6ddd" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0681b3374230475587a538040cd1227b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/57dc92b1ab3344659e716aff2e0de2b5" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4159,7 +4120,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 天厨妙香素食 (朝阳)
 
   * 朝阳区朝外大街朝外SOHO 2层D座0260, Beijing, 中国大陆地区
-  * .¥ · 素食 
+  * ¥ · 素食 
 
 
 
@@ -4178,9 +4139,14 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 室外停车场 
   * 空调 
 
+
 ###  电话
 
 +86 10 5900 1088  [](tel:+86 10 5900 1088)
+
+
+
+<a href="http://www.liaofan.com" target="_blank">访问网站</a>
 
 
 
@@ -4189,18 +4155,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1675ded8fb0d4eee8329c5a724716911" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3eab24eabe564b9e8c99757919c2f961" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9ae46914c70040799beac58c5dff2a91" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/62d4a42522b6418296cc6a5509af0461" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/42ef929bc42f49258480ce01435a9d31" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/acfb71e52e494eeda4b5e48f3c2a1f9d" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 同春园
 
   * 西城区新街口外大街甲14号十月大厦, Beijing, 中国大陆地区
-  * .¥¥ · 江浙菜 
+  * ¥¥ · 江浙菜 
 
 
 
@@ -4208,13 +4174,14 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  米其林指南的观点
 
-始于1930年，曾两次搬迁，用餐环境舒适。主要提供江浙菜式，但也有供應北京烤鸭及一些地方菜。为了方便客人，每张餐桌都有呼叫服务员的仪器和漏斗，确保所有食物于四十五分钟内送到。店内设有大型鱼缸，食客可自行挑选活鱼制作招牌菜松鼠鳜鱼。但要注意只接受正午前的订座。
+同春园始于1930年，曾两次搬迁，现址环境舒适。主要提供江浙菜，尤其擅于河鲜美食，也供应北京烤鸭及一些地方菜。招牌菜有松鼠鳜鱼和鳝糊，前者可从鱼缸中挑选活鱼制作，后者则选料上乘，味道馥郁。镇江肴肉也值得一试，皮冻和肥瘦肉分布细密，十分可口。餐厅只接受正午前的订座。菜式分量偏大，建议携伴共享。
 
 ###  设施与服务
 
   * 不接受海外信用卡 
   * 室外停车场 
   * 空调 
+
 
 ###  电话
 
@@ -4227,11 +4194,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d3aaf51777884fa191add9b7162130c1" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f07765511087483e9746a61ce2b66bf9" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7da2d1c62e5441d7bceee19ccd58d2fb" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/efafa32215a04843b2cdf211b5b88fb4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/05a1f823759a4fed92fd5bce850fee7b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a1d879db080247928eb7c917b75fca10" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4239,7 +4206,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 同和居 (月坛南街)
 
   * 西城区三里河月坛南街甲71号, Beijing, 中国大陆地区
-  * .¥¥ · 鲁菜 
+  * ¥¥ · 鲁菜 
 
 
 
@@ -4254,8 +4221,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  设施与服务
 
-  * 接受信用卡 
+  * 不接受海外信用卡 
+  * 中国银联 
   * 空调 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -4268,11 +4238,58 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5e0bb36ea0f74dc4a6adad6c07e5a8f8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/54855ad55c644b6b906df37f68dc5418" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f1e5e770c25c461db843741c1780e9df" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/51901324890543c2b9e07e6e58d9d8ab" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4464b19ad8894079967b151707e77207" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/83bdfa0f2fba4a0197aa9f078d07af6e" alt="Image 3" style="width: 200px; height: auto;">
+
+</div>
+
+## 潮外粤宴 (东长安街)
+
+  * 东城区东长安街1号东方君悦大酒店UG层, Beijing, 中国大陆地区
+  * ¥¥¥¥ · 粤菜 
+
+
+
+
+
+###  米其林指南的观点
+
+这装修雅致的餐厅以鲍鱼作主题，各处展示了不同产地的干鲍鱼产品，仿如一家博物馆。设单点和套餐，后者每季更换，并会用上新会陈皮、顺德陈村粉等地区性食材。推介炭烤干鲍霜降狮头鹅肝，由厨师即席以烈酒烤制，最后加入的冷鹅肝碎入口即化，色香味俱全。葡萄酒选择过百款，不妨请侍酒师作介绍。
+
+###  设施与服务
+
+  * JCB 
+  * Visa 
+  * 万事达卡 
+  * 中国银联 
+  * 供应优质餐酒 
+  * 大来卡 (Diners Club) 
+  * 室外停车场 
+  * 接受信用卡 
+  * 空调 
+  * 美国运通 
+  * 轮椅通道 
+
+
+###  电话
+
++86 10 5217 1886  [](tel:+86 10 5217 1886)
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/826b8b6c2a2446a19aab8e68485fbb95" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/47a21bf38f2747ab95e283ca2446c9aa" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/39363281bf3a4d05ac73cef5c6e825ac" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4280,7 +4297,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## Trb Hutong
 
   * 东城区沙滩北街23号, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 时尚法国菜 
+  * ¥¥¥¥ · 时尚法国菜 
 
 
 
@@ -4289,9 +4306,9 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-转过胡同小巷，仿佛穿越重重迷宫，但当你到达这家置身古寺庙中的餐厅，内心便会感到平静。主厨精选本地食材，运用创意，设计出富有个人和现代色彩的法式美食。备有数款套餐，并按时令替换菜品。其中菜式"鱼子酱"叫人回味不已；甜品更犹如一场盛宴，别要错过。服务员专业，令用餐体验更完满。
+客人需要转过胡同小巷，才能到达这家位于古寺庙的餐厅，环境清幽雅致。主厨精选本地食材，制作出卖相精致、质感和味道俱佳的法式菜肴，让味觉与视觉同时得到满足。备有三款品尝菜单，其中的鱼子酱菜式叫人回味不已，甜品亦十分出众，为整场盛宴留下深刻的余韵。美食加上专业的服务，令用餐体验更完满。
 
 ###  设施与服务
 
@@ -4303,6 +4320,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -4325,13 +4343,12 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0da859e7b20d4dd5b91efe3ed0079b55" alt="Image 3" style="width: 200px; height: auto;">
 
-
 </div>
 
 ## 山河万朵
 
   * 东城区王府井大街269号王府中环西座2层212号, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 素食 
+  * ¥¥¥¥ · 素食 
 
 
 
@@ -4339,10 +4356,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  米其林指南的观点
 
-
-一星：优质烹调，不妨一试！
-
-以自然、环保、艺术为经营理念，装潢简约淡雅，设有七间包厢，私密度高。有别于一般素食餐厅，这里重视食材的天然味道和质感，拒绝仿荤，并严选国内山河孕育出来的蔬果，不论摆盘或食物的搭配均别出心裁。仅供应套餐，每季更换。服务细致周到，适合各种宴客聚餐。建议提早订座。
+以自然、环保、艺术为经营理念，装潢简约淡雅，并设有私密度高的包厢。曾于法国餐厅工作的主厨把创新意念融入素食，而且重视食材的天然味道和质感，拒绝仿荤。提供每季更换的季节套餐，还有经典套餐，当中大部分是店内最受欢迎的菜式。服务细致周到，设侍酒师和配酒服务，适合各种宴客聚餐。
 
 ###  设施与服务
 
@@ -4356,6 +4370,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -4378,8 +4393,8 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ## 沃夫冈牛排馆 (工人体育场北路)
 
-  * 朝阳区工人体育场北路甲2号盈科中心捌坊, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 扒房 
+  * 朝阳区工人体育场北路甲2号盈科中心捌坊一层, Beijing, 中国大陆地区
+  * ¥¥¥¥ · 扒房 
 
 
 
@@ -4387,7 +4402,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  米其林指南的观点
 
-典型美式牛排馆，酒红色真皮沙发配衬暗黄灯饰，感觉传统而稳重。餐前可以在酒吧享用鸡尾酒。只供应美国农业部顶级安格斯牛肉，并于店内经过至少二十八天的干式熟成。厨师和经理曾经到纽约总店受训，传承同样的菜单和食谱，确保品质。分量颇大，除了牛排和招牌蟹肉饼，特色胡桃派亦值得一试。
+典型美式牛排馆，酒红色真皮沙发配衬暗黄灯饰，感觉传统而稳重。餐前可以在酒吧享用鸡尾酒。只供应美国农业部顶级安格斯牛肉，并于店内经过至少二十八天的干式熟成。厨师和经理曾经在纽约总店受训，传承同样的菜单和食谱，确保品质。菜式分量颇大，牛排和蟹肉饼是招牌，值得一试。
 
 ###  设施与服务
 
@@ -4401,6 +4416,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 美国运通 
   * 阳台 
 
+
 ###  电话
 
 +86 10 6592 4946  [](tel:+86 10 6592 4946)
@@ -4412,18 +4428,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/da601d4132eb432bab1aaacdbbfbd9ce" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2baa36947f3841cda85a5ffecce4c72c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c19408ad6ad24b3c88e60d8fce88b91c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/81feb91c4e624f748f6a434a1c359589" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8c9b331bae124ba99a8d0428a98618de" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ad8a838d6b8e45ba9ae6f4de68d5b302" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 梧桐
+## 湘上湘 (金和东路)
 
-  * 朝阳区芳园西路6号, Beijing, 中国大陆地区
-  * .¥¥ · 时尚中国菜 
+  * 朝阳区金和东路20号正大中心3层L301A-L302A, Beijing, 中国大陆地区
+  * ¥¥¥¥ · 湘菜 
 
 
 
@@ -4431,23 +4447,26 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  米其林指南的观点
 
-占地近二百平方米，分为不同风格的空间，适合朋友或情侣聚餐。中午时段可选择玻璃屋区域，整面玻璃窗加上绿意造景，犹如置身热带岛屿。由广东籍主厨引领，融合鲁、川、粤菜等多元口味，以创意手法呈现中国菜的新风貌。推荐Fusion水煮鱼、梧桐糖醋排骨，以及外皮薄脆、肉质细嫩的酥皮乳鸭，但须预订。
+于2021年开业的湘上湘已拓展至北京和成都，而这是品牌的首店。来自湖南的主厨入厨逾廿年，其设计的套餐概念围绕廿四款辣椒，并根据季节调整品种，菜式分量精巧，品项丰富。管家会提前与客人沟通以助选定菜单。酒单以适合搭配辛辣食物的香槟和白葡萄酒为主，不嗜酒的客人则不妨向侍茶师查询茶品配对的选项。
 
 ###  设施与服务
 
+  * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
-  * 代客泊车 
+  * 供应优质餐酒 
   * 大来卡 (Diners Club) 
+  * 室外停车场 
   * 接受信用卡 
   * 空调 
-  * 美国运通 
-  * 阳台 
+  * 轮椅通道 
+
 
 ###  电话
 
-+86 10 6438 1118  [](tel:+86 10 6438 1118)
++86 10 8597 2666  [](tel:+86 10 8597 2666)
 
 
 
@@ -4456,18 +4475,18 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/05b1e3216c9e4b459de577c2c7bb4a53" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9edfdced30484e80942c83eeae53047e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a9030f87387b464ea485a1a8855f31ef" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bfd70935f78740f7896d1f0216d9f43e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f3b1499c92464540b18083ebcf38740f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c840968ce0754fcb9ed9a8de810c350b" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 新明园
 
   * 朝阳区东大桥路9号侨福芳草地购物中心C座1层L1-12单元, Beijing, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -4475,7 +4494,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 ###  米其林指南的观点
 
-创立超过十年，于2019年迁至现址。室内装潢优雅漂亮、中西合璧，用餐环境宽敞自在，适合各种聚餐宴客。由经验丰富的香港主厨坐镇，致力推广传统粤菜，招牌菜式包括鸡皮香脆、鸡肉嫩滑的脆皮鸡。另外，为了照顾不同客人的需要，也提供其他特色美食，如北京烤鸭、小笼包等，菜式包罗万有。
+室内装潢优雅漂亮、中西合璧，用餐环境宽敞舒适，适合各种聚餐宴请。由经验丰富的主厨坐镇，擅长以传统方式烹调粤菜。菜单虽选择精简，但包含烧味、小菜、海鲜等经典粤式佳肴。各式炖汤、桂花炒瑶柱等传统功夫菜值得一试。招牌脆皮鸡肉质嫩滑，鸡皮香脆，十分美味。服务贴心周到，让客人感到宾至如归。
 
 ###  设施与服务
 
@@ -4483,6 +4502,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -4497,9 +4517,9 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8355acb3be5c4812b131cac98ce85def" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/985bc15b109f4f4f81aad150ee786f1b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/38870c410734486eaaa0b96d186b768d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bf5133a1873242348f8c71204bf2ee9e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0534a369e88d4197829207229e64bdfa" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4507,7 +4527,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 新荣记 (建国门外大街)
 
   * 朝阳区建国门外大街2号银泰中心A座5层, Beijing, 中国大陆地区
-  * .¥¥¥ · 台州菜 
+  * ¥¥¥ · 台州菜 
 
 
 
@@ -4516,7 +4536,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 一如新荣记其他分店，室内设计在时尚中透出低调奢华，餐厅提供管家式服务，客人须提前订座，以安排菜单内容。所有菜式均以每天由台州空运到店的优质食材烹制，鲜度毋庸置疑。其中，台州美食野生黄鱼是镇店之宝，其他小菜如望潮（小章鱼）、沙蒜烧豆面，以及味道鲜甜的家烧萝卜片也值得一试。
 
@@ -4534,6 +4554,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 8517 1789  [](tel:+86 10 8517 1789)
@@ -4549,11 +4570,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/57ce60b3fdfe4eb58a63422d72d23dc6" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8da06c21b62c4e4298be76123bc99273" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/563f4af4115a40959a83bdbfab7d71bf" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9272e12ff46d4be096c9a9ce5b197381" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e26b7962479642c1b495d0745a2b475d" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4561,7 +4582,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 新荣记 (金融大街)
 
   * 西城区金融大街11号金融街国际酒店B1层, Beijing, 中国大陆地区
-  * .¥¥¥ · 台州菜 
+  * ¥¥¥ · 台州菜 
 
 
 
@@ -4570,7 +4591,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 这是品牌在北京的首间店，主要供应浙江东海海鲜和地道台州美食。室内设计充满特色，大厅的沙发背靠着鱼缸，后面是大型海鲜摊，尽显餐厅主题。厨师会因应时令而更换菜单，建议预订经长时间炖煮的松茸黄鱼羹，味道鲜美，十分可口。餐厅更提供配菜服务，食物分量可按用餐人数调整，一人用膳亦轻松自若。
 
@@ -4586,13 +4607,14 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 10 6618 0567  [](tel:+86 10 6618 0567)
 
 
 
-<a href="http://www.xinrongji.cc/" target="_blank">访问网站</a>
+<a href="http://www.xinrongji.cc" target="_blank">访问网站</a>
 
 
 
@@ -4601,11 +4623,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/364b4d5a28a0405cacafbd7c79aeb35d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/17c6b6514d0e4bcaaed8fdc0f4fd862a" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/045634529171425784713212c8183eb8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/da8a23dd2cd14677a9cc7670041b3474" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3507c00daf344800a397c04826205934" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bd5d1a7c14364730af4fcdf2ca070b88" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4613,7 +4635,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 新荣记 (新源南路)
 
   * 朝阳区新源南路8号启皓北京东塔1层, Beijing, 中国大陆地区
-  * .¥¥¥¥ · 台州菜 
+  * ¥¥¥¥ · 台州菜 
 
 
 
@@ -4622,9 +4644,9 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-三星：卓越的烹调，值得专程到访。
+三星：卓越烹饪
 
-此为新荣记于2019年开业的旗舰店。设计以中国古典风格为基础，融入现代元素，并设吧台和开放式厨房。食物方面，招牌菜野生大黄鱼、黄金脆带鱼等一律俱备，更不能错过只在此店供应的北京烤鸭，以二十八天大的乳鸭烤制，皮脆肉嫩，佐以山楂条等新鲜配料，叫人回味不已。客人更可提前请店家设计菜单，服务贴心。
+此为新荣记的旗舰店，设计以中国古典风格为基础，融入现代元素，并设吧台和开放式厨房。食物方面，招牌菜野生大黄鱼、黄金脆带鱼等一律俱备，更有只在本店供应的北京烤鸭，皮脆肉嫩，叫人回味不已。老鸭花胶炖芋艿采用鸭巴肚花胶烹制，芋艿入口即化，软绵香滑。客人更可提前请店家设计菜单，服务贴心周到。
 
 ###  设施与服务
 
@@ -4639,49 +4661,10 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 柜台式 
   * 空调 
 
+
 ###  电话
 
 +86 10 6501 5501  [](tel:+86 10 6501 5501)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b677ab3561c842f699afb8a838de144c" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/19cf85655af342808367003853bbe7e2" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b36a9fbfecf144999173ca7a5e35d397" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 壮壮烤羊肉
-
-  * 朝阳区朝阳公园路6号蓝色港湾M175号, Beijing, 中国大陆地区
-  * .¥¥ · 烤肉餐馆 
-
-
-
-
-
-###  米其林指南的观点
-
-主打来自内蒙古的新鲜羊肉，餐厅会以不同方式烹调各部位，如采用西式扒炉烤制或中式炭火烤串，各具特色。推荐羊肉牛肝菌酥盒，其用料十足，且以松露油等提味，酥脆可口。酒饮选择丰富，除了啤酒、葡萄酒，更有加入了风干羊肉、羊奶酪等羊元素的鸡尾酒。若少人用餐不妨预约吧枱位置，欣赏料理过程。
-
-###  设施与服务
-
-  * 不接受海外信用卡 
-  * 中国银联 
-  * 室外停车场 
-  * 柜台式 
-  * 空调 
-
-###  电话
-
-+86 186 1095 3870  [](tel:+86 186 1095 3870)
 
 
 
@@ -4702,7 +4685,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 宜宾招待所
 
   * 西城区西中胡同28号, Beijing, 中国大陆地区
-  * .¥ · 川菜 
+  * ¥ · 川菜 
 
 
 
@@ -4719,6 +4702,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
   * 不接受海外信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -4743,7 +4727,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 尹三豆汁 (东晓市街)
 
   * 东城区东晓市街176号, Beijing, 中国大陆地区
-  * .¥ · 小吃 
+  * ¥ · 小吃 
 
 
 
@@ -4763,58 +4747,10 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
   * 只接受现金 
 
+
 ###  电话
 
 +86 10 6705 6737  [](tel:+86 10 6705 6737)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a95d519810de442bb4ccef32179d3ab6" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/183e018e2c1644a286765f08413419d6" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d0525d7dd69141af9352a93a5ed35c54" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 玉
-
-  * 朝阳区建国路甲83号丽思卡尔顿酒店2层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
-
-
-
-
-
-###  米其林指南的观点
-
-餐厅装潢华丽，镶有玉石的百子柜令人印象难忘，加上金黄的天花和深红色的皮制椅子，视觉效果额外鲜明。在厨师团队的努力下，客人能够品尝到传统粤菜，当中不乏时令菜式，以及昂贵食材作主题的菜单。推荐马来金酱焗老虎虾球，搭配炸馒头来吃，很有特色。另有各式小点和杏仁茶等作饭后甜品。
-
-###  设施与服务
-
-  * JCB 
-  * Maestro 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 大来卡 (Diners Club) 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-  * 美国运通 
-
-###  电话
-
-+86 10 5908 8111  [](tel:+86 10 5908 8111)
-
-
-
-<a href="https://www.ritzcarlton.com/en/hotels/china/beijing/" target="_blank">访问网站</a>
 
 
 
@@ -4831,10 +4767,10 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 </div>
 
-## 裕德孚
+## 裕德孚 (东直门内大街)
 
   * 东城区东直门内大街264号, Beijing, 中国大陆地区
-  * .¥¥ · 火锅 
+  * ¥¥ · 火锅 
 
 
 
@@ -4848,6 +4784,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
   * 只接受现金 
   * 空调 
+
 
 ###  电话
 
@@ -4872,7 +4809,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 玉华台 (西城)
 
   * 西城区裕民路裕中西里小区23号楼, Beijing, 中国大陆地区
-  * .¥¥ · 淮扬菜 
+  * ¥¥ · 淮扬菜 
 
 
 
@@ -4891,6 +4828,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 10 6200 4206  [](tel:+86 10 6200 4206)
@@ -4902,11 +4840,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/239cf8623bf14be8b1f52e45019e66ba" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c3637a32e0d9496ca3df9a9c6ec34dc4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b21c16ae56fb46af8f951eabc8ca0b77" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/18ddfc8d422b46cfa9434374fa8347fe" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c588a3c3933546c792c4e36422112e60" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1777c7e1106e48fb855568a219df193f" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4914,7 +4852,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 之参
 
   * 东城区前门大街97号3层302, Beijing, 中国大陆地区
-  * .¥¥ · 川菜 
+  * ¥¥ · 川菜 
 
 
 
@@ -4925,12 +4863,16 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 必比登推介：具素质且经济实惠的美食
 
-餐厅提供以传统手法烹制的经典川菜。其中，燃汁剔炒宫保鸡使用新鲜鸡只的不同部位，以边炒边调味的方式烹调，充分保留食材原味；开水白菜的汤底经多重工序耗时两天完成，滋味非常，建议在餐席尾声享用；酒香风筒鸡亦十分出色。不妨以自家浸制的果酒或醒胃解腻的酸梅汁佐餐。
+藏身于复古建筑内，面积不大，装修质朴，充满文化韵味。厚厚的老菜单以画卷形式展开，菜式多元丰富，满是传承古法的经典川菜。推荐老菜干烧鱼，厨师选用鲜桂鱼自行腌制，鱼肉软嫩，甜、咸、辣味互相交织，味道富有层次，不容错过。店家还提供以高粱酒为基底的时令水果泡酒，很适合小酌或宴饮。
 
 ###  设施与服务
 
-  * 不接受海外信用卡 
+  * Visa 
+  * 中国银联 
+  * 接受信用卡 
   * 空调 
+  * 阳台 
+
 
 ###  电话
 
@@ -4943,11 +4885,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/dced57219d63477baa862a8d7320be94" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4f69f1ae0fe0471eb168c714c4da6759" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/69f02beb3cb34de29fee5311c6105b15" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ea0e9f0a4d26466aa6be88d69c64e3e7" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8f1896592c6143ae8ea8962c4e4c921d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5bb784542f804ec8ac3d1c6b46019360" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4955,7 +4897,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 止观小馆
 
   * 东城区金鱼胡同12号, Beijing, 中国大陆地区
-  * .¥¥¥ · 东北菜 
+  * ¥¥¥ · 东北菜 
 
 
 
@@ -4964,9 +4906,9 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-位于止观美术馆内，选址充满艺术气息，落地玻璃更能看到院落景观，环境优雅。供应的辽河口渔家菜为非物质文化遗产。厨师团队擅长运用北方的江鲜、湖鲜、渤海湾的海鲜，还有长白山的山珍，配合家常方法烹调。其中，薄荷黄蚬肉和葱烧渤海湾螺片鲜味可口，十分推荐。
+位于止观美术馆内，选址充满艺术气息，落地玻璃更能看到院落景观，环境优雅。其供应的辽河口渔家菜为非物质文化遗产。厨师团队擅长运用北方的江鲜、湖鲜、渤海湾的海鲜，还有长白山的山珍，配合家常方法烹调。其中，薄荷黄蚬肉和葱烧渤海湾螺片鲜味可口，十分推荐。
 
 ###  设施与服务
 
@@ -4984,6 +4926,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 花园或公园 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 10 6559 9899  [](tel:+86 10 6559 9899)
@@ -4995,11 +4938,11 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7dbb08ca74dd4dd2b52fb47179f58ddd" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7d4306dbb0c8414e8e9fdd9ef0424e26" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/73592ddee7d04bd29e2e5fab37e66fa7" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b47f1df3b4464c8b8b20926e881cd90c" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f4f489cc6e6a4e9a844c71d9cd819165" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5007,7 +4950,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ## 紫金阁
 
   * 东城区金鱼胡同5-15号华尔道夫酒店3层, Beijing, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -5016,9 +4959,9 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-装潢以橙色为主，墙上满是手工刺绣的群鸟图案，极富时尚感。主厨原籍广东，曾于国外工作，因此在传统粤菜以外，加入不少新元素。如招牌点心金鱼虾饺，不但味美，而且造型美观可爱。XO酱兰度炒澳带镬气充足，炖汤则浓郁香醇，展现厨师团队的实力。华丽的酒窖和丰富的藏酒，令人忍不住浅尝一杯。
+装潢以橙色为主，墙上满是手工刺绣的群鸟图案，极富时尚感。原籍广东的主厨曾于国外工作，秉承传统粤菜之外，也为菜单加入崭新元素。不要错过招牌点心金鱼虾饺，以及酥脆可口的莲藕千层萝卜酥。XO酱兰度炒澳带镬气充足，炖汤则浓郁香醇，展现厨师的实力。华丽的酒窖藏酒丰富，令人忍不住浅尝一杯。
 
 ###  设施与服务
 
@@ -5033,6 +4976,7 @@ Bombana擅长于传统菜肴中添加现代口味。推荐经典品味套餐，�
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
