@@ -12,7 +12,8 @@ author: jiobxn
 米其林指南（2023-上海）
 
     等级排序（高到低）：三星、二星、一星、必比登推介、小店
-    价格排序（高到低）：$$$$奢华、$$$优质的、$$中档、$负担得起
+    价格排序（高到低）：￥￥￥￥奢华、￥￥￥优质的、￥￥中档、￥负担得起
+
 
 ----
 ----
@@ -31,7 +32,7 @@ author: jiobxn
 ## 壹零贰小馆
 
   * 黄浦区中山东一路27号外滩27号罗斯福公馆5楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 粤菜 
+  * ¥¥¥¥ · 粤菜 
 
 
 
@@ -40,17 +41,21 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
 餐厅于佛山起家，主厨拥有近二十年烹调粤菜经验，擅长制作传统广东手工菜。不同价位的套餐及主题菜单均会呼应季节作变化。其中招牌菜咕噜肉尤其出色：选用优质肥头肉制作，并因应时令搭配不同水果，味美同时富新鲜感。建议参考侍酒师的意见，以美酒配搭佳肴。若为聚餐场合，不妨预订可饱览滨江景色的包厢。
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 接受信用卡 
   * 空调 
+  * 美国运通 
+
 
 ###  电话
 
@@ -63,18 +68,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8c3631c79fdb4e3e81a79699243a6f1c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a3ed5d6cef1d497594f662a67d866006" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/31091b2b1fc54d6a9fc8da9c85230887" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1c2c95399e8b419ea997aae796cd5212" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0779f4d4dd164a6c8b0403a91949bb47" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/906ea7b900044950af77cb45f3eea3ac" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 1515牛排馆
 
   * 静安区延安中路1218号静安香格里拉大酒店4楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 扒房 
+  * ¥¥¥ · 扒房 
 
 
 
@@ -92,12 +97,12 @@ author: jiobxn
   * 中国银联 
   * 代客泊车 
   * 供应优质餐酒 
-  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -105,7 +110,7 @@ author: jiobxn
 
 
 
-<a href="https://www.shangri-la.com/shanghai/jinganshangrila/" target="_blank">访问网站</a>
+<a href="https://www.shangri-la.com/shanghai/jinganshangrila/dining/restaurants/the-1515-west-chophouse-and-bar/" target="_blank">访问网站</a>
 
 
 
@@ -114,11 +119,11 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/21f92f658ff8415da7fd5f79ccbcd74d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e0439fd4094d4791867678ceb66a9026" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ddd40ace0dd14d4e93e3d07d494b6de3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ac2e1b56f0dc40d3a8f49aef80e61cc8" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8d55727397ba4c5eb854dc7a204ec09f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b471784f9bbe4c70a9ecb65597347fbf" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -126,7 +131,7 @@ author: jiobxn
 ## 8 ½ Otto e Mezzo Bombana
 
   * 黄浦区圆明园路169号协进大楼6-7楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 意大利菜 
+  * ¥¥¥¥ · 意大利菜 
 
 
 
@@ -135,9 +140,9 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
-位于洛克‧外滩源，阳台能欣赏黄浦江景色。厨房团队选用优质食材，在经典菜式中巧妙地添加现代元素。套餐内容会随季节稍作更改，让客人享受完整的餐饮旅程，自家制的意大利面，以及布列塔尼龙虾都是不容错过的菜式。此外，酒窖提供优质意大利餐酒，侍酒师亦会作出专业建议，令用餐体验更加美妙。
+位于洛克·外滩源，从阳台能欣赏黄浦江景色。厨房团队选用优质食材，八道菜的创意套餐以海鲜为主，另有包含传统意大利菜式的经典套餐，并巧妙地添加了现代元素。除了意大利面，面包也是手工制，同样不容错过。此外，酒窖提供瓶装及杯装意大利餐酒，侍酒师亦会作出专业建议，令用餐体验更加美妙。
 
 ###  设施与服务
 
@@ -152,13 +157,14 @@ author: jiobxn
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 21 6087 2890  [](tel:+86 21 6087 2890)
 
 
 
-<a href="https://www.ottoemezzobombana.com/" target="_blank">访问网站</a>
+<a href="https://www.ottoemezzobombana.com)" target="_blank">访问网站</a>
 
 
 
@@ -167,11 +173,11 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f7bad8b197d04c548d6075ba1f0f9580" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/dbd0383e21b341768b6039f245b3807a" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b3ef078784ea476fbc5789154a309c03" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9bab5948f96d46faa86b7b60bc72523a" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ce814f02eb4549a9bbc926c3dc042965" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bc7fd89051c74ac58945ff2f1b98c757" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -179,7 +185,7 @@ author: jiobxn
 ## 菁禧荟 (长宁)
 
   * 长宁区虹桥路1665号B5别墅, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 潮州菜 
+  * ¥¥¥¥ · 潮州菜 
 
 
 
@@ -188,7 +194,7 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 位处别墅内的菁禧荟只设五个房间，故此必须订座，建议同时预订菜式，以免向隅。其中潮式冻花蟹鲜甜多膏，必须预留；而特别泡制的金沙海参及以三年狮头鹅制作的卤水老鹅头也不容错过；潮式生腌红膏富贵虾则只在时令季节供应。店员服务细心，乐意向客人讲解，并可按要求预先设计菜单，临场亦可作更改。
 
@@ -200,10 +206,12 @@ author: jiobxn
   * 万事达卡 
   * 中国银联 
   * 供应优质餐酒 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -216,9 +224,9 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e7b246717b1042499b865063b98fc159" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0cb7ee543dad4dddbd0b3dbf20c8d159" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e1ff143f28b94bba8a1f459f3b644fa9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e6cdbfad5cc64856890caa211a295a33" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/465f722938c2479bb52e5736dba187d2" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -228,7 +236,7 @@ author: jiobxn
 ## 阿娘面馆
 
   * 黄浦区思南路36号, Shanghai, 中国大陆地区
-  * .¥ · 面食 
+  * ¥ · 面食 
 
 
 
@@ -249,9 +257,12 @@ author: jiobxn
   * 只接受现金 
   * 空调 
 
+
 ###  电话
 
 +86 21 5306 6604  [](tel:+86 21 5306 6604)
+
+
 
 
 
@@ -262,16 +273,16 @@ author: jiobxn
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5ca6dc7d442c450894683f27cd65f82c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c0ad39775d8c403c8a9a01d3b80fb531" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/50461421c73943cea619d8d665d48ee0" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b593838e0c424a1f994706cf7e430e04" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/81f339c61baf4938a590ba45951f7c02" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Arva
 
   * 闵行区元江路6161号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 意大利菜 
+  * ¥¥¥ · 意大利菜 
 
 
 
@@ -294,11 +305,18 @@ author: jiobxn
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
 +86 21 8011 9999  [](tel:+86 21 8011 9999)
+
+
+
+<a href="https://www.aman.com/resorts/amanyangyun/dining)" target="_blank">访问网站</a>
+
 
 
 ----
@@ -306,9 +324,9 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/935e03c4a68040e991c306ea6d2a4182" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ab525cc3f03844dfbfb9fbfa5b2293d6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5a449d4da65a41768d060825fd4ac2a0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/01bc115ba43544d8b9452df4b1c5c37b" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ccff499a09b24c07a7bb3f2bc29e824d" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -318,7 +336,7 @@ author: jiobxn
 ## 宝丽轩
 
   * 静安区山西北路108弄上海总商会大楼3楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 粤菜 
+  * ¥¥¥¥ · 粤菜 
 
 
 
@@ -327,9 +345,9 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
-位于逾百年历史的上海总商会大楼，六间包厢结合中国传统文化与宝格丽珠宝灵感，优雅又有气派。厨师擅于作不一样的食材搭配，如乌鱼籽玉带豆腐煲，更采用自家制作的豆腐，可见用心。此外亦以本地食材融入传统粤菜，当中以新鲜清远鸡制成的玫瑰豉油鸡是招牌菜之一。餐厅设有酒窖，并有侍酒师为佳肴搭配美酒。
+位于逾百年历史的上海总商会大楼，包厢设计以中国传统文化结合宝格丽珠宝，优雅又有气派。不要错过各式手工点心，尤其是尽显手艺的中式酥点。推荐原只鲍鱼酥，酥皮松软可口，加上弹嫩味浓的鲍鱼，十分美味。玫瑰豉油鸡现点现做，细滑的鸡肉带玫瑰露香气，值得一试。餐厅设有酒窖，并有侍酒师为佳肴搭配美酒。
 
 ###  设施与服务
 
@@ -338,12 +356,12 @@ author: jiobxn
   * 万事达卡 
   * 中国银联 
   * 供应优质餐酒 
-  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -351,7 +369,7 @@ author: jiobxn
 
 
 
-<a href="https://www.bulgarihotels.com/shanghai/" target="_blank">访问网站</a>
+<a href="https://www.bulgarihotels.com/en_US/shanghai/dining/chinese-fine-dining-restaurant)" target="_blank">访问网站</a>
 
 
 
@@ -360,18 +378,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1b0e6fdaf72e430a881c68be9ab0ed27" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/caabf4a7659f423586a0742cf20da639" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/00f12aa02e534acda20db1603e9a823e" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b233f9a34ee94d86a0a0fb109024dde3" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a345ef9dbd934ea1b9609825296a46aa" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 尚牛社会 (静安)
 
   * 静安区南京西路1376号上海商城111号, Shanghai, 中国大陆地区
-  * .¥¥ · 美国菜 
+  * ¥¥ · 美国菜 
 
 
 
@@ -383,6 +401,7 @@ author: jiobxn
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -390,7 +409,9 @@ author: jiobxn
   * 接受信用卡 
   * 柜台式 
   * 空调 
+  * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -398,7 +419,7 @@ author: jiobxn
 
 
 
-<a href="https://www.beef-liberty.com/" target="_blank">访问网站</a>
+<a href="https://www.beef-liberty.com/cn/en/" target="_blank">访问网站</a>
 
 
 
@@ -418,7 +439,7 @@ author: jiobxn
 ## 喜粤8号 (南京东路)
 
   * 黄浦区南京东路139号外滩中央美伦大楼5楼501室, Shanghai, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -437,6 +458,7 @@ author: jiobxn
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 21 6330 8217  [](tel:+86 21 6330 8217)
@@ -448,11 +470,11 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/152e9d3223fe45f6a5d506d78dc791b3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/64c98bffc12e4df4b8162c46098b5f2c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1efd726246844bbd9735106c7aeff0f3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/26d71bb3908340a7b6c36500b570d2f3" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/dfaba333f8c346348ba6ed7d2f3ae86f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/25a9f054e4f4413889b157ee325d907e" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -460,7 +482,7 @@ author: jiobxn
 ## 喜粤8号 (汝南街）
 
   * 黄浦区汝南街63号, Shanghai, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -469,9 +491,9 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
-自开业以来，餐厅一直致力保持水准，让食客以亲民的价格品尝到高素质的广东点心和小菜。在厨房领军的简师傅掌厨逾五十年，经验丰富，更不时花心思更新菜单，以求为客人带来新鲜感。菜单简而精，包含炖汤、烧味、小炒和鱼类菜式。当中特别推介色泽吸引、肉味香浓的叉烧，以及多款精致甜点。
+喜粤8号从开业至今一直致力让食客以亲民的价格，品尝到高素质的广东点心和小菜，即使厨房人员有所变更，其团队对菜式的呈现仍值得期待。来自香港的新任主厨，拥有超过四十年粤菜经验，对现有菜单作出了些许调整。菜单包含炖汤、烧味、小炒和鱼类美食，特别推介色泽吸引、肉味香浓的叉烧，以及精致的甜点。
 
 ###  设施与服务
 
@@ -484,6 +506,7 @@ author: jiobxn
   * 接受信用卡 
   * 空调 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -498,16 +521,16 @@ author: jiobxn
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2849eea9e5cd42fb9868a389a935fc30" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/dd8a2ae136244da69b0e61d47309e8f9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ad6793908ce343f4bfce01d03a06a74a" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a8171cd79f7d4ce08480a55b80477673" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cb123e341df947c8aec05b6e9906b665" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 粤味
 
   * 黄浦区南京东路199号艾迪逊酒店2楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -526,10 +549,11 @@ author: jiobxn
   * 代客泊车 
   * 供应优质餐酒 
   * 大来卡 (Diners Club) 
+  * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
-  * 轮椅通道 
+
 
 ###  电话
 
@@ -537,7 +561,7 @@ author: jiobxn
 
 
 
-<a href="http://edition-hotels.cn/" target="_blank">访问网站</a>
+<a href="https://www.editionhotels.com/shanghai/restaurants-and-bars/canton-disco/" target="_blank">访问网站</a>
 
 
 
@@ -546,11 +570,11 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1f202c2554414b90ae3e0a234e0d59d3" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/19ec95b6590248e0a886946cb8442b34" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ba45c2e5c4b24831a7ef3395e7794419" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4c191919d43743daa779b8e3e6671a76" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4459ee2541b344fdbd296c302c9dac68" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -558,7 +582,7 @@ author: jiobxn
 ## 三号黄浦会
 
   * 黄浦区中山东一路3号外滩3号5楼, Shanghai, 200002, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -567,7 +591,7 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 位于外滩大街，落地玻璃看尽醉人的黄浦江景色。室内则以简约设计作主调，加上旗袍女子的画像，呈现老上海风情。有趣的是，餐厅主打粤菜，菜单涵盖烧味、点心等广东美食，多款时令菜也不容忽视。建议一尝桂花炒鱼肚，炒蛋花就像桂花般金黄漂亮，配合银芽和鱼肚丝，口感出众。设私人包厢，适合大小聚餐。
 
@@ -581,6 +605,8 @@ author: jiobxn
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -608,7 +634,7 @@ author: jiobxn
 ## Cellar to Table
 
   * 徐汇区东湖路20号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 地中海菜 
+  * ¥¥¥ · 地中海菜 
 
 
 
@@ -628,6 +654,7 @@ author: jiobxn
   * 空调 
   * 美国运通 
   * 阳台 
+
 
 ###  电话
 
@@ -651,7 +678,7 @@ author: jiobxn
 ## 恰
 
   * 黄浦区中山东二路585号外滩英迪格酒店29-31楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 扒房 
+  * ¥¥¥¥ · 扒房 
 
 
 
@@ -676,13 +703,14 @@ author: jiobxn
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 3302 9995  [](tel:+86 21 3302 9995)
 
 
 
-<a href="https://www.ihg.com/hotelindigo/hotels/us/en/shanghai/shgnb/hoteldetail?fromRedirect=true&qSrt=sBR&qSlH=shgnb&setPMCookies=true&qSHBrC=IN&qDest=No.585%20Zhong%20Shan%20Dong%20Er%20Road,%20Huangpu%20District,%20Shanghai,%20SH,%20CN&srb_u=1/" target="_blank">访问网站</a>
+<a href="https://www.ihg.com/hotelindigo/hotels/us/en/shanghai/shgnb/hoteldetail?fromRedirect=true&qSrt=sBR&qSlH=shgnb&setPMCookies=true&qSHBrC=IN&qDest=No.585%20Zhong%20Shan%20Dong%20Er%20Road,%20Huangpu%20District,%20Shanghai,%20SH,%20CN&srb_u=1)" target="_blank">访问网站</a>
 
 
 
@@ -703,7 +731,7 @@ author: jiobxn
 ## 成隆行蟹王府 (黃浦)
 
   * 黃浦区九江路216号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -712,7 +740,7 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 这大闸蟹专门店自设大型养殖场，确保货源优质。店内供应的大闸蟹肉质鲜甜爽滑；蟹黄则入口清香，出油回味。其招牌菜醉蟹选用二两大的大闸蟹，在蟹最后一次脱壳后用花雕酒腌制一个月而成；而雪花蟹斗则以约三只大闸蟹的纯蟹肉制成，真材实料。店内装潢别致，一如明清徽式风格的小戏台，每晚更设丝竹表演。
 
@@ -723,6 +751,7 @@ author: jiobxn
   * 中国银联 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -735,18 +764,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a914a03409a744df9d2efa9fb8370711" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/722506e14cb9484db6f36a1d433ddfcc" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1cb1e6ed3d6b46a78fe5b0f7419b9cc2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/672ce304a290479f97dfcfae4e8dbc3e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c9a33c7922fc478189fde0b094adca14" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f243987d27944267a9a4a64150c57d88" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 远洋私厨
 
   * 浦东新区张杨路500号华润时代广场8楼L807号, Shanghai, 中国大陆地区
-  * .¥¥ · 闽菜 
+  * ¥¥ · 闽菜 
 
 
 
@@ -754,7 +783,7 @@ author: jiobxn
 
 ###  米其林指南的观点
 
-集团在上海的首家分店，设计时尚，大量玻璃元素令餐室富有空间感。厨师团队来自厦门，他们以巧手料理各式家乡食材，制作出口味正宗的福建美食。推荐捞汁厦港海蛎，口感饱满，伴上秘制汁酱，十分开胃；厦门沙茶锅则材料丰富，味道香浓微辣，并渗出花生香气，不容错过；三明红菇炖豆腐亦值得一试。
+集团在上海的首家分店，设计时尚，采用玻璃元素令餐室富有空间感。来自厦门的厨师团队从家乡引入大部分海鲜，制作出口味正宗的福建美食。荷香乌米蒸红树林膏蟹味道鲜甜，甘香的蟹膏与带有荷叶香的乌米，搭配相得益彰。此外，捞汁厦港海蛎、厦门沙茶锅等亦各有特色，同样不容错过。
 
 ###  设施与服务
 
@@ -762,6 +791,7 @@ author: jiobxn
   * 中国银联 
   * 室外停车场 
   * 空调 
+
 
 ###  电话
 
@@ -786,7 +816,7 @@ author: jiobxn
 ## 春
 
   * 黄浦区进贤路124号, Shanghai, 中国大陆地区
-  * .¥ · 沪菜 
+  * ¥ · 沪菜 
 
 
 
@@ -803,9 +833,12 @@ author: jiobxn
 
   * 只接受现金 
 
+
 ###  电话
 
 +86 21 6256 0301  [](tel:+86 21 6256 0301)
+
+
 
 
 
@@ -814,18 +847,18 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5246d6e7d92146a9bc4c030d4cd113a6" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/82f3ade1218a43df91b85f684d2823ce" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6f82e7c3a1ff46eb915d358b6be5b8f4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/918a07669b9a4fa9a5b319827e28afd6" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5246d6e7d92146a9bc4c030d4cd113a6" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 壳里
 
   * 黄浦区蒙自路29号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 法国菜 
+  * ¥¥¥ · 法国菜 
 
 
 
@@ -838,13 +871,18 @@ author: jiobxn
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
+  * 室外停车场 
   * 接受信用卡 
   * 柜台式 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -872,7 +910,7 @@ author: jiobxn
 ## 古铜法式餐厅
 
   * 徐汇区淮海中路1502号, Shanghai, 中国大陆地区
-  * .¥¥ · 时尚法国菜 
+  * ¥¥ · 时尚法国菜 
 
 
 
@@ -897,7 +935,9 @@ author: jiobxn
   * 柜台式 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -922,7 +962,7 @@ author: jiobxn
 ## 大董海参店 (静安)
 
   * 靜安区南京西路1601号越洋广场5楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚中国菜 
+  * ¥¥¥ · 时尚中国菜 
 
 
 
@@ -931,7 +971,7 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 烤鸭是这里的招牌菜，因此餐厅对这道菜式非常讲究：采用北京鸭种，食客可选择45天的填鸭或22天的小雏鸭。两者均皮脆肉嫩，叫人垂涎。厨师更会在餐桌旁边，将烤至焦糖色的烤鸭慢慢切片。烤鸭以外，葱烧海参亦是不容错过的招牌菜。此店位处高级商厦，餐室空间阔大，装潢时尚且设有多个包厢，环境舒适。
 
@@ -948,6 +988,7 @@ author: jiobxn
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 3253 2299  [](tel:+86 21 3253 2299)
@@ -963,11 +1004,11 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fe9909cfab2c44fb880f57e237d5e17a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c7f4eabf43d144329fa6229c6439f589" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/11dd179a68b145c1965701d81e72104e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/41f3817b1250412f83e1955c986f942e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3f4dbd18827d41d29bb39e4c320c837d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/10fb5e13cdf449b2a59307017a8308ce" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -975,7 +1016,7 @@ author: jiobxn
 ## 大董 (徐汇)
 
   * 徐汇区淮海中路999号环贸广场6楼602号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚中国菜 
+  * ¥¥¥ · 时尚中国菜 
 
 
 
@@ -984,7 +1025,7 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 以烤鸭驰名的大董在上海设有数家分店，这家位处铁路站上的商场内，经常人头涌涌，足证其烤鸭甚具水准——来自北京的填鸭给烤至皮脆肉嫩，并佐以多款精细佐料，同时配上面饼进食。不能错过的还有葱烧海参。餐厅亦设时令菜单及廿四节气菜式，选择多样。晚市宾客盈门，宜提早到埗。
 
@@ -1002,6 +1043,8 @@ author: jiobxn
   * 空调 
   * 美国运通 
   * 轮椅通道 
+  * 阳台 
+
 
 ###  电话
 
@@ -1030,7 +1073,7 @@ author: jiobxn
 ## 大壶春 (四川中路)
 
   * 黃浦区四川中路136号, Shanghai, 中国大陆地区
-  * .¥ · 点心 
+  * ¥ · 点心 
 
 
 
@@ -1051,6 +1094,7 @@ author: jiobxn
   * 只接受现金 
   * 空调 
 
+
 ###  电话
 
 +86 21 6313 0155  [](tel:+86 21 6313 0155)
@@ -1062,19 +1106,19 @@ author: jiobxn
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b200c4c6bc4441a598218e9f1bb95053" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/27c599980fb143d4a5852fac99d43b9d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1e908d643eeb4f429b4ce2fa99d80058" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f0b456efdec54b239ee4f99c7031d232" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bbd8d9088aa4421385c8c72aa0a62109" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6547f91f00014947b6513ee39916c841" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
 
 ## Da Vittorio
 
-  * 黄浦区中山东二路600号N3幢3楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 意大利菜 
+  * 黄浦区中山东二路600号BFC外滩金融中心N3幢3楼, Shanghai, 中国大陆地区
+  * ¥¥¥¥ · 意大利菜 
 
 
 
@@ -1083,7 +1127,7 @@ author: jiobxn
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
 由历史悠久的意大利Da
 Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔托地区的传统美食。餐厅以鱼虾、扇贝等海鲜闻名，套餐包括多款招牌菜，展现正宗意式风情。也不妨单点温海鲜色拉、鱼子酱蛋挞以及煎羊里脊，配搭每天制作的面包。最后来一客提拉米苏，为美好的一餐画上句号。
@@ -1094,7 +1138,6 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * Maestro 
   * Visa 
   * 万事达卡 
-  * 中国银联 
   * 供应优质餐酒 
   * 供应素食菜单 
   * 室外停车场 
@@ -1103,13 +1146,14 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6330 2198  [](tel:+86 21 6330 2198)
 
 
 
-<a href="https://www.davittorio.com/" target="_blank">访问网站</a>
+<a href="https://www.davittorio.com/zh/%E9%A4%90%E5%8E%85/%E4%B8%8A%E6%B5%B7-shanghai.html)" target="_blank">访问网站</a>
 
 
 
@@ -1129,7 +1173,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 德兴馆 (广东路)
 
   * 黃浦区广东路471号, Shanghai, 中国大陆地区
-  * .¥ · 沪菜 
+  * ¥ · 沪菜 
 
 
 
@@ -1145,6 +1189,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 中国银联 
   * 空调 
 
+
 ###  电话
 
 +86 21 6352 2535  [](tel:+86 21 6352 2535)
@@ -1156,58 +1201,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4bb3c839d6a5427d8694b0560bdbe91d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5e4ae839517845fbb91610f2495487fc" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/59a3d1b618a144d1a2c5ff455c170170" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/443fcc08fafd4ababca8a556e71f1bf5" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/41e246b5b10546a1a2a70a8d033af7e3" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 顶特勒粥面馆
-
-  * 黄浦区淮海中路494弄22号, Shanghai, 中国大陆地区
-  * .¥ · 粥面 
-
-
-
-
-
-###  米其林指南的观点
-
-
-小店
-
-这家粥面馆藏身于淮海路雁荡路对面的一条弄堂里，简朴的店面与一般上海弄堂食店大相迳庭，不甚显眼，走近店门，粥、面、饭和小食的香气却扑鼻而来。店子所售的地道面食甚受欢迎，葱油肉丝面、雪菜黄鱼煨面和香炸大排更是热卖之选。店家廿四小时营业，食客可到阁楼的小餐室享用。
-
-###  设施与服务
-
-  * 只接受现金 
-  * 空调 
-
-###  电话
-
-+86 21 5107 9177  [](tel:+86 21 5107 9177)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ddc4224aa4c5404ca22e71239a418777" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/de0f091871004f44a6d89721f8f0c6a7" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5b2faee5b5784239bd1401327a848b21" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ef11365a251444e38d7bcd6b5545b54b" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 悦轩
 
   * 浦东新区世纪大道100号柏悦酒店87楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 江浙菜 
+  * ¥¥¥ · 江浙菜 
 
 
 
@@ -1231,13 +1236,14 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6888 1234  [](tel:+86 21 6888 1234)
 
 
 
-<a href="https://www.hyatt.com/en-US/hotel/china/park-hyatt-shanghai/shaph/" target="_blank">访问网站</a>
+<a href="https://www.hyatt.com/en-US/hotel/china/park-hyatt-shanghai/shaph)" target="_blank">访问网站</a>
 
 
 
@@ -1246,18 +1252,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/47dcb2edf5f24edaba27fe828a80f67d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/27ab7afe830349a5a680efd370056ecf" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e0dd731bb6534cfe97b73016976db5c6" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b802fb7e94cb41dba92d766064754027" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/58e5175aea3946528bbd09c734615ea9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2827dce4471a49a1a820c24ebed5cec3" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 东平潮
 
   * 徐汇区东平路1号, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 潮州菜 
+  * ¥¥¥¥ · 潮州菜 
 
 
 
@@ -1269,11 +1275,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 ###  设施与服务
 
-  * 不接受海外信用卡 
+  * JCB 
+  * Maestro 
+  * Visa 
+  * 万事达卡 
   * 中国银联 
   * 代客泊车 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
+  * 接受信用卡 
   * 空调 
+  * 美国运通 
+
 
 ###  电话
 
@@ -1295,10 +1308,10 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 </div>
 
-## 逸采
+## 逸采（静安）
 
   * 静安区陕西南路90号2楼, Shanghai, 中国大陆地区
-  * .¥¥ · 江浙菜 
+  * ¥¥ · 江浙菜 
 
 
 
@@ -1313,9 +1326,12 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 ###  设施与服务
 
-  * 不接受海外信用卡 
+  * Visa 
   * 中国银联 
+  * 接受信用卡 
   * 空调 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -1339,7 +1355,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 香料与鹅肝
 
   * 黄浦区汉口路309号A1-05, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚法国菜 
+  * ¥¥¥ · 时尚法国菜 
 
 
 
@@ -1361,6 +1377,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 空调 
   * 美国运通 
   * 阳台 
+
 
 ###  电话
 
@@ -1385,7 +1402,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 文兴酒家
 
   * 静安区愚园路68号晶品6楼605号, Shanghai, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -1407,6 +1424,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 21 6287 5001  [](tel:+86 21 6287 5001)
@@ -1418,18 +1436,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e662ab46a0c443f9afea3bbd6b14f500" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6feebb940dc145abb5000a124d3b279b" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/982388d7b992416286c1242d004e2718" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6f7258617c1841bc92335712deac1abd" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/29253ec6d0a643f08fd5820d7359e220" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c0ba3b6b24254be09dcee10237592aa5" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Frasca
 
   * 静安区石门一路366号镛舍公寓式酒店1楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 意大利菜 
+  * ¥¥¥ · 意大利菜 
 
 
 
@@ -1437,12 +1455,11 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 ###  米其林指南的观点
 
-毗邻兴业太古汇商场，这家悠闲而时尚的餐厅，由来自罗马的主厨领导，炮制出的意菜富有家乡风味。不妨试试他们自家烘焙的面包、比萨、烤肉，以及选择众多的意大利面。当中的手工意大利饺子不仅味道出色，而且充满嚼劲，叫人回味。酒单备有多种意大利美酒，搭配佳肴，更显滋味无穷。
+毗邻兴业太古汇商场，这家悠闲而时尚的餐厅，厨师团队炮制出的意菜富有家乡风味。不妨试试他们自家烘焙的面包、比萨、烤肉，以及选择众多的意大利面。当中的手工意大利饺子不仅味道出色，而且充满嚼劲，叫人回味。酒单备有多种意大利美酒，搭配佳肴，更显滋味无穷。
 
 ###  设施与服务
 
   * JCB 
-  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -1453,7 +1470,9 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 早午拼餐 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -1461,7 +1480,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 
 
-<a href="https://www.thehousecollective.com/en/the-middle-house/" target="_blank">访问网站</a>
+<a href="https://www.thehousecollective.com/en/the-middle-house/restaurants-and-bars/frasca/" target="_blank">访问网站</a>
 
 
 
@@ -1472,9 +1491,9 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fdf8ebdf8fb84325bb49b8ed11970fe6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/823b40b60b58409db4654c4db2ac19a9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/eaa1401d3ab64a7c87fcb7b567490e97" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6d4e9dc7ef6b45288ceddc094e8d1644" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/048dc50e31944511b6b7caf3305b34c7" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1482,7 +1501,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 福一零一五
 
   * 长宁区愚园路1015号, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 沪菜 
+  * ¥¥¥¥ · 沪菜 
 
 
 
@@ -1491,7 +1510,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 这是一家开在老洋房中的本帮菜菜馆，菜式不乏老上海元素，并以套餐形式供应。推介食品包括以野生河虾制成的三虾豆腐、选用散养草鸭的松仁酥鸭，以及用砂锅盛载、因应季节加入黑松露的羊肚菌鲍鱼炆饭。餐厅内是一间间包厢，装潢怀旧优雅，让人有时光倒流的感觉，晚上更有钢琴表演。必须预早订座。
 
@@ -1506,6 +1525,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 21 5237 9778  [](tel:+86 21 5237 9778)
@@ -1519,7 +1539,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5631b97e586143c7a342038c7f0aa557" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2681ea9dad4f4f4d9daba6c27400b961" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6684a63af31e4a50be51c4b4e5eb27a4" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2972f59b3ea74859962ec1d2a6f10f01" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -1529,7 +1549,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 福一零三九
 
   * 长宁区愚园路1039号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -1538,7 +1558,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 这是福集团首家食府，位于1921年兴建的古宅之中。室内的古董摆设、灯饰、旧照片等洋溢着怀旧味道，亦设有面向花园的阳台座位及厢房。团队近期为菜单翻新，除了经典沪菜，更添加了不少手工菜肴。当中河鲜品质极高，尤其是河鳗和鳝鱼，提供各具风味的做法，值得一试。食物以外，贴心的服务也是客人再访之因。
 
@@ -1555,6 +1575,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 接受信用卡 
   * 空调 
   * 阳台 
+
 
 ###  电话
 
@@ -1579,7 +1600,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 福一零八八
 
   * 静安区镇宁路375号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -1588,9 +1609,9 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-餐厅位于一幢建于上世纪二十年代的洋房中，怀旧瓷砖地台、精致雕花木墙、古董摆设和典雅的水晶灯都充份体现老上海风情。厨师团队经验丰富，出品叫人回味。八宝辣酱、火丁云南小豌豆、蟹粉小笼包等传统美食应有尽有，其中招牌菜香溢红烧肉和老上海熏鱼属必试之选。晚饭时间设个人最低消费。
+餐厅位于一幢建于上世纪二十年代的洋房，室内的怀旧瓷砖地台、精致雕花木墙、水晶灯和古董摆设都展现出老上海风情。厨师团队经验丰富，必不能错过采用青鱼鱼腩制作的上海熏鱼，外层酥脆而肉质鲜嫩，搭配微甜的酱汁，额外可口。现点现做的河虾仁、香气十足的腰果苔条酥，也十分有水准。晚饭时间设个人最低消费。
 
 ###  设施与服务
 
@@ -1605,6 +1626,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 21 5239 7878  [](tel:+86 21 5239 7878)
@@ -1616,11 +1638,11 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/96109caf2e3d48f9a6e1bb49c4e9fbda" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ef695d3f0f1d477c8a8ae1ec04968bd8" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/397bc9125ab94d22b0b025c4c78a91b9" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0fdf873fb7244b56a567b584a3120d89" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b333cd30c8e84feeb0f884524215a6d7" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1628,7 +1650,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 福和慧
 
   * 长宁区愚园路1037号, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 素食 
+  * ¥¥¥¥ · 素食 
 
 
 
@@ -1637,7 +1659,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 福集团在愚园路上有多家餐厅，唯福和慧专门提供素菜。不论餐室装潢或菜式皆满载禅意。餐厅只供应套餐，每道菜都经过精心设计，厨师们坚持选用时令本地食材，且按四时更替变换内容。菜单中包含不少传统功夫菜，如素菜版传统扣三丝，别有一番味道。不妨选配中国茶，轻啖素菜之余品味醇香茶饮。
 
@@ -1651,9 +1673,12 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 21 3980 9188  [](tel:+86 21 3980 9188)
+
+
 
 
 
@@ -1662,11 +1687,11 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/01e9c0de1005455cb27eaf55f4ab37f1" alt="Image 3" style="width: 200px; height: auto;">
+
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b60aaae10c054d2d8b724eee25489770" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e205042faccb4c8993f3d526fa8846dc" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e3e20d23932c407bb536099fcd0fc996" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/757ad154a7f745fe9a1e61553754c133" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1674,7 +1699,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 功德林 (黃浦)
 
   * 黃浦区南京西路445号, Shanghai, 中国大陆地区
-  * .¥¥ · 素食 
+  * ¥¥ · 素食 
 
 
 
@@ -1699,6 +1724,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 21 6327 0218  [](tel:+86 21 6327 0218)
@@ -1710,18 +1736,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7af2805cad244a69bf916baa2278859e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/29972ec2ff43484e91b925a705f1df78" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0e4646d177c3491398794a8026711e56" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/dd31b31b3244406886250bc0df30a603" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7af2805cad244a69bf916baa2278859e" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 海味观（静安）
 
   * 静安区康定路18号, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -1733,9 +1759,16 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 ###  设施与服务
 
+  * JCB 
+  * Maestro 
+  * Visa 
+  * 万事达卡 
   * 不接受海外信用卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 空调 
+  * 美国运通 
+
 
 ###  电话
 
@@ -1748,18 +1781,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b57dfddb52c0448496c2342627674acc" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8ecbabb4b56a453fa2f37bd3717b8434" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ec71f0e62a94468aa477e98434eb89a4" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fb91ecd3fb2f4bf48ec65d389f9bd84a" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3bb56a19165141aea5d68044f218cc56" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/49e3da32be3d4642a577587fb61f0d01" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Hakkasan
 
   * 黄浦区中山东一路18号外滩18号5楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚中国菜, 粤菜 
+  * ¥¥¥ · 时尚中国菜, 粤菜 
 
 
 
@@ -1771,18 +1804,20 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 ###  设施与服务
 
-  * Discover card 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 上佳景观 
   * 中国银联 
   * 供应优质餐酒 
   * 大来卡 (Diners Club) 
+  * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -1799,18 +1834,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fca335d06a2b414a8907b6765d9277b2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a0cf18fb90694a01a01deec26ce6b906" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a4b0ea5fb5f144a4a88a7622437386ea" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/70139fa732de494d9fc12bef0484d3e2" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6263d86a64c14acbb4237d85587e4fbf" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e77c966d1fd34edebb97a2608e8aaa09" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 恒悦轩 (徐汇)
 
   * 徐汇区宛平路290号徐家汇公园內, Shanghai, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -1835,6 +1870,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 21 6472 9778  [](tel:+86 21 6472 9778)
@@ -1845,14 +1881,15 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 
 
+
 ----
 ----
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c346db917f1d45999fec838b174d22e9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a931227aa5a648ed9985720cf1e4edb8" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ee4d15fa684549f3878312fbef80ea8c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/02b2371c444a458dba9af35c5e4b0468" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bed4190c6a0047f0bc42951c2d16183d" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -1862,7 +1899,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 豪生酒家
 
   * 徐汇区广元路156号, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -1882,6 +1919,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
   * 只接受现金 
   * 空调 
+
 
 ###  电话
 
@@ -1906,7 +1944,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 何洪记
 
   * 静安区石门一路288号兴业太古汇南楼L324, Shanghai, 中国大陆地区
-  * .¥¥ · 粥面 
+  * ¥¥ · 粥面 
 
 
 
@@ -1922,12 +1960,12 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  设施与服务
 
   * Visa 
-  * 万事达卡 
-  * 大来卡 (Diners Club) 
+  * 中国银联 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -1940,18 +1978,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b42d84770fcf40198b7f7227dd897b58" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d0f65241fb2442b0b294dcc3839bb86e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7b7f8ac6e853463099520c3efdc11d59" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3bbe2acb295b45309c7491c7f04b09d4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4ecbb25539334be18cb7a911bddb6f0c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/781ff9427f384c9fbcf8b200ee3906a2" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 泓0871
 
-  * 虹口区上海城控控股大厦副座5楼, Shanghai, 中国大陆地区
-  * .¥¥ · 滇菜 
+  * 虹口区吴淞路130号上海城控控股大厦副座5楼, Shanghai, 中国大陆地区
+  * ¥¥ · 滇菜 
 
 
 
@@ -1963,11 +2001,17 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 ###  设施与服务
 
-  * 不接受海外信用卡 
+  * Visa 
   * 中国银联 
+  * 室外停车场 
+  * 接受信用卡 
   * 空调 
+  * 美国运通 
+
 
 ###  电话
+
++86 21 5677 6898  [](tel:+86 21 5677 6898)
 
 
 
@@ -1976,11 +2020,11 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1a38c7adb518472bb63034505789d819" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7b60cdbc113d481eb4473b7e2528586f" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ba74d087c07349f882506ba30f9e909a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f673d4869eca42588323b592fd791646" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/315099ccc44344f68b2d52b3fee9adb6" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -1988,7 +2032,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## Il Ristorante - Niko Romito
 
   * 静安区山西北路108弄宝格丽酒店47楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 意大利菜 
+  * ¥¥¥¥ · 意大利菜 
 
 
 
@@ -1997,9 +2041,10 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-天花的水晶灯衬托着佩戴珠宝的模特儿照片，尽显奢华时尚。皮制沙发面向落地玻璃窗，让人饱览黄浦江景色。餐厅由意籍主厨主理，菜单虽与其他海外分店一样，烹调时却会采用本地新鲜食材。除了自家制面包，推荐鲜味十足的意式扁面配龙虾及西班牙红虾。酒单上罗列多款香槟和意法佳酿，不妨请侍酒师提供意见。
+水晶灯衬托着皮制沙发，尽显奢华时尚，配备落地玻璃窗，让人饱览黄浦江景色。由意籍主厨主理，并由大厨Niko
+Romito定期到场指导，菜单富有季节性同时保留传统风格。手工意面选择丰富，尤其推荐鲜味十足的意式扁面配龙虾。甜点乳清芝士冰淇淋细滑香浓，不容错过。酒单罗列多款香槟和意法佳酿，不妨请侍酒师提供意见。
 
 ###  设施与服务
 
@@ -2009,12 +2054,12 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 上佳景观 
   * 中国银联 
   * 供应优质餐酒 
-  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -2022,7 +2067,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 
 
-<a href="https://www.bulgarihotels.com/shanghai/" target="_blank">访问网站</a>
+<a href="https://www.bulgarihotels.com/shanghai)" target="_blank">访问网站</a>
 
 
 
@@ -2043,7 +2088,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 御宝轩 (黄浦)
 
   * 黃浦区北京东路99号益丰‧外滩源4楼402-403号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -2052,19 +2097,19 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
-御宝集团设于益丰·外滩源的这家餐馆提供高级粤菜。黑色装潢配合优雅的水晶吊灯，气派十足，特别适合宴会及聚餐。其经典粤菜都做得正宗而精细，手工菜式如蟹肉桂花炒瑶柱、合多人共享的糯米黄金脆皮鸡等更尽显功架。甜食方面，不妨试试大热的流沙包。火喉十足的炖汤、片皮鸭等为限量菜式，建议于订座时预留。
+御宝集团设于益丰·外滩源的这家餐馆提供高级粤菜。黑色装潢配合优雅的水晶吊灯，气派十足，特别适合宴会及聚餐。其经典粤菜都做得正宗而精细，蟹肉桂花炒瑶柱、合多人共享的糯米黄金脆皮鸡等更尽显厨师手艺。甜食方面，不妨试试生磨合桃露。火候十足的炖汤、片皮鸭等为限量菜式，建议于订座时预留。
 
 ###  设施与服务
 
-  * JCB 
   * Visa 
+  * 万事达卡 
   * 中国银联 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
-  * 美国运通 
+
 
 ###  电话
 
@@ -2081,18 +2126,18 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/46cddd85c03f44d2951d974924c814e6" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bf3379e8f9684b88959be727828da9df" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b15c64161f13422591ce1126340f709f" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ce029f1ed40b49f8a9d89c07a1be01fa" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ba28012580cf4bc585dbc69fd2eaaf13" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 翡翠36
 
   * 浦东新区富城路33号浦东香格里拉大酒店紫金楼36楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚法国菜 
+  * ¥¥¥ · 时尚法国菜 
 
 
 
@@ -2119,6 +2164,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 2828 6888  [](tel:+86 21 2828 6888)
@@ -2136,16 +2182,16 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f58135b34067475d93194e2049bacca6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/87c58567e3d944fc89e55fdda49a7131" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c296043ab0b0433d8914c4006a3cd798" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/418d2bef0e944766bb324766bdbe035b" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Jamoteca
 
-  * 浦东新区东育路500号前滩太古里商场石区L3-03, Shanghai, 中国大陆地区
-  * .¥¥¥ · 西班牙菜 
+  * 浦东新区东育路500弄前滩太古里石区S-L3-03, Shanghai, 中国大陆地区
+  * ¥¥¥ · 西班牙菜 
 
 
 
@@ -2158,17 +2204,24 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 153 0060 0769  [](tel:+86 153 0060 0769)
+
+
+
+<a href="http://yunmigroup.com/En/Restaurant/Info/10040)" target="_blank">访问网站</a>
 
 
 
@@ -2188,7 +2241,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## 苏浙汇 (南京西路)
 
   * 黄浦区南京西路288号创兴金融中心3楼, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -2200,12 +2253,17 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 ###  设施与服务
 
+  * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+  * 美国运通 
+
 
 ###  电话
 
@@ -2218,11 +2276,11 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d6ebe2868b3e4253abeb4534bb882cb4" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f22a9752092e4d7e934a36f6403367fc" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b9f0190bf9a8418583fa4421760f91dd" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/966e257d0238465db03113e7cacb7334" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b223b65c68f04c69bcbff195cb7f8b0e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cff13ab815f24ee6bffda86539cfeb18" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -2230,7 +2288,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ## Jean Georges
 
   * 黄浦区中山东一路3号外滩3号4楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 法国菜 
+  * ¥¥¥¥ · 法国菜 
 
 
 
@@ -2239,7 +2297,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 由法国厨师Jean
 Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总店的步伐，经典菜式如鸡蛋鱼子酱等均在其上。金枪鱼配酪梨的用料上佳，酪梨蓉配上小红萝卜碎及姜汁口味清新；也别忘了来一客舒芙蕾。美酒同样不容错过，酒单上有搜罗自世界各地逾七百款优秀餐酒。服务员亲切友善，常照顾客人需要。
@@ -2258,6 +2316,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6321 7733  [](tel:+86 21 6321 7733)
@@ -2273,11 +2332,11 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ba8bbf8d717c432ea73e248cadf38dc3" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b06f63344fe14b3a8179b92a4279bbb9" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/540d5060f2b049d887ed9bc4786af3ac" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/246aa690987347a0b8af4fc648df5c88" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/52ee42949a46470192228b24ab0d95ce" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -2285,7 +2344,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 金轩
 
   * 浦东新区世纪大道8号丽思卡尔顿酒店53楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 粤菜 
+  * ¥¥¥¥ · 粤菜 
 
 
 
@@ -2294,7 +2353,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 位于浦东丽思卡尔顿五十三楼，邻近东方明珠塔，无论身处餐厅任何角落，皆可俯瞰黄浦江的迷人景致。厨师团队拥有丰富粤菜经验，务求把高素质食材，以最合适的烹调技巧呈现于客人面前。菜单包罗多款传统口味，点心、经典小菜或海鲜菜式，皆细心烹调。餐厅经理更可替客人搭配餐酒与佳肴。
 
@@ -2313,7 +2372,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 接受信用卡 
   * 空调 
   * 美国运通 
-  * 轮椅通道 
+
 
 ###  电话
 
@@ -2321,7 +2380,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 
 
-<a href="https://www.ritzcarlton.com/zh-cn/hotels/china/shanghai-pudong/" target="_blank">访问网站</a>
+<a href="https://www.ritzcarlton.com/en/hotels/shasz-the-ritz-carlton-shanghai-pudong/dining/" target="_blank">访问网站</a>
 
 
 
@@ -2334,7 +2393,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/021a23eac70e47f7a8e4e9a66e8e888c" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fdfbd818e3e94f678a1b49ead85e6290" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/538b8d4403fd461892ac3ab57841756c" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -2342,7 +2401,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 吉品轩
 
   * 徐汇区乌鲁木齐南路55号3楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -2351,7 +2410,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  米其林指南的观点
 
 
-二星：烹调出色，不容错过！
+二星：卓越烹饪
 
 位于法式古建筑内，食客得以在优雅环境中，享受美好的用餐体验。厨师致力呈现粤菜精粹，从餐前小食、小菜到汤羹都力求色香味俱全，特别推荐砂锅陈皮沙姜煎鸡、马友咸鱼蒸鲜虾肉饼及招牌菜极品蜜汁叉烧。菜式分量可按需要调整，建议订座时查询海鲜供应。其酒窖存量丰富，不妨请侍酒师协助挑选美酒。
 
@@ -2369,6 +2428,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -2392,7 +2452,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 老干杯 (黄浦)
 
   * 黄浦区广东路20号外滩5号5楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 烧烤 
+  * ¥¥¥ · 烧烤 
 
 
 
@@ -2406,9 +2466,8 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
   * JCB 
   * Visa 
-  * 万事达卡 
+  * 中国银联 
   * 代客泊车 
-  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 柜台式 
@@ -2416,6 +2475,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 美国运通 
   * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -2428,18 +2488,18 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1f00359e937644c2a1948c1da0f9b73e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/23186be209724b65ad2cd78ff03780b6" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3b20d28cca80450688241d16d6a272a7" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/104fcf5d48134939a718cb42ecd6cff2" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0dc2d756af3b4764be38c01e8b7ed231" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/873940c70cc34c8c8d5a3161a7e88a8c" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Kiina
 
   * 黄浦区中山南一路568号3楼301室, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 创新菜 
+  * ¥¥¥¥ · 创新菜 
 
 
 
@@ -2457,13 +2517,10 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 室外停车场 
   * 空调 
 
+
 ###  电话
 
 +86 21 6388 8807  [](tel:+86 21 6388 8807)
-
-
-
-<a href="http://www.kiina-sh.com/" target="_blank">访问网站</a>
 
 
 
@@ -2484,7 +2541,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 兰心 (进贤路)
 
   * 黄浦区进贤路130号, Shanghai, 中国大陆地区
-  * .¥ · 沪菜 
+  * ¥ · 沪菜 
 
 
 
@@ -2504,6 +2561,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
   * 只接受现金 
   * 空调 
+
 
 ###  电话
 
@@ -2528,7 +2586,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 老正兴 (黃浦)
 
   * 黃浦区福州路556号, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -2537,7 +2595,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 老正兴是上海历史最悠久的本帮菜馆，由1862年开业至今享誉海内外，更是不少经典名菜的起始之处，是探索正宗本帮菜餚的不二之选。现址虽已经营逾三十年，用餐环境却十分宽敞舒适，各楼层分别设有主餐室和包厢。推荐一尝油爆虾、虾籽大乌参和八宝辣酱等招牌菜。经典菜式琳琅满目，宜与亲朋好友结伴前来。
 
@@ -2549,68 +2607,14 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 21 6322 2624  [](tel:+86 21 6322 2624)
 
 
 
-<a href="http://www.laozhengxing-sh.com/" target="_blank">访问网站</a>
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2d7673c602794d15a28181fabacfe8fc" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b00aa6ce801f4473ba0f9a36915551a9" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0516e60a31e2440d88a75b5b84a6bb00" alt="Image 3" style="width: 200px; height: auto;">
-
-
-</div>
-
-## 乔尔‧卢布松美食坊
-
-  * 黄浦区中山东一路18号外滩18号3楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 时尚法国菜 
-
-
-
-
-
-###  米其林指南的观点
-
-
-二星：烹调出色，不容错过！
-
-位于富历史意义的外滩十八号，这家著名法国餐厅的装潢跟建筑物外观一样充满气派。选坐靠窗位置可欣赏美丽的外滩景色；选坐柜台座位则可目睹厨师们有默契的互动协作。团队把现代元素注入经典法国菜中，细腻精湛的厨艺为味觉带来极致体验。如果想品尝较为大众化的套餐，可于午餐时段光临。
-
-###  设施与服务
-
-  * Visa 
-  * 万事达卡 
-  * 上佳景观 
-  * 中国银联 
-  * 代客泊车 
-  * 供应优质餐酒 
-  * 室外停车场 
-  * 接受信用卡 
-  * 柜台式 
-  * 空调 
-  * 美国运通 
-  * 轮椅通道 
-
-###  电话
-
-+86 21 6071 8888  [](tel:+86 21 6071 8888)
-
-
-
-<a href="http://www.joelrobuchon-china.com/" target="_blank">访问网站</a>
+<a href="http://www.laozhengxing-sh.com)" target="_blank">访问网站</a>
 
 
 
@@ -2631,7 +2635,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## Le Comptoir de Pierre Gagnaire
 
   * 徐汇区建国西路480号建业里嘉佩乐酒店, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 法国菜 
+  * ¥¥¥¥ · 法国菜 
 
 
 
@@ -2640,9 +2644,9 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-上海最大的石库门清水红砖建筑群，是建业里嘉佩乐酒店的所在地，也是这时尚法式餐馆的栖息处。用餐前不妨到入口旁的酒吧浅酌一杯。主餐室灯光和煦，环境谧静，洋溢悠闲的法式气氛。经验丰富的法籍主厨，在精致的法国菜中添加了上海韵味。推荐菜式包括鸭肝冻、法式牛蛙锅等经典美食。
+上海最大的石库门清水红砖建筑群，是建业里嘉佩乐酒店及这时尚法式餐馆的所在地。用餐前不妨到入口旁的酒吧浅酌一杯，享受静谧时光。主餐室灯光和煦，环境谧静，洋溢悠闲的法式气氛。主厨在精致的法国菜中添加了上海韵味。推荐菜式包括法国蓝龙虾、法式牛蛙锅等经典美食。
 
 ###  设施与服务
 
@@ -2660,13 +2664,14 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 5466 9928  [](tel:+86 21 5466 9928)
 
 
 
-<a href="https://capellahotels.com/en/capella-shanghai/" target="_blank">访问网站</a>
+<a href="https://capellahotels.com/en/capella-shanghai)" target="_blank">访问网站</a>
 
 
 
@@ -2675,18 +2680,18 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3e7b78aeac4749779bbfba118f4e4654" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/21efd8f05c164532b03d5883dd6f96af" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0fde3eb8e7b84ae5bedaf265087d2ae0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ddeec0645aaa4912a091426b0a739b6d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a42338edf3d54f6ea2e00fc3eff35a44" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f1d83c80f1b3404ab9478d00f89fd80e" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 滇道 (静安)
 
   * 静安区康定路1025号, Shanghai, 中国大陆地区
-  * .¥¥ · 滇菜 
+  * ¥¥ · 滇菜 
 
 
 
@@ -2694,15 +2699,18 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 ###  米其林指南的观点
 
-滇道供应简单却地道的傣族传统云南菜，餐室小巧，墙上挂有云南的照片，木桌上也铺了蓝色扎染布，菜单和装潢均带民族色彩。主厨在云南掌勺多年，招牌菜滇道八鲜、鲜椒炝鱼片为客人带来地道的云南风味；临沧酸木瓜火腿鸡汤同样值得品尝，使用腌制过的木瓜烹煮，带有果香，口味清新。
+滇道供应简单却地道的傣族传统云南菜，餐室小巧，墙上挂有云南的照片，木桌上也铺了蓝色扎染布，菜单和装潢均带民族色彩。招牌菜滇道八鲜、鲜椒炝鱼片为客人带来地道的云南风味；临沧酸木瓜火腿鸡汤同样值得品尝，使用酸木瓜烹煮，带有果香，口味清新。
 
 ###  设施与服务
 
-  * 不接受海外信用卡 
+  * Visa 
+  * 万事达卡 
   * 中国银联 
   * 室外停车场 
+  * 接受信用卡 
   * 空调 
   * 阳台 
+
 
 ###  电话
 
@@ -2727,7 +2735,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 利苑 (浦东新区)
 
   * 浦东新区世纪大道8号国金中心商场3楼17-18号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -2736,7 +2744,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 国金中心内的利苑酒家总是人头涌涌，可见餐厅出品的粤菜素质有相当水准。老火汤和精制广东点心是午饭时段上班族的最爱。晚饭时间，你可以从主菜单点选海鲜、鲍鱼等高级食品，亦可从每天更新的菜单中点选时令小炒或煲仔菜等等。餐厅更提供多种经济的菜式组合。不论何时光临，请务必预早订座。
 
@@ -2750,6 +2758,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -2778,7 +2787,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 利苑 (徐汇)
 
   * 徐汇区淮海中路999号环贸广场4楼401号, Shanghai, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -2787,7 +2796,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 源自香港的利苑集团，业务遍布亚洲各地，提供高素质的正宗粤菜。员工每天都会亲自试菜，监控食材及食品的品质，确保点心、烧味、炖汤维持水准。不妨考虑以每天熬煮超过六小时的海鲜汤即席泡煮的过桥象拔蚌，或是即点即做的腊味煲仔饭。这家位处大型商场的分店装潢时尚，经常满座，建议在订座时同时预留烧味和炖汤等招牌菜。
 
@@ -2801,6 +2810,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -2825,10 +2835,10 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 </div>
 
-## 南麓‧浙里 (黄浦)
+## 南麓 · 浙里 (黄浦)
 
   * 黄浦区四川中路216号, Shanghai, 中国大陆地区
-  * .¥¥ · 杭州菜 
+  * ¥¥ · 杭州菜 
 
 
 
@@ -2840,7 +2850,6 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 ###  设施与服务
 
-  * Discover card 
   * JCB 
   * Maestro 
   * Visa 
@@ -2851,6 +2860,8 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -2874,7 +2885,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 云
 
   * 虹口区东大名路999号北外滩来福士东塔57楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 创新菜 
+  * ¥¥¥¥ · 创新菜 
 
 
 
@@ -2895,6 +2906,8 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -2907,16 +2920,18 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/56e04423a44b41c3a44edbcc54df6574" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6e8de09c3c9a40599200d51f08c3dbfb" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7d1f6fee6f2f45228afd0145d44b90b0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c3269a98b64f48e5b4bd07e600d5c999" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1972e95c063549e7af9119f592bbe12f" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 外滩‧林家一
+## 外滩 · 林家一
 
   * 黄埔区南京东路123号外滩中央广场4楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 台州菜 
+  * ¥¥¥ · 台州菜 
 
 
 
@@ -2928,10 +2943,16 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 ###  设施与服务
 
+  * Visa 
+  * 万事达卡 
   * 不接受海外信用卡 
   * 中国银联 
   * 代客泊车 
+  * 室外停车场 
   * 空调 
+  * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -2944,18 +2965,18 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9bff6adbfbb541ccb54e528113ede1e4" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1a15f15bce7143e09149dcaadaed821e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5819f345c0dd40de9b010a97087f645e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6ac32ab093764667967f69c3b274e2db" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/171c4d95ed2143fca01e0a327dd45603" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fe79909b0b91477a8eaf44f5526c9c5e" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 临江宴
 
   * 浦东新区富城路216号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 江浙菜 
+  * ¥¥¥ · 江浙菜 
 
 
 
@@ -2973,9 +2994,11 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 上佳景观 
   * 中国银联 
   * 代客泊车 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -2983,7 +3006,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 
 
-<a href="http://www.linjiangyansh.com/" target="_blank">访问网站</a>
+<a href="http://www.linjiangyansh.com)" target="_blank">访问网站</a>
 
 
 
@@ -2992,11 +3015,11 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7a01b242d0ab4d4598681a089aaf21e3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/234a4e7e41ca496491687277ec456cb8" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/02e9e0fc15344aa68a86bc1585b14462" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/89f701afef194f008b48ffe247b099be" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/25994c88f4bf4b89b5a9228f76a6085f" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3004,7 +3027,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 绿波廊
 
   * 黄浦区城隍庙豫园老街115号, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -3015,7 +3038,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 必比登推介：具素质且经济实惠的美食
 
-邻近城隍庙和豫园等宝贵古迹，绿波廊位于九曲桥旁依水而建的明朝旧建筑内。经修缮后店面更具现代感，玲珑浮凸的银色金属天花配合绿色灯光，营造出波浪感觉，与园林建筑古今汇聚。各式地道本帮菜肴美味依然，传统上海点心如萝卜丝饼、桂花拉糕、眉毛酥等全是招牌美食，价格相宜。更设多个包厢，适合家庭或商务聚餐。
+邻近城隍庙和豫园等宝贵古迹，绿波廊位于九曲桥旁依水而建的明朝旧建筑内。经修缮后店面更具现代感，玲珑浮凸的银色金属天花配合绿色灯光，营造出波浪感觉，与园林建筑古今汇聚。各式地道传统上海点心美味依然，如萝卜丝饼、桂花拉糕、眉毛酥等全是招牌美食，价格相宜。更设多个包厢，适合家庭或商务聚餐。
 
 ###  设施与服务
 
@@ -3024,6 +3047,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 中国银联 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -3045,10 +3069,10 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 </div>
 
-## 鲁采
+## 鲁采 (黄浦)
 
-  * 黄浦区黄陂南路838弄环宇荟2层207室, Shanghai, 中国大陆地区
-  * .¥¥¥ · 鲁菜 
+  * 黄浦区黄陂南路838弄环宇荟2楼207室, Shanghai, 中国大陆地区
+  * ¥¥¥ · 鲁菜 
 
 
 
@@ -3057,7 +3081,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 来自山东的主厨手艺纯熟，深谙食材特性，他不但自行种植各种香草，并搜罗威海、渤海的优质渔获，每天新鲜送抵，按季节调校菜式口味。冷盘胶东四大拌不容错过：四款海鲜调味各有特色，开胃非常；主菜渤海湾大虾烧白菜则以虾头熬煮汤汁，衬托甜美的白菜，鲜味在口腔内迸发。服务贴心专业，令用餐体验更为赏心。
 
@@ -3072,6 +3096,8 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -3092,10 +3118,10 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 </div>
 
-## 汉舍中国菜馆 (静安)
+## 汉舍中国菜馆 (万航渡路)
 
   * 静安区万航渡路889号悦达889广场3楼20号, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜, 川菜 
+  * ¥¥ · 沪菜, 川菜 
 
 
 
@@ -3108,10 +3134,12 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  设施与服务
 
   * Visa 
+  * 万事达卡 
   * 中国银联 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -3135,7 +3163,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 慧公馆 (思南路)
 
   * 黄浦区思南路59号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜, 沪菜 
+  * ¥¥¥ · 粤菜, 沪菜 
 
 
 
@@ -3155,6 +3183,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
   * 空调 
   * 阳台 
 
+
 ###  电话
 
 +86 21 6426 0938  [](tel:+86 21 6426 0938)
@@ -3166,11 +3195,11 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1588c765edf44db6b096015a5245c863" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c809fb16b60d4875b9e9f3a390122c74" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/32f9ee8f018245f89c6e9300c9f8cff3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/76331e46915047f6ba77efaa95ac2f4d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a4173ff1201845708bdbb20cf449623d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6cb6ac720a7949e18c588c417b4dbbc3" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3178,7 +3207,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ## 莱美露滋
 
   * 浦东新区银城中路501号上海中心68楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 时尚法国菜 
+  * ¥¥¥¥ · 时尚法国菜 
 
 
 
@@ -3187,24 +3216,25 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 高踞商厦第六十八层，食客可在外滩美景的环抱下品尝美食。主厨曾在法籍厨师Éric
-Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法国总店的一样丰富。糅合欧亚风味的佳肴同样不容错过，例如以四川鱼子酱、云南棕榈心创作的鱼子酱金枪鱼塔。部分食材更以一料两吃形式上场，展现材料的不同风味。
+Pras麾下工作多年，菜品风格与法国总店一致，其分量亦一样丰富。店家自制的面包品种多样，口感绝佳。主厨更以中国本土食材融合法式经典烹饪和调味，例如广东的葵花鸡、福建的海鲈鱼，都演绎成法式美味。
 
 ###  设施与服务
 
   * Visa 
   * 万事达卡 
   * 上佳景观 
-  * 中国银联 
   * 供应优质餐酒 
   * 供应素食菜单 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -3223,9 +3253,9 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f86bd09f790843fcb9357b8e21dbfe57" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/29246f6d45f3417c86550e1e1a4cceec" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f44c74c0b1a74754bd98a2d3c5e2c5d7" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/32b54ead130f4f1787a769d0db71ba27" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fea9e453883549e6b98dfb3e02bb7fe8" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3233,7 +3263,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## 茂隆
 
   * 黄浦区进贤路134号, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -3254,6 +3284,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 只接受现金 
   * 空调 
 
+
 ###  电话
 
 +86 21 6256 1167  [](tel:+86 21 6256 1167)
@@ -3265,19 +3296,19 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7eadc2cc7ba248e5a16a050526f032ea" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/25bc5873a4044276ab6dbd7291de15c0" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1de56fb44b9d4a14ba6f43f596f22e8d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cc12399374004df4921717b28c1098ac" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/80b1934f180a4ffbaeed0f2e70c0b0fd" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/42502facce4b47a4b982cab9adca831b" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
 
-## 遇外滩
+## 遇外滩 (中山东二路)
 
-  * 黄浦区中山东二路588号BFC外滩金融中心南区商场3楼S301, Shanghai, 中国大陆地区
-  * .¥¥¥ · 闽菜 
+  * 黄浦区中山东二路600号BFC外滩金融中心南区商场3楼S301, Shanghai, 中国大陆地区
+  * ¥¥¥ · 闽菜 
 
 
 
@@ -3286,16 +3317,18 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 口味正宗，不仅厨师团队全为福建人，菜单更以福建话作分类，充满特色。招牌菜为盐酒干蒸闽西河田鸡，使用龙岩河田镇的名鸡烹调而成，肉质新鲜带嚼劲，建议预订。另外，不能错过制作耗时、汤头味美的佛跳墙。卤面则用上虾脑熬煮的汤头，带浓郁鲜味。装潢富现代感，更可远眺黄浦江景色。
 
 ###  设施与服务
 
+  * Visa 
   * 不接受海外信用卡 
   * 中国银联 
   * 室外停车场 
   * 空调 
+
 
 ###  电话
 
@@ -3308,18 +3341,18 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/84fef428fe694c90a7d12cbc36918dd2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9026d9c6b57c4910b4aa57126de70701" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bcf19036a48e40efa91e1fbd3e623a34" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f18a1ea2285c4cd78902f7fe9f41c824" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bc1efcbd6cfe4ce585af897961ea4b5e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bac890414a4e4563997f78e49530833f" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Mercato
 
   * 黄浦区中山东一路3号外滩3号6楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 意大利菜 
+  * ¥¥¥ · 意大利菜 
 
 
 
@@ -3334,7 +3367,6 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * Visa 
   * 万事达卡 
   * 上佳景观 
-  * 中国银联 
   * 代客泊车 
   * 供应优质餐酒 
   * 接受信用卡 
@@ -3343,13 +3375,14 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6321 9922  [](tel:+86 21 6321 9922)
 
 
 
-<a href="https://www.threeonthebund.com/" target="_blank">访问网站</a>
+<a href="https://www.threeonthebund.com/en/restaurant/102008183384)" target="_blank">访问网站</a>
 
 
 
@@ -3370,7 +3403,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## 明阁
 
   * 闵行区申虹路333号康得思酒店B1层, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -3379,7 +3412,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 邻近虹桥国际机场，装潢优雅让人能卸下舟车劳顿，舒适地享用美食。菜单从烧味到经典粤菜应有尽有。主厨更发挥创意，设计出带有上海特色的广东点心。招牌菜蜜味黑豚叉烧肥瘦适中，入口即化。翠素野菜石榴果口味清爽，值得一试。饭后来一客酥皮现烤蛋挞仔，加倍美满。叉烧及脆皮鸡供应有限，建议预留。
 
@@ -3395,13 +3428,14 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 21 5263 9618  [](tel:+86 21 5263 9618)
 
 
 
-<a href="https://www.cordishotels.com/shanghai-hongqiao/" target="_blank">访问网站</a>
+<a href="https://www.cordishotels.com/shanghai-hongqiao)" target="_blank">访问网站</a>
 
 
 
@@ -3419,10 +3453,10 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 </div>
 
-## 米泰 (安福路)
+## 米泰
 
   * 徐汇区安福路195号2楼, Shanghai, 中国大陆地区
-  * .¥¥ · 泰国菜 
+  * ¥¥ · 泰国菜 
 
 
 
@@ -3441,10 +3475,10 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * Visa 
   * 万事达卡 
   * 中国银联 
-  * 大来卡 (Diners Club) 
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -3456,16 +3490,17 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 
 
+
 ----
 ----
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2bde9843c62f4d298f8dd6f5e5217d7b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/181345615f8041e88f108d1553d033ae" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b3e5208e2422402e9837fbf08efcac3c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9a63e628f9ec40fd88cd70525a716fdb" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e2266296548841489868e440167d0b24" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f62322a2ebe4426807439f2b67a2669" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3473,7 +3508,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## 鹿园 (长宁)
 
   * 长宁区新华路119弄1号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 淮扬菜 
+  * ¥¥¥ · 淮扬菜 
 
 
 
@@ -3482,7 +3517,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 坐落于百岁洋房中，楼高三层，设有主餐室、包厢和宴会场地。装潢采用欧洲风格，配以古董家具和油画，环境舒适高雅。主厨掌勺逾三十年，选用多款河鲜及当季食材，炮制出正宗淮扬风味。脆炸凤尾鱼、时令供应的陈年花雕酒蒸鲥鱼、葱香脆皮猪婆参等，全都烹调妥当，美味非凡。招牌菜之一的拆骨鱼头须预订。
 
@@ -3492,10 +3527,12 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * Visa 
   * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -3508,11 +3545,11 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1c699ba6f2064edfb602affc29613d10" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4196a99d0463431198e3bf368efb6e53" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5a93e4f1a5c54b6f9e07c47c9aec882b" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ec12af27cf0d4f06a5cdac813451cd99" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/61a49545c43249ec9988c4f32833fe0d" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3520,7 +3557,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## 鹿园 (浦东新区)
 
   * 浦东新区浦东南路899号陆家嘴中心9楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 淮扬菜 
+  * ¥¥¥ · 淮扬菜 
 
 
 
@@ -3529,9 +3566,9 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-坐落大型购物中心，这家鹿园与另一家为同一集团经营，老板兼行政主厨定时到场视察，确保水准媲美总店。迎合所在商场，此店路线较为大众化，除各式淮扬菜式，同时亦有川辣食品选择，照顾食客的不同喜好。善于烹调杭州菜的主厨更引进杭州特色菜，如莼菜蟹肉鱼米羹，为客人提供高水平的传统口味。
+位于大型购物中心内，路线较大众化，除了各式淮扬菜式，亦有少量川辣食品选择。多款手工菜式值得品尝，如金牌扣肉和手剥凤尾河虾仁。前者将肥瘦适中的猪肉堆叠成塔，搭配炆煮入味的笋干，教人回味。菜单中不乏时令菜式和海鲜，由厨师团队建议的做法烹调，可提前与服务员沟通。
 
 ###  设施与服务
 
@@ -3544,6 +3581,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -3558,16 +3596,16 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d0240a676163440bbd037e3a6be39f93" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/233e1d69d8a4430784831db468f5884a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/853f824a7d9341f98d62f5f5f68583bd" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/05b65293a05445429c4b1c91fa7cd7f8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/94f9cd84dd974c30b85b31cba46ff91b" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Mr & Mrs Bund
 
   * 黄浦区中山东一路18号外滩18号6楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚法国菜 
+  * ¥¥¥ · 时尚法国菜 
 
 
 
@@ -3579,6 +3617,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 上佳景观 
@@ -3592,6 +3631,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -3608,11 +3648,11 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e339c8f50f484de88cedd57dd546417f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/117c21ba1f804d928fb9807d28f6e34a" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3e9b70c8dc7542fabee4a215237e8872" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/18b4adb1e75d456090e53ad9cfb7dba2" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/452a23a8148c4013a158d08dd4c5dc57" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d88c117bd6f94d06bbdbbd6ec60f463e" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3620,7 +3660,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## 南翔馒头店 (城隍庙)
 
   * 黄浦区城隍庙豫园路85号, Shanghai, 中国大陆地区
-  * .¥ · 点心 
+  * ¥ · 点心 
 
 
 
@@ -3641,6 +3681,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 21 6355 4206  [](tel:+86 21 6355 4206)
@@ -3654,16 +3695,16 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5db845f534a341d69f716566fda50eb9" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3de386a7cbd14aebbbab6bfe078ffe35" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3bdcf4a0be8047f5be2101dc8eb07a01" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/07c67b0d7c1f45378a56af96ef4e6f1f" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 南兴园
 
   * 徐汇区淮海中路1728号12幢, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 川菜 
+  * ¥¥¥¥ · 川菜 
 
 
 
@@ -3680,6 +3721,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 室外停车场 
   * 空调 
 
+
 ###  电话
 
 +86 21 6438 0838  [](tel:+86 21 6438 0838)
@@ -3691,18 +3733,18 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a08cffb51df248048f8d2fb92aaaa476" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3aee5f5e0167451fa960fe70084e3405" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/021d0f589b324bc4b3933899010ae58b" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4796ae9fb2a041c0bdccd55192c3dac6" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a702284dd0be465089fbccf2ce280b34" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## New Wave by Da Vittorio Bistrot
 
   * 静安区西藏北路88号UCCA Edge 3楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 意大利菜 
+  * ¥¥¥¥ · 意大利菜 
 
 
 
@@ -3710,18 +3752,21 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 ###  米其林指南的观点
 
-位于上海艺术地标，餐室内置有玻璃天花及拱形窗，感觉清新高雅。厨师团队以意大利蔬菜和香料，搭配世界各地的海鲜，制作经典意大利佳肴。除了手工意大利面和特色披萨，碳烤犬牙鱼也值得一试，鱼肉鲜嫩多汁，配合酱汁和薄荷冰沙，温度、口感都极具层次。即使不入内用餐，也可以在门口的吧台享用鸡尾酒和甜品。
+玻璃天花及拱形窗让餐厅清新高雅。菜单随季节变更，并以海鲜为核心，采用世界各地的海鲜，也有来自福建的鱼类和海南的蔬果，主厨更会亲自前往农场挑选优质食材。不要错过经典菜式如手工意面，以及主厨承袭自父亲的龙虾料理。即使不入内用餐，也可以在门口的吧台享用鸡尾酒和甜品。
 
 ###  设施与服务
 
   * Maestro 
   * Visa 
   * 万事达卡 
-  * 中国银联 
   * 供应优质餐酒 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+  * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -3729,7 +3774,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 
 
-<a href="https://www.davittorio.com/en/restaurants/new-wave-by-da-vittorio.html/" target="_blank">访问网站</a>
+<a href="https://www.davittorio.com/en/restaurants/new-wave-by-da-vittorio.html)" target="_blank">访问网站</a>
 
 
 
@@ -3740,9 +3785,9 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/55f14c164b364716bace888b1b6324d1" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c0da24cbcd22409fba9c94edbec3f25e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/07b7c60d70464ab59c43544183415cfe" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b1f68c178d634ad38f6c3e3a10020ad0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c0da24cbcd22409fba9c94edbec3f25e" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -3750,7 +3795,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## Obscura
 
   * 静安区西康路538号唐香文化空间, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 创新菜 
+  * ¥¥¥¥ · 创新菜 
 
 
 
@@ -3759,12 +3804,13 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-两位主厨喜欢到处游历，异地见闻、儿时回忆均成为菜品的灵感来源。菜单以大江南北为题，将西式烹调方法融入中国地方名菜中，当中不乏反传统方式的演绎，如冰淇淋形态的广东烧肉，充满惊喜。除了依时令变更的菜单，酒单同样丰富，更提供自家发酵的茶。用餐时亦不妨细赏由厨师亲自挑选的工艺品餐具。
+两位主厨热爱游历，异地见闻、儿时回忆均成为菜品的灵感来源。加上对中国饮食文化的热爱，菜单遂以大江南北为题，将中国各地名菜融合西式烹调手法，在不断创新之下，使菜品有别于传统，充满惊喜。除了依季节变更的菜单，酒单同样丰富，同时提供无酒精餐饮搭配。用餐时不妨细赏由厨师亲自挑选的工艺品餐具。
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -3773,6 +3819,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 柜台式 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -3801,7 +3848,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## 东方景宴
 
   * 黄浦区思南路57号, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 潮州菜 
+  * ¥¥¥¥ · 潮州菜 
 
 
 
@@ -3810,12 +3857,13 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-位于思南公馆的独立老洋房内，装潢简洁优雅，想保有私密度可选坐独立包房。来自潮汕的厨师团队由辉师傅带领，采用来自广东的食材，创造出多款摆盘精致的潮州美食。推介皮脆肉嫩的吊烧脆皮乳鸽，以及味道鲜甜的石橄榄炖螺头汤，两者均须提前预订。午膳提供经济实惠的套餐，菜品丰富，值得一试。
+位于思南公馆的独立老洋房内，装潢简洁优雅，想保有私密度可选坐独立包房。来自潮汕的厨师团队由辉师傅带领，采用来自广东的食材，创造出摆盘精致的潮州美食。前菜椒酱肉盐田虾干富有潮汕特色，咸香微辣，口感丰富。另有选用二十天妙龄鸽的招牌脆皮乳鸽，以及多款新鲜海产。部分菜式须提前预订。
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -3823,6 +3871,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -3846,7 +3895,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## 欧社
 
   * 静安区山海关路388号博华广场4楼L403, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚法国菜 
+  * ¥¥¥ · 时尚法国菜 
 
 
 
@@ -3869,6 +3918,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 21 6381 1858  [](tel:+86 21 6381 1858)
@@ -3880,9 +3930,9 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/308826bef63440a5b5e464fcd9331ccc" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b9f40426f15b448992af0cd150005fd4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f171f4dba0f241f2936916814b39a756" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/679a35c753de4988820357a555414a5c" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2db8c1bd7e544f6aa8ead2f341ca6dd7" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -3892,7 +3942,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ## 斐霓丝
 
   * 静安区常德路1号璞丽酒店2楼, Shanghai, 200040, 中国大陆地区
-  * .¥¥¥¥ · 法国菜 
+  * ¥¥¥¥ · 法国菜 
 
 
 
@@ -3901,7 +3951,7 @@ Pras麾下工作多年，他烹调的美食不但口味正宗，分量亦与法�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 餐厅于2022年迎来全新厨房团队，单点菜单上添加了不少新菜式，酒单亦较前丰富。想来一趟完整的体验，建议点选以海鲜为主的Experience套餐，其中L'oeuf
 de Poule
@@ -3923,6 +3973,7 @@ Confit以北海道海胆搭配马铃薯烩饭，并加上油封蛋黄，叫人�
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -3950,8 +4001,8 @@ Confit以北海道海胆搭配马铃薯烩饭，并加上油封蛋黄，叫人�
 
 ## Polux
 
-  * 黄浦区太仓路181弄5号, Shanghai, 中国大陆地区
-  * .¥¥ · 法国菜 
+  * 黄浦区太仓路181弄新天地北里5号, Shanghai, 中国大陆地区
+  * ¥¥ · 法国菜 
 
 
 
@@ -3980,6 +4031,7 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 21 6333 9897  [](tel:+86 21 6333 9897)
@@ -3995,18 +4047,18 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/da91c89497da4b4ea7c241ed8cba1057" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9421bb277029439fb61653cb6ee74df7" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ef83a1bc2d5249a7bfd112c4b14685f4" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1761e16dbbec4dccaac0ed97ae9b2b78" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/886ef4724b204408b93fd2f373882240" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0ee2e2421dad49078fe84ed84aa84551" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Pop
 
   * 黄浦区中山东一路3号外滩3号7楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 欧陆菜 
+  * ¥¥¥ · 欧陆菜 
 
 
 
@@ -4028,6 +4080,7 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
   * 美国运通 
   * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -4055,7 +4108,7 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 ## 帕戈
 
   * 黄浦区河南中路88号威斯汀大饭店2楼, Shanghai, 中国大陆地区
-  * .¥¥ · 意大利菜 
+  * ¥¥ · 意大利菜 
 
 
 
@@ -4080,6 +4133,7 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6335 1786  [](tel:+86 21 6335 1786)
@@ -4088,35 +4142,6 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 
 <a href="https://westin.marriott.com/" target="_blank">访问网站</a>
 
-营业时间
-
-周一
-
-----:00-22:00
-
-周二
-
-----:00-22:00
-
-周三
-
-----:00-22:00
-
-周四
-
-----:00-22:00
-
-周五
-
-----:00-22:00
-
-周六
-
-----:00-22:00
-
-周日
-
-----:00-22:00
 
 
 
@@ -4134,10 +4159,10 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 
 </div>
 
-## 人和馆 (肇嘉浜路)
+## 人和馆 (徐汇)
 
   * 徐汇区肇嘉浜路407号, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -4146,7 +4171,7 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 幽暗灯光、怀旧摆设、穿民国服装的服务员，以及驻场歌手的老上海金曲，令人有种时光倒流的错觉。食物方面同样充满特色，蟹制品由老板在太湖的自家养殖场提供，绝不能错过口感饱满的蟹粉捞饭。精品糟拼、青浦练塘茭白炒鳝丝等也是得意之作。最后和亲友共享一份酒酿圆子，额外满足。
 
@@ -4156,6 +4181,9 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
   * 中国银联 
   * 室外停车场 
   * 空调 
+  * 轮椅通道 
+  * 阳台 
+
 
 ###  电话
 
@@ -4168,18 +4196,18 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/51c1e1f85a92401588b10c0953cde9a6" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/46ca807bac884b44ab0f61fef246ff4e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/20ddc51e51f4446fb527945d281f279a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bca4b9a3f6474f4481fe0b5259546d29" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0f79d9ffc4434b1e89fcf8d714ecc107" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/eedc9dafefdd420eb46de75543a533c9" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 游宴一品淮扬
 
   * 黄浦区中山东二路538号万达瑞华酒店5楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 淮扬菜 
+  * ¥¥¥ · 淮扬菜 
 
 
 
@@ -4195,12 +4223,12 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
   * Visa 
   * 万事达卡 
   * 中国银联 
-  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -4228,8 +4256,8 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 
 ## 荣小馆
 
-  * 上海黄浦区太仓路128号1-2楼, Shanghai, 中国大陆地区
-  * .¥¥ · 台州菜 
+  * 黄浦区太仓路128号1-2楼, Shanghai, 中国大陆地区
+  * ¥¥ · 台州菜 
 
 
 
@@ -4246,10 +4274,10 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 
   * Visa 
   * 万事达卡 
-  * 中国银联 
   * 接受信用卡 
   * 空调 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -4271,10 +4299,10 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 
 </div>
 
-## 荣叔黄鱼面
+## 荣家黄鱼面 (静安)
 
   * 静安区南京西路688号688广场L105A-1, Shanghai, 中国大陆地区
-  * .¥¥ · 面食 
+  * ¥¥ · 面食 
 
 
 
@@ -4285,18 +4313,22 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 
 必比登推介：具素质且经济实惠的美食
 
-步入用餐区，可以见到墙上大大小小的黄鱼图案，带出餐厅特色：这家新荣记集团开办的面食店，主打的黄鱼面采用东海黄鱼，每天新鲜熬制呈奶白色的鱼汤，鲜甜味美。手工面为每天现造，同时亦聘用潮汕师傅监控卤水的制作。除了黄鱼面、卤水狮头鹅和一些时令菜，更有多款台州地道的甜品和每天鲜制的点心，值得一试。
+用餐区墙上大大小小的黄鱼图案，正好点出餐厅特色：这家新荣记集团旗下的面食店，主打的黄鱼面采用东海黄鱼，每天新鲜熬制呈奶白色的鱼汤，鲜甜味美。手工面为每天现造，同时亦聘用潮汕师傅监控卤水的制作。除了黄鱼面、卤水狮头鹅和佐餐配菜，更有多款每天鲜制的点心，值得一试。
 
 ###  设施与服务
 
+  * Maestro 
+  * 万事达卡 
   * 不接受海外信用卡 
   * 中国银联 
   * 室外停车场 
   * 空调 
+  * 轮椅通道 
+
 
 ###  电话
 
-+86 21 5279 9719  [](tel:+86 21 5279 9719)
++86 156 1870 6378  [](tel:+86 156 1870 6378)
 
 
 
@@ -4316,7 +4348,7 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 ## 皇朝会
 
   * 黃浦区广东路20号外滩5号3楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -4334,6 +4366,7 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
   * 代客泊车 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -4361,7 +4394,7 @@ Pairet的法文䁥称。餐室以吊扇、阶砖地和皮椅营造欧陆气氛�
 ## 食光
 
   * 黄浦区蒙自路33号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 意大利菜 
+  * ¥¥¥ · 意大利菜 
 
 
 
@@ -4380,6 +4413,7 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -4404,7 +4438,7 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
 ## 家全七福
 
   * 静安区南京西路1515号静安嘉里中心1期2楼E2-03, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -4413,7 +4447,7 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 家全七福是来自香港的高级粤菜品牌，内部装潢贵气舒适，同时带点怀旧味道。这里供应各式各样的传统功夫粤菜，不论是海味、汤品、烧味，还是小炒，全都可见厨师团队卓越细腻的烹饪技巧，当中以蟹肉桂花虾丝尤其出色。午市提供逾三十款自家制作的点心，选择众多，也是不少客人再三光临之因。
 
@@ -4430,6 +4464,7 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6266 3969  [](tel:+86 21 6266 3969)
@@ -4445,18 +4480,18 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9fb422ac6ee3473ea0b77f241b1bd4d9" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4a4aeb0d4a3c40dab36d79c3d2614be9" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/90cac17d2dff45c49f14a753e40c0fc6" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a5978bfa661f4fabaf9763a910b54d9c" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 上海餐厅
 
   * 黄浦区九江路555号王宝和大酒店2楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -4480,6 +4515,7 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 5396 5000  [](tel:+86 21 5396 5000)
@@ -4487,6 +4523,8 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
 
 
 <a href="http://www.wbh-sh.com/" target="_blank">访问网站</a>
+
+
 
 
 
@@ -4506,7 +4544,7 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
 ## 上海总会
 
   * 静安区南京西路789号兴业太古汇北楼4楼L-418, Shanghai, 中国大陆地区
-  * .¥¥¥ · 淮扬菜 
+  * ¥¥¥ · 淮扬菜 
 
 
 
@@ -4518,17 +4556,26 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
 
 ###  设施与服务
 
+  * JCB 
+  * Maestro 
   * Visa 
+  * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
-  * 轮椅通道 
+  * 美国运通 
   * 阳台 
+
 
 ###  电话
 
 +86 21 5299 8660  [](tel:+86 21 5299 8660)
+
+
+
+<a href="http://www.jade388.com)" target="_blank">访问网站</a>
 
 
 
@@ -4537,18 +4584,18 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
 
 <div style="display:flex;">
 
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0a122fc710b6428f9539f6c241c3369f" alt="Image 3" style="width: 200px; height: auto;">
+
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fbd567fad61d42c4bd1dc9b4073e7714" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/756ade83a7174f3e951d3e445c2de424" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e3ce51890a6f4183bea105a484e5fe8d" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## Shanghai Tavern
 
   * 黄浦区南京东路199号艾迪逊酒店1楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚欧陆菜 
+  * ¥¥¥ · 时尚欧陆菜 
 
 
 
@@ -4562,7 +4609,6 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 ###  设施与服务
 
   * JCB 
-  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -4570,11 +4616,13 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
   * 供应优质餐酒 
   * 供应素食菜单 
   * 大来卡 (Diners Club) 
+  * 室外停车场 
   * 接受信用卡 
   * 柜台式 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -4582,7 +4630,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 
 
 
-<a href="https://www.editionhotels.com/shanghai/" target="_blank">访问网站</a>
+<a href="https://www.editionhotels.com/shanghai/restaurants-and-bars/shanghai-tavern/" target="_blank">访问网站</a>
 
 
 
@@ -4603,7 +4651,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 ## 迷上海
 
   * 浦东新区梅花路1108号卓美亚喜玛拉雅酒店6楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -4612,9 +4660,9 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-深木镶板、大理石地面及特色灯光，交织出典雅时尚的用餐环境。和外观不同的是，菜单上尽是经典上海菜肴，并在传统名菜的基础上创新改良，将沪菜提升至另一层次。前菜不妨来一客熏鱼，但由于每天限量鲜制，宜先预订。主菜中不论是娃娃菜手工狮子头或目鱼红烧肉，均显尽厨师的超凡厨艺。
+深木镶板、大理石地面及特色灯光，交织出典雅时尚的用餐环境。和外观不同的是，菜单上尽是经典上海菜肴，并在传统名菜的基础上创新改良。前菜不妨来一客熏鱼，但由于每天限量鲜制，宜先预订。主菜中不论是娃娃菜手工狮子头或目鱼红烧肉，均显尽厨师的心思。
 
 ###  设施与服务
 
@@ -4626,13 +4674,14 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 21 3858 0760  [](tel:+86 21 3858 0760)
 
 
 
-<a href="https://www.jumeirah.com/en/" target="_blank">访问网站</a>
+<a href="https://www.jumeirah.com/en)" target="_blank">访问网站</a>
 
 
 
@@ -4652,7 +4701,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 ## 山石榴
 
   * 静安区茂名北路281弄16号丰盛里3楼304号, Shanghai, 中国大陆地区
-  * .¥¥ · 黔菜 
+  * ¥¥ · 黔菜 
 
 
 
@@ -4671,6 +4720,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
 +86 139 1830 6271  [](tel:+86 139 1830 6271)
@@ -4684,9 +4734,9 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/61317e9274cd4c71a67d4ebcd8e3cf26" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b5d190461da944a7826eb68618e9700a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e170eafa712a46feb02d08161a23c8e7" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f377b0744ce4404fbb67fa8caeb77a3e" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/36cba33b2c60497fac3f9d545210f132" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -4694,7 +4744,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 ## 晟永兴 (黄浦)
 
   * 黄浦区广东路20号外滩5号5楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 京菜 
+  * ¥¥¥ · 京菜 
 
 
 
@@ -4703,7 +4753,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 作为此京菜馆在上海的第一家店，坐落地理位置优越的外滩五号，不仅可以欣赏璀璨江景，室内环境也十分浪漫舒适。招牌烤鸭以45天大的北京填鸭制作，上菜时更可查看其来源证明。鸭只经过枣木烧烤，皮酥肉嫩，肥而不腻，充满香气。设有由侍酒师管理的大型酒窖，酒单上更提供配酒指南，助客人选择合适餐酒。
 
@@ -4722,6 +4772,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 21 6330 2885  [](tel:+86 21 6330 2885)
@@ -4733,18 +4784,18 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/bc0227c6a13d4afdbc321bda09830191" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1c42c812297a494ab62e86189fc3fa3e" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c9d05bbc21e9469e8aadf40feeb1848c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/edef0ac4a43d47be8b83f53dd80f1c56" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/db3b2a2d73d7465395bac7c4b4142a2f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5086513a38cb41f3bf9e67784dba5e4e" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 柿合缘 (浦东新区）
 
   * 浦东新区世纪大道8号国金中心商场4楼02-03号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 京菜 
+  * ¥¥¥ · 京菜 
 
 
 
@@ -4756,14 +4807,18 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 
 ###  设施与服务
 
+  * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -4776,19 +4831,19 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e37b7937c3434c9ba11d52c304209146" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/837950fdecf3477481cd61a0235940fe" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b04f21fd6a314793af6b5e79e68494fd" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8ab49517437a42018bf6ec54547dc6ff" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/10c9674cb913499abd354ce198edb5f3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6a9ca4c77c14442d8ff21def1049ed14" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
 
 ## 艾利爵士
 
-  * 黄浦区外滩中山东一路32号外滩32号半岛酒店13楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 时尚欧陆菜 
+  * 黄浦区中山东一路32号外滩32号半岛酒店13楼, Shanghai, 中国大陆地区
+  * ¥¥¥¥ · 时尚欧陆菜 
 
 
 
@@ -4797,9 +4852,9 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-位处酒店顶层，傲人位置令餐厅坐享得天独厚的黄浦江美景。酒吧布置典雅细致，天台酒吧还可欣赏动人心魄的城市景色，视觉享受让进餐体验变得完满。法籍主厨以传统法式手法烹调欧陆菜式，味道浓郁，摆盘精致，并加入了恰到好处的现代元素，席前预备的菜式叫人留下深刻印象。不妨佐以精挑细选的餐酒。
+位处酒店顶层，傲人位置令餐厅坐享得天独厚的黄浦江美景。酒吧布置典雅细致，从天台酒吧可欣赏动人心魄的城市景色，视觉享受让进餐体验变得完满，特别适合来一场浪漫约会。菜单中的欧陆菜大量选用本地食材，并融入现代元素和亚洲风味，配搭得恰到好处，摆盘亦十分精致。不妨佐以精挑细选的餐酒。
 
 ###  设施与服务
 
@@ -4817,13 +4872,14 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 2327 6756  [](tel:+86 21 2327 6756)
 
 
 
-<a href="https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund/" target="_blank">访问网站</a>
+<a href="https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund)
 
 
 
@@ -4832,18 +4888,18 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a740f9bad4f242a9b5fe763fe0c6f43c" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b3857c4c10ff4834b950a48b11268eb4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e958c4ca358d46ac96fc62e7d0b1f6c6" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1e1c29b66aaf4a8b94fca3a77ad6fd26" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6e5de2b438444201abe10ff1f74a9740" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/24236e5b8bf5431fb165dc52c93f0a83" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 言盐
 
   * 徐汇区东湖路9号1M, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 扒房 
+  * ¥¥¥¥ · 扒房 
 
 
 
@@ -4856,13 +4912,16 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
+  * 中国银联 
   * 室外停车场 
   * 接受信用卡 
   * 柜台式 
   * 空调 
   * 阳台 
+
 
 ###  电话
 
@@ -4875,18 +4934,18 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0040e5eac98e49059f8161f3a0a9b912" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0e560806d2d040bcb8da0bb2a8dce48f" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/091ec1d01ea745d38c10c02550e4da4a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e43d59c77b4345f88570a80e6a13cd92" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d9f11ef198ab41138d1436cd90120d85" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fbc1576093ba4d73bc47b5b5b028a56c" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 随堂里
 
   * 静安区石门一路366号镛舍公寓式酒店2楼, Shanghai, 200041, 中国大陆地区
-  * .¥¥¥ · 时尚中国菜 
+  * ¥¥¥ · 时尚中国菜 
 
 
 
@@ -4894,11 +4953,12 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
 
 ###  米其林指南的观点
 
-餐室设计富现代感，被落地玻璃环抱，采光度充足。以小餐桌为主，适合小型聚餐。菜单包含各式各样的材料及烹调方法，在地方菜上添加创意，以不一样的面貌呈现。如加入西班牙火腿粒及红菜头汁的小笼包，颜色新颖同时富鲜味。虾籽酱汁炆茭白以上海菜为基础，爽脆可口。酒单经过精心设计，不妨细阅。
+餐室设计富现代感，被落地玻璃环抱，采亮度充足。菜单包含各式各样的食材及烹调方法，在地方菜上添加创意，如加入西班牙火腿粒及红菜头汁的小笼包，颜色新颖且富鲜味。塔吉锅焗椒麻云南小刀鸭选用肉质细嫩的鸭种，椒麻味夹杂着蒜香，搭配自制的鸭肉饺子，风味独特。酒单经过精心设计，不妨细阅。
 
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -4907,6 +4967,8 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 轮椅通道 
+
 
 ###  电话
 
@@ -4914,7 +4976,7 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
 
 
 
-<a href="https://www.thehousecollective.com/en/the-middle-house/" target="_blank">访问网站</a>
+<a href="https://www.thehousecollective.com/en/the-middle-house/restaurants-and-bars/sui-tang-li/" target="_blank">访问网站</a>
 
 
 
@@ -4923,18 +4985,18 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/369c1a8953b14163a8e83816b962e582" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/32becc3f4b21453cbdb117b78c2bfb79" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/05f35d4cea9a4d2ba6fb68fc760228a2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c8907a0475404ee29d7d5303dec899d7" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/036b04730e1f41ceb133b8e84d7cfe80" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/207c84054f4140cbb35e860e4a476273" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 夏宮
 
   * 静安区延安中路1218号静安香格里拉大酒店3楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -4942,14 +5004,14 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
 
 ###  米其林指南的观点
 
-餐馆分为三个区域：供应点心的厨房区、提供传统经典砂锅菜的灯笼厅及专侍精细高级经典粤菜的皇家厅。有品质的高级家具摆设及雅致的装潢，室内环境高贵且有气派。食物水准稳定，在大后方担任指挥工作、富经验的香港主厨应记一功。优秀的酒单用来接待珍贵的客人最适合不过。
+餐厅分为三个区域：供应点心的厨房区、提供传统砂锅菜的灯笼厅，以及专侍高级经典粤菜的皇家厅。有品质的家具摆设及雅致的装潢，令室内环境高贵且有气派。这里的粤菜出品稳定，点心烧腊一应俱全，应时令推出的蟹粉菜肴颇具上海特色，令人耳目一新。以优秀的酒单为佳肴画龙点睛最适合不过。
 
 ###  设施与服务
 
   * JCB 
-  * Maestro 
   * Visa 
   * 万事达卡 
+  * 中国银联 
   * 代客泊车 
   * 供应优质餐酒 
   * 供应素食菜单 
@@ -4959,13 +5021,14 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 2203 8889  [](tel:+86 21 2203 8889)
 
 
 
-<a href="https://www.shangri-la.com/shanghai/jinganshangrila/" target="_blank">访问网站</a>
+<a href="https://www.shangri-la.com/shanghai/jinganshangrila/dining/restaurants/summer-palace/" target="_blank">访问网站</a>
 
 
 
@@ -4974,11 +5037,11 @@ Station农场的M9+巧克力纯血和牛。可向服务员查询菜单外的精�
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/23330ed99fe64437ade90fa748361f7f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/81cda837a6bd487dbd493b0b7ec99c87" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3604e1c23e7e4431a2dfbdd00df0a25a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1b42a1597fbd46d88a29b6aae37e5e37" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/848d46ea3a8a4aadb30ab2d2e39b90ac" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/98ad22e2bb0f42138407ddbd1a4c2bdb" alt="Image 3" style="width: 200px; height: auto;">
 
 durable-da572d846714b6dc47b903cc42ee4899.svg)
 
@@ -4987,7 +5050,7 @@ durable-da572d846714b6dc47b903cc42ee4899.svg)
 ## 泰安门
 
   * 长宁区镇宁路465弄161号愚园里1号楼101-102号, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 创新菜 
+  * ¥¥¥¥ · 创新菜 
 
 
 
@@ -4996,7 +5059,7 @@ durable-da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-三星：卓越的烹调，值得专程到访。
+三星：卓越烹饪
 
 始创于2016年，城中老饕对这家仅接受网上预约的餐厅不会陌生。德籍主厨史蒂芬·斯蒂勒（Stefan
 Stiller）与充满默契的团队坐镇于开放式厨房内，将上乘食材化成味道无可比拟的佳肴。套餐中的八道菜每六至八周更新，客人可从特选菜单上再增选两至四道菜，搭配成自己的专属盛宴。单杯酒选择丰富，包含多款德国佳酿。
@@ -5024,6 +5087,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 173 0160 5350  [](tel:+86 173 0160 5350)
@@ -5039,11 +5103,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/6c998f140af9464d8c0969a31e3b8166" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c4a7532eb2a74a499bfec98371624cc0" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c6cc13a53b5f424ba6b5b84e74c7dfe3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1b8c1225ac4e4845be8e15901bbc23d2" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f86b3fd8da0c4c7dab06044c4f097510" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/51110e4d153e4c2387c7c3614b783f93" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5051,7 +5115,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 唐阁
 
   * 黄浦区新天地马当路99号朗廷酒店5楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 粤菜 
+  * ¥¥¥¥ · 粤菜 
 
 
 
@@ -5060,7 +5124,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 主餐室精致简洁，只有数张餐桌，但巨幅玻璃令空间更见开扬，衬托窗外绿油油的庭园景色，环境赏心悦目。厨房由具多年烹调粤菜经验的厨师团队坐镇，菜单选择繁多。推介菜式包括肉质爽口、尽显刀工的天草豉汁爆大虾球，以及用料十足的蟹肉鲜虾石榴球。各款点心制作得小巧精美，也值得一试。
 
@@ -5077,13 +5141,14 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 2330 2288  [](tel:+86 21 2330 2288)
 
 
 
-<a href="https://www.langhamhotels.com/en/the-langham/shanghai/" target="_blank">访问网站</a>
+<a href="https://www.langhamhotels.com/en/the-langham/shanghai)" target="_blank">访问网站</a>
 
 
 
@@ -5103,8 +5168,8 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 ## 正斗粥面专家
 
-  * 浦东新区东育路500号前滩太古里B1-5, Shanghai, 中国大陆地区
-  * .¥¥ · 粥面 
+  * 浦东新区东育路500弄前滩太古里石区S-B1-05, Shanghai, 中国大陆地区
+  * ¥¥ · 粥面 
 
 
 
@@ -5126,6 +5191,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
 
+
 ###  电话
 
 +86 21 5882 1929  [](tel:+86 21 5882 1929)
@@ -5141,11 +5207,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1b42a41afbb8450abcb4827b21ccdd7a" alt="Image 3" style="width: 200px; height: auto;">
-
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ed4ef2f56e234e52a4c753c11a4c2e93" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/daea86c3175242a792e29281ae71eacf" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e9b26c294e6840a78854b2d2abf24045" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5153,7 +5219,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 逸道 (北京东路)
 
   * 黄浦区北京东路99号益丰‧外滩源2楼L201A, Shanghai, 中国大陆地区
-  * .¥¥¥ · 淮扬菜 
+  * ¥¥¥ · 淮扬菜 
 
 
 
@@ -5162,7 +5228,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 餐厅以茶道配合淮扬菜，设有专业泡茶师，以天然泉水为客人冲泡优质茶饮，茶类选择非常丰富。菜式方面，推介年糕烧黄鱼，厨师以一斤多的大黄鱼加入秘制酱汁烹调，肉质嫩滑，搭配自家制造的新鲜年糕，十分惹味。另外，以药材炮制、香气四溢的淮扬老卤盐水乳鸽，或鲜甜滋补的养生牛尾汤，均十分出色。
 
@@ -5176,6 +5242,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -5199,7 +5266,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 食社
 
   * 静安区江宁路511号, Shanghai, 中国大陆地区
-  * .¥¥ · 西班牙菜 
+  * ¥¥ · 西班牙菜 
 
 
 
@@ -5222,6 +5289,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 美国运通 
   * 阳台 
 
+
 ###  电话
 
 +86 21 6047 7638  [](tel:+86 21 6047 7638)
@@ -5237,11 +5305,61 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3db8ddc90a5f402ba9708e2b2c0738cb" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/88d215709df6496cb6bdb9be60978d0b" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a51be0b3a06b42e98f91db001113e1d8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ec301ab2a6af4101bd1d2bd4f789cf16" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/815ce168f17b453bb45e4c6bd7485ed3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f22816a7aeab434782a3c652b522bed1" alt="Image 3" style="width: 200px; height: auto;">
+
+
+</div>
+
+## 荣府宴
+
+  * 静安区南阳路170号, Shanghai, 中国大陆地区
+  * ¥¥¥¥ · 台州菜 
+
+
+
+
+
+###  米其林指南的观点
+
+
+二星：卓越烹饪
+
+作为品牌的上海旗舰店，现重新命名为“荣府宴”。位于贝轩大公馆，不但有江苏风格的亭台楼阁，内里更满是古董和已故建筑师贝聿铭的手绘作，充满历史感。提供海鲜为主的客制化菜单，食材经精挑细选，讲究时令，且每天由台州送抵。菜式风格多样，家烧黄鱼及各式海产菜式均有口皆碑。贴心服务更让人感到宾至如归。
+
+###  设施与服务
+
+  * 中国银联 
+  * 代客泊车 
+  * 供应优质餐酒 
+  * 室外停车场 
+  * 接受信用卡 
+  * 空调 
+
+
+###  电话
+
++86 21 6289 1717  [](tel:+86 21 6289 1717)
+
+
+
+<a href="http://www.xinrongji.cc)" target="_blank">访问网站</a>
+
+
+
+----
+----
+
+<div style="display:flex;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a399375f115145248de1d84c3070133c" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/24118c359e2d40b684dc2c02ef9996ca" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/223eca071a174e0a82d7b3e7c0a5a4ed" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5249,7 +5367,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 临湖素食
 
   * 徐汇区瑞平路230号保利时光里L2层016-017号, Shanghai, 中国大陆地区
-  * .¥¥ · 素食 
+  * ¥¥ · 素食 
 
 
 
@@ -5268,6 +5386,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 室外停车场 
   * 接受信用卡 
   * 空调 
+
 
 ###  电话
 
@@ -5291,7 +5410,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 扒
 
   * 浦东新区花木路1388号浦东嘉里大酒店2楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 扒房 
+  * ¥¥¥ · 扒房 
 
 
 
@@ -5299,7 +5418,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 ###  米其林指南的观点
 
-餐厅名字说明了一切──主要供应产自澳大利亚的牛肉。长餐室两边設小型厢座，天花挂满红色牛角状吊灯，别具型格。店内的牛肉均会放于入口处的醒肉房熟成25至31天不等，以达致最佳味道和口感。招牌菜是重1.8公斤的澳大利亚神户战斧牛排，足够四人享用。酒单选择不俗，包含酒店自酿的手工啤酒。
+长餐室两边设小型厢座，天花挂满红色牛角状吊灯，别具型格。餐厅主要供应产自澳大利亚的牛肉，并置于店内的醒肉房熟成25至31天，以达致最佳味道和口感。主厨特别推荐芝士熔岩牛排，选用澳大利亚的但马和牛，在其表面淋上融化的奶酪，柔滑细腻，香气扑鼻。酒单选择不俗，包含酒店自酿的手工啤酒。
 
 ###  设施与服务
 
@@ -5319,13 +5438,14 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6169 8886  [](tel:+86 21 6169 8886)
 
 
 
-<a href="https://www.shangri-la.com/brand/?#Kerry/" target="_blank">访问网站</a>
+<a href="https://www.shangri-la.com/shanghai/kerryhotelpudong/dining/restaurants/the-meat/" target="_blank">访问网站</a>
 
 
 
@@ -5338,7 +5458,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f4dc7c5cc4f0429cb68430e87e3c65b2" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/54dd3b57f6804433ba78e7e8a8cdcc5f" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/395b04e0e5b34b58b18eed15623cc0a5" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5346,7 +5466,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## Ultraviolet by Paul Pairet
 
   * 黄浦区中山东一路18号外滩18号6楼 (集合地点), Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 创新菜 
+  * ¥¥¥¥ · 创新菜 
 
 
 
@@ -5355,12 +5475,13 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-三星：卓越的烹调，值得专程到访。
+三星：卓越烹饪
 
-要参与这场非一般的餐饮体验，必须提前在官方网站订座，并在预定日期和地点，搭乘商务专车抵达神秘之地。等待着的不只是同桌的陌生人、二十道风味创新的菜式，更是结合美食、餐酒、灯效、影像及音乐的感官盛宴。每道菜从味道至呈现方式皆由团队精心设计，充满热诚的服务员更会带动现场气氛，为客人留下难忘回忆。
+要参与这场非一般的餐饮体验，必须提前在官方网站订座，并在预定日期和地点，搭乘商务专车抵达神秘之地。等待着的不只是同桌的陌生人、意想不到的创新菜式，更是结合美食、餐酒、灯效、影像及音乐的感官盛宴。每道菜从味道至呈现方式皆由团队精心设计，充满热诚的服务员更会带动现场气氛，为客人留下难忘回忆。
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
@@ -5370,6 +5491,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -5395,7 +5517,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## Villa Le Bec - Bistro 321
 
   * 长宁区新华路321号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 法国菜 
+  * ¥¥¥ · 法国菜 
 
 
 
@@ -5414,6 +5536,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
   * 阳台 
+
 
 ###  电话
 
@@ -5438,10 +5561,10 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 </div>
 
-## 皖宴
+## 皖宴（长宁）
 
   * 长宁区虹桥路2419号8幢龙柏饭店内, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 徽菜 
+  * ¥¥¥¥ · 徽菜 
 
 
 
@@ -5458,6 +5581,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 室外停车场 
   * 空调 
 
+
 ###  电话
 
 +86 21 6209 5177  [](tel:+86 21 6209 5177)
@@ -5469,18 +5593,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b35c17e8f9d34f0ba44932ca590317ad" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fdca4011718e4c1fa2fb14a00c5ea6d6" alt="Image 3" style="width: 200px; height: auto;">
+
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/52c443c9b0c44699bdadf9a09abeeea0" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ee9d86a0495c4a40b9786b8f58b54f17" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/72f318eb7afb493c810d12aa544f5b4a" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 味香斋
 
   * 黄浦区雁荡路14号, Shanghai, 中国大陆地区
-  * .¥ · 面食 
+  * ¥ · 面食 
 
 
 
@@ -5498,50 +5622,10 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 只接受现金 
   * 空调 
 
+
 ###  电话
 
 +86 21 5383 9032  [](tel:+86 21 5383 9032)
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8fb08d010485428898cc3c5123e71583" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/80d2afb4d5434f588d3c97de80e9b490" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b24265c2eb8941058f0837a5cad0ee1e" alt="Image 3" style="width: 200px; height: auto;">
-
-
-</div>
-
-## 屋有鲜
-
-  * 闵行区沈杜公路2073号, Shanghai, 中国大陆地区
-  * .¥¥ · 点心 
-
-
-
-
-
-###  米其林指南的观点
-
-
-必比登推介：具素质且经济实惠的美食
-
-店主曾到日本学艺，不仅店名取自日语“好吃”的上海话谐音，更将日本风味融入自制蘸料之中。其汤包均为现点现包，表皮吹弹可破，内馅鲜美可口。其中以纯蟹小笼包最为驰名：厨师将蟹的不同部位分拆出来，制成纯蟹粉、蟹黄、蟹膏等廿款馅料，更有海参、鲍鱼与蟹肉的独创组合。小店雖远离市区，仍吸引大众特地前往。
-
-###  设施与服务
-
-  * 只接受现金 
-  * 空调 
-
-###  电话
-
-+86 135 6486 4907  [](tel:+86 135 6486 4907)
 
 
 
@@ -5562,7 +5646,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 小陶面馆
 
   * 徐汇区嘉善路222号, Shanghai, 中国大陆地区
-  * .¥ · 面食 
+  * ¥ · 面食 
 
 
 
@@ -5579,6 +5663,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
   * 只接受现金 
 
+
 ###  电话
 
 +86 156 1801 3853  [](tel:+86 156 1801 3853)
@@ -5590,112 +5675,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e2e5b0d5ddb846089ee9cdfd94db5621" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/9088e7c34a7544c9a1c96be5b7778fe7" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/56415477cb6742b1901e23993546eadc" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/10ec9e7fd10546b1a0f28db006ead557" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/97392b64b15f4fd1aaf65b57cbd15ca8" alt="Image 3" style="width: 200px; height: auto;">
-
-</div>
-
-## 新大陆 - 中国厨房
-
-  * 虹口区黄浦路199号外滩茂悦大酒店东楼大堂, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜 
-
-
-
-
-
-###  米其林指南的观点
-
-开放式的厨房内，全神贯注且忙碌地烹调食材的厨师团队，在众目睽睽的情况下为食客预备美味佳肴，为确保阁下能欣赏到精湛的烹饪示范，不妨要求靠近厨房位置的餐桌。餐牌主要由沪菜和江浙菜组成，但北京果木烤鸭也是其招牌菜，如欲品尝务必要尽早到达餐馆。
-
-###  设施与服务
-
-  * JCB 
-  * Maestro 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
-  * 代客泊车 
-  * 大来卡 (Diners Club) 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-  * 美国运通 
-  * 轮椅通道 
-  * 阳台 
-
-###  电话
-
-+86 21 6393 1234  [](tel:+86 21 6393 1234)
-
-
-
-<a href="https://www.hyatt.com/en-US/hotel/china/hyatt-on-the-bund-shanghai/shang?src=vanity_hyattonthebund.com/" target="_blank">访问网站</a>
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/19255462b3644c6898e810e929e906ae" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f22816a7aeab434782a3c652b522bed1" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/54c3cd30dc914ba69b40c460dc6208fa" alt="Image 3" style="width: 200px; height: auto;">
-
-
-</div>
-
-## 新荣记 (南阳路)
-
-  * 静安区南阳路170号, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 台州菜 
-
-
-
-
-
-###  米其林指南的观点
-
-
-二星：烹调出色，不容错过！
-
-位于贝轩大公馆，内里满是古董和已故建筑师贝聿铭的手绘作，充满历史感。这里为客人提供客制化菜单，食材经精挑细选，讲究时令，且每天由台州送抵。家烧黄鱼及各式海产菜式均有口皆碑。团队对新菜的研发也从未止息，如牛肝菌葱烧鳗佛跳墙便是一例。欲令用餐体验更上一层楼，不妨请侍酒师选配餐酒。
-
-###  设施与服务
-
-  * 中国银联 
-  * 代客泊车 
-  * 供应优质餐酒 
-  * 室外停车场 
-  * 接受信用卡 
-  * 空调 
-
-###  电话
-
-+86 21 6289 1717  [](tel:+86 21 6289 1717)
-
-
-
-<a href="http://www.xinrongji.cc/" target="_blank">访问网站</a>
-
-
-
-----
-----
-
-<div style="display:flex;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/44521d901868449599cdeb18d638625b" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8d3befe1dcdc4ea0944a3807bdf51cc4" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e97f1c91eb94449cb58350ab521dc9fc" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/eba28c02589f459798afc28ae3c6df46" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5703,7 +5687,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 新荣记 (南京西路)
 
   * 静安区南京西路688号688广场2楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 台州菜 
+  * ¥¥¥ · 台州菜 
 
 
 
@@ -5712,21 +5696,24 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 这家新荣记立足上海多年，以供应台州菜为主。最有特色的是门外设有海鲜摊位，供客人挑选新鲜海产。招牌菜有家烧黄鱼和沙蒜烧豆面；个别菜式更会加入时令食材，以显不时不食的概念。店家贴心地为部分菜式设少分量，让食客可以品尝更多款式的菜肴。餐酒单由专业品酒师设计，选择不俗且定价亲民，值得一试。
 
 ###  设施与服务
 
+  * JCB 
   * Visa 
   * 万事达卡 
   * 中国银联 
   * 供应优质餐酒 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
   * 轮椅通道 
+
 
 ###  电话
 
@@ -5743,18 +5730,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/15bd751a6d4549c8826631c5422948f5" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/aab2d19ffd5e43f09a724e2263f49edb" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/b71131ef9ae344b48cd1e306b6e1cfa2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7fe0846788f9428da96eeb171b46c731" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5dcb30332b2248c58d54146782933b53" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/eb56fb2bf389461190f926d99b418ea0" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 馨源楼
 
   * 黄浦区瑞金二路118号瑞金洲际酒店4号楼, Shanghai, 中国大陆地区
-  * .¥¥ · 粤菜 
+  * ¥¥ · 粤菜 
 
 
 
@@ -5766,14 +5753,14 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 ###  设施与服务
 
-  * JCB 
   * Visa 
   * 万事达卡 
-  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
   * 空调 
   * 美国运通 
+  * 阳台 
+
 
 ###  电话
 
@@ -5781,7 +5768,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="https://www.intercontinental.com/hotels/fr/fr/reservation/" target="_blank">访问网站</a>
+<a href="https://www.ihg.com/intercontinental/hotels/gb/en/shanghai/shgsr/hoteldetail/dining)" target="_blank">访问网站</a>
 
 
 
@@ -5790,11 +5777,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/49ec33b96af64ff69d7ec3307db755b9" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2f5409a917624ac3b9b8dca2d10aba96" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0ba1c0c0e54e4c92bcb704d3042a13f8" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a23956b96bd448be936d31775c4c4397" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/20c1a61d32d945fe937590c17f8e9923" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cb063de029be4a9f8b46c2b48556bc4c" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5802,7 +5789,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 扬州饭店 (黄浦)
 
   * 黃浦区福建中路345号, Shanghai, 中国大陆地区
-  * .¥¥ · 淮扬菜 
+  * ¥¥ · 淮扬菜 
 
 
 
@@ -5821,9 +5808,12 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 中国银联 
   * 空调 
 
+
 ###  电话
 
 +86 21 6322 5266  [](tel:+86 21 6322 5266)
+
+
 
 
 
@@ -5844,7 +5834,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 上海老站 (徐汇)
 
   * 徐汇区漕溪北路201号, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -5869,9 +5859,12 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 空调 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6427 2233  [](tel:+86 21 6427 2233)
+
+
 
 
 
@@ -5882,7 +5875,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/663ba59d3eed46bfb6d10f59c14ad732" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f0840fbd51624afe9b0afab65bf2fac4" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ec4a2e8ba8964ebda141a4ebbc1ea8e4" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5acec703514a49b1beb0cf07adc6873c" alt="Image 3" style="width: 200px; height: auto;">
 
@@ -5891,7 +5884,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 夜上海
 
   * 黄浦区湖滨路168号无限极荟3楼, Shanghai, 中国大陆地区
-  * .¥¥ · 沪菜 
+  * ¥¥ · 沪菜 
 
 
 
@@ -5906,10 +5899,12 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * JCB 
   * Visa 
   * 万事达卡 
+  * 中国银联 
   * 供应素食菜单 
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -5917,7 +5912,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="https://www.elite-concepts.com/home/main/en/" target="_blank">访问网站</a>
+<a href="https://www.elite-concepts.com/restaurants/ye-shanghai/shanghai/en/" target="_blank">访问网站</a>
 
 
 
@@ -5926,11 +5921,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0288c3a0313d44f2814ec8105f6c68bd" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5cfb123b295b4a1d827497e12a097488" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/cc6d361402b14fae877af36f270b625a" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/00cfd2759a5f42069d597f51c5ef6f29" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2fb7dab671cc4f5ea59838b70af95cee" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/928ed87517134269b20529c6b4b91772" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5938,7 +5933,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 逸龙阁
 
   * 黄浦区中山东一路32号外滩32号半岛酒店2楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 粤菜 
+  * ¥¥¥¥ · 粤菜 
 
 
 
@@ -5947,7 +5942,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 装潢布置以1930年代上海菜馆的风格为骨干，融合典雅、细致与奢华，私人厢房更具旧上海靡丽之风。厨房团队坚持采用传统烹调技巧，制作出口味正宗的广东佳肴。菜单设计精致，当中包括海鲜、广式烧味、配合节气的老火汤等，每道菜式都显示出厨师的功架。另设一人套餐，即使独自用餐也可品尝多款美食。
 
@@ -5966,13 +5961,14 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 2327 6742  [](tel:+86 21 2327 6742)
 
 
 
-<a href="https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund/" target="_blank">访问网站</a>
+<a href="https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund)" target="_blank">访问网站</a>
 
 
 
@@ -5981,11 +5977,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ccb468e52f634e68910910ad4d265bb3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/56dff28ca08f4a5fa41630a34fe48908" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/07bff9335f2343a2a85e02e7c93d48b1" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/86e961bbb83f4889ac61c343dec1963d" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/126de5402643480cb738e04e751426b0" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7ff19d17db76411ab16224032cfb1154" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -5993,7 +5989,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 雍福会
 
   * 徐汇区永福路200号, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 沪菜 
+  * ¥¥¥¥ · 沪菜 
 
 
 
@@ -6002,9 +5998,9 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-这栋建于1930年的古迹，曾是多个国家的领事馆，于2001年改建为餐厅。最近厨房团队进行了革新，除了原来的传统本帮菜班底外，更邀得西餐主厨加入，并研发出主厨品鍳套餐，菜式糅合西式烹调技巧，口味多元融合。酒单由侍酒师精心设计，让客人以美酒佐餐。加上专业的服务，让用餐体验圆满。
+这栋古迹建于1930年，曾是多个国家的领事馆，2001年改建为餐厅，空间独具一格。餐厅专注于精致上海菜，不少菜肴是从古法本帮菜复刻而来，难得一尝。其中普洱茶红烧肉在浓油赤酱中带有淡淡茶叶清香，搭配特别。季节性的蟹粉菜肴鲜美无比，值得一试。酒单由侍酒师精心设计，加上专业的服务，让用餐体验更圆满。
 
 ###  设施与服务
 
@@ -6017,6 +6013,8 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 大来卡 (Diners Club) 
   * 接受信用卡 
   * 空调 
+  * 美国运通 
+
 
 ###  电话
 
@@ -6024,7 +6022,9 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="http://www.yongfooelite.com/" target="_blank">访问网站</a>
+<a href="http://www.yongfooelite.com)" target="_blank">访问网站</a>
+
+
 
 
 
@@ -6045,7 +6045,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 甬府 (黄浦)
 
   * 黄浦区茂名南路59号锦江饭店锦北楼12楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 宁波菜 
+  * ¥¥¥ · 宁波菜 
 
 
 
@@ -6054,7 +6054,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 为了煮出最传统地道的宁波囗味，餐厅一直选用当地食材，各种时令海产每天新鲜运抵。菜单上有各种传统菜式，其中芋乃羹为招牌之选，更有黄鱼鱼籽冻等手工菜。三月到五月期间，更有机会品尝来自宁海的蛏子。菜品分量可因应人数调节，十分贴心。若在此举行聚会，不妨预订连洗手间的厢房，并点选葡萄酒共享。
 
@@ -6067,6 +6067,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 接受信用卡 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -6091,7 +6092,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 甬府 (虹口)
 
   * 虹口区东大名路1089号北外滩来福士东塔56楼, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 宁波菜 
+  * ¥¥¥¥ · 宁波菜 
 
 
 
@@ -6100,7 +6101,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 餐厅位处高楼，直面浦东景致，包间更拥有绝佳江景，必须提前预订。装潢端庄华贵，开放式厨房则呈现出厨师烹调的过程。菜单中经典宁波菜和创新菜各占一半，厨师特别注意海鲜品质，每天从浙江进货。渔家白蟹骨酱、鲜虾籽炒蒲菜等都是推荐菜式，每一口都至鲜至美。黑芝麻汤圆皮薄馅浓，同样美味。
 
@@ -6116,6 +6117,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 空调 
   * 美国运通 
 
+
 ###  电话
 
 +86 21 6686 7777  [](tel:+86 21 6686 7777)
@@ -6127,11 +6129,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8f369be2b20e4b389116ba18801700d2" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/d226969ee2c84a8fa590c4008e9e00b2" alt="Image 3" style="width: 200px; height: auto;">
+
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/70c44dc403fb4b028c2120fda2ea31a5" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/89883a41a4e747eb8c38fa877dd10855" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f732ff04311d42e2931a238843a6dfd0" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -6139,7 +6141,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 甬府小鲜 (浦东新区)
 
   * 浦东新区浦东南路899号陆家嘴中心9楼910号, Shanghai, 中国大陆地区
-  * .¥¥ · 宁波菜 
+  * ¥¥ · 宁波菜 
 
 
 
@@ -6155,13 +6157,14 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  设施与服务
 
   * JCB 
+  * Maestro 
   * Visa 
   * 万事达卡 
   * 中国银联 
-  * 室外停车场 
+  * 大来卡 (Diners Club) 
   * 接受信用卡 
   * 美国运通 
-  * 轮椅通道 
+
 
 ###  电话
 
@@ -6174,18 +6177,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2e5af2ee8b544ed4b065b530111178bc" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0109362a6e1249fcbf7d690b45a0874d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/56e3b3fcf3284ad6a56f43f9b5aacf70" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/c9c843595b6b4dc6bb52250ec21d203a" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/2e5af2ee8b544ed4b065b530111178bc" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 永兴
 
   * 黄浦区复兴中路626弄1号, Shanghai, 中国大陆地区
-  * .¥ · 沪菜 
+  * ¥ · 沪菜 
 
 
 
@@ -6203,6 +6206,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 不接受海外信用卡 
   * 中国银联 
   * 空调 
+
 
 ###  电话
 
@@ -6227,7 +6231,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 雍颐庭
 
   * 浦东新区浦东南路111号浦东文华东方酒店LG层, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -6236,9 +6240,9 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
-现任主厨效力餐厅多年，致力呈献经典江南美食，菜式不但卖相精美，且味道掌握得恰到好处。其中酒酿花雕蒸鲥鱼酒香浓郁，味道鲜美。前菜方面，熏鲳鱼是个不错的选择。布置得赏心悦目的大堂、挂满整个天花的中式吊灯、镶有龙图屏风的卡座、迷人的水池，即使食物尚未上桌，已先在视觉上得到满足。
+现任主厨经验丰富，致力呈献经典江南美食，菜式不但卖相精美，且味道掌握得恰到好处。其中酒酿花雕蒸鲥鱼酒香浓郁，味道鲜美。前菜方面，熏鲳鱼是个不错的选择。布置得赏心悦目的大堂、挂满整个天花的中式吊灯、镶有龙图屏风的卡座、迷人的水池，即使食物尚未上桌，已先在视觉上得到满足。
 
 ###  设施与服务
 
@@ -6256,13 +6260,14 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 轮椅通道 
   * 阳台 
 
+
 ###  电话
 
-+86 21 2082 9888  [](tel:+86 21 2082 9888)
++86 21 2082 9978  [](tel:+86 21 2082 9978)
 
 
 
-<a href="https://www.mandarinoriental.com/shanghai/pudong/luxury-hotel/" target="_blank">访问网站</a>
+<a href="https://www.mandarinoriental.com/shanghai/pudong/luxury-hotel)" target="_blank">访问网站</a>
 
 
 
@@ -6271,18 +6276,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e1c4ebe2392049d5af26ccc08171f525" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/eb0ecc37c62544c99ac1c8dcdbd0c5d4" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ecfe2d22ac4a4e2b8edecfd4807939a2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/ab3d696e2377407885fcca8fd0855932" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/3551f575a43345bb8fbf9f50f5a141a3" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f1c68a2c1f454889839bf282c988ac02" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
-## 粵海棠
+## 粤海棠
 
   * 闵行区号文路161号万金中心, Shanghai, 中国大陆地区
-  * .¥¥¥ · 粤菜 
+  * ¥¥¥ · 粤菜 
 
 
 
@@ -6299,7 +6304,9 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 供应优质餐酒 
   * 室外停车场 
   * 空调 
+  * 轮椅通道 
   * 阳台 
+
 
 ###  电话
 
@@ -6312,18 +6319,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e0c6c0ca284d4bb3be83bff295e713b2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/645eb8b171d9407685a034559d5d4525" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/475e17a5e8194071b8b105c0a1f24943" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a6df0c007db443edbad581ff077d9081" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/17ce19f1a9444b2ca9b809dc8a4b71f1" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/211faea5f9dd411f8a17f3c494b3c296" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 云和锦庭
 
   * 徐汇区永嘉路570号永嘉庭111号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜, 淮扬菜 
+  * ¥¥¥ · 沪菜, 淮扬菜 
 
 
 
@@ -6337,6 +6344,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
   * 室外停车场 
 
+
 ###  电话
 
 +86 198 2191 7207  [](tel:+86 198 2191 7207)
@@ -6348,11 +6356,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/4823fe22c0c24b94be4dc9fbf463fdbe" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a56cad34a8be49378c5616d2e5e041be" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7002ae23ccb5490b87df476606c960ec" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/52ec94cadaf043a4b1914bfbf6817af2" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/626b12fadf2e4f62b5532903249976d1" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0e7e862503f34ed2bcf7aac62f025786" alt="Image 3" style="width: 200px; height: auto;">
 
 
 </div>
@@ -6360,7 +6368,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 云和面馆 (黄浦)
 
   * 黄浦区长乐路344号, Shanghai, 中国大陆地区
-  * .¥¥ · 面食, 沪菜 
+  * ¥¥ · 面食, 沪菜 
 
 
 
@@ -6371,11 +6379,12 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 必比登推介：具素质且经济实惠的美食
 
-在老式民宅之中，藏着这家风格时尚的面店，室内尽是霓虹灯和涂鸦墙，店家更设葡萄酒单，让客人一边吃面，一边喝酒至凌晨。其招牌菜是以蟹粉和三虾做浇头的面条，也有松茸、蛤蜊等食材选择，可组合出创新搭配；钟情传统口味者，狮子头面、大排面等也一应俱全。不妨也点上一两个小菜佐餐，其中麻酱腰片甚具水准。
+在老式民宅之中，藏着这家风格时尚的面店，室内尽是霓虹灯和涂鸦墙，店家更设葡萄酒单，让客人一边吃面，一边喝酒至凌晨。其招牌菜是以蟹粉和三虾做浇头的面条，也有松茸、蛤蜊等食材选择，可组合出创新搭配；钟情传统口味者，狮子头面、大排面等也一应俱全。不妨也点上一两个小菜佐餐，其中苔条黄鱼甚具水准。
 
 ###  设施与服务
 
   * 只接受现金 
+
 
 ###  电话
 
@@ -6400,7 +6409,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 玉芝兰
 
   * 静安区巨鹿路851号, Shanghai, 中国大陆地区
-  * .¥¥¥¥ · 川菜 
+  * ¥¥¥¥ · 川菜 
 
 
 
@@ -6409,7 +6418,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ###  米其林指南的观点
 
 
-一星：优质烹调，不妨一试！
+一星：高品质烹饪
 
 虽不设招牌，但接待员会在门外迎接已预约的客人。装潢简约的餐室以包厢为主，店内器皿均于景德镇订制。主厨刻意运用蒸、煮、炖等烹调方式，展现川菜多元化的味道。供应不同价位的套餐，菜式可按要求调整。当中包含了选用珍贵食材烹调的佳肴，同时更有多款手工菜，如拉成发丝般幼细的招牌金丝面。
 
@@ -6425,6 +6434,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 柜台式 
   * 空调 
   * 美国运通 
+
 
 ###  电话
 
@@ -6448,7 +6458,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 ## 讚
 
   * 虹口区高阳路168号外滩浦华大酒店5楼, Shanghai, 中国大陆地区
-  * .¥¥¥ · 铁板烧 
+  * ¥¥¥ · 铁板烧 
 
 
 
@@ -6471,6 +6481,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 美国运通 
   * 轮椅通道 
 
+
 ###  电话
 
 +86 21 6537 5939  [](tel:+86 21 6537 5939)
@@ -6486,18 +6497,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/0072763b2b104fc991e954fed1ecb134" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a43b21dc76194b7d918132cd76dfe287" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/f84300b5d64245b487b24362f931195d" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/e7cddd51b33a4dae895c251d58a9262f" alt="Image 3" style="width: 200px; height: auto;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/1b6663209c40412dbb683f0a0bc10d07" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/7ec2454c9f9241da9326c2e7aee8d3b0" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 周舍 (闵行)
 
-  * 闵行区苏虹路318弄16号101虹桥丽宝广场116号, Shanghai, 中国大陆地区
-  * .¥¥¥ · 沪菜 
+  * 闵行区苏虹路318弄16-101号虹桥丽宝广场116号铺, Shanghai, 中国大陆地区
+  * ¥¥¥ · 沪菜 
 
 
 
@@ -6509,11 +6520,11 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 ###  设施与服务
 
-  * Visa 
-  * 万事达卡 
-  * 中国银联 
+  * 大来卡 (Diners Club) 
   * 室外停车场 
   * 接受信用卡 
+  * 美国运通 
+
 
 ###  电话
 
@@ -6526,18 +6537,18 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 <div style="display:flex;">
 
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/a710abe9a793497c8936461e65462da2" alt="Image 3" style="width: 200px; height: auto;">
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/dd225cdf88b94bf2a2e2917887862041" alt="Image 3" style="width: 200px; height: auto;">
+
+<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/35b6415eaca54517b76faa2ba5f3ffc9" alt="Image 3" style="width: 200px; height: auto;">
 
 <img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/fd5e6248273a4f14853f7ed47929480a" alt="Image 3" style="width: 200px; height: auto;">
-
-<img src="https://axwwgrkdco.cloudimg.io/v7/__gmpics__/5a3cfbe401e44f49b978aab2396f9ab3" alt="Image 3" style="width: 200px; height: auto;">
 
 </div>
 
 ## 子福慧
 
   * 长宁区虹桥路1665号云峰别墅C2幢, Shanghai, 中国大陆地区
-  * .¥¥¥ · 时尚中国菜 
+  * ¥¥¥ · 时尚中国菜 
 
 
 
@@ -6553,6 +6564,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
   * 中国银联 
   * 代客泊车 
   * 空调 
+
 
 ###  电话
 
