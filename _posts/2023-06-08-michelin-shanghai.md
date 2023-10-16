@@ -164,7 +164,7 @@ author: jiobxn
 
 
 
-<a href="https://www.ottoemezzobombana.com)" target="_blank">访问网站</a>
+<a href="https://www.ottoemezzobombana.com" target="_blank">访问网站</a>
 
 
 
@@ -315,7 +315,7 @@ author: jiobxn
 
 
 
-<a href="https://www.aman.com/resorts/amanyangyun/dining)" target="_blank">访问网站</a>
+<a href="https://www.aman.com/resorts/amanyangyun/dining" target="_blank">访问网站</a>
 
 
 
@@ -369,7 +369,7 @@ author: jiobxn
 
 
 
-<a href="https://www.bulgarihotels.com/en_US/shanghai/dining/chinese-fine-dining-restaurant)" target="_blank">访问网站</a>
+<a href="https://www.bulgarihotels.com/en_US/shanghai/dining/chinese-fine-dining-restaurant" target="_blank">访问网站</a>
 
 
 
@@ -710,7 +710,7 @@ author: jiobxn
 
 
 
-<a href="https://www.ihg.com/hotelindigo/hotels/us/en/shanghai/shgnb/hoteldetail?fromRedirect=true&qSrt=sBR&qSlH=shgnb&setPMCookies=true&qSHBrC=IN&qDest=No.585%20Zhong%20Shan%20Dong%20Er%20Road,%20Huangpu%20District,%20Shanghai,%20SH,%20CN&srb_u=1)" target="_blank">访问网站</a>
+<a href="https://www.ihg.com/hotelindigo/hotels/us/en/shanghai/shgnb/hoteldetail?fromRedirect=true&qSrt=sBR&qSlH=shgnb&setPMCookies=true&qSHBrC=IN&qDest=No.585%20Zhong%20Shan%20Dong%20Er%20Road,%20Huangpu%20District,%20Shanghai,%20SH,%20CN&srb_u=1" target="_blank">访问网站</a>
 
 
 
@@ -1153,7 +1153,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 
 
-<a href="https://www.davittorio.com/zh/%E9%A4%90%E5%8E%85/%E4%B8%8A%E6%B5%B7-shanghai.html)" target="_blank">访问网站</a>
+<a href="https://www.davittorio.com/zh/%E9%A4%90%E5%8E%85/%E4%B8%8A%E6%B5%B7-shanghai.html" target="_blank">访问网站</a>
 
 
 
@@ -1243,7 +1243,7 @@ Vittorio家族经营，主厨及要员曾在当地工作，提供布鲁萨波尔
 
 
 
-<a href="https://www.hyatt.com/en-US/hotel/china/park-hyatt-shanghai/shaph)" target="_blank">访问网站</a>
+<a href="https://www.hyatt.com/en-US/hotel/china/park-hyatt-shanghai/shaph" target="_blank">访问网站</a>
 
 
 
@@ -2067,7 +2067,7 @@ Romito定期到场指导，菜单富有季节性同时保留传统风格。手�
 
 
 
-<a href="https://www.bulgarihotels.com/shanghai)" target="_blank">访问网站</a>
+<a href="https://www.bulgarihotels.com/shanghai" target="_blank">访问网站</a>
 
 
 
@@ -2221,7 +2221,7 @@ Romito定期到场指导，菜单富有季节性同时保留传统风格。手�
 
 
 
-<a href="http://yunmigroup.com/En/Restaurant/Info/10040)" target="_blank">访问网站</a>
+<a href="http://yunmigroup.com/En/Restaurant/Info/10040" target="_blank">访问网站</a>
 
 
 
@@ -2614,7 +2614,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 
 
-<a href="http://www.laozhengxing-sh.com)" target="_blank">访问网站</a>
+<a href="http://www.laozhengxing-sh.com" target="_blank">访问网站</a>
 
 
 
@@ -2671,7 +2671,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 
 
-<a href="https://capellahotels.com/en/capella-shanghai)" target="_blank">访问网站</a>
+<a href="https://capellahotels.com/en/capella-shanghai" target="_blank">访问网站</a>
 
 
 
@@ -3006,7 +3006,7 @@ Georges开设，餐室时尚、雅致且有气派。套餐菜单跟随纽约总�
 
 
 
-<a href="http://www.linjiangyansh.com)" target="_blank">访问网站</a>
+<a href="http://www.linjiangyansh.com" target="_blank">访问网站</a>
 
 
 
@@ -3382,7 +3382,7 @@ Pras麾下工作多年，菜品风格与法国总店一致，其分量亦一样�
 
 
 
-<a href="https://www.threeonthebund.com/en/restaurant/102008183384)" target="_blank">访问网站</a>
+<a href="https://www.threeonthebund.com/en/restaurant/102008183384" target="_blank">访问网站</a>
 
 
 
@@ -3435,7 +3435,7 @@ Pras麾下工作多年，菜品风格与法国总店一致，其分量亦一样�
 
 
 
-<a href="https://www.cordishotels.com/shanghai-hongqiao)" target="_blank">访问网站</a>
+<a href="https://www.cordishotels.com/shanghai-hongqiao" target="_blank">访问网站</a>
 
 
 
@@ -3774,7 +3774,7 @@ Pras麾下工作多年，菜品风格与法国总店一致，其分量亦一样�
 
 
 
-<a href="https://www.davittorio.com/en/restaurants/new-wave-by-da-vittorio.html)" target="_blank">访问网站</a>
+<a href="https://www.davittorio.com/en/restaurants/new-wave-by-da-vittorio.html" target="_blank">访问网站</a>
 
 
 
@@ -4575,7 +4575,7 @@ Scarpetta意指靴子－－意国的形状，同時也有食物美味到令人�
 
 
 
-<a href="http://www.jade388.com)" target="_blank">访问网站</a>
+<a href="http://www.jade388.com" target="_blank">访问网站</a>
 
 
 
@@ -4681,7 +4681,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 
 
 
-<a href="https://www.jumeirah.com/en)" target="_blank">访问网站</a>
+<a href="https://www.jumeirah.com/en" target="_blank">访问网站</a>
 
 
 
@@ -4879,7 +4879,7 @@ Tavern形成强烈对比：这家餐厅保留了二十世纪的历史建筑，�
 
 
 
-<a href="https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund)
+<a href="https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund" target="_blank">访问网站</a>
 
 
 
@@ -5148,7 +5148,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="https://www.langhamhotels.com/en/the-langham/shanghai)" target="_blank">访问网站</a>
+<a href="https://www.langhamhotels.com/en/the-langham/shanghai" target="_blank">访问网站</a>
 
 
 
@@ -5346,7 +5346,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="http://www.xinrongji.cc)" target="_blank">访问网站</a>
+<a href="http://www.xinrongji.cc" target="_blank">访问网站</a>
 
 
 
@@ -5768,7 +5768,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="https://www.ihg.com/intercontinental/hotels/gb/en/shanghai/shgsr/hoteldetail/dining)" target="_blank">访问网站</a>
+<a href="https://www.ihg.com/intercontinental/hotels/gb/en/shanghai/shgsr/hoteldetail/dining" target="_blank">访问网站</a>
 
 
 
@@ -5968,7 +5968,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund)" target="_blank">访问网站</a>
+<a href="https://www.peninsula.com/en/shanghai/5-star-luxury-hotel-bund" target="_blank">访问网站</a>
 
 
 
@@ -6022,7 +6022,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="http://www.yongfooelite.com)" target="_blank">访问网站</a>
+<a href="http://www.yongfooelite.com" target="_blank">访问网站</a>
 
 
 
@@ -6267,7 +6267,7 @@ da572d846714b6dc47b903cc42ee4899.svg)
 
 
 
-<a href="https://www.mandarinoriental.com/shanghai/pudong/luxury-hotel)" target="_blank">访问网站</a>
+<a href="https://www.mandarinoriental.com/shanghai/pudong/luxury-hotel" target="_blank">访问网站</a>
 
 
 
