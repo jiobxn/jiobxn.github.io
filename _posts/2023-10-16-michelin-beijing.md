@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024上海米其林指南"
+title:  "2024北京米其林指南"
 categories: food
 tags: 米其林
 author: jiobxn
@@ -9,7 +9,7 @@ author: jiobxn
 * content
 {:toc}
 
-米其林指南（2024-上海）
+米其林指南（2024-北京）
 
     等级排序（高到低）：三星、二星、一星、必比登推介、小店
     价格排序（高到低）：￥￥￥￥奢华、￥￥￥优质的、￥￥中档、￥负担得起
