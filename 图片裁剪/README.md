@@ -67,7 +67,7 @@
 
 ****
 
-## [A-Z单词](http://www.aerchi.com/tool/danci/)
+## [A-Z单词](http://www.517ming.com/a-kaitou-danci.html)
 
 ****
 
