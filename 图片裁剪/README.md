@@ -147,3 +147,9 @@
 ****
 
 ## 去水印 [1](https://www.magiceraser.io/)、[2](https://theinpaint.com/)、[3](https://remover.zmo.ai/)
+
+****
+
+## M3U8下载 [1](https://github.com/Momo707577045/m3u8-downloader)、[2](https://github.com/HeiSir2014/M3U8-Downloader)
+
+
