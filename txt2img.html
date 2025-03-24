@@ -15,36 +15,47 @@
         h2 {
             color: #2c3e50;
             text-align: center;
+            margin-bottom: 15px;
         }
         .container {
-            max-width: 800px;
+            max-width: 1200px;
             margin: 0 auto;
             background-color: #fff;
             padding: 20px;
             border-radius: 8px;
             box-shadow: 0 2px 5px rgba(0,0,0,0.1);
         }
-        #inputArea {
-            width: 100%;
-            height: 200px;
-            margin-bottom: 15px;
+        .editor-preview {
+            display: flex;
+            overflow: hidden;
+        }
+        #inputArea, #preview {
             padding: 10px;
             border: 1px solid #ddd;
             border-radius: 4px;
-            resize: vertical;
-            font-family: monospace;
             box-sizing: border-box;
+            overflow-y: auto;
+            transition: width 0.3s ease;
+            min-height: 400px; /* 默认最小高度 */
+        }
+        #inputArea {
+            width: 50%;
+            resize: none;
+            font-family: monospace;
         }
         #preview {
-            border: 1px solid #ddd;
-            padding: 20px;
-            margin-top: 15px;
-            display: inline-block;
-            min-width: 200px;
-            max-width: 100%;
-            border-radius: 4px;
+            width: 50%;
             position: relative;
             background: #fff;
+            color: #333;
+        }
+        .divider {
+            width: 10px;
+            background: #ddd;
+            cursor: pointer;
+        }
+        .divider:hover {
+            background: #bbb;
         }
         #preview table {
             border-collapse: collapse;
@@ -58,38 +69,46 @@
         #preview th {
             background-color: #ecf0f1;
         }
-        .mode-selector, .creator-option, .background-option, .split-option {
-            margin: 10px 0;
+        .controls {
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+            margin-bottom: 15px;
+        }
+        .control-section {
             display: flex;
             align-items: center;
             gap: 10px;
             flex-wrap: wrap;
         }
-        .mode-selector label, .creator-option label, .background-option label, .split-option label {
+        .control-section label {
             cursor: pointer;
             padding: 5px 10px;
             border-radius: 4px;
             transition: background-color 0.2s;
         }
-        .mode-selector input[type="radio"], .creator-option input[type="radio"], .background-option input[type="radio"], .split-option input[type="radio"] {
+        .control-section input[type="radio"], .control-section input[type="checkbox"] {
             margin-right: 5px;
         }
-        .mode-selector label:hover, .creator-option label:hover, .background-option label:hover, .split-option label:hover {
+        .control-section label:hover {
             background-color: #eee;
         }
-        .mode-selector input[type="radio"]:checked + span, .creator-option input[type="radio"]:checked + span, .background-option input[type="radio"]:checked + span, .split-option input[type="radio"]:checked + span {
+        .control-section input[type="radio"]:checked + span {
             color: #2980b9;
             font-weight: bold;
         }
-        .creator-option input[type="checkbox"] {
-            margin-right: 5px;
-        }
-        .creator-option input[type="text"], .creator-option select, .split-option input[type="number"] {
+        .control-section input[type="text"], .control-section input[type="number"] {
             padding: 5px;
             border: 1px solid #ddd;
             border-radius: 4px;
             flex-grow: 1;
             max-width: 200px;
+        }
+        .button-group {
+            display: flex;
+            gap: 10px;
+            justify-content: center;
+            margin-top: 10px;
         }
         button {
             background-color: #3498db;
@@ -99,8 +118,6 @@
             border-radius: 4px;
             cursor: pointer;
             transition: background-color 0.2s;
-            display: block;
-            margin: 15px auto;
         }
         button:hover {
             background-color: #2980b9;
@@ -117,51 +134,71 @@
         .split-line {
             border: 1px dashed #ff6b6b;
             margin: 10px 0;
+            position: relative;
+        }
+        .split-line span {
+            position: absolute;
+            left: 50%;
+            transform: translateX(-50%);
+            background: #fff;
+            padding: 0 5px;
+            font-size: 12px;
+            color: #ff6b6b;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h2>MD & HTML to Image Converter</h2>
-        <div class="mode-selector">
-            <label><input type="radio" name="mode" value="markdown" checked onchange="setMode('markdown')"><span>Markdown 模式</span></label>
-            <label><input type="radio" name="mode" value="html" onchange="setMode('html')"><span>HTML 模式</span></label>
+        <div class="controls">
+            <div class="control-section">
+                <span>模式：</span>
+                <label><input type="radio" name="mode" value="markdown" checked onchange="setMode('markdown')"><span>Markdown</span></label>
+                <label><input type="radio" name="mode" value="html" onchange="setMode('html')"><span>HTML</span></label>
+            </div>
+            <div class="control-section">
+                <label><input type="checkbox" id="addCreator" onchange="toggleCreator()"><span>添加创作者信息</span></label>
+                <input type="text" id="creatorInput" placeholder="输入创作者信息" disabled>
+                <select id="creatorColor" disabled onchange="updateCreatorStyle()">
+                    <option value="#666">灰色</option>
+                    <option value="#000">黑色</option>
+                    <option value="#077ff7">蓝色</option>
+                    <option value="#e74c3c">红色</option>
+                </select>
+                <label><input type="radio" name="position" value="bottom-center" onchange="updateCreatorStyle()" disabled><span>底部居中</span></label>
+                <label><input type="radio" name="position" value="bottom-right" checked onchange="updateCreatorStyle()" disabled><span>右下角</span></label>
+                <label><input type="radio" name="position" value="tiled" onchange="updateCreatorStyle()" disabled><span>平铺水印</span></label>
+            </div>
+            <div class="control-section">
+                <span>背景：</span>
+                <label><input type="radio" name="background" value="plain-white" checked onchange="updateBackground()"><span>纯白</span></label>
+                <label><input type="radio" name="background" value="light-gray" onchange="updateBackground()"><span>浅灰</span></label>
+                <label><input type="radio" name="background" value="cyan" onchange="updateBackground()"><span>青色</span></label>
+                <label><input type="radio" name="background" value="pink" onchange="updateBackground()"><span>粉色</span></label>
+                <label><input type="radio" name="background" value="green" onchange="updateBackground()"><span>绿色</span></label>
+                <label><input type="radio" name="background" value="blue" onchange="updateBackground()"><span>蓝色</span></label>
+                <label><input type="radio" name="background" value="rainbow" onchange="updateBackground()"><span>彩虹</span></label>
+                <label><input type="radio" name="background" value="warm" onchange="updateBackground()"><span>温暖柔和</span></label>
+            </div>
+            <div class="control-section">
+                <span>图片分隔：</span>
+                <label><input type="radio" name="splitMode" value="none" checked onchange="updateSplitMode()"><span>不分隔</span></label>
+                <label><input type="radio" name="splitMode" value="auto" onchange="updateSplitMode()"><span>自动（1080px）</span></label>
+                <label><input type="radio" name="splitMode" value="custom" onchange="updateSplitMode()"><span>自定义高度</span></label>
+                <input type="number" id="customHeight" min="100" max="2000" value="1080" disabled style="max-width: 80px;" onchange="updatePreview()">
+                <label><input type="radio" name="splitMode" value="manual" onchange="updateSplitMode()"><span>手动标记</span></label>
+            </div>
+            <div class="button-group">
+                <button onclick="convertToImage()">转换为图片</button>
+                <button onclick="copyImage()">复制图片</button>
+            </div>
         </div>
-        <textarea id="inputArea" placeholder="在此输入 Markdown 内容...
+        <div class="editor-preview">
+            <textarea id="inputArea" placeholder="在此输入 Markdown 内容...
 Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
-        <div class="creator-option">
-            <label><input type="checkbox" id="addCreator" onchange="toggleCreator()"><span>添加创作者信息</span></label>
-            <input type="text" id="creatorInput" placeholder="输入创作者信息" disabled>
-            <select id="creatorColor" disabled onchange="updateCreatorStyle()">
-                <option value="#666">灰色</option>
-                <option value="#000">黑色</option>
-                <option value="#077ff7">蓝色</option>
-                <option value="#e74c3c">红色</option>
-            </select>
-            <label><input type="radio" name="position" value="bottom-center" onchange="updateCreatorStyle()" disabled><span>底部居中</span></label>
-            <label><input type="radio" name="position" value="bottom-right" checked onchange="updateCreatorStyle()" disabled><span>右下角</span></label>
-            <label><input type="radio" name="position" value="tiled" onchange="updateCreatorStyle()" disabled><span>平铺水印</span></label>
+            <div class="divider" onclick="toggleDivider()"></div>
+            <div id="preview"></div>
         </div>
-        <div class="background-option">
-            <span>预览背景：</span>
-            <label><input type="radio" name="background" value="#fff" checked onchange="updateBackground()"><span>纯白</span></label>
-            <label><input type="radio" name="background" value="#f9f9f9" onchange="updateBackground()"><span>浅灰</span></label>
-            <label><input type="radio" name="background" value="linear-gradient(to bottom right, #e0f7fa, #b2ebf2)" onchange="updateBackground()"><span>青色</span></label>
-            <label><input type="radio" name="background" value="linear-gradient(to bottom, #fce4ec, #f8bbd0)" onchange="updateBackground()"><span>粉色</span></label>
-            <label><input type="radio" name="background" value="linear-gradient(to bottom right, #c8e6c9, #81c784)" onchange="updateBackground()"><span>绿色</span></label>
-            <label><input type="radio" name="background" value="linear-gradient(to bottom, #e1f5fe, #81d4fa)" onchange="updateBackground()"><span>蓝色</span></label>
-            <label><input type="radio" name="background" value="linear-gradient(to right, #ffd1d1, #ffe4cc, #ffffcc, #ccffcc, #cce5ff, #d9ccff, #e6ccff)" onchange="updateBackground()"><span>彩虹</span></label>
-        </div>
-        <div class="split-option">
-            <span>图片分割：</span>
-            <label><input type="radio" name="splitMode" value="none" checked onchange="updateSplitMode()"><span>不分割</span></label>
-            <label><input type="radio" name="splitMode" value="auto" onchange="updateSplitMode()"><span>自动（1080px）</span></label>
-            <label><input type="radio" name="splitMode" value="custom" onchange="updateSplitMode()"><span>自定义高度</span></label>
-            <input type="number" id="customHeight" min="100" max="2000" value="1080" disabled style="max-width: 80px;" onchange="updatePreview()">
-            <label><input type="radio" name="splitMode" value="manual" onchange="updateSplitMode()"><span>手动标记</span></label>
-        </div>
-        <button onclick="convertToImage()">转换为图片</button>
-        <div id="preview"></div>
     </div>
 
     <script>
@@ -171,11 +208,12 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
         const creatorInput = document.getElementById('creatorInput');
         const creatorColor = document.getElementById('creatorColor');
         const positionInputs = document.querySelectorAll('input[name="position"]');
-        const backgroundInputs = document.querySelectorAll('input[name="background"]');
         const splitModeInputs = document.querySelectorAll('input[name="splitMode"]');
         const customHeightInput = document.getElementById('customHeight');
         let currentMode = 'markdown';
         const DEFAULT_HEIGHT = 1080;
+        let debounceTimer;
+        let dividerState = 0; // 0: 默认, 1: 输入框全屏, 2: 预览框全屏
 
         function setMode(mode) {
             currentMode = mode;
@@ -191,44 +229,92 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
             updatePreview();
         }
 
-        function updatePreview() {
-            const content = inputArea.value;
-            const splitMode = document.querySelector('input[name="splitMode"]:checked').value;
-            let htmlContent = currentMode === 'markdown' ? marked.parse(content) : content;
-
-            preview.innerHTML = htmlContent;
-
-            if (splitMode === 'manual') {
-                if (currentMode === 'markdown') {
-                    preview.innerHTML = htmlContent.replace(/\[SPLIT\]/gi, '<hr class="split-line">');
-                } else if (currentMode === 'html') {
-                    preview.innerHTML = htmlContent.replace(/<!-- SPLIT -->/gi, '<hr class="split-line">');
-                }
-            } else if (splitMode === 'auto' || splitMode === 'custom') {
-                const maxHeight = splitMode === 'auto' ? DEFAULT_HEIGHT : parseInt(customHeightInput.value) || DEFAULT_HEIGHT;
-                const totalHeight = preview.scrollHeight;
-                if (totalHeight > maxHeight) {
-                    const splitPositions = [];
-                    for (let y = maxHeight; y < totalHeight; y += maxHeight) {
-                        splitPositions.push(y);
-                    }
-                    splitPositions.forEach((pos) => {
-                        const splitLine = document.createElement('hr');
-                        splitLine.className = 'split-line';
-                        splitLine.style.position = 'absolute';
-                        splitLine.style.top = `${pos}px`;
-                        splitLine.style.width = '100%';
-                        splitLine.style.left = '0';
-                        preview.appendChild(splitLine);
-                    });
-                }
+        function updateBackground() {
+            const bgValue = document.querySelector('input[name="background"]:checked').value;
+            if (bgValue === 'plain-white') {
+                preview.style.background = '#fff';
+                preview.style.color = '#333';
+            } else if (bgValue === 'light-gray') {
+                preview.style.background = '#f9f9f9';
+                preview.style.color = '#333';
+            } else if (bgValue === 'cyan') {
+                preview.style.background = 'linear-gradient(to bottom right, #e0f7fa, #b2ebf2)';
+                preview.style.color = '#333';
+            } else if (bgValue === 'pink') {
+                preview.style.background = 'linear-gradient(to bottom, #fce4ec, #f8bbd0)';
+                preview.style.color = '#333';
+            } else if (bgValue === 'green') {
+                preview.style.background = 'linear-gradient(to bottom right, #c8e6c9, #81c784)';
+                preview.style.color = '#333';
+            } else if (bgValue === 'blue') {
+                preview.style.background = 'linear-gradient(to bottom, #e1f5fe, #81d4fa)';
+                preview.style.color = '#333';
+            } else if (bgValue === 'rainbow') {
+                preview.style.background = 'linear-gradient(to right, #ffd1d1, #ffe4cc, #ffffcc, #ccffcc, #cce5ff, #d9ccff, #e6ccff)';
+                preview.style.color = '#333';
+            } else if (bgValue === 'warm') {
+                preview.style.background = '#fff3e0';
+                preview.style.color = '#f28c38';
             }
+            updatePreview();
+        }
 
-            const creatorText = document.createElement('div');
-            creatorText.id = 'creatorText';
-            preview.appendChild(creatorText);
-            toggleCreator();
-            updateBackground();
+        function toggleDivider() {
+            dividerState = (dividerState + 1) % 3;
+            if (dividerState === 0) {
+                inputArea.style.width = '50%';
+                preview.style.width = '50%';
+            } else if (dividerState === 1) {
+                inputArea.style.width = '100%';
+                preview.style.width = '0';
+            } else if (dividerState === 2) {
+                inputArea.style.width = '0';
+                preview.style.width = '100%';
+            }
+            updatePreview();
+        }
+
+        function updatePreview() {
+            clearTimeout(debounceTimer);
+            debounceTimer = setTimeout(() => {
+                const content = inputArea.value;
+                const splitMode = document.querySelector('input[name="splitMode"]:checked').value;
+                let htmlContent = currentMode === 'markdown' ? marked.parse(content) : content;
+
+                preview.innerHTML = htmlContent;
+
+                if (splitMode === 'manual') {
+                    if (currentMode === 'markdown') {
+                        preview.innerHTML = htmlContent.replace(/\[SPLIT\]/gi, '<hr class="split-line">');
+                    } else if (currentMode === 'html') {
+                        preview.innerHTML = htmlContent.replace(/<!-- SPLIT -->/gi, '<hr class="split-line">');
+                    }
+                } else if (splitMode === 'auto' || splitMode === 'custom') {
+                    const maxHeight = splitMode === 'auto' ? DEFAULT_HEIGHT : parseInt(customHeightInput.value) || DEFAULT_HEIGHT;
+                    const totalHeight = preview.scrollHeight;
+                    if (totalHeight > maxHeight) {
+                        const splitPositions = [];
+                        for (let y = maxHeight, page = 1; y < totalHeight; y += maxHeight, page++) {
+                            splitPositions.push({ pos: y, page });
+                        }
+                        splitPositions.forEach(({ pos, page }) => {
+                            const splitLine = document.createElement('hr');
+                            splitLine.className = 'split-line';
+                            splitLine.style.position = 'absolute';
+                            splitLine.style.top = `${pos}px`;
+                            splitLine.style.width = '100%';
+                            splitLine.style.left = '0';
+                            splitLine.innerHTML = `<span>第${page}页</span>`;
+                            preview.appendChild(splitLine);
+                        });
+                    }
+                }
+
+                const creatorText = document.createElement('div');
+                creatorText.id = 'creatorText';
+                preview.appendChild(creatorText);
+                toggleCreator();
+            }, 300); // 300ms 防抖
         }
 
         function toggleCreator() {
@@ -258,11 +344,6 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
             }
         }
 
-        function updateBackground() {
-            const bgValue = document.querySelector('input[name="background"]:checked').value;
-            preview.style.background = bgValue;
-        }
-
         async function convertToImage() {
             if (!inputArea.value.trim()) {
                 alert('请输入内容！');
@@ -272,10 +353,10 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
             const splitMode = document.querySelector('input[name="splitMode"]:checked').value;
             const canvasOptions = {
                 width: preview.offsetWidth,
-                backgroundColor: null
+                backgroundColor: null,
+                scale: 2 // 高清输出
             };
 
-            // 临时移除分割线
             const splitLines = preview.querySelectorAll('.split-line');
             const splitLineNodes = Array.from(splitLines);
             splitLineNodes.forEach(line => line.remove());
@@ -301,7 +382,7 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
                 const splitPoints = [];
                 let lastIndex = 0;
                 const splitRegex = currentMode === 'markdown' ? /\[SPLIT\]/gi : /<!-- SPLIT -->/gi;
-                const splitLength = currentMode === 'markdown' ? 7 : 11; // [SPLIT] 或 <!-- SPLIT --> 的长度
+                const splitLength = currentMode === 'markdown' ? 7 : 11;
                 let match;
                 while ((match = splitRegex.exec(content)) !== null) {
                     splitPoints.push(match.index);
@@ -326,7 +407,23 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
                 document.body.removeChild(tempDiv);
             }
 
-            // 恢复分割线
+            splitLineNodes.forEach(line => preview.appendChild(line));
+        }
+
+        async function copyImage() {
+            if (!inputArea.value.trim()) {
+                alert('请输入内容！');
+                return;
+            }
+            const splitLines = preview.querySelectorAll('.split-line');
+            const splitLineNodes = Array.from(splitLines);
+            splitLineNodes.forEach(line => line.remove());
+            const canvas = await html2canvas(preview, { scale: 2 });
+            canvas.toBlob(blob => {
+                navigator.clipboard.write([new ClipboardItem({ 'image/png': blob })])
+                    .then(() => alert('图片已复制到剪贴板！'))
+                    .catch(err => alert('复制失败：' + err));
+            });
             splitLineNodes.forEach(line => preview.appendChild(line));
         }
 
@@ -340,6 +437,7 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
         inputArea.addEventListener('input', updatePreview);
         creatorInput.addEventListener('input', updateCreatorStyle);
 
+        updateBackground();
         updatePreview();
     </script>
 </body>
