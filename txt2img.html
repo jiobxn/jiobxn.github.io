@@ -35,13 +35,14 @@
             border-radius: 4px;
             box-sizing: border-box;
             overflow-y: auto;
-            transition: width 0.3s ease;
-            min-height: 400px; /* 默认最小高度 */
+            min-height: 400px;
+            transition: width 0.3s ease, padding 0.3s ease;
         }
         #inputArea {
             width: 50%;
             resize: none;
             font-family: monospace;
+            font-size: 16px;
         }
         #preview {
             width: 50%;
@@ -52,7 +53,7 @@
         .divider {
             width: 10px;
             background: #ddd;
-            cursor: pointer;
+            cursor: col-resize;
         }
         .divider:hover {
             background: #bbb;
@@ -179,6 +180,9 @@
                 <label><input type="radio" name="background" value="blue" onchange="updateBackground()"><span>蓝色</span></label>
                 <label><input type="radio" name="background" value="rainbow" onchange="updateBackground()"><span>彩虹</span></label>
                 <label><input type="radio" name="background" value="warm" onchange="updateBackground()"><span>温暖柔和</span></label>
+                <label><input type="radio" name="background" value="gradient" onchange="updateBackground()"><span>梦幻渐变</span></label>
+                <label><input type="radio" name="background" value="elegant-gray" onchange="updateBackground()"><span>简约灰</span></label>
+                <label><input type="radio" name="background" value="vintage" onchange="updateBackground()"><span>复古风</span></label>
             </div>
             <div class="control-section">
                 <span>图片分隔：</span>
@@ -188,15 +192,19 @@
                 <input type="number" id="customHeight" min="100" max="2000" value="1080" disabled style="max-width: 80px;" onchange="updatePreview()">
                 <label><input type="radio" name="splitMode" value="manual" onchange="updateSplitMode()"><span>手动标记</span></label>
             </div>
+            <div class="control-section">
+                <span>图片宽度：</span>
+                <input type="number" id="exportWidth" placeholder="默认根据内容宽度 (px)" min="100" style="max-width: 150px;">
+            </div>
             <div class="button-group">
-                <button onclick="convertToImage()">转换为图片</button>
+                <button onclick="convertToImage()">下载图片</button>
                 <button onclick="copyImage()">复制图片</button>
             </div>
         </div>
         <div class="editor-preview">
             <textarea id="inputArea" placeholder="在此输入 Markdown 内容...
 Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
-            <div class="divider" onclick="toggleDivider()"></div>
+            <div class="divider" id="divider"></div>
             <div id="preview"></div>
         </div>
     </div>
@@ -204,16 +212,66 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
     <script>
         const inputArea = document.getElementById('inputArea');
         const preview = document.getElementById('preview');
+        const divider = document.getElementById('divider');
         const addCreatorCheckbox = document.getElementById('addCreator');
         const creatorInput = document.getElementById('creatorInput');
         const creatorColor = document.getElementById('creatorColor');
         const positionInputs = document.querySelectorAll('input[name="position"]');
         const splitModeInputs = document.querySelectorAll('input[name="splitMode"]');
         const customHeightInput = document.getElementById('customHeight');
+        const exportWidth = document.getElementById('exportWidth');
         let currentMode = 'markdown';
         const DEFAULT_HEIGHT = 1080;
         let debounceTimer;
-        let dividerState = 0; // 0: 默认, 1: 输入框全屏, 2: 预览框全屏
+        let isWidthModified = false; // 跟踪宽度是否被手动修改
+        let isDragged = false; // 跟踪是否发生过拖动
+
+        // 拖动分割条
+        let isDragging = false;
+        divider.addEventListener('mousedown', (e) => {
+            isDragging = true;
+            document.addEventListener('mousemove', onMouseMove);
+            document.addEventListener('mouseup', onMouseUp);
+        });
+        function onMouseMove(e) {
+            if (!isDragging) return;
+            const container = document.querySelector('.editor-preview');
+            const rect = container.getBoundingClientRect();
+            let newInputWidth = (e.clientX - rect.left) / rect.width * 100;
+            newInputWidth = Math.max(0, Math.min(100, newInputWidth));
+            inputArea.style.width = `${newInputWidth}%`;
+            preview.style.width = `${100 - newInputWidth}%`;
+
+            if (newInputWidth === 0) {
+                inputArea.style.padding = '0';
+                inputArea.style.overflow = 'hidden';
+            } else {
+                inputArea.style.padding = '10px';
+                inputArea.style.overflow = 'auto';
+            }
+            if (newInputWidth === 100) {
+                preview.style.padding = '0';
+                preview.style.overflow = 'hidden';
+            } else {
+                preview.style.padding = '10px';
+                preview.style.overflow = 'auto';
+            }
+
+            // 实时更新“图片宽度”输入框，显示预览框宽度
+            exportWidth.value = Math.round(rect.width * ((100 - newInputWidth) / 100));
+        }
+        function onMouseUp() {
+            isDragging = false;
+            isDragged = true; // 标记已拖动
+            document.removeEventListener('mousemove', onMouseMove);
+            document.removeEventListener('mouseup', onMouseUp);
+            updatePreview();
+        }
+
+        // 监听手动输入宽度
+        exportWidth.addEventListener('input', () => {
+            isWidthModified = true;
+        });
 
         function setMode(mode) {
             currentMode = mode;
@@ -255,21 +313,15 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
             } else if (bgValue === 'warm') {
                 preview.style.background = '#fff3e0';
                 preview.style.color = '#f28c38';
-            }
-            updatePreview();
-        }
-
-        function toggleDivider() {
-            dividerState = (dividerState + 1) % 3;
-            if (dividerState === 0) {
-                inputArea.style.width = '50%';
-                preview.style.width = '50%';
-            } else if (dividerState === 1) {
-                inputArea.style.width = '100%';
-                preview.style.width = '0';
-            } else if (dividerState === 2) {
-                inputArea.style.width = '0';
-                preview.style.width = '100%';
+            } else if (bgValue === 'gradient') {
+                preview.style.background = 'linear-gradient(to bottom right, #ffafbd, #ffc3a0)';
+                preview.style.color = '#333';
+            } else if (bgValue === 'elegant-gray') {
+                preview.style.background = '#e8ecef';
+                preview.style.color = '#2d3748';
+            } else if (bgValue === 'vintage') {
+                preview.style.background = '#f4e4bc';
+                preview.style.color = '#5c4033';
             }
             updatePreview();
         }
@@ -314,7 +366,7 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
                 creatorText.id = 'creatorText';
                 preview.appendChild(creatorText);
                 toggleCreator();
-            }, 300); // 300ms 防抖
+            }, 300);
         }
 
         function toggleCreator() {
@@ -351,36 +403,69 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
             }
 
             const splitMode = document.querySelector('input[name="splitMode"]:checked').value;
+            const customWidth = parseInt(exportWidth.value);
             const canvasOptions = {
-                width: preview.offsetWidth,
                 backgroundColor: null,
-                scale: 2 // 高清输出
+                scale: 2
             };
+
+            const tempDiv = document.createElement('div');
+            tempDiv.style.position = 'absolute';
+            tempDiv.style.left = '-9999px';
+            tempDiv.style.padding = '10px';
+            tempDiv.style.background = preview.style.background;
+            tempDiv.style.color = preview.style.color;
+            tempDiv.style.border = 'none';
+            document.body.appendChild(tempDiv);
 
             const splitLines = preview.querySelectorAll('.split-line');
             const splitLineNodes = Array.from(splitLines);
             splitLineNodes.forEach(line => line.remove());
 
             if (splitMode === 'none') {
-                const canvas = await html2canvas(preview, canvasOptions);
+                let htmlContent = currentMode === 'markdown' ? marked.parse(inputArea.value) : inputArea.value;
+                tempDiv.innerHTML = htmlContent;
+                if ((isDragged || isWidthModified) && customWidth) {
+                    tempDiv.style.width = `${customWidth}px`;
+                    canvasOptions.width = customWidth;
+                } else {
+                    tempDiv.style.width = 'auto'; // 根据内容宽度自适应
+                    await new Promise(resolve => setTimeout(resolve, 0)); // 等待渲染
+                    canvasOptions.width = tempDiv.scrollWidth;
+                }
+                const canvas = await html2canvas(tempDiv, canvasOptions);
                 downloadImage(canvas, `${currentMode}-image.png`);
             } else if (splitMode === 'auto' || splitMode === 'custom') {
                 const maxHeight = splitMode === 'auto' ? DEFAULT_HEIGHT : parseInt(customHeightInput.value) || DEFAULT_HEIGHT;
-                const totalHeight = preview.scrollHeight;
+                let htmlContent = currentMode === 'markdown' ? marked.parse(inputArea.value) : inputArea.value;
+                tempDiv.innerHTML = htmlContent;
+
+                if ((isDragged || isWidthModified) && customWidth) {
+                    tempDiv.style.width = `${customWidth}px`;
+                    canvasOptions.width = customWidth;
+                } else {
+                    tempDiv.style.width = 'auto';
+                    await new Promise(resolve => setTimeout(resolve, 0)); // 等待渲染
+                    canvasOptions.width = tempDiv.scrollWidth;
+                }
+
+                const totalHeight = tempDiv.scrollHeight;
                 const numPages = Math.ceil(totalHeight / maxHeight);
                 for (let i = 0; i < numPages; i++) {
-                    const canvas = await html2canvas(preview, {
+                    const cloneDiv = tempDiv.cloneNode(true);
+                    document.body.appendChild(cloneDiv);
+                    const canvas = await html2canvas(cloneDiv, {
                         ...canvasOptions,
                         height: Math.min(maxHeight, totalHeight - i * maxHeight),
                         y: i * maxHeight,
                         scrollY: -i * maxHeight
                     });
                     downloadImage(canvas, `${currentMode}-image-${i + 1}.png`);
+                    document.body.removeChild(cloneDiv);
                 }
             } else if (splitMode === 'manual') {
                 const content = inputArea.value;
                 const splitPoints = [];
-                let lastIndex = 0;
                 const splitRegex = currentMode === 'markdown' ? /\[SPLIT\]/gi : /<!-- SPLIT -->/gi;
                 const splitLength = currentMode === 'markdown' ? 7 : 11;
                 let match;
@@ -389,24 +474,27 @@ Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
                 }
                 splitPoints.push(content.length);
 
-                const tempDiv = document.createElement('div');
-                tempDiv.style.position = 'absolute';
-                tempDiv.style.left = '-9999px';
-                document.body.appendChild(tempDiv);
-
                 for (let i = 0; i < splitPoints.length; i++) {
                     const start = i === 0 ? 0 : splitPoints[i - 1] + splitLength;
                     const end = splitPoints[i];
                     const sectionContent = content.substring(start, end);
                     if (sectionContent.trim()) {
                         tempDiv.innerHTML = currentMode === 'markdown' ? marked.parse(sectionContent) : sectionContent;
-                        const canvas = await html2canvas(tempDiv, canvasOptions);
+                        if ((isDragged || isWidthModified) && customWidth) {
+                            tempDiv.style.width = `${customWidth}px`;
+                            canvasOptions.width = customWidth;
+                        } else {
+                            tempDiv.style.width = 'auto';
+                            await new Promise(resolve => setTimeout(resolve, 0)); // 等待渲染
+                            canvasOptions.width = tempDiv.scrollWidth;
+                        }
+                        const canvas = await html2canvas(tempDiv, { ...canvasOptions, height: tempDiv.offsetHeight });
                         downloadImage(canvas, `${currentMode}-image-${i + 1}.png`);
                     }
                 }
-                document.body.removeChild(tempDiv);
             }
 
+            document.body.removeChild(tempDiv);
             splitLineNodes.forEach(line => preview.appendChild(line));
         }
 
