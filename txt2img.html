@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>文本转图工具 | MD & HTML to Image Converter</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/4.0.2/marked.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        h2 {
+            color: #2c3e50;
+            text-align: center;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        #inputArea {
+            width: 100%;
+            height: 200px;
+            margin-bottom: 15px;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            resize: vertical;
+            font-family: monospace;
+            box-sizing: border-box;
+        }
+        #preview {
+            border: 1px solid #ddd;
+            padding: 20px;
+            margin-top: 15px;
+            display: inline-block;
+            min-width: 200px;
+            max-width: 100%;
+            background-color: #fff;
+            border-radius: 4px;
+        }
+        /* 表格样式 */
+        #preview table {
+            border-collapse: collapse;
+            width: auto;
+        }
+        #preview th, #preview td {
+            border: 1px solid #999;
+            padding: 8px;
+            text-align: left;
+        }
+        #preview th {
+            background-color: #ecf0f1;
+        }
+        .mode-selector {
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 20px;
+        }
+        .mode-selector label {
+            cursor: pointer;
+            padding: 5px 10px;
+            border-radius: 4px;
+            transition: background-color 0.2s;
+        }
+        .mode-selector input[type="radio"] {
+            margin-right: 5px;
+        }
+        .mode-selector label:hover {
+            background-color: #eee;
+        }
+        .mode-selector input[type="radio"]:checked + span {
+            color: #2980b9;
+            font-weight: bold;
+        }
+        button {
+            background-color: #3498db;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.2s;
+            display: block;
+            margin: 0 auto 15px auto; /* 居中并调整间距 */
+        }
+        button:hover {
+            background-color: #2980b9;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>MD & HTML to Image Converter</h2>
+        <div class="mode-selector">
+            <label>
+                <input type="radio" name="mode" value="markdown" checked onchange="setMode('markdown')">
+                <span>Markdown 模式</span>
+            </label>
+            <label>
+                <input type="radio" name="mode" value="html" onchange="setMode('html')">
+                <span>HTML 模式</span>
+            </label>
+        </div>
+        <textarea id="inputArea" placeholder="在此输入 Markdown 或 HTML 内容..."></textarea>
+        <button onclick="convertToImage()">转换为图片</button>
+        <div id="preview"></div>
+    </div>
+
+    <script>
+        const inputArea = document.getElementById('inputArea');
+        const preview = document.getElementById('preview');
+        let currentMode = 'markdown'; // 默认 Markdown 模式
+
+        // 设置模式
+        function setMode(mode) {
+            currentMode = mode;
+            updatePreview();
+        }
+
+        // 更新预览
+        function updatePreview() {
+            const content = inputArea.value;
+            if (currentMode === 'markdown') {
+                preview.innerHTML = marked.parse(content);
+            } else {
+                preview.innerHTML = content;
+            }
+        }
+
+        // 输入时实时更新预览
+        inputArea.addEventListener('input', updatePreview);
+
+        // 转换为图片
+        function convertToImage() {
+            html2canvas(document.getElementById('preview')).then(canvas => {
+                const link = document.createElement('a');
+                link.download = `${currentMode}-image.png`;
+                link.href = canvas.toDataURL('image/png');
+                link.click();
+            });
+        }
+
+        // 初始化时显示默认预览
+        updatePreview();
+    </script>
+</body>
+</html>
