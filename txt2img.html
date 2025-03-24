@@ -42,10 +42,10 @@
             display: inline-block;
             min-width: 200px;
             max-width: 100%;
-            background-color: #fff;
             border-radius: 4px;
+            position: relative;
+            background: #fff;
         }
-        /* 表格样式 */
         #preview table {
             border-collapse: collapse;
             width: auto;
@@ -58,27 +58,38 @@
         #preview th {
             background-color: #ecf0f1;
         }
-        .mode-selector {
-            margin-bottom: 15px;
+        .mode-selector, .creator-option, .background-option, .split-option {
+            margin: 10px 0;
             display: flex;
             align-items: center;
-            gap: 20px;
+            gap: 10px;
+            flex-wrap: wrap;
         }
-        .mode-selector label {
+        .mode-selector label, .creator-option label, .background-option label, .split-option label {
             cursor: pointer;
             padding: 5px 10px;
             border-radius: 4px;
             transition: background-color 0.2s;
         }
-        .mode-selector input[type="radio"] {
+        .mode-selector input[type="radio"], .creator-option input[type="radio"], .background-option input[type="radio"], .split-option input[type="radio"] {
             margin-right: 5px;
         }
-        .mode-selector label:hover {
+        .mode-selector label:hover, .creator-option label:hover, .background-option label:hover, .split-option label:hover {
             background-color: #eee;
         }
-        .mode-selector input[type="radio"]:checked + span {
+        .mode-selector input[type="radio"]:checked + span, .creator-option input[type="radio"]:checked + span, .background-option input[type="radio"]:checked + span, .split-option input[type="radio"]:checked + span {
             color: #2980b9;
             font-weight: bold;
+        }
+        .creator-option input[type="checkbox"] {
+            margin-right: 5px;
+        }
+        .creator-option input[type="text"], .creator-option select, .split-option input[type="number"] {
+            padding: 5px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            flex-grow: 1;
+            max-width: 200px;
         }
         button {
             background-color: #3498db;
@@ -89,10 +100,23 @@
             cursor: pointer;
             transition: background-color 0.2s;
             display: block;
-            margin: 0 auto 15px auto; /* 居中并调整间距 */
+            margin: 15px auto;
         }
         button:hover {
             background-color: #2980b9;
+        }
+        #creatorText {
+            font-size: 12px;
+            padding: 2px 5px;
+            border-radius: 2px;
+            background-color: rgba(255, 255, 255, 0.8);
+        }
+        .bottom-center { position: absolute; bottom: 5px; left: 50%; transform: translateX(-50%); }
+        .bottom-right { position: absolute; bottom: 5px; right: 20px; }
+        .tiled { position: absolute; top: 0; left: 0; width: 100%; height: 100%; opacity: 0.3; pointer-events: none; background: repeat; }
+        .split-line {
+            border: 1px dashed #ff6b6b;
+            margin: 10px 0;
         }
     </style>
 </head>
@@ -100,16 +124,42 @@
     <div class="container">
         <h2>MD & HTML to Image Converter</h2>
         <div class="mode-selector">
-            <label>
-                <input type="radio" name="mode" value="markdown" checked onchange="setMode('markdown')">
-                <span>Markdown 模式</span>
-            </label>
-            <label>
-                <input type="radio" name="mode" value="html" onchange="setMode('html')">
-                <span>HTML 模式</span>
-            </label>
+            <label><input type="radio" name="mode" value="markdown" checked onchange="setMode('markdown')"><span>Markdown 模式</span></label>
+            <label><input type="radio" name="mode" value="html" onchange="setMode('html')"><span>HTML 模式</span></label>
         </div>
-        <textarea id="inputArea" placeholder="在此输入 Markdown 或 HTML 内容..."></textarea>
+        <textarea id="inputArea" placeholder="在此输入 Markdown 内容...
+Markdown 模式下手动分割可用 [SPLIT] 标记"></textarea>
+        <div class="creator-option">
+            <label><input type="checkbox" id="addCreator" onchange="toggleCreator()"><span>添加创作者信息</span></label>
+            <input type="text" id="creatorInput" placeholder="输入创作者信息" disabled>
+            <select id="creatorColor" disabled onchange="updateCreatorStyle()">
+                <option value="#666">灰色</option>
+                <option value="#000">黑色</option>
+                <option value="#077ff7">蓝色</option>
+                <option value="#e74c3c">红色</option>
+            </select>
+            <label><input type="radio" name="position" value="bottom-center" onchange="updateCreatorStyle()" disabled><span>底部居中</span></label>
+            <label><input type="radio" name="position" value="bottom-right" checked onchange="updateCreatorStyle()" disabled><span>右下角</span></label>
+            <label><input type="radio" name="position" value="tiled" onchange="updateCreatorStyle()" disabled><span>平铺水印</span></label>
+        </div>
+        <div class="background-option">
+            <span>预览背景：</span>
+            <label><input type="radio" name="background" value="#fff" checked onchange="updateBackground()"><span>纯白</span></label>
+            <label><input type="radio" name="background" value="#f9f9f9" onchange="updateBackground()"><span>浅灰</span></label>
+            <label><input type="radio" name="background" value="linear-gradient(to bottom right, #e0f7fa, #b2ebf2)" onchange="updateBackground()"><span>青色</span></label>
+            <label><input type="radio" name="background" value="linear-gradient(to bottom, #fce4ec, #f8bbd0)" onchange="updateBackground()"><span>粉色</span></label>
+            <label><input type="radio" name="background" value="linear-gradient(to bottom right, #c8e6c9, #81c784)" onchange="updateBackground()"><span>绿色</span></label>
+            <label><input type="radio" name="background" value="linear-gradient(to bottom, #e1f5fe, #81d4fa)" onchange="updateBackground()"><span>蓝色</span></label>
+            <label><input type="radio" name="background" value="linear-gradient(to right, #ffd1d1, #ffe4cc, #ffffcc, #ccffcc, #cce5ff, #d9ccff, #e6ccff)" onchange="updateBackground()"><span>彩虹</span></label>
+        </div>
+        <div class="split-option">
+            <span>图片分割：</span>
+            <label><input type="radio" name="splitMode" value="none" checked onchange="updateSplitMode()"><span>不分割</span></label>
+            <label><input type="radio" name="splitMode" value="auto" onchange="updateSplitMode()"><span>自动（1080px）</span></label>
+            <label><input type="radio" name="splitMode" value="custom" onchange="updateSplitMode()"><span>自定义高度</span></label>
+            <input type="number" id="customHeight" min="100" max="2000" value="1080" disabled style="max-width: 80px;" onchange="updatePreview()">
+            <label><input type="radio" name="splitMode" value="manual" onchange="updateSplitMode()"><span>手动标记</span></label>
+        </div>
         <button onclick="convertToImage()">转换为图片</button>
         <div id="preview"></div>
     </div>
@@ -117,38 +167,179 @@
     <script>
         const inputArea = document.getElementById('inputArea');
         const preview = document.getElementById('preview');
-        let currentMode = 'markdown'; // 默认 Markdown 模式
+        const addCreatorCheckbox = document.getElementById('addCreator');
+        const creatorInput = document.getElementById('creatorInput');
+        const creatorColor = document.getElementById('creatorColor');
+        const positionInputs = document.querySelectorAll('input[name="position"]');
+        const backgroundInputs = document.querySelectorAll('input[name="background"]');
+        const splitModeInputs = document.querySelectorAll('input[name="splitMode"]');
+        const customHeightInput = document.getElementById('customHeight');
+        let currentMode = 'markdown';
+        const DEFAULT_HEIGHT = 1080;
 
-        // 设置模式
         function setMode(mode) {
             currentMode = mode;
+            inputArea.placeholder = currentMode === 'markdown' 
+                ? '在此输入 Markdown 内容...\nMarkdown 模式下手动分割可用 [SPLIT] 标记' 
+                : '在此输入 HTML 内容...\nHTML 模式下手动分割可用 <!-- SPLIT --> 标记';
             updatePreview();
         }
 
-        // 更新预览
+        function updateSplitMode() {
+            const splitMode = document.querySelector('input[name="splitMode"]:checked').value;
+            customHeightInput.disabled = splitMode !== 'custom';
+            updatePreview();
+        }
+
         function updatePreview() {
             const content = inputArea.value;
-            if (currentMode === 'markdown') {
-                preview.innerHTML = marked.parse(content);
-            } else {
-                preview.innerHTML = content;
+            const splitMode = document.querySelector('input[name="splitMode"]:checked').value;
+            let htmlContent = currentMode === 'markdown' ? marked.parse(content) : content;
+
+            preview.innerHTML = htmlContent;
+
+            if (splitMode === 'manual') {
+                if (currentMode === 'markdown') {
+                    preview.innerHTML = htmlContent.replace(/\[SPLIT\]/gi, '<hr class="split-line">');
+                } else if (currentMode === 'html') {
+                    preview.innerHTML = htmlContent.replace(/<!-- SPLIT -->/gi, '<hr class="split-line">');
+                }
+            } else if (splitMode === 'auto' || splitMode === 'custom') {
+                const maxHeight = splitMode === 'auto' ? DEFAULT_HEIGHT : parseInt(customHeightInput.value) || DEFAULT_HEIGHT;
+                const totalHeight = preview.scrollHeight;
+                if (totalHeight > maxHeight) {
+                    const splitPositions = [];
+                    for (let y = maxHeight; y < totalHeight; y += maxHeight) {
+                        splitPositions.push(y);
+                    }
+                    splitPositions.forEach((pos) => {
+                        const splitLine = document.createElement('hr');
+                        splitLine.className = 'split-line';
+                        splitLine.style.position = 'absolute';
+                        splitLine.style.top = `${pos}px`;
+                        splitLine.style.width = '100%';
+                        splitLine.style.left = '0';
+                        preview.appendChild(splitLine);
+                    });
+                }
+            }
+
+            const creatorText = document.createElement('div');
+            creatorText.id = 'creatorText';
+            preview.appendChild(creatorText);
+            toggleCreator();
+            updateBackground();
+        }
+
+        function toggleCreator() {
+            const creatorText = document.getElementById('creatorText');
+            const isChecked = addCreatorCheckbox.checked;
+            creatorInput.disabled = !isChecked;
+            creatorColor.disabled = !isChecked;
+            positionInputs.forEach(input => input.disabled = !isChecked);
+            creatorText.style.display = isChecked ? 'block' : 'none';
+            if (isChecked) {
+                updateCreatorStyle();
             }
         }
 
-        // 输入时实时更新预览
-        inputArea.addEventListener('input', updatePreview);
-
-        // 转换为图片
-        function convertToImage() {
-            html2canvas(document.getElementById('preview')).then(canvas => {
-                const link = document.createElement('a');
-                link.download = `${currentMode}-image.png`;
-                link.href = canvas.toDataURL('image/png');
-                link.click();
-            });
+        function updateCreatorStyle() {
+            const creatorText = document.getElementById('creatorText');
+            if (!addCreatorCheckbox.checked || !creatorText) return;
+            const color = creatorColor.value;
+            const position = document.querySelector('input[name="position"]:checked').value;
+            creatorText.textContent = creatorInput.value || 'Created by: Unknown';
+            creatorText.style.color = color;
+            creatorText.className = 'creatorText ' + position;
+            if (position === 'tiled') {
+                creatorText.style.background = `url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100"><text x="10" y="50" font-size="12" fill="${encodeURIComponent(color)}" transform="rotate(45 50 50)">${encodeURIComponent(creatorText.textContent)}</text></svg>') repeat`;
+            } else {
+                creatorText.style.background = 'rgba(255, 255, 255, 0.8)';
+            }
         }
 
-        // 初始化时显示默认预览
+        function updateBackground() {
+            const bgValue = document.querySelector('input[name="background"]:checked').value;
+            preview.style.background = bgValue;
+        }
+
+        async function convertToImage() {
+            if (!inputArea.value.trim()) {
+                alert('请输入内容！');
+                return;
+            }
+
+            const splitMode = document.querySelector('input[name="splitMode"]:checked').value;
+            const canvasOptions = {
+                width: preview.offsetWidth,
+                backgroundColor: null
+            };
+
+            // 临时移除分割线
+            const splitLines = preview.querySelectorAll('.split-line');
+            const splitLineNodes = Array.from(splitLines);
+            splitLineNodes.forEach(line => line.remove());
+
+            if (splitMode === 'none') {
+                const canvas = await html2canvas(preview, canvasOptions);
+                downloadImage(canvas, `${currentMode}-image.png`);
+            } else if (splitMode === 'auto' || splitMode === 'custom') {
+                const maxHeight = splitMode === 'auto' ? DEFAULT_HEIGHT : parseInt(customHeightInput.value) || DEFAULT_HEIGHT;
+                const totalHeight = preview.scrollHeight;
+                const numPages = Math.ceil(totalHeight / maxHeight);
+                for (let i = 0; i < numPages; i++) {
+                    const canvas = await html2canvas(preview, {
+                        ...canvasOptions,
+                        height: Math.min(maxHeight, totalHeight - i * maxHeight),
+                        y: i * maxHeight,
+                        scrollY: -i * maxHeight
+                    });
+                    downloadImage(canvas, `${currentMode}-image-${i + 1}.png`);
+                }
+            } else if (splitMode === 'manual') {
+                const content = inputArea.value;
+                const splitPoints = [];
+                let lastIndex = 0;
+                const splitRegex = currentMode === 'markdown' ? /\[SPLIT\]/gi : /<!-- SPLIT -->/gi;
+                const splitLength = currentMode === 'markdown' ? 7 : 11; // [SPLIT] 或 <!-- SPLIT --> 的长度
+                let match;
+                while ((match = splitRegex.exec(content)) !== null) {
+                    splitPoints.push(match.index);
+                }
+                splitPoints.push(content.length);
+
+                const tempDiv = document.createElement('div');
+                tempDiv.style.position = 'absolute';
+                tempDiv.style.left = '-9999px';
+                document.body.appendChild(tempDiv);
+
+                for (let i = 0; i < splitPoints.length; i++) {
+                    const start = i === 0 ? 0 : splitPoints[i - 1] + splitLength;
+                    const end = splitPoints[i];
+                    const sectionContent = content.substring(start, end);
+                    if (sectionContent.trim()) {
+                        tempDiv.innerHTML = currentMode === 'markdown' ? marked.parse(sectionContent) : sectionContent;
+                        const canvas = await html2canvas(tempDiv, canvasOptions);
+                        downloadImage(canvas, `${currentMode}-image-${i + 1}.png`);
+                    }
+                }
+                document.body.removeChild(tempDiv);
+            }
+
+            // 恢复分割线
+            splitLineNodes.forEach(line => preview.appendChild(line));
+        }
+
+        function downloadImage(canvas, filename) {
+            const link = document.createElement('a');
+            link.download = filename;
+            link.href = canvas.toDataURL('image/png');
+            link.click();
+        }
+
+        inputArea.addEventListener('input', updatePreview);
+        creatorInput.addEventListener('input', updateCreatorStyle);
+
         updatePreview();
     </script>
 </body>
