@@ -22,6 +22,7 @@
             display: flex;
             flex-direction: column;
             justify-content: flex-start;
+            position: relative; /* 为画布和图标提供定位上下文 */
         }
         .image-container {
             position: relative;
@@ -46,6 +47,7 @@
             padding: 10px;
             cursor: pointer;
             user-select: none;
+            z-index: 2; /* 确保箭头在画布上方 */
         }
         .left-arrow {
             left: 10px;
@@ -61,6 +63,37 @@
             margin: 0;
             outline: none; /* 移除焦点轮廓 */
             user-select: none; /* 禁止选择 */
+            z-index: 2; /* 确保音频控件在画布上方 */
+        }
+        canvas {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 1; /* 画布在图片上方但在箭头和音频下方 */
+        }
+        .controls {
+            position: absolute;
+            z-index: 10; /* 图标在最上层 */
+            display: none; /* 默认隐藏 */
+            flex-direction: column;
+            gap: 10px;
+            user-select: none;
+        }
+        .icon {
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            touch-action: none;
+            font-size: 24px;
+            color: #000;
+        }
+        .icon:hover {
+            color: #555;
         }
     </style>
 </head>
@@ -75,17 +108,50 @@
             <source src="1.m4a" type="audio/mp4">
             你的浏览器不支持音频播放。
         </audio>
+        <canvas id="myCanvas"></canvas>
+        <div class="controls" id="controls">
+            <div class="icon" id="undoBtn">⟲</div>
+            <div class="icon" id="clearBtn">✖</div>
+        </div>
     </div>
 
     <script>
         const audio = document.getElementById('audio-player');
         const image = document.getElementById('current-image');
+        const canvas = document.getElementById('myCanvas');
+        const ctx = canvas.getContext('2d');
+        const controls = document.getElementById('controls');
+        const undoBtn = document.getElementById('undoBtn');
+        const clearBtn = document.getElementById('clearBtn');
         
         const images = [
             '1.jpg', '2.jpg', '3.jpg', '4.jpg', '5.jpg', '6.jpg',
             '7.jpg', '8.jpg', '9.jpg', '10.jpg', '11.jpg', '12.jpg',
         ];
         let currentIndex = 0;
+
+        // 设置默认位置
+        const defaultLeft = 50;
+        const defaultTop = 100;
+        controls.style.left = defaultLeft + 'px';
+        controls.style.top = defaultTop + 'px';
+
+        // 设置画布为全屏
+        function resizeCanvas() {
+            canvas.width = window.innerWidth;
+            canvas.height = window.innerHeight;
+            redraw(); // 重绘现有线条
+        }
+        window.addEventListener('resize', resizeCanvas);
+
+        let isDrawing = false;
+        let lastX = 0;
+        let lastY = 0;
+        let paths = [];
+
+        // 设置画笔样式
+        ctx.strokeStyle = '#FFD700'; // 金色
+        ctx.lineWidth = 3; // 加粗到3
 
         // 切换图片
         function prevImage() {
@@ -129,6 +195,145 @@
                 audio.currentTime = ratio * duration; // 设置跳转时间
             }
         });
+
+        // 划线功能
+        function startDrawing(e) {
+            isDrawing = true;
+            const pos = getPosition(e);
+            [lastX, lastY] = [pos.x, pos.y];
+            paths.push([]);
+            updateControlsVisibility();
+        }
+
+        function draw(e) {
+            if (!isDrawing) return;
+            e.preventDefault();
+            const pos = getPosition(e);
+            ctx.strokeStyle = '#FFD700';
+            ctx.lineWidth = 3;
+            ctx.beginPath();
+            ctx.moveTo(lastX, lastY);
+            ctx.lineTo(pos.x, pos.y);
+            ctx.stroke();
+            paths[paths.length - 1].push({ x: lastX, y: lastY, x2: pos.x, y2: pos.y });
+            [lastX, lastY] = [pos.x, pos.y];
+        }
+
+        function stopDrawing() {
+            isDrawing = false;
+        }
+
+        function getPosition(e) {
+            if (e.touches) {
+                return { x: e.touches[0].clientX, y: e.touches[0].clientY };
+            }
+            return { x: e.clientX, y: e.clientY };
+        }
+
+        function undo() {
+            paths.pop();
+            redraw();
+            updateControlsVisibility();
+        }
+
+        function clearCanvas() {
+            paths = [];
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            updateControlsVisibility();
+        }
+
+        function redraw() {
+            ctx.clearRect(0, 0, canvas.width, canvas.height);
+            ctx.strokeStyle = '#FFD700';
+            ctx.lineWidth = 3;
+            paths.forEach(path => {
+                path.forEach(line => {
+                    ctx.beginPath();
+                    ctx.moveTo(line.x, line.y);
+                    ctx.lineTo(line.x2, line.y2);
+                    ctx.stroke();
+                });
+            });
+        }
+
+        function updateControlsVisibility() {
+            if (paths.length > 0) {
+                controls.style.display = 'flex';
+            } else {
+                controls.style.display = 'none';
+            }
+        }
+
+        // 绘制事件
+        canvas.addEventListener('mousedown', startDrawing);
+        canvas.addEventListener('mousemove', draw);
+        canvas.addEventListener('mouseup', stopDrawing);
+        canvas.addEventListener('mouseleave', stopDrawing);
+        canvas.addEventListener('touchstart', startDrawing);
+        canvas.addEventListener('touchmove', draw);
+        canvas.addEventListener('touchend', stopDrawing);
+
+        // 图标点击和拖动逻辑
+        let isDraggingControls = false;
+        let startX, startY;
+        let touchStartTime;
+
+        // 电脑端点击
+        undoBtn.addEventListener('click', undo);
+        clearBtn.addEventListener('click', clearCanvas);
+
+        // 电脑端拖动
+        controls.addEventListener('mousedown', (e) => {
+            isDraggingControls = true;
+            startX = e.clientX - controls.offsetLeft;
+            startY = e.clientY - controls.offsetTop;
+        });
+
+        document.addEventListener('mousemove', (e) => {
+            if (isDraggingControls) {
+                controls.style.left = (e.clientX - startX) + 'px';
+                controls.style.top = (e.clientY - startY) + 'px';
+            }
+        });
+
+        document.addEventListener('mouseup', () => {
+            isDraggingControls = false;
+        });
+
+        // 手机端触摸
+        controls.addEventListener('touchstart', (e) => {
+            e.preventDefault();
+            touchStartTime = Date.now();
+            const touch = e.touches[0];
+            startX = touch.clientX - controls.offsetLeft;
+            startY = touch.clientY - controls.offsetTop;
+            isDraggingControls = true;
+        });
+
+        controls.addEventListener('touchmove', (e) => {
+            if (isDraggingControls) {
+                e.preventDefault();
+                const touch = e.touches[0];
+                controls.style.left = (touch.clientX - startX) + 'px';
+                controls.style.top = (touch.clientY - startY) + 'px';
+            }
+        });
+
+        controls.addEventListener('touchend', (e) => {
+            e.preventDefault();
+            isDraggingControls = false;
+            const touchDuration = Date.now() - touchStartTime;
+            if (touchDuration < 200) { // 短按小于200ms视为点击
+                if (e.target === undoBtn) {
+                    undo();
+                } else if (e.target === clearBtn) {
+                    clearCanvas();
+                }
+            }
+        });
+
+        // 初始化画布
+        resizeCanvas();
     </script>
 </body>
 </html>
