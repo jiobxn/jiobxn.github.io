@@ -14,7 +14,7 @@
         }
         body.theme-dark { 
             background: #2c2c2c; 
-            color: #e0e0e0; /* 深色主题下文字颜色调整为浅灰色 */
+            color: #e0e0e0;
         }
         body.theme-blue { 
             background: #e3f2fd; 
@@ -23,10 +23,10 @@
             background: #e8f5e9; 
         }
         body.theme-purple { 
-            background: #f3e5f5; /* 新增紫色主题 */
+            background: #f3e5f5;
         }
         body.theme-orange { 
-            background: #fff3e0; /* 新增橙色主题 */
+            background: #fff3e0;
         }
         .container { max-width: 1200px; margin: 0 auto; text-align: center; }
         .top-bar { 
@@ -37,7 +37,7 @@
         }
         .top-bar > div:last-child { 
             display: flex; 
-            gap: 15px; /* 调整主题、导入、导出之间的间隙为 15px */
+            gap: 15px;
             align-items: center; 
         }
         .add-btn { 
@@ -52,10 +52,10 @@
             cursor: pointer; 
         }
         body.theme-dark .add-btn { 
-            background: #444; /* 深色主题下调整背景色 */
+            background: #444;
         }
         .search-box { 
-            margin-left: 150px; /* 往右移动 150px */
+            margin-left: 150px;
         }
         .search-box input { 
             width: 400px; 
@@ -68,7 +68,7 @@
         body.theme-dark .search-box input { 
             background: #444; 
             border-color: #666; 
-            color: #e0e0e0; /* 深色主题下调整输入框颜色 */
+            color: #e0e0e0;
         }
         .save-btn { 
             padding: 8px 15px; 
@@ -80,7 +80,7 @@
         body.theme-dark .save-btn { 
             background: #444; 
             border-color: #666; 
-            color: #e0e0e0; /* 深色主题下调整按钮颜色 */
+            color: #e0e0e0;
         }
         .theme-selector { 
             padding: 8px; 
@@ -92,7 +92,7 @@
         body.theme-dark .theme-selector { 
             background: #444; 
             border-color: #666; 
-            color: #e0e0e0; /* 深色主题下调整选择框颜色 */
+            color: #e0e0e0;
         }
         .tabs-container { 
             display: flex; 
@@ -125,7 +125,7 @@
             min-width: 48px; 
         }
         body.theme-dark .tab { 
-            color: #e0e0e0; /* 深色主题下调整标签文字颜色 */
+            color: #e0e0e0;
         }
         .tab.active { 
             border-bottom: 2px solid #1a73e8; 
@@ -147,7 +147,7 @@
             transition: transform 0.3s ease; 
         }
         body.theme-dark .tab-expand { 
-            background: #444; /* 深色主题下调整展开按钮背景色 */
+            background: #444;
         }
         .tab-expand.expanded { 
             transform: rotate(180deg); 
@@ -172,19 +172,31 @@
             border-radius: 50%; 
             position: relative; 
             display: flex; 
-            flex-direction: column; 
             align-items: center; 
             justify-content: center; 
             cursor: pointer; 
             transition: box-shadow 0.3s ease; 
         }
         body.theme-dark .tile { 
-            background: #555; /* 深色主题下调整磁贴背景色 */
+            background: #555;
         }
         .tile img { 
             width: 28px; 
             height: 28px; 
             object-fit: contain; 
+        }
+        .tile .initial { 
+            font-size: 26px; /* 加大一码 */
+            font-weight: bold; 
+            color: #333; 
+            text-transform: uppercase; 
+            position: absolute; 
+            top: 50%; 
+            left: 50%; 
+            transform: translate(-50%, -42%); 
+        }
+        body.theme-dark .tile .initial { 
+            color: #e0e0e0;
         }
         .tile span { 
             font-size: 12px; 
@@ -199,7 +211,7 @@
             bottom: -20px; 
         }
         body.theme-dark .tile span { 
-            color: #e0e0e0; /* 深色主题下调整磁贴描述文字颜色 */
+            color: #e0e0e0;
         }
         .tile:hover { 
             box-shadow: 0 4px 35px 10px rgba(0,0,0,0.4); 
@@ -217,7 +229,7 @@
             display: none; 
         }
         body.theme-dark .tile .edit-btn { 
-            color: #bbb; /* 深色主题下调整编辑按钮颜色 */
+            color: #bbb;
         }
         .tile-nav-container { 
             position: absolute; 
@@ -245,13 +257,13 @@
         body.theme-dark .tile-nav { 
             background: #444; 
             border-color: #666; 
-            color: #e0e0e0; /* 深色主题下调整翻页按钮颜色 */
+            color: #e0e0e0;
         }
         .tile-nav:hover { 
             background: #f0f0f0; 
         }
         body.theme-dark .tile-nav:hover { 
-            background: #555; /* 深色主题下调整翻页按钮悬停颜色 */
+            background: #555;
         }
         .tile-nav.disabled { 
             background: #f5f5f5; 
@@ -261,7 +273,7 @@
         }
         body.theme-dark .tile-nav.disabled { 
             background: #333; 
-            color: #666; /* 深色主题下调整禁用状态颜色 */
+            color: #666;
         }
         .modal { 
             display: none; 
@@ -284,7 +296,7 @@
         }
         body.theme-dark .modal-content { 
             background: #333; 
-            color: #e0e0e0; /* 深色主题下调整弹窗背景和文字颜色 */
+            color: #e0e0e0;
         }
         .modal-content .close-btn { 
             position: absolute; 
@@ -295,7 +307,7 @@
             cursor: pointer; 
         }
         body.theme-dark .modal-content .close-btn { 
-            color: #bbb; /* 深色主题下调整关闭按钮颜色 */
+            color: #bbb;
         }
         .modal-content input, 
         .modal-content select, 
@@ -305,13 +317,14 @@
             padding: 8px; 
             border: 1px solid #ddd; 
             border-radius: 5px; 
+            box-sizing: border-box; 
         }
         body.theme-dark .modal-content input, 
         body.theme-dark .modal-content select, 
         body.theme-dark .modal-content textarea { 
             background: #444; 
             border-color: #666; 
-            color: #e0e0e0; /* 深色主题下调整输入框颜色 */
+            color: #e0e0e0;
         }
         .modal-content textarea { 
             height: 60px; 
@@ -338,7 +351,25 @@
         }
         body.theme-dark .modal-content button:nth-child(3) { 
             background: #444; 
-            color: #e0e0e0; /* 深色主题下调整取消按钮颜色 */
+            color: #e0e0e0;
+        }
+        .modal-content .group-row { 
+            display: flex; 
+            align-items: center; 
+            gap: 10px; 
+            margin: 10px 0; 
+        }
+        .modal-content .group-row select { 
+            flex: 1; 
+            width: 30%; 
+        }
+        .modal-content .group-row label { 
+            margin: 0; 
+            font-size: 14px; 
+            white-space: nowrap; 
+            display: flex; 
+            align-items: center; 
+            gap: 5px; 
         }
     </style>
 </head>
@@ -382,8 +413,11 @@
             <h3>添加网页</h3>
             <input type="text" id="addName" placeholder="标题（显示在页面上）">
             <textarea id="addDescription" placeholder="描述（用于搜索）"></textarea>
-            <input type="text" id="addUrl" placeholder="输入 URL (如 https://example.com)">
-            <select id="addGroup"></select>
+            <input type="text" id="addUrl" placeholder="输入 URL (如 http://example.com)">
+            <div class="group-row">
+                <select id="addGroup"></select>
+                <label><input type="checkbox" id="useFaviconIco"> 默认icon</label>
+            </div>
             <button onclick="addTile()">添加</button>
             <button onclick="closeAddModal()">取消</button>
         </div>
@@ -396,7 +430,10 @@
             <input type="text" id="editName" placeholder="标题（显示在页面上）">
             <textarea id="editDescription" placeholder="描述（用于搜索）"></textarea>
             <input type="text" id="editUrl" placeholder="网页 URL">
-            <select id="editGroup"></select>
+            <div class="group-row">
+                <select id="editGroup"></select>
+                <label><input type="checkbox" id="useFaviconIcoEdit"> 默认icon</label>
+            </div>
             <button onclick="saveEdit()">保存</button>
             <button onclick="deleteTile()">删除</button>
             <button onclick="closeEditModal()">取消</button>
@@ -410,9 +447,134 @@
         let activeGroup = groups[0] || '默认';
         let tilePage = 0;
         const tilesPerPage = 12;
+        const titleMap = {
+            'mp.weixin.qq.com': '微信公众平台',
+            'www.google.com': 'Google',
+            'www.baidu.com': '百度',
+            'www.youtube.com': 'YouTube'
+        };
 
         function saveGroups() {
             localStorage.setItem('groups', JSON.stringify(groups));
+        }
+
+        function getDomainFromUrl(url) {
+            try {
+                if (!url.startsWith('http://') && !url.startsWith('https://')) {
+                    url = 'http://' + url; // 默认 http
+                }
+                const parsed = new URL(url);
+                return parsed.hostname.replace(/^www\./, '');
+            } catch {
+                return 'unknown';
+            }
+        }
+
+        function getDomainInitial(domain) {
+            return domain.charAt(0).toUpperCase();
+        }
+
+        function withTimeout(promise, ms) {
+            const timeout = new Promise((_, reject) => {
+                setTimeout(() => reject(new Error('Timeout')), ms);
+            });
+            return Promise.race([promise, timeout]);
+        }
+
+        function isValidIconUrl(url) {
+            return url && /^https?:\/\//.test(url) && !url.startsWith('file://');
+        }
+
+        async function fetchSiteData(url) {
+            if (!url) return { icon: null, title: '' };
+            const domain = getDomainFromUrl(url);
+            let icon = null;
+            let title = titleMap[domain] || '';
+            const useFaviconIco = editingIndex >= 0 
+                ? document.getElementById('useFaviconIcoEdit')?.checked || false 
+                : document.getElementById('useFaviconIco')?.checked || false;
+
+            if (useFaviconIco) {
+                const faviconUrl = `${url.replace(/\/$/, '')}/favicon.ico`;
+                console.log(`Forced using /favicon.ico for ${url}: ${faviconUrl}`);
+                icon = faviconUrl; // 直接使用，即使失败也显示 <img>
+            } else {
+                try {
+                    const faviconUrl = `${url.replace(/\/$/, '')}/favicon.ico`;
+                    const faviconResponse = await withTimeout(
+                        fetch(faviconUrl, { headers: { 'User-Agent': 'Mozilla/5.0' } }),
+                        3000
+                    );
+                    if (faviconResponse.ok && faviconResponse.headers.get('Content-Type')?.includes('image/')) {
+                        console.log(`Using /favicon.ico for ${url}`);
+                        icon = faviconUrl;
+                    } else {
+                        console.log(`/favicon.ico failed for ${url}: ${faviconResponse.status}`);
+                    }
+                } catch (err) {
+                    console.log(`Failed to fetch /favicon.ico for ${url}: ${err.message}`);
+                }
+
+                if (!icon || !title) {
+                    try {
+                        const response = await withTimeout(
+                            fetch(`https://api.allorigins.win/get?url=${encodeURIComponent(url)}`),
+                            3000
+                        );
+                        const data = await response.json();
+                        const html = data.contents;
+                        const parser = new DOMParser();
+                        const doc = parser.parseFromString(html, 'text/html');
+
+                        if (!icon) {
+                            const iconLink = doc.querySelector('link[rel="icon"], link[rel="shortcut icon"]');
+                            if (iconLink && iconLink.href) {
+                                const href = iconLink.href.startsWith('http') ? iconLink.href : new URL(iconLink.href, url).href;
+                                if (isValidIconUrl(href)) {
+                                    console.log(`Using <link rel="icon"> for ${url}: ${href}`);
+                                    icon = href;
+                                }
+                            }
+                        }
+
+                        if (!title) {
+                            const rawTitle = doc.querySelector('title')?.textContent.trim() || '';
+                            if (rawTitle && !rawTitle.toLowerCase().includes('just a moment')) {
+                                title = rawTitle;
+                                console.log(`Using <title> from allorigins for ${url}: ${title}`);
+                            } else {
+                                console.log(`Invalid title from allorigins for ${url}: ${rawTitle}`);
+                            }
+                        }
+                    } catch (err) {
+                        console.error(`HTML parsing failed for ${url}: ${err}`);
+                    }
+                }
+
+                if (!icon && domain) {
+                    const googleFavicon = `https://www.google.com/s2/favicons?domain=${domain}`;
+                    try {
+                        const response = await withTimeout(fetch(googleFavicon), 3000);
+                        if (response.ok && response.headers.get('Content-Type')?.includes('image/')) {
+                            icon = googleFavicon;
+                            console.log(`Using Google Favicon for ${url}: ${icon}`);
+                        } else {
+                            console.log(`Google Favicon invalid for ${url}`);
+                            icon = null;
+                        }
+                    } catch (err) {
+                        console.log(`Failed to fetch Google Favicon for ${url}: ${err.message}`);
+                        icon = null;
+                    }
+                }
+            }
+
+            if (!title || title === '') {
+                title = domain;
+                console.log(`Falling back to domain for ${url}: ${title}`);
+            }
+
+            return { icon, title };
         }
 
         function renderTabs() {
@@ -434,15 +596,17 @@
 
             const addGroupSelect = document.getElementById('addGroup');
             const editGroupSelect = document.getElementById('editGroup');
-            addGroupSelect.innerHTML = '';
-            editGroupSelect.innerHTML = '';
-            groups.forEach(group => {
-                const option = document.createElement('option');
-                option.value = group;
-                option.textContent = group;
-                addGroupSelect.appendChild(option.cloneNode(true));
-                editGroupSelect.appendChild(option);
-            });
+            if (addGroupSelect && editGroupSelect) {
+                addGroupSelect.innerHTML = '';
+                editGroupSelect.innerHTML = '';
+                groups.forEach(group => {
+                    const option = document.createElement('option');
+                    option.value = group;
+                    option.textContent = group;
+                    addGroupSelect.appendChild(option.cloneNode(true));
+                    editGroupSelect.appendChild(option);
+                });
+            }
         }
 
         function toggleTabs() {
@@ -467,8 +631,12 @@
             visibleTiles.forEach((tile, index) => {
                 const tileDiv = document.createElement('div');
                 tileDiv.className = 'tile';
-                tileDiv.innerHTML = `
-                    <img src="${tile.icon || 'https://via.placeholder.com/40'}" alt="icon" onerror="this.src='https://via.placeholder.com/40'">
+                const domain = getDomainFromUrl(tile.url);
+                const initial = getDomainInitial(domain);
+                tileDiv.innerHTML = tile.icon 
+                    ? `<img src="${tile.icon}" alt="icon">`
+                    : `<span class="initial">${initial}</span>`;
+                tileDiv.innerHTML += `
                     <span>${tile.name}</span>
                     <span class="edit-btn" onclick="openEditModal(${tiles.indexOf(tile)});event.stopPropagation();">✖</span>
                 `;
@@ -511,56 +679,134 @@
         }
 
         function openAddModal() {
-            document.getElementById('addName').value = '';
-            document.getElementById('addDescription').value = '';
-            document.getElementById('addUrl').value = '';
-            document.getElementById('addGroup').value = activeGroup;
+            const nameInput = document.getElementById('addName');
+            const descriptionInput = document.getElementById('addDescription');
+            const urlInput = document.getElementById('addUrl');
+            const groupSelect = document.getElementById('addGroup');
+            const useFaviconIco = document.getElementById('useFaviconIco');
+            
+            nameInput.value = '';
+            descriptionInput.value = '';
+            urlInput.value = '';
+            groupSelect.value = activeGroup;
+            useFaviconIco.checked = false;
+            nameInput.placeholder = '标题（显示在页面上）';
+
+            urlInput.oninput = async () => {
+                const url = urlInput.value.trim();
+                if (url) {
+                    nameInput.placeholder = '加载中...';
+                    const { title } = await fetchSiteData(url);
+                    nameInput.placeholder = '标题（显示在页面上）';
+                    if (title && !nameInput.value) {
+                        nameInput.value = title;
+                    }
+                }
+            };
+
             document.getElementById('addModal').style.display = 'flex';
         }
 
         function closeAddModal() {
             document.getElementById('addModal').style.display = 'none';
+            document.getElementById('addUrl').oninput = null;
         }
 
         function addTile() {
-            const name = document.getElementById('addName').value.trim();
-            const description = document.getElementById('addDescription').value.trim();
-            const url = document.getElementById('addUrl').value.trim();
-            const group = document.getElementById('addGroup').value;
-            if (!url) return;
-            const displayName = name || url.replace(/^https?:\/\//, '').split('/')[0].replace(/^www\./, '');
-            const icon = `${url}/favicon.ico`;
-            tiles.push({ name: displayName, description, url, icon, group });
-            tilePage = 0;
-            saveAndRender();
+            const nameInput = document.getElementById('addName');
+            const descriptionInput = document.getElementById('addDescription');
+            const urlInput = document.getElementById('addUrl');
+            const groupSelect = document.getElementById('addGroup');
+
+            const name = nameInput.value.trim();
+            const description = descriptionInput.value.trim();
+            const url = urlInput.value.trim();
+            const normalizedUrl = url.startsWith('http://') || url.startsWith('https://') ? url : 'http://' + url;
+            const group = groupSelect.value;
+
+            if (!url) {
+                alert('请输入有效的 URL！');
+                return;
+            }
+
+            const defaultName = getDomainFromUrl(url);
+
+            fetchSiteData(normalizedUrl).then(({ icon, title }) => {
+                tiles.push({ name: name || title || defaultName, description, url: normalizedUrl, icon, group });
+                tilePage = 0;
+                saveAndRender();
+            }).catch(() => {
+                tiles.push({ name: name || defaultName, description, url: normalizedUrl, icon: null, group });
+                tilePage = 0;
+                saveAndRender();
+            });
+
             closeAddModal();
         }
 
         function openEditModal(index) {
             editingIndex = index;
             const tile = tiles[index];
-            document.getElementById('editName').value = tile.name;
-            document.getElementById('editDescription').value = tile.description || '';
-            document.getElementById('editUrl').value = tile.url;
-            document.getElementById('editGroup').value = tile.group;
+            const nameInput = document.getElementById('editName');
+            const descriptionInput = document.getElementById('editDescription');
+            const urlInput = document.getElementById('editUrl');
+            const groupSelect = document.getElementById('editGroup');
+            const useFaviconIcoEdit = document.getElementById('useFaviconIcoEdit');
+
+            nameInput.value = tile.name;
+            descriptionInput.value = tile.description || '';
+            urlInput.value = tile.url;
+            groupSelect.value = tile.group;
+            useFaviconIcoEdit.checked = false;
+
+            urlInput.oninput = async () => {
+                const url = urlInput.value.trim();
+                if (url) {
+                    nameInput.placeholder = '加载中...';
+                    const { title } = await fetchSiteData(url);
+                    nameInput.placeholder = '标题（显示在页面上）';
+                    if (title && !nameInput.value) {
+                        nameInput.value = title;
+                    }
+                }
+            };
+
             document.getElementById('editModal').style.display = 'flex';
         }
 
         function closeEditModal() {
             document.getElementById('editModal').style.display = 'none';
+            document.getElementById('editUrl').oninput = null;
             editingIndex = -1;
         }
 
         function saveEdit() {
-            const name = document.getElementById('editName').value;
-            const description = document.getElementById('editDescription').value;
-            const url = document.getElementById('editUrl').value;
-            const group = document.getElementById('editGroup').value;
-            if (editingIndex >= 0 && name && url) {
-                tiles[editingIndex] = { name, description, url, icon: `${url}/favicon.ico`, group };
-                tilePage = 0;
-                saveAndRender();
-                closeEditModal();
+            const nameInput = document.getElementById('editName');
+            const descriptionInput = document.getElementById('editDescription');
+            const urlInput = document.getElementById('editUrl');
+            const groupSelect = document.getElementById('editGroup');
+
+            const name = nameInput.value.trim();
+            const description = descriptionInput.value.trim();
+            const url = urlInput.value.trim();
+            const normalizedUrl = url.startsWith('http://') || url.startsWith('https://') ? url : 'http://' + url;
+            const group = groupSelect.value;
+
+            if (editingIndex >= 0 && url) {
+                const defaultName = getDomainFromUrl(url);
+                fetchSiteData(normalizedUrl).then(({ icon, title }) => {
+                    tiles[editingIndex] = { name: name || title || defaultName, description, url: normalizedUrl, icon, group };
+                    tilePage = 0;
+                    saveAndRender();
+                    closeEditModal();
+                }).catch(() => {
+                    tiles[editingIndex] = { name: name || defaultName, description, url: normalizedUrl, icon: null, group };
+                    tilePage = 0;
+                    saveAndRender();
+                    closeEditModal();
+                });
+            } else {
+                alert('请输入有效的标题和 URL！');
             }
         }
 
