@@ -186,7 +186,7 @@
             object-fit: contain; 
         }
         .tile .initial { 
-            font-size: 26px; /* 加大一码 */
+            font-size: 26px; 
             font-weight: bold; 
             color: #333; 
             text-transform: uppercase; 
@@ -461,7 +461,7 @@
         function getDomainFromUrl(url) {
             try {
                 if (!url.startsWith('http://') && !url.startsWith('https://')) {
-                    url = 'http://' + url; // 默认 http
+                    url = 'http://' + url;
                 }
                 const parsed = new URL(url);
                 return parsed.hostname.replace(/^www\./, '');
@@ -497,7 +497,7 @@
             if (useFaviconIco) {
                 const faviconUrl = `${url.replace(/\/$/, '')}/favicon.ico`;
                 console.log(`Forced using /favicon.ico for ${url}: ${faviconUrl}`);
-                icon = faviconUrl; // 直接使用，即使失败也显示 <img>
+                icon = faviconUrl;
             } else {
                 try {
                     const faviconUrl = `${url.replace(/\/$/, '')}/favicon.ico`;
@@ -717,31 +717,36 @@
             const descriptionInput = document.getElementById('addDescription');
             const urlInput = document.getElementById('addUrl');
             const groupSelect = document.getElementById('addGroup');
+            const useFaviconIco = document.getElementById('useFaviconIco');
 
             const name = nameInput.value.trim();
             const description = descriptionInput.value.trim();
             const url = urlInput.value.trim();
             const normalizedUrl = url.startsWith('http://') || url.startsWith('https://') ? url : 'http://' + url;
             const group = groupSelect.value;
+            const useFavicon = useFaviconIco.checked;
 
             if (!url) {
                 alert('请输入有效的 URL！');
                 return;
             }
 
-            const defaultName = getDomainFromUrl(url);
-
-            fetchSiteData(normalizedUrl).then(({ icon, title }) => {
-                tiles.push({ name: name || title || defaultName, description, url: normalizedUrl, icon, group });
-                tilePage = 0;
-                saveAndRender();
-            }).catch(() => {
-                tiles.push({ name: name || defaultName, description, url: normalizedUrl, icon: null, group });
-                tilePage = 0;
-                saveAndRender();
-            });
-
+            const defaultName = name || getDomainFromUrl(url);
+            tiles.push({ name: defaultName, description, url: normalizedUrl, icon: null, group, useFavicon });
+            tilePage = 0;
+            saveAndRender();
             closeAddModal();
+
+            // 异步获取图标和标题
+            fetchSiteData(normalizedUrl).then(({ icon, title }) => {
+                const tileIndex = tiles.findIndex(t => t.url === normalizedUrl && t.group === group);
+                if (tileIndex !== -1) {
+                    tiles[tileIndex] = { name: name || title || defaultName, description, url: normalizedUrl, icon, group, useFavicon };
+                    saveAndRender();
+                }
+            }).catch(() => {
+                console.log('获取图标或标题失败，仍保留书签');
+            });
         }
 
         function openEditModal(index) {
@@ -757,7 +762,7 @@
             descriptionInput.value = tile.description || '';
             urlInput.value = tile.url;
             groupSelect.value = tile.group;
-            useFaviconIcoEdit.checked = false;
+            useFaviconIcoEdit.checked = tile.useFavicon || false;
 
             urlInput.oninput = async () => {
                 const url = urlInput.value.trim();
@@ -785,22 +790,24 @@
             const descriptionInput = document.getElementById('editDescription');
             const urlInput = document.getElementById('editUrl');
             const groupSelect = document.getElementById('editGroup');
+            const useFaviconIcoEdit = document.getElementById('useFaviconIcoEdit');
 
             const name = nameInput.value.trim();
             const description = descriptionInput.value.trim();
             const url = urlInput.value.trim();
             const normalizedUrl = url.startsWith('http://') || url.startsWith('https://') ? url : 'http://' + url;
             const group = groupSelect.value;
+            const useFavicon = useFaviconIcoEdit.checked;
 
             if (editingIndex >= 0 && url) {
                 const defaultName = getDomainFromUrl(url);
                 fetchSiteData(normalizedUrl).then(({ icon, title }) => {
-                    tiles[editingIndex] = { name: name || title || defaultName, description, url: normalizedUrl, icon, group };
+                    tiles[editingIndex] = { name: name || title || defaultName, description, url: normalizedUrl, icon, group, useFavicon };
                     tilePage = 0;
                     saveAndRender();
                     closeEditModal();
                 }).catch(() => {
-                    tiles[editingIndex] = { name: name || defaultName, description, url: normalizedUrl, icon: null, group };
+                    tiles[editingIndex] = { name: name || defaultName, description, url: normalizedUrl, icon: null, group, useFavicon };
                     tilePage = 0;
                     saveAndRender();
                     closeEditModal();
@@ -812,10 +819,12 @@
 
         function deleteTile() {
             if (editingIndex >= 0) {
-                tiles.splice(editingIndex, 1);
-                tilePage = 0;
-                saveAndRender();
-                closeEditModal();
+                if (confirm('确定要删除？')) {
+                    tiles.splice(editingIndex, 1);
+                    tilePage = 0;
+                    saveAndRender();
+                    closeEditModal();
+                }
             }
         }
 
