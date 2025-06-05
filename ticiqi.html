@@ -1,0 +1,470 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <title>提词器</title>
+  <style>
+    /* ====== 基本样式 ====== */
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background-color: #000;
+      overflow: hidden;
+    }
+    /* 整个提词区域 */
+    #teleprompter {
+      width: 100%;
+      height: 100vh;
+      position: relative;
+      background-color: #000;
+      color: #fff;
+      font-size: 24px;
+      display: flex;
+      align-items: center;
+      overflow: hidden;
+    }
+    /* 滚动的文字容器，内部包含两份文字块 */
+    #scrollWrapper {
+      position: absolute;
+      white-space: nowrap;
+      will-change: transform; /* 提升性能 */
+      display: flex;
+      align-items: center;
+      /* transform 会由 JS 动态控制 */
+    }
+    .textBlock {
+      display: inline-flex;
+      align-items: center;
+      white-space: nowrap;
+    }
+    .textBlock > span {
+      padding: 0 20px; /* 行与行之间留点间距 */
+    }
+    /* 默认提示 */
+    #promptMessage {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      color: #fff;
+      font-size: 20px;
+      text-align: center;
+      z-index: 5;
+      pointer-events: none; /* 允许双击穿透到 teleprompter */
+    }
+    /* 控制面板，默认隐藏 */
+    #controls {
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      box-sizing: border-box;
+      background-color: #f0f0f0;
+      padding: 10px;
+      transform: translateY(100%);
+      transition: transform 0.3s ease;
+      z-index: 10;
+    }
+    #controls.show {
+      transform: translateY(0);
+    }
+    /* 文本输入框 */
+    #textInput {
+      width: 100%;
+      height: 100px;
+      margin-bottom: 8px;
+      resize: none;
+      box-sizing: border-box;
+      font-size: 16px;
+    }
+    /* 按钮与输入标签样式 */
+    button {
+      padding: 6px 14px;
+      margin: 4px;
+      cursor: pointer;
+    }
+    label {
+      margin-right: 10px;
+      font-size: 14px;
+    }
+    select {
+      width: 80px;
+      padding: 4px;
+      font-size: 14px;
+    }
+    input[type="color"] {
+      vertical-align: middle;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- 双击 teleprompter 区域可切换控制面板 -->
+  <div id="teleprompter" ondblclick="toggleControls()" ontouchend="handleTouchEnd(event)">
+    <!-- 默认提示 -->
+    <div id="promptMessage">双击此处显示控制面板以输入或导入文本</div>
+    <!-- scrollWrapper 内部含两份 textBlock，用于无缝循环 -->
+    <div id="scrollWrapper">
+      <div class="textBlock" id="textBlock1">
+        <!-- JS 会往这里插入若干 <span> 每行一个 -->
+      </div>
+      <div class="textBlock" id="textBlock2">
+        <!-- 克隆第一份的内容 -->
+      </div>
+    </div>
+  </div>
+
+  <!-- 控制面板 -->
+  <div id="controls">
+    <textarea id="textInput" placeholder="在此输入文本，按行分隔。"></textarea>
+    <input type="file" id="fileInput" accept=".txt"/>
+
+    <div style="margin-top: 8px;">
+      <label>速度：
+        <select id="speed">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3" selected>3</option>
+          <option value="4">4</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+        </select>
+      </label>
+      <label>字体大小：
+        <select id="fontSize">
+          <option value="12">12px</option>
+          <option value="18">18px</option>
+          <option value="24" selected>24px</option>
+          <option value="36">36px</option>
+          <option value="48">48px</option>
+          <option value="60">60px</option>
+          <option value="72">72px</option>
+        </select>
+      </label>
+    </div>
+    <div style="margin-top: 6px;">
+      <label>背景色：<input type="color" id="bgColor" value="#000000"/></label>
+      <label>文字色：<input type="color" id="textColor" value="#ffffff"/></label>
+    </div>
+    <div style="margin-top: 8px;">
+      <button onclick="startScroll('left')">向左滚动</button>
+      <button onclick="startScroll('right')">向右滚动</button>
+      <button onclick="togglePause()"><span id="pauseBtnText">暂停</span></button>
+      <button onclick="prevLine()">上一行</button>
+      <button onclick="startFromCursor()">从光标行开始</button>
+      <button onclick="toggleFullScreen()">全屏</button>
+    </div>
+  </div>
+
+  <script>
+    /***** 全局变量 *****/
+    let lines = ["请导入或输入文本"];       // 存储文本的每一行
+    let speed = 5;                         // 默认滚动速度
+    let fontSize = 24;                     // 默认字体大小（px）
+    let direction = "left";                // 滚动方向："left" 或 "right"
+    let isPaused = false;                  // 暂停状态
+    let scrollRAF = null;                  // requestAnimationFrame 的 id
+    let wrapper = null;                    // #scrollWrapper DOM
+    let block1 = null, block2 = null;      // 两份文字块
+    let blockWidth = 0;                    // 单份文字块的宽度（像素）
+    let containerWidth = 0;                // 可视区宽度（像素）
+    let position = 0;                      // 当前滚动的 translateX 值
+    let currentLineIndex = 0;              // “上一行” 或 “从光标行开始” 时追踪的行号
+    let lastTime = null;                   // 上次动画帧的时间
+    let lastTouchTime = 0;                 // 上次轻触时间
+
+    /***** 初始化 *****/
+    window.onload = () => {
+      wrapper = document.getElementById("scrollWrapper");
+      block1 = document.getElementById("textBlock1");
+      block2 = document.getElementById("textBlock2");
+      containerWidth = document.getElementById("teleprompter").offsetWidth;
+
+      // 加载本地设置（如果有的话）
+      loadSettings();
+
+      // 初次渲染
+      renderLines();
+      setInitialPosition();
+
+      // 监听：文件导入
+      document.getElementById("fileInput")
+        .addEventListener("change", e => {
+          const file = e.target.files[0];
+          if (!file) return;
+          const reader = new FileReader();
+          reader.onload = ev => {
+            document.getElementById("textInput").value = ev.target.result;
+            updateLines(ev.target.result);
+          };
+          reader.readAsText(file, "UTF-8");
+        });
+
+      // 监听：手动输入
+      document.getElementById("textInput")
+        .addEventListener("input", () => {
+          updateLines(document.getElementById("textInput").value);
+        });
+
+      // 监听：速度
+      document.getElementById("speed")
+        .addEventListener("change", e => {
+          let v = parseInt(e.target.value, 10);
+          if (isNaN(v) || v < 1) v = 1;
+          if (v > 50) v = 50;
+          speed = v;
+          saveSettings();
+        });
+
+      // 监听：字体大小
+      document.getElementById("fontSize")
+        .addEventListener("change", e => {
+          let v = parseInt(e.target.value, 10);
+          if (isNaN(v) || v < 12) v = 12;
+          if (v > 60) v = 60;
+          fontSize = v;
+          document.getElementById("teleprompter").style.fontSize = `${fontSize}px`;
+          saveSettings();
+          // 重新渲染行并重置位置
+          renderLines();
+          setInitialPosition();
+        });
+
+      // 监听：背景色
+      document.getElementById("bgColor")
+        .addEventListener("input", e => {
+          document.getElementById("teleprompter").style.backgroundColor = e.target.value;
+          saveSettings();
+        });
+
+      // 监听：文字色
+      document.getElementById("textColor")
+        .addEventListener("input", e => {
+          document.getElementById("teleprompter").style.color = e.target.value;
+          saveSettings();
+        });
+
+      // 一开始显示默认提示
+      document.getElementById("promptMessage").style.display = "block";
+    };
+
+    /***** 更新行数据 并 重新渲染 *****/
+    function updateLines(text) {
+      // 按行分割，去掉空行
+      const arr = text.split("\n").map(l => l.trim()).filter(l => l !== "");
+      lines = arr.length > 0 ? arr : ["请导入或输入文本"];
+      currentLineIndex = 0;
+      renderLines();
+      setInitialPosition();
+      // 隐藏默认提示
+      document.getElementById("promptMessage").style.display = "none";
+    }
+
+    /***** 将 lines 渲染到两个 textBlock 中 *****/
+    function renderLines() {
+      // 清空现有内容
+      block1.innerHTML = "";
+      block2.innerHTML = "";
+      // 对每行，用 <span> 包裹，添加到 block1
+      lines.forEach((ln, idx) => {
+        const sp = document.createElement("span");
+        sp.innerText = ln;
+        sp.dataset.lineIndex = idx; // 记录行索引，方便“上一行”定位
+        block1.appendChild(sp);
+      });
+      // 克隆一份到 block2，实现无缝衔接
+      block2.innerHTML = block1.innerHTML;
+
+      // 由于字体大小或内容改变，需重新计算宽度
+      // 延迟一帧确保浏览器已渲染
+      requestAnimationFrame(() => {
+        blockWidth = block1.scrollWidth; // 保持整数
+        containerWidth = document.getElementById("teleprompter").offsetWidth;
+      });
+    }
+
+    /***** 初始位置：从右侧边缘开始，显示第一行 *****/
+    function setInitialPosition() {
+      if (direction === "left") {
+        position = containerWidth;
+      } else {
+        position = -blockWidth;
+      }
+      updatePosition();
+    }
+
+    /***** 更新 wrapper 的 translateX *****/
+    function updatePosition() {
+      wrapper.style.transform = `translateX(${position}px)`;
+    }
+
+    /***** 开始滚动 *****/
+    function startScroll(dir) {
+      direction = dir;
+      // 如果文字块尚未计算宽度，先渲染一次
+      if (blockWidth === 0) {
+        renderLines();
+        setTimeout(() => {
+          setInitialPosition();
+          scrollRAF = requestAnimationFrame(scrollStep);
+        }, 50);
+      } else {
+        setInitialPosition();
+        scrollRAF = requestAnimationFrame(scrollStep);
+      }
+      // 隐藏默认提示
+      document.getElementById("promptMessage").style.display = "none";
+    }
+
+    function scrollStep(currentTime) {
+      if (!lastTime) lastTime = currentTime;
+      const deltaTime = (currentTime - lastTime) / 5000; // 转换为秒
+      lastTime = currentTime;
+
+      if (!isPaused) {
+        if (direction === "left") {
+          position -= speed * deltaTime * 100; // 100 是速度系数，可调整
+          if (position <= -blockWidth) {
+            position += blockWidth;
+          }
+        } else {
+          position += speed * deltaTime * 100; // 100 是速度系数，可调整
+          if (position >= containerWidth) {
+            position -= blockWidth;
+          }
+        }
+        updatePosition();
+      }
+      scrollRAF = requestAnimationFrame(scrollStep);
+    }
+
+    /***** 暂停/播放 *****/
+    function togglePause() {
+      isPaused = !isPaused;
+      document.getElementById("pauseBtnText").innerText = isPaused ? "播放" : "暂停";
+      if (isPaused && scrollRAF !== null) {
+        cancelAnimationFrame(scrollRAF);
+        scrollRAF = null;
+      } else if (!isPaused && scrollRAF === null) {
+        scrollRAF = requestAnimationFrame(scrollStep);
+      }
+    }
+
+    /***** 上一行：把视角拉到上一行的起始处 *****/
+    function prevLine() {
+      currentLineIndex = (currentLineIndex - 1 + lines.length) % lines.length;
+      setPositionForCurrentLine();
+    }
+
+    /***** “从光标行开始” *****/
+    function startFromCursor() {
+      const textarea = document.getElementById("textInput");
+      const pos = textarea.selectionStart;
+      const textBefore = textarea.value.substring(0, pos);
+      let idx = textBefore.split("\n").length - 1;
+      if (idx < 0) idx = 0;
+      if (idx >= lines.length) idx = lines.length - 1;
+      currentLineIndex = idx;
+      setPositionForCurrentLine();
+      // 如果滚动动画尚未开始，才启动
+      if (scrollRAF === null) {
+        direction = "left"; // 默认向左滚动
+        scrollRAF = requestAnimationFrame(scrollStep);
+      }
+      // 隐藏默认提示
+      document.getElementById("promptMessage").style.display = "none";
+    }
+
+    /***** 根据 currentLineIndex，计算 position *****/
+    function setPositionForCurrentLine() {
+      let offsetX = 0;
+      const spans = block1.querySelectorAll("span");
+      for (let i = 0; i < spans.length; i++) {
+        if (parseInt(spans[i].dataset.lineIndex, 10) === currentLineIndex) {
+          break;
+        }
+        offsetX += spans[i].offsetWidth + 40; // 每个 <span> 左右各 20px padding
+      }
+      if (direction === "left") {
+        position = containerWidth - offsetX;
+      } else {
+        position = -offsetX;
+      }
+      updatePosition();
+    }
+
+    /***** 切换全屏 *****/
+    function toggleFullScreen() {
+      const el = document.documentElement;
+      if (!document.fullscreenElement) {
+        el.requestFullscreen().catch(err => console.warn(err));
+      } else {
+        document.exitFullscreen();
+      }
+    }
+
+    /***** 切换控制面板 显示/隐藏 *****/
+    function toggleControls() {
+      const ctrl = document.getElementById("controls");
+      ctrl.classList.toggle("show");
+      // 打开控制面板时隐藏提示
+      if (ctrl.classList.contains("show")) {
+        document.getElementById("promptMessage").style.display = "none";
+      }
+    }
+
+    /***** 处理移动端双击 *****/
+    function handleTouchEnd(event) {
+      const currentTime = new Date().getTime();
+      const tapDelay = 300; // 双击间隔时间（毫秒）
+      if (currentTime - lastTouchTime < tapDelay) {
+        toggleControls();
+      }
+      lastTouchTime = currentTime;
+    }
+
+    /***** 保存/加载 设置到 localStorage *****/
+    function saveSettings() {
+      const obj = {
+        speed: speed,
+        fontSize: fontSize,
+        bgColor: document.getElementById("bgColor").value,
+        textColor: document.getElementById("textColor").value
+      };
+      localStorage.setItem("teleprompterSettings", JSON.stringify(obj));
+    }
+    function loadSettings() {
+      const s = localStorage.getItem("teleprompterSettings");
+      if (!s) return;
+      try {
+        const obj = JSON.parse(s);
+        if (obj.speed) {
+          speed = obj.speed;
+          document.getElementById("speed").value = obj.speed;
+        }
+        if (obj.fontSize) {
+          fontSize = obj.fontSize;
+          document.getElementById("fontSize").value = obj.fontSize;
+          document.getElementById("teleprompter").style.fontSize = `${obj.fontSize}px`;
+        }
+        if (obj.bgColor) {
+          document.getElementById("bgColor").value = obj.bgColor;
+          document.getElementById("teleprompter").style.backgroundColor = obj.bgColor;
+        }
+        if (obj.textColor) {
+          document.getElementById("textColor").value = obj.textColor;
+          document.getElementById("teleprompter").style.color = obj.textColor;
+        }
+      } catch (e) {
+        console.warn("读取设置失败：", e);
+      }
+    }
+  </script>
+</body>
+</html>
