@@ -1,0 +1,520 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>CSV Viewer (Google Finance style)</title>
+
+  <!-- Chart.js -->
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+  <!-- PapaParse -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+
+  <style>
+    :root{
+      --bg:#fff;
+      --muted:#6b7280;
+      --accent:#EA4335; /* Google Finance red */
+      --accent-weak:#ffdede;
+      --card-shadow:0 6px 18px rgba(17,24,39,0.08);
+      font-family:"Inter","Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    }
+    body{
+      margin:0;
+      background:linear-gradient(180deg,#fbfbfd,#fff);
+      color:#111827;
+      padding:20px;
+      -webkit-font-smoothing:antialiased;
+    }
+    .container{max-width:1100px;margin:0 auto;}
+
+    .top-card{
+      background:var(--bg);
+      padding:18px;
+      border-radius:12px;
+      box-shadow:var(--card-shadow);
+      margin-bottom:18px;
+    }
+    .dynamic-title{
+      font-size:20px;
+      font-weight:700;
+      margin-bottom:10px;
+    }
+    .controls{
+      display:flex;
+      gap:10px;
+      align-items:center;
+      margin-top:10px;
+      flex-wrap:wrap;
+    }
+    .btn{
+      border:1px solid #e6e9ef;
+      background:#fff;
+      padding:8px 12px;
+      border-radius:8px;
+      cursor:pointer;
+      font-size:13px;
+    }
+    .chart-wrapper{
+      margin-top:30px;
+      background:var(--bg);
+      padding:10px; /* 减少padding以扩大图表可用空间 */
+      border-radius:12px;
+      box-shadow:var(--card-shadow);
+      display:flex;
+      justify-content:center;
+    }
+    .chart-area{
+      width:100%;
+      max-width:1000px; /* 增加max-width，减少两侧空白 */
+    }
+    /* 增加图表高度为 360px（比之前略高） */
+    canvas{width:100% !important;height:360px !important;}
+    .table-card{
+      margin-top:18px;
+      background:var(--bg);
+      padding:12px;
+      border-radius:12px;
+      box-shadow:var(--card-shadow);
+    }
+    table{width:100%;border-collapse:collapse;font-size:14px;}
+    th,td{padding:10px 8px;text-align:left;border-bottom:1px solid #f1f5f9;}
+    th{color:var(--muted);font-weight:600;font-size:13px;}
+    tr:hover td{background:#fff9f9}
+    .muted{color:var(--muted)}
+    .right{text-align:right}
+    .file-input{display:none}
+    .uploader{
+      display:inline-flex;
+      align-items:center;
+      gap:8px;
+      border-radius:8px;
+      padding:8px 12px;
+      background:#fff;
+      border:1px dashed #e6e9ef;
+      cursor:pointer;
+      font-size:13px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="top-card">
+      <div class="dynamic-title" id="dynamicTitle">Sample Data</div>
+
+      <div class="controls">
+        <label class="uploader" title="Upload CSV">
+          <input id="file" class="file-input" type="file" accept=".csv,text/csv" />
+          上传 CSV
+        </label>
+        <button id="resetBtn" class="btn">恢复示例</button>
+        <button class="btn" data-range="1M">1 个月</button>
+        <button class="btn" data-range="6M">6 个月</button>
+        <button class="btn" data-range="YTD">YTD</button>
+        <button class="btn" data-range="1Y">1 年</button>
+        <button class="btn" data-range="5Y">5 年</button>
+        <button class="btn" id="fitBtn">全部</button>
+        <div style="margin-left:auto;color:var(--muted);font-size:13px">CSV 行: <span id="rowCount">0</span></div>
+      </div>
+    </div>
+
+    <!-- 图表独立一行 -->
+    <div class="chart-wrapper">
+      <div class="chart-area">
+        <canvas id="priceChart"></canvas>
+      </div>
+    </div>
+
+    <div class="table-card">
+      <table id="dataTable">
+        <thead>
+          <tr>
+            <th>日期</th>
+            <th class="right">收盘</th>
+            <th class="right">开盘</th>
+            <th class="right">高</th>
+            <th class="right">低</th>
+            <th class="right">交易量</th>
+            <th class="right">涨跌幅</th>
+          </tr>
+        </thead>
+        <tbody></tbody>
+      </table>
+    </div>
+  </div>
+
+  <script>
+    /************************************************************************
+     * Sample CSV (你之前给的示例) — 页面初始使用此示例，可上传或拖拽 CSV 替换
+     ************************************************************************/
+    const sampleCSV = `"日期","收盘","开盘","高","低","交易量","涨跌幅"
+"2025-10-22","443.11","443.46","445.39","441.49","4.78M","0.12%"
+"2025-10-21","442.60","445.76","449.30","442.05","54.41M","-1.08%"
+"2025-10-20","447.43","443.86","449.80","440.61","63.72M","1.85%"
+"2025-10-17","439.31","425.50","441.46","423.60","89.33M","2.46%"
+"2025-10-16","428.75","434.73","439.35","421.31","77.19M","-1.47%"
+"2025-10-15","435.15","434.90","440.51","426.33","71.56M","1.38%"
+"2025-10-14","429.24","426.79","434.20","417.86","72.67M","-1.53%"
+"2025-10-13","435.90","423.53","436.89","419.70","79.55M","5.42%"`;
+
+    /************************************************************************
+     * 小工具：解析交易量（"4.78M" -> 数字），以及格式化显示（带单位）
+     ************************************************************************/
+    function parseVolume(volStr){
+      if(!volStr) return null;
+      volStr = volStr.toString().trim().replace(/,/g,'');
+      const last = volStr.slice(-1).toUpperCase();
+      let num = parseFloat(volStr);
+      if(isNaN(num)){
+        const val = parseFloat(volStr.slice(0, -1));
+        if(isNaN(val)) return volStr;
+        if(last==='M') num = val*1e6;
+        else if(last==='K') num = val*1e3;
+        else if(last==='B') num = val*1e9;
+        else num = val;
+      }
+      return Math.round(num);
+    }
+    function fmtVolume(n){
+      if(n===null||n===undefined) return '-';
+      if(typeof n!=='number') return n;
+      if(n>=1e9) return (n/1e9).toFixed(2)+'B';
+      if(n>=1e6) return (n/1e6).toFixed(2)+'M';
+      if(n>=1e3) return (n/1e3).toFixed(1)+'K';
+      return n.toString();
+    }
+
+    /************************************************************************
+     * CSV 解析与规范化（保持之前逻辑，返回按日期升序排列的 rows）
+     ************************************************************************/
+    function parseCSVText(text){
+      const res = Papa.parse(text.trim(), {header:true, skipEmptyLines:true});
+      return res.data.map(r=>{
+        const norm={};
+        for(const k in r){
+          const key=k.trim().replace(/^"|"$/g,'');
+          norm[key]=(r[k]||'').toString().replace(/^"|"$/g,'');
+        }
+        return norm;
+      });
+    }
+
+    function normalizeRows(rows){
+      const dateKey=Object.keys(rows[0]).find(k=>/日期|Date/i.test(k))||Object.keys(rows[0])[0];
+      const map=rows.map(r=>{
+        const dstr=r[dateKey].replace(/"/g,'').trim();
+        // 解析日期：如果是 '2025-10-22' 这种格式，Safari 可能解析有问题，用替换
+        const dateParts = dstr.split(/[-\/]/);
+        let date = new Date(dstr);
+        if(date.toString() === 'Invalid Date' && dateParts.length>=3){
+          // YYYY-MM-DD or YYYY/MM/DD
+          date = new Date(parseInt(dateParts[0],10), parseInt(dateParts[1],10)-1, parseInt(dateParts[2],10));
+        }
+        return {
+          raw:r,
+          date,
+          dateStr:dstr,
+          close:parseFloat((r['收盘']||r['Close']||'').replace(/,/g,''))||NaN,
+          open:parseFloat((r['开盘']||r['Open']||'').replace(/,/g,''))||NaN,
+          high:parseFloat((r['高']||r['High']||'').replace(/,/g,''))||NaN,
+          low:parseFloat((r['低']||r['Low']||'').replace(/,/g,''))||NaN,
+          volumeRaw:(r['交易量']||r['Volume']||''),
+          volume:(r['交易量']||r['Volume']||''),
+          pct:(r['涨跌幅']||r['%']||'')
+        };
+      });
+      // 升序（从早到晚）
+      map.sort((a,b)=>a.date-b.date);
+      return map;
+    }
+
+    function renderTable(rows){
+      const tbody=document.querySelector('#dataTable tbody');
+      tbody.innerHTML='';
+      const showRows=[...rows].reverse(); // newest first
+      showRows.forEach(r=>{
+        const tr=document.createElement('tr');
+        tr.innerHTML=`
+          <td>${r.dateStr}</td>
+          <td class="right">${isNaN(r.close)?'-':r.close.toFixed(2)}</td>
+          <td class="right">${isNaN(r.open)?'-':r.open.toFixed(2)}</td>
+          <td class="right">${isNaN(r.high)?'-':r.high.toFixed(2)}</td>
+          <td class="right">${isNaN(r.low)?'-':r.low.toFixed(2)}</td>
+          <td class="right">${fmtVolume(r.volume)}</td>
+          <td class="right">${r.pct||'-'}</td>`;
+        tbody.appendChild(tr);
+      });
+      document.getElementById('rowCount').textContent = showRows.length;
+    }
+
+    /************************************************************************
+     * Chart 部分（增加 crosshair 插件、智能 X 轴标签、tooltip 显示 volume）
+     ************************************************************************/
+    let chart = null;
+    // 存放当前全部 rows，方便 tooltip/crosshair 使用
+    let currentRows = [];
+    let currentDataRows = []; // 当前显示的 dataRows
+
+    // 自定义 crosshair 插件（在 afterDraw 绘制竖虚线）
+    const crosshairPlugin = {
+      id: 'verticalCrosshair',
+      afterDraw(chartInstance, args, options) {
+        const ctx = chartInstance.ctx;
+        const tooltip = chartInstance.tooltip;
+        // 当 tooltip 存在并且激活元素存在时，显示竖线
+        if (tooltip && tooltip.getActiveElements && tooltip.getActiveElements().length) {
+          const active = tooltip.getActiveElements()[0];
+          if(active && active.element){
+            const x = active.element.x;
+            const topY = chartInstance.scales.y.top;
+            const bottomY = chartInstance.scales.y.bottom;
+            ctx.save();
+            // 采用 destination-over 绘制在曲线之下（如果画布支持），以防遮挡曲线
+            // 但部分浏览器/场景 destination-over 可能无效果，所以把线画得尽量淡
+            ctx.setLineDash([4,4]);
+            ctx.lineWidth = 1;
+            ctx.strokeStyle = 'rgba(0,0,0,0.12)';
+            ctx.beginPath();
+            ctx.moveTo(x, topY);
+            ctx.lineTo(x, bottomY);
+            ctx.stroke();
+            ctx.restore();
+          }
+        }
+      }
+    };
+
+    // 将插件注册到 Chart.js
+    Chart.register(crosshairPlugin);
+
+    // 根据 rows 范围判断应该显示的 X 轴刻度格式
+    function getTickFormatterForSpan(rows){
+      if(!rows || rows.length < 2) return function(value){ return value; };
+      const first = rows[0].date;
+      const last = rows[rows.length-1].date;
+      const spanDays = (last - first) / (1000*60*60*24);
+      // > 5 年：只显示年份
+      if(spanDays > 365 * 5){
+        return function(value, index, ticks){
+          // value 是标签字符串，我们解析为 Date
+          const d = new Date(value);
+          if(isNaN(d)) {
+            // 尝试从 "YYYY-MM-DD"
+            const p = value.split(/[-\/]/);
+            if(p.length>=3) return p[0];
+            return value;
+          }
+          return d.getFullYear().toString();
+        };
+      }
+      // > 6 个月：显示 年月（如 "2025年3月"）
+      if(spanDays > 30 * 6){
+        return function(value, index, ticks){
+          const d = new Date(value);
+          if(isNaN(d)){
+            const p = value.split(/[-\/]/);
+            if(p.length>=3) return p[0] + '年' + (parseInt(p[1],10)) + '月';
+            return value;
+          }
+          return d.getFullYear() + '年' + (d.getMonth()+1) + '月';
+        };
+      }
+      // 否则：显示短日期 MM-DD
+      return function(value, index, ticks){
+        const d = new Date(value);
+        if(isNaN(d)){
+          const p = value.split(/[-\/]/);
+          if(p.length>=3) return p[1] + '-' + p[2];
+          return value;
+        }
+        const mm = (d.getMonth()+1).toString().padStart(2,'0');
+        const dd = d.getDate().toString().padStart(2,'0');
+        return mm + '-' + dd;
+      };
+    }
+
+    // 绘制图表（rows 为升序）
+    function drawChart(rows, range=null){
+      currentRows = rows; // 更新全局引用
+      let dataRows = rows;
+      if(range){
+        const lastDate = rows[rows.length-1].date;
+        let cutoff;
+        if(range === '1M'){ cutoff = new Date(lastDate); cutoff.setMonth(cutoff.getMonth()-1); }
+        else if(range === '6M'){ cutoff = new Date(lastDate); cutoff.setMonth(cutoff.getMonth()-6); }
+        else if(range === 'YTD'){ cutoff = new Date(lastDate.getFullYear(), 0, 1); }
+        else if(range === '1Y'){ cutoff = new Date(lastDate); cutoff.setFullYear(cutoff.getFullYear()-1); }
+        else if(range === '5Y'){ cutoff = new Date(lastDate); cutoff.setFullYear(cutoff.getFullYear()-5); }
+        if(cutoff) dataRows = rows.filter(r => r.date >= cutoff);
+      }
+      currentDataRows = dataRows; // 更新当前 dataRows
+
+      // 计算当前显示数据（dataRows）的跨度
+      const firstDate = dataRows[0].date;
+      const lastDate = dataRows[dataRows.length - 1].date;
+      const spanDays = (lastDate - firstDate) / (1000 * 60 * 60 * 24);
+
+      // 🌈 平滑处理逻辑：只在超过5年时应用移动平均（保持一年或以下原样）
+      let closes = dataRows.map(r => r.close);
+      if(spanDays > 365 * 5){          // 超过5年
+        const smooth = [];
+        const window = 2;              // 可调节：数字越大越平滑
+        for(let i=0; i<closes.length; i++){
+          const start = Math.max(0, i-window);
+          const end = Math.min(closes.length-1, i+window);
+          const subset = closes.slice(start, end+1);
+          const avg = subset.reduce((a,b)=>a+b,0)/subset.length;
+          smooth.push(avg);
+        }
+        closes = smooth;
+      }
+
+      // 动态 tension：一年或以下保持低值（原样，尖锐曲线），1-5年中等，>5年更高平滑
+      let tension = 0.2; // 默认：一年或以下，原样
+      if (spanDays > 365 * 1 && spanDays <= 365 * 5) { // 1-5年：中等平滑
+        tension = 0.3;
+      } else if (spanDays > 365 * 5) { // >5年：更高平滑
+        tension = 0.45;
+      }
+
+      const labels = dataRows.map(r => r.dateStr);
+
+      const ctx = document.getElementById('priceChart').getContext('2d');
+      if(chart) chart.destroy();
+
+      const tickFormatter = getTickFormatterForSpan(rows);
+
+      chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels,
+          datasets: [{
+            label: 'Close',
+            data: closes,
+            borderWidth: 2,
+            tension: tension, // 使用动态 tension
+            borderColor: '#EA4335',
+            backgroundColor: (context) => {
+              const chart = context.chart;
+              const {ctx, chartArea} = chart;
+              if (!chartArea) return null;
+              const gradient = ctx.createLinearGradient(0, chartArea.bottom, 0, chartArea.top);
+              gradient.addColorStop(0, 'rgba(234, 67, 53, 0)');
+              gradient.addColorStop(0.5, 'rgba(234, 67, 53, 0.08)');
+              gradient.addColorStop(1, 'rgba(234, 67, 53, 0.4)');
+              return gradient;
+            },
+            fill: true,
+            pointRadius: 0,
+            pointHoverRadius: 6,
+            pointBackgroundColor: 'white',
+            pointHoverBorderColor: '#EA4335',
+            pointHoverBorderWidth: 2
+          }]
+        },
+        options: {
+          plugins: {
+            legend: { display: false },
+            tooltip: {
+              mode: 'index',
+              intersect: false,
+              backgroundColor: 'rgba(255, 255, 255, 0.95)', // 浅白色背景，无颜色填充
+              titleColor: '#333', // 标题颜色
+              bodyColor: '#666', // 主体颜色
+              borderColor: 'rgba(0, 0, 0, 0.1)', // 边框浅灰
+              borderWidth: 1,
+              cornerRadius: 4,
+              displayColors: false, // 隐藏颜色块
+              callbacks: {
+                label: function(ctx){
+                  const idx = ctx.dataIndex;
+                  const value = ctx.raw;
+                  return Number(value).toFixed(2); // 去掉"收盘:"，只显示数值
+                },
+                title: function(items){ return items.length ? items[0].label : ''; }
+              }
+            }
+          },
+          maintainAspectRatio: false,
+          scales: {
+            x: {
+              grid: { display: false },
+              ticks: {
+                maxRotation: 0,
+                autoSkip: true,
+                maxTicksLimit: 8,
+                callback: function (val, index, ticks) {
+                  const labels = this.getLabelForValue(val);
+                  const first = currentDataRows[0].date;
+                  const last = currentDataRows[currentDataRows.length - 1].date;
+                  const months = (last - first) / (1000 * 60 * 60 * 24 * 30);
+                  const years = months / 12;
+
+                  const d = new Date(labels);
+                  if (years > 5) return `${d.getFullYear()}`;
+                  if (months > 6) return `${d.getFullYear()}年${d.getMonth() + 1}月`;
+                  return labels;
+                }
+              }
+            },
+            y: { grid: { color: '#f3f4f6' } }
+          },
+          interaction: { mode: 'index', intersect: false }
+        },
+        plugins: [crosshairPlugin]
+      });
+    }
+
+    /************************************************************************
+     * 主加载函数：解析 CSV -> 渲染 table/chart -> 绑定按钮
+     ************************************************************************/
+    function loadFromCSVText(text, filename = 'Sample Data'){
+      try{
+        document.getElementById('dynamicTitle').textContent = filename;
+        const rawRows = parseCSVText(text);
+        if(!rawRows || rawRows.length === 0){ alert('CSV 解析失败或为空'); return; }
+        const rows = normalizeRows(rawRows);
+        renderTable(rows);
+        drawChart(rows);
+        // 绑定范围按钮：只需传入 rows 到 drawChart
+        document.querySelectorAll('.controls .btn[data-range]').forEach(b=>{
+          b.onclick = ()=>{
+            // 视觉上不需要特别高亮，仅触发绘制
+            drawChart(rows, b.dataset.range);
+          };
+        });
+        document.getElementById('fitBtn').onclick = ()=> drawChart(rows, null);
+      }catch(e){
+        console.error(e);
+        alert('解析 CSV 时出错: ' + e.message);
+      }
+    }
+
+    // 初始化页面（载入示例）
+    loadFromCSVText(sampleCSV, 'Sample Data');
+
+    // 文件上传 / 拖拽支持
+    document.getElementById('file').addEventListener('change', (ev)=>{
+      const f = ev.target.files[0]; if(!f) return;
+      const reader = new FileReader();
+      reader.onload = (e)=> loadFromCSVText(e.target.result, f.name);
+      reader.readAsText(f, 'utf-8');
+    });
+    document.getElementById('resetBtn').addEventListener('click', ()=> loadFromCSVText(sampleCSV, 'Sample Data'));
+    document.body.addEventListener('dragover', e => e.preventDefault());
+    document.body.addEventListener('drop', e=>{
+      e.preventDefault();
+      if(e.dataTransfer.files && e.dataTransfer.files.length){
+        const f = e.dataTransfer.files[0];
+        if(f.name.toLowerCase().endsWith('.csv')){
+          const reader = new FileReader();
+          reader.onload = (ev) => loadFromCSVText(ev.target.result, f.name);
+          reader.readAsText(f, 'utf-8');
+        } else {
+          alert('请拖拽 CSV 文件 (.csv)');
+        }
+      }
+    });
+  </script>
+</body>
+</html>
