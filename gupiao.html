@@ -204,7 +204,7 @@
     function normalizeRows(rows){
       const dateKey=Object.keys(rows[0]).find(k=>/日期|Date/i.test(k))||Object.keys(rows[0])[0];
       const map=rows.map(r=>{
-        const dstr=r[dateKey].replace(/"/g,'').trim();
+        let dstr=r[dateKey].replace(/"/g,'').trim().replace(/\//g, '-'); // 统一替换 / 为 -，保持 YYYY-MM-DD 格式
         // 解析日期：如果是 '2025-10-22' 这种格式，Safari 可能解析有问题，用替换
         const dateParts = dstr.split(/[-\/]/);
         let date = new Date(dstr);
