@@ -377,7 +377,7 @@
 
       // 🌈 平滑处理逻辑：只在超过5年时应用移动平均（保持一年或以下原样）
       let closes = dataRows.map(r => r.close);
-      if(spanDays > 365 * 5){          // 超过5年
+      if(spanDays > 365 * 4){          // 超过5年
         const smooth = [];
         const window = 2;              // 可调节：数字越大越平滑
         for(let i=0; i<closes.length; i++){
