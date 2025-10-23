@@ -114,6 +114,8 @@
         <button class="btn" data-range="1Y">1 年</button>
         <button class="btn" data-range="5Y">5 年</button>
         <button class="btn" id="fitBtn">全部</button>
+        <button class="btn" id="prevYear">上一年</button>
+        <button class="btn" id="nextYear">下一年</button>
         <div style="margin-left:auto;color:var(--muted);font-size:13px">CSV 行: <span id="rowCount">0</span></div>
       </div>
     </div>
@@ -254,6 +256,9 @@
     // 存放当前全部 rows，方便 tooltip/crosshair 使用
     let currentRows = [];
     let currentDataRows = []; // 当前显示的 dataRows
+    // 新增：年导航状态
+    let yearNavigationMode = false;
+    let currentYearOffset = 0; // 相对于数据最后一年份的偏移（负值为过去，正值为未来，但数据有限）
 
     // 自定义 crosshair 插件（在 afterDraw 绘制竖虚线）
     const crosshairPlugin = {
@@ -273,7 +278,7 @@
             // 但部分浏览器/场景 destination-over 可能无效果，所以把线画得尽量淡
             ctx.setLineDash([4,4]);
             ctx.lineWidth = 1;
-            ctx.strokeStyle = 'rgba(0,0,0,0.12)';
+            ctx.strokeStyle = 'rgba(0,0,0,0.3)';
             ctx.beginPath();
             ctx.moveTo(x, topY);
             ctx.lineTo(x, bottomY);
@@ -343,9 +348,25 @@
         if(range === '1M'){ cutoff = new Date(lastDate); cutoff.setMonth(cutoff.getMonth()-1); }
         else if(range === '6M'){ cutoff = new Date(lastDate); cutoff.setMonth(cutoff.getMonth()-6); }
         else if(range === 'YTD'){ cutoff = new Date(lastDate.getFullYear(), 0, 1); }
-        else if(range === '1Y'){ cutoff = new Date(lastDate); cutoff.setFullYear(cutoff.getFullYear()-1); }
+        else if(range === '1Y'){ 
+          // 对于1Y，启用年导航模式，基于当前offset计算
+          yearNavigationMode = true;
+          const baseYear = lastDate.getFullYear();
+          const targetYear = baseYear - currentYearOffset;
+          cutoff = new Date(targetYear, 0, 1);
+          const endDate = new Date(targetYear, 11, 31, 23, 59, 59);
+          dataRows = rows.filter(r => r.date >= cutoff && r.date <= endDate);
+          if(dataRows.length === 0) {
+            // 如果没有数据，fallback到默认1Y
+            cutoff = new Date(lastDate); cutoff.setFullYear(cutoff.getFullYear()-1);
+            dataRows = rows.filter(r => r.date >= cutoff);
+            yearNavigationMode = false;
+          }
+        }
         else if(range === '5Y'){ cutoff = new Date(lastDate); cutoff.setFullYear(cutoff.getFullYear()-5); }
-        if(cutoff) dataRows = rows.filter(r => r.date >= cutoff);
+        if(cutoff && range !== '1Y') dataRows = rows.filter(r => r.date >= cutoff);
+      } else {
+        yearNavigationMode = false;
       }
       currentDataRows = dataRows; // 更新当前 dataRows
 
@@ -476,6 +497,9 @@
         const rows = normalizeRows(rawRows);
         renderTable(rows);
         drawChart(rows);
+        // 重置年导航状态
+        yearNavigationMode = false;
+        currentYearOffset = 0;
         // 绑定范围按钮：只需传入 rows 到 drawChart
         document.querySelectorAll('.controls .btn[data-range]').forEach(b=>{
           b.onclick = ()=>{
@@ -484,6 +508,17 @@
           };
         });
         document.getElementById('fitBtn').onclick = ()=> drawChart(rows, null);
+        // 新增：绑定年导航按钮
+        document.getElementById('prevYear').onclick = ()=>{
+          if(!yearNavigationMode) return; // 只在1Y模式下生效
+          currentYearOffset += 1; // 增加偏移，显示更早的年份
+          drawChart(rows, '1Y');
+        };
+        document.getElementById('nextYear').onclick = ()=>{
+          if(!yearNavigationMode) return; // 只在1Y模式下生效
+          currentYearOffset -= 1; // 减少偏移，显示更晚的年份
+          drawChart(rows, '1Y');
+        };
       }catch(e){
         console.error(e);
         alert('解析 CSV 时出错: ' + e.message);
