@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<title>简易画图 + 任意旋转</title>
+<style>
+  body { font-family: sans-serif; text-align: center; margin: 0; padding: 0; }
+  canvas { border: 1px solid black; cursor: crosshair; }
+  #toolbar { padding: 10px; background: #eee; }
+</style>
+</head>
+<body>
+
+<div id="toolbar">
+  <input type="color" id="colorPicker" value="#000000">
+  <button onclick="setMode('line')">画线</button>
+  <button onclick="setMode('rect')">矩形</button>
+  <input type="file" id="imgInput">
+  <input type="number" id="angle" value="0" style="width:60px;">°
+  <button onclick="rotateImage()">旋转</button>
+  <button onclick="clearCanvas()">清空</button>
+</div>
+
+<canvas id="canvas" width="600" height="400"></canvas>
+
+<script>
+let canvas = document.getElementById('canvas');
+let ctx = canvas.getContext('2d');
+let mode = 'line';
+let drawing = false;
+let startX = 0, startY = 0;
+let currentColor = document.getElementById('colorPicker').value;
+let image = null;
+
+document.getElementById('colorPicker').addEventListener('change', e => currentColor = e.target.value);
+
+function setMode(m) { mode = m; }
+
+canvas.addEventListener('mousedown', e => {
+    drawing = true;
+    startX = e.offsetX;
+    startY = e.offsetY;
+});
+
+canvas.addEventListener('mouseup', e => {
+    if(!drawing) return;
+    drawing = false;
+    let endX = e.offsetX;
+    let endY = e.offsetY;
+    ctx.strokeStyle = currentColor;
+    if(mode === 'line') {
+        ctx.beginPath();
+        ctx.moveTo(startX, startY);
+        ctx.lineTo(endX, endY);
+        ctx.stroke();
+    } else if(mode === 'rect') {
+        ctx.strokeRect(startX, startY, endX-startX, endY-startY);
+    }
+});
+
+document.getElementById('imgInput').addEventListener('change', e => {
+    const file = e.target.files[0];
+    if(!file) return;
+    const img = new Image();
+    img.onload = () => {
+        ctx.drawImage(img, 50, 50);
+        image = img;
+    };
+    img.src = URL.createObjectURL(file);
+});
+
+function rotateImage() {
+    if(!image) return;
+    const angle = parseFloat(document.getElementById('angle').value) * Math.PI / 180;
+    const w = image.width, h = image.height;
+    const tempCanvas = document.createElement('canvas');
+    const tempCtx = tempCanvas.getContext('2d');
+    tempCanvas.width = w;
+    tempCanvas.height = h;
+    tempCtx.drawImage(image, 0, 0);
+    
+    // 清空主 canvas
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    
+    // 平移到中心旋转
+    ctx.save();
+    ctx.translate(300,200); // 画布中心
+    ctx.rotate(angle);
+    ctx.drawImage(tempCanvas, -w/2, -h/2);
+    ctx.restore();
+}
+
+function clearCanvas() {
+    ctx.clearRect(0,0,canvas.width,canvas.height);
+    image = null;
+}
+</script>
+
+</body>
+</html>
