@@ -2,7 +2,7 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<title>简易画图 + 任意旋转</title>
+<title>任意旋转图片（缩小网页分辨率完整显示）</title>
 <style>
   body { font-family: sans-serif; text-align: center; margin: 0; padding: 0; }
   canvas { border: 1px solid black; cursor: crosshair; }
@@ -31,6 +31,9 @@ let drawing = false;
 let startX = 0, startY = 0;
 let currentColor = document.getElementById('colorPicker').value;
 let image = null;
+const originalWidth = 600; // 原画布宽度
+const originalHeight = 400; // 原画布高度
+const padding = 50; // 旋转后边距
 
 document.getElementById('colorPicker').addEventListener('change', e => currentColor = e.target.value);
 
@@ -63,7 +66,10 @@ document.getElementById('imgInput').addEventListener('change', e => {
     if(!file) return;
     const img = new Image();
     img.onload = () => {
-        ctx.drawImage(img, 50, 50);
+        // 居中绘制上传的图片
+        const centerX = (canvas.width - img.width) / 2;
+        const centerY = (canvas.height - img.height) / 2;
+        ctx.drawImage(img, centerX, centerY);
         image = img;
     };
     img.src = URL.createObjectURL(file);
@@ -71,27 +77,41 @@ document.getElementById('imgInput').addEventListener('change', e => {
 
 function rotateImage() {
     if(!image) return;
-    const angle = parseFloat(document.getElementById('angle').value) * Math.PI / 180;
+    const angleDeg = parseFloat(document.getElementById('angle').value);
+    const angle = angleDeg * Math.PI / 180;
     const w = image.width, h = image.height;
-    const tempCanvas = document.createElement('canvas');
-    const tempCtx = tempCanvas.getContext('2d');
-    tempCanvas.width = w;
-    tempCanvas.height = h;
-    tempCtx.drawImage(image, 0, 0);
     
-    // 清空主 canvas
-    ctx.clearRect(0,0,canvas.width,canvas.height);
+    // 计算旋转后的边界尺寸
+    const cos = Math.abs(Math.cos(angle));
+    const sin = Math.abs(Math.sin(angle));
+    const newW = w * cos + h * sin;
+    const newH = w * sin + h * cos;
     
-    // 平移到中心旋转
+    // 动态调整画布大小（至少原大小，加padding）
+    const canvasW = Math.max(originalWidth, newW + 2 * padding);
+    const canvasH = Math.max(originalHeight, newH + 2 * padding);
+    canvas.width = canvasW;
+    canvas.height = canvasH;
+    
+    // 清空画布
+    ctx.clearRect(0, 0, canvasW, canvasH);
+    
+    // 在新画布中心旋转绘制
     ctx.save();
-    ctx.translate(300,200); // 画布中心
+    ctx.translate(canvasW / 2, canvasH / 2);
     ctx.rotate(angle);
-    ctx.drawImage(tempCanvas, -w/2, -h/2);
+    ctx.drawImage(image, -w / 2, -h / 2);
     ctx.restore();
+    
+    // 更新image为旋转后的（可选，便于多次旋转）
+    // 但这里我们用原image，下次旋转是相对原的；如果要累加angle，可以修改angle = (prevAngle + angleDeg) ...
 }
 
 function clearCanvas() {
-    ctx.clearRect(0,0,canvas.width,canvas.height);
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    // 重置画布大小
+    canvas.width = originalWidth;
+    canvas.height = originalHeight;
     image = null;
 }
 </script>
