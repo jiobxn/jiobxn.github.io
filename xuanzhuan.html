@@ -2,11 +2,29 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<title>任意旋转图片（缩小网页分辨率完整显示）</title>
+<title>经典画图·任意旋转版（缩小页面分辨率看大图）</title>
 <style>
-  body { font-family: sans-serif; text-align: center; margin: 0; padding: 0; }
-  canvas { border: 1px solid black; cursor: crosshair; }
-  #toolbar { padding: 10px; background: #eee; }
+  html, body {
+    margin: 0;
+    height: 100%;
+    overflow: hidden;
+    background: #eee;
+    font-family: sans-serif;
+  }
+  #toolbar {
+    padding: 8px;
+    background: #ddd;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+  canvas {
+    display: block;
+    background: white;
+    width: 100vw;
+    height: calc(100vh - 46px);
+    cursor: crosshair;
+  }
 </style>
 </head>
 <body>
@@ -15,104 +33,116 @@
   <input type="color" id="colorPicker" value="#000000">
   <button onclick="setMode('line')">画线</button>
   <button onclick="setMode('rect')">矩形</button>
-  <input type="file" id="imgInput">
-  <input type="number" id="angle" value="0" style="width:60px;">°
+  <button onclick="setMode('brush')">画笔</button>
+  <input type="file" id="imgInput" accept="image/*">
+  <label>旋转角度: <input type="number" id="angle" value="0" style="width:60px;">°</label>
   <button onclick="rotateImage()">旋转</button>
   <button onclick="clearCanvas()">清空</button>
 </div>
 
-<canvas id="canvas" width="600" height="400"></canvas>
+<canvas id="canvas"></canvas>
 
 <script>
-let canvas = document.getElementById('canvas');
-let ctx = canvas.getContext('2d');
-let mode = 'line';
-let drawing = false;
-let startX = 0, startY = 0;
+const canvas = document.getElementById('canvas');
+const ctx = canvas.getContext('2d');
+let drawing = false, mode = 'line';
+let startX, startY;
 let currentColor = document.getElementById('colorPicker').value;
 let image = null;
-const originalWidth = 600; // 原画布宽度
-const originalHeight = 400; // 原画布高度
-const padding = 50; // 旋转后边距
+
+// 初始化全屏画布
+function resizeCanvas() {
+  canvas.width = window.innerWidth;
+  canvas.height = window.innerHeight - document.getElementById('toolbar').offsetHeight;
+}
+window.addEventListener('resize', resizeCanvas);
+resizeCanvas();
 
 document.getElementById('colorPicker').addEventListener('change', e => currentColor = e.target.value);
 
 function setMode(m) { mode = m; }
 
 canvas.addEventListener('mousedown', e => {
-    drawing = true;
-    startX = e.offsetX;
-    startY = e.offsetY;
+  drawing = true;
+  startX = e.offsetX;
+  startY = e.offsetY;
+  if(mode === 'brush') {
+    ctx.beginPath();
+    ctx.moveTo(startX, startY);
+  }
+});
+
+canvas.addEventListener('mousemove', e => {
+  if(!drawing) return;
+  ctx.strokeStyle = currentColor;
+  if(mode === 'brush') {
+    ctx.lineTo(e.offsetX, e.offsetY);
+    ctx.stroke();
+  }
 });
 
 canvas.addEventListener('mouseup', e => {
-    if(!drawing) return;
-    drawing = false;
-    let endX = e.offsetX;
-    let endY = e.offsetY;
-    ctx.strokeStyle = currentColor;
-    if(mode === 'line') {
-        ctx.beginPath();
-        ctx.moveTo(startX, startY);
-        ctx.lineTo(endX, endY);
-        ctx.stroke();
-    } else if(mode === 'rect') {
-        ctx.strokeRect(startX, startY, endX-startX, endY-startY);
-    }
+  if(!drawing) return;
+  drawing = false;
+  let endX = e.offsetX;
+  let endY = e.offsetY;
+  ctx.strokeStyle = currentColor;
+  if(mode === 'line') {
+    ctx.beginPath();
+    ctx.moveTo(startX, startY);
+    ctx.lineTo(endX, endY);
+    ctx.stroke();
+  } else if(mode === 'rect') {
+    ctx.strokeRect(startX, startY, endX - startX, endY - startY);
+  }
 });
 
+// 上传图片并自适应画布
 document.getElementById('imgInput').addEventListener('change', e => {
-    const file = e.target.files[0];
-    if(!file) return;
-    const img = new Image();
-    img.onload = () => {
-        // 居中绘制上传的图片
-        const centerX = (canvas.width - img.width) / 2;
-        const centerY = (canvas.height - img.height) / 2;
-        ctx.drawImage(img, centerX, centerY);
-        image = img;
-    };
-    img.src = URL.createObjectURL(file);
+  const file = e.target.files[0];
+  if(!file) return;
+  const img = new Image();
+  img.onload = () => {
+    image = img;
+    resizeCanvas();
+    // 自动等比缩放以适应画布
+    let scale = Math.min(canvas.width / img.width, canvas.height / img.height);
+    let newW = img.width * scale;
+    let newH = img.height * scale;
+    let offsetX = (canvas.width - newW) / 2;
+    let offsetY = (canvas.height - newH) / 2;
+    ctx.clearRect(0, 0, canvas.width, canvas.height);
+    ctx.drawImage(img, offsetX, offsetY, newW, newH);
+  };
+  img.src = URL.createObjectURL(file);
 });
 
+// 任意角度旋转
 function rotateImage() {
-    if(!image) return;
-    const angleDeg = parseFloat(document.getElementById('angle').value);
-    const angle = angleDeg * Math.PI / 180;
-    const w = image.width, h = image.height;
-    
-    // 计算旋转后的边界尺寸
-    const cos = Math.abs(Math.cos(angle));
-    const sin = Math.abs(Math.sin(angle));
-    const newW = w * cos + h * sin;
-    const newH = w * sin + h * cos;
-    
-    // 动态调整画布大小（至少原大小，加padding）
-    const canvasW = Math.max(originalWidth, newW + 2 * padding);
-    const canvasH = Math.max(originalHeight, newH + 2 * padding);
-    canvas.width = canvasW;
-    canvas.height = canvasH;
-    
-    // 清空画布
-    ctx.clearRect(0, 0, canvasW, canvasH);
-    
-    // 在新画布中心旋转绘制
-    ctx.save();
-    ctx.translate(canvasW / 2, canvasH / 2);
-    ctx.rotate(angle);
-    ctx.drawImage(image, -w / 2, -h / 2);
-    ctx.restore();
-    
-    // 更新image为旋转后的（可选，便于多次旋转）
-    // 但这里我们用原image，下次旋转是相对原的；如果要累加angle，可以修改angle = (prevAngle + angleDeg) ...
+  if(!image) return;
+  const angle = parseFloat(document.getElementById('angle').value) * Math.PI / 180;
+  const tempCanvas = document.createElement('canvas');
+  const tempCtx = tempCanvas.getContext('2d');
+  tempCanvas.width = image.width;
+  tempCanvas.height = image.height;
+  tempCtx.drawImage(image, 0, 0);
+
+  const w = image.width;
+  const h = image.height;
+  const cx = canvas.width / 2;
+  const cy = canvas.height / 2;
+
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  ctx.save();
+  ctx.translate(cx, cy);
+  ctx.rotate(angle);
+  ctx.drawImage(tempCanvas, -w / 2, -h / 2);
+  ctx.restore();
 }
 
 function clearCanvas() {
-    ctx.clearRect(0, 0, canvas.width, canvas.height);
-    // 重置画布大小
-    canvas.width = originalWidth;
-    canvas.height = originalHeight;
-    image = null;
+  ctx.clearRect(0, 0, canvas.width, canvas.height);
+  image = null;
 }
 </script>
 
