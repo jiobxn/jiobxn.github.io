@@ -1,0 +1,720 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <title>二维码识别器 | 手动开启摄像头 + 图片上传识别</title>
+    <!-- jsQR 二维码识别库 -->
+    <script src="https://cdn.jsdelivr.net/npm/jsqr@1.4.0/dist/jsQR.min.js"></script>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            background: linear-gradient(135deg, #f5f7fc 0%, #e9eef4 100%);
+            font-family: 'Inter', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', sans-serif;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+
+        /* 主卡片 */
+        .scanner-card {
+            max-width: 700px;
+            width: 100%;
+            background: rgba(255, 255, 255, 0.98);
+            border-radius: 2rem;
+            box-shadow: 0 25px 45px -12px rgba(0, 0, 0, 0.25), 0 4px 12px rgba(0, 0, 0, 0.05);
+            overflow: hidden;
+            backdrop-filter: blur(0px);
+            transition: all 0.2s ease;
+            border: 1px solid rgba(255, 255, 255, 0.6);
+        }
+
+        /* 头部 */
+        .brand {
+            background: #0a1c2a;
+            padding: 1.5rem 1.8rem;
+            text-align: center;
+            color: white;
+        }
+        .brand h1 {
+            font-size: 1.8rem;
+            font-weight: 600;
+            letter-spacing: -0.3px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 10px;
+        }
+        .brand p {
+            font-size: 0.85rem;
+            opacity: 0.8;
+            margin-top: 6px;
+        }
+
+        /* 内容区 */
+        .main-content {
+            padding: 1.8rem 1.8rem 2rem;
+        }
+
+        /* 摄像头区块 (默认关闭样式) */
+        .camera-module {
+            background: #0f1720;
+            border-radius: 1.8rem;
+            overflow: hidden;
+            margin-bottom: 1.8rem;
+            box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+            transition: all 0.2s;
+        }
+        .video-container {
+            background: #000;
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        video {
+            width: 100%;
+            display: block;
+            object-fit: cover;
+            background: #000;
+            aspect-ratio: 4 / 3;
+        }
+        .cam-placeholder {
+            aspect-ratio: 4 / 3;
+            background: #11181f;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            color: #8ba0b2;
+            font-size: 0.9rem;
+            gap: 12px;
+            text-align: center;
+            padding: 20px;
+        }
+        .cam-placeholder span:first-child {
+            font-size: 3rem;
+            opacity: 0.6;
+        }
+        .button-bar {
+            display: flex;
+            gap: 12px;
+            padding: 14px 16px;
+            background: #0b1219;
+            justify-content: center;
+            flex-wrap: wrap;
+        }
+        .cam-btn {
+            background: #2c3e4e;
+            border: none;
+            color: white;
+            font-size: 0.9rem;
+            padding: 8px 20px;
+            border-radius: 60px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: 0.2s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+        }
+        .cam-btn:hover {
+            background: #3f5b6e;
+            transform: translateY(-1px);
+        }
+        .cam-btn:active {
+            transform: translateY(1px);
+        }
+        .cam-btn.danger {
+            background: #7e3c2c;
+        }
+        .cam-btn.danger:hover {
+            background: #9a4a38;
+        }
+        .cam-status {
+            background: #1a262f;
+            padding: 6px 12px;
+            font-size: 0.7rem;
+            text-align: center;
+            color: #bdd4e6;
+            letter-spacing: 0.3px;
+        }
+
+        /* 上传图片模块 */
+        .upload-module {
+            background: #f8fafd;
+            border-radius: 1.8rem;
+            padding: 1.2rem 1.2rem 1.5rem;
+            margin-bottom: 1.8rem;
+            border: 1px solid #e4edf5;
+            transition: 0.2s;
+        }
+        .upload-btn-area {
+            display: flex;
+            justify-content: center;
+        }
+        .upload-label {
+            background: #eef3fc;
+            border: 1.5px dashed #7f9cbb;
+            border-radius: 80px;
+            padding: 12px 28px;
+            display: inline-flex;
+            align-items: center;
+            gap: 12px;
+            font-weight: 600;
+            color: #1f4970;
+            cursor: pointer;
+            transition: 0.2s;
+            font-size: 1rem;
+        }
+        .upload-label:hover {
+            background: #e2eaf5;
+            border-color: #2c7da0;
+            color: #0c3e5c;
+        }
+        #fileInput {
+            display: none;
+        }
+        .image-preview {
+            margin-top: 18px;
+            text-align: center;
+        }
+        .image-preview img {
+            max-width: 100%;
+            max-height: 180px;
+            border-radius: 24px;
+            box-shadow: 0 8px 18px rgba(0,0,0,0.1);
+            background: #f0f0f0;
+            border: 2px solid white;
+        }
+        .upload-hint {
+            font-size: 0.7rem;
+            color: #6e8eaa;
+            text-align: center;
+            margin-top: 12px;
+        }
+
+        /* 结果展示 */
+        .result-module {
+            background: #ffffffec;
+            border-radius: 1.8rem;
+            padding: 1.2rem 1.5rem;
+            border: 1px solid #cfdfec;
+            box-shadow: 0 6px 14px rgba(0,0,0,0.03);
+        }
+        .result-title {
+            font-weight: 700;
+            color: #183f54;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            margin-bottom: 12px;
+            font-size: 1rem;
+            border-left: 4px solid #2c7da0;
+            padding-left: 12px;
+        }
+        .result-box {
+            background: #f4fafe;
+            border-radius: 1.2rem;
+            padding: 1rem;
+            word-break: break-word;
+            font-family: 'SF Mono', 'Fira Code', monospace;
+            font-size: 0.9rem;
+            color: #0a2f41;
+            margin-bottom: 1rem;
+            border: 1px solid #dae9f2;
+            max-height: 160px;
+            overflow-y: auto;
+            white-space: pre-wrap;
+        }
+        .action-group {
+            display: flex;
+            gap: 12px;
+            flex-wrap: wrap;
+        }
+        .sec-btn {
+            background: #eef2f8;
+            border: none;
+            padding: 8px 18px;
+            border-radius: 40px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: 0.2s;
+            color: #1f4e6e;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        .sec-btn.primary {
+            background: #2c7da0;
+            color: white;
+        }
+        .sec-btn.primary:hover {
+            background: #1d607f;
+        }
+        .sec-btn:hover {
+            background: #e2e9f2;
+            transform: translateY(-1px);
+        }
+        .toast-msg {
+            font-size: 0.7rem;
+            margin-top: 10px;
+            padding: 6px 12px;
+            border-radius: 40px;
+            display: inline-block;
+            background: #eef3fa;
+            color: #2e6b8f;
+        }
+        .error-toast {
+            background: #ffeae3;
+            color: #bc4a2c;
+        }
+        footer {
+            font-size: 0.7rem;
+            text-align: center;
+            padding-top: 1.2rem;
+            margin-top: 0.4rem;
+            color: #8ea2b5;
+            border-top: 1px solid #e0ecf3;
+        }
+        @media (max-width: 550px) {
+            .main-content {
+                padding: 1rem;
+            }
+            .cam-btn {
+                padding: 6px 14px;
+                font-size: 0.8rem;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<div class="scanner-card">
+    <div class="brand">
+        <h1>
+            📷✨ 二维码灵析
+        </h1>
+        <p>摄像头手动开启 · 支持本地上传识别</p>
+    </div>
+
+    <div class="main-content">
+        <!-- 摄像头模块：默认关闭状态 -->
+        <div class="camera-module">
+            <div class="video-container" id="videoContainer">
+                <!-- 占位内容，当摄像头未激活时显示 -->
+                <div id="videoPlaceholder" class="cam-placeholder">
+                    <span>📹</span>
+                    <span>摄像头未开启<br>点击下方按钮启动</span>
+                </div>
+                <video id="videoElement" style="display: none;" autoplay playsinline muted></video>
+            </div>
+            <div class="button-bar">
+                <button id="startCameraBtn" class="cam-btn">▶️ 开启摄像头</button>
+                <button id="switchCameraBtn" class="cam-btn" style="display: none;">🔄 切换摄像头</button>
+                <button id="stopCameraBtn" class="cam-btn danger" style="display: none;">⏹️ 关闭摄像头</button>
+            </div>
+            <div class="cam-status" id="cameraStatusText">
+                📴 摄像头已关闭，点击「开启摄像头」激活
+            </div>
+        </div>
+
+        <!-- 图片上传模块：独立且功能正常 -->
+        <div class="upload-module">
+            <div class="upload-btn-area">
+                <label class="upload-label" for="fileInput">
+                    🖼️ 选择二维码图片
+                    <input type="file" id="fileInput" accept="image/jpeg,image/png,image/webp,image/bmp">
+                </label>
+            </div>
+            <div class="image-preview" id="previewArea" style="display: none;">
+                <img id="previewImg" alt="预览">
+            </div>
+            <div class="upload-hint">
+                ⚡ 支持 JPG / PNG / WebP，点击选择相册或拍照上传，自动识别二维码
+            </div>
+        </div>
+
+        <!-- 结果显示区域 -->
+        <div class="result-module">
+            <div class="result-title">
+                🧾 解码结果
+            </div>
+            <div class="result-box" id="resultDisplay">
+                等待扫描或上传二维码...
+            </div>
+            <div class="action-group">
+                <button id="copyResultBtn" class="sec-btn">📋 复制文本</button>
+                <button id="openUrlBtn" class="sec-btn primary">🔗 打开链接 (如果是网址)</button>
+            </div>
+            <div id="statusMessage" class="toast-msg" style="margin-top: 12px;"></div>
+        </div>
+        <footer>
+            🔒 纯本地识别，不上传任何图像数据，隐私安全
+        </footer>
+    </div>
+</div>
+
+<script>
+    // ---------- DOM 元素 ----------
+    const video = document.getElementById('videoElement');
+    const videoContainer = document.getElementById('videoContainer');
+    const placeholderDiv = document.getElementById('videoPlaceholder');
+    const startCamBtn = document.getElementById('startCameraBtn');
+    const switchCamBtn = document.getElementById('switchCameraBtn');
+    const stopCamBtn = document.getElementById('stopCameraBtn');
+    const cameraStatusSpan = document.getElementById('cameraStatusText');
+    
+    const fileInput = document.getElementById('fileInput');
+    const previewArea = document.getElementById('previewArea');
+    const previewImg = document.getElementById('previewImg');
+    const resultDisplay = document.getElementById('resultDisplay');
+    const copyBtn = document.getElementById('copyResultBtn');
+    const openUrlBtn = document.getElementById('openUrlBtn');
+    const statusMsgDiv = document.getElementById('statusMessage');
+
+    // ---------- 全局变量 ----------
+    let currentStream = null;          // 当前媒体流
+    let scanningInterval = null;       // 定时扫描器
+    let cameraActive = false;           // 摄像头是否活跃且视频流可用
+    let currentFacingMode = "environment"; // 默认后置 (环境)
+    let lastRecognizedText = "";        // 避免重复刷新无变化
+    
+    // 离屏canvas用于提取帧数据识别
+    const offscreenCanvas = document.createElement('canvas');
+    const offCtx = offscreenCanvas.getContext('2d');
+
+    // ---------- 辅助函数 ----------
+    function showStatusMessage(msg, isError = false) {
+        statusMsgDiv.innerText = msg;
+        statusMsgDiv.style.display = 'block';
+        if (isError) {
+            statusMsgDiv.classList.add('error-toast');
+        } else {
+            statusMsgDiv.classList.remove('error-toast');
+        }
+        setTimeout(() => {
+            if (statusMsgDiv.innerText === msg) {
+                statusMsgDiv.innerText = '';
+                statusMsgDiv.classList.remove('error-toast');
+            }
+        }, 2800);
+    }
+
+    // 更新主结果区，并记录最后文本
+    function updateResult(text) {
+        if (!text || text.trim() === "") {
+            resultDisplay.innerHTML = "❌ 未识别到二维码，请确保二维码清晰完整";
+            return false;
+        }
+        // 转义HTML
+        const safeText = escapeHtml(text);
+        resultDisplay.innerHTML = safeText;
+        lastRecognizedText = text;
+        return true;
+    }
+
+    function escapeHtml(str) {
+        if (!str) return '';
+        return str.replace(/[&<>]/g, function(m) {
+            if (m === '&') return '&amp;';
+            if (m === '<') return '&lt;';
+            if (m === '>') return '&gt;';
+            return m;
+        });
+    }
+
+    // 核心二维码解析: 从ImageData解码
+    function decodeQRFromImageData(imageData, width, height) {
+        if (!imageData || width === 0 || height === 0) return null;
+        try {
+            const code = jsQR(imageData.data, width, height, {
+                inversionAttempts: "dontInvert",
+            });
+            return code && code.data ? code.data : null;
+        } catch (err) {
+            console.warn("jsQR解析错误", err);
+            return null;
+        }
+    }
+
+    // 从video元素抓取当前帧并识别
+    async function scanCurrentVideoFrame() {
+        if (!cameraActive || !video || video.readyState < 2) return;
+        const vw = video.videoWidth;
+        const vh = video.videoHeight;
+        if (vw === 0 || vh === 0) return;
+        
+        offscreenCanvas.width = vw;
+        offscreenCanvas.height = vh;
+        offCtx.drawImage(video, 0, 0, vw, vh);
+        try {
+            const imgData = offCtx.getImageData(0, 0, vw, vh);
+            const qrText = decodeQRFromImageData(imgData, vw, vh);
+            if (qrText) {
+                updateResult(qrText);
+                // 可选轻提示
+                cameraStatusSpan.style.background = "#1b4b3b";
+                setTimeout(() => {
+                    if(cameraActive) cameraStatusSpan.style.background = "";
+                }, 200);
+            }
+        } catch(e) {
+            // 不干扰用户
+        }
+    }
+
+    // 启动定时扫描器
+    function startFrameScanner() {
+        if (scanningInterval) clearInterval(scanningInterval);
+        if (!cameraActive) return;
+        scanningInterval = setInterval(() => {
+            if (cameraActive && video && video.readyState >= 2) {
+                scanCurrentVideoFrame();
+            }
+        }, 280);
+    }
+
+    function stopFrameScanner() {
+        if (scanningInterval) {
+            clearInterval(scanningInterval);
+            scanningInterval = null;
+        }
+    }
+
+    // 停止摄像头，重置UI到关闭状态
+    async function stopCamera() {
+        stopFrameScanner();
+        if (currentStream) {
+            currentStream.getTracks().forEach(track => track.stop());
+            currentStream = null;
+        }
+        video.srcObject = null;
+        video.style.display = "none";
+        placeholderDiv.style.display = "flex";
+        cameraActive = false;
+        
+        // 更新按钮显隐
+        startCamBtn.style.display = "inline-flex";
+        switchCamBtn.style.display = "none";
+        stopCamBtn.style.display = "none";
+        cameraStatusSpan.innerHTML = "📴 摄像头已关闭，点击「开启摄像头」激活";
+        cameraStatusSpan.style.background = "#1a262f";
+        // 不清空识别结果，但显示友好
+    }
+
+    // 开启摄像头 (基于当前 facingMode)
+    async function startCamera() {
+        // 如果已经活跃，先停止再重新开启 (保证状态)
+        if (cameraActive) {
+            await stopCamera();
+        }
+        const constraints = {
+            video: {
+                facingMode: { exact: currentFacingMode },
+                width: { ideal: 1280 },
+                height: { ideal: 720 }
+            }
+        };
+        try {
+            let stream = null;
+            try {
+                stream = await navigator.mediaDevices.getUserMedia(constraints);
+            } catch (exactErr) {
+                // 降级使用ideal模式, 不强制 exact
+                console.warn("exact facingMode失败, 降级", exactErr);
+                stream = await navigator.mediaDevices.getUserMedia({
+                    video: {
+                        facingMode: currentFacingMode === "environment" ? "environment" : "user",
+                        width: { ideal: 1024 },
+                        height: { ideal: 768 }
+                    }
+                });
+            }
+            currentStream = stream;
+            video.srcObject = stream;
+            video.style.display = "block";
+            placeholderDiv.style.display = "none";
+            
+            // 等待视频元数据加载
+            await new Promise((resolve) => {
+                if (video.readyState >= 2) resolve();
+                else video.onloadedmetadata = () => resolve();
+            });
+            await video.play().catch(e => console.warn("play error", e));
+            cameraActive = true;
+            
+            // 更新UI按钮状态
+            startCamBtn.style.display = "none";
+            switchCamBtn.style.display = "inline-flex";
+            stopCamBtn.style.display = "inline-flex";
+            const modeText = currentFacingMode === "environment" ? "后置摄像头" : "前置摄像头";
+            cameraStatusSpan.innerHTML = `✅ 摄像头工作中 (${modeText}) · 实时扫描二维码`;
+            cameraStatusSpan.style.background = "#1d574b";
+            
+            // 开始扫描
+            startFrameScanner();
+            showStatusMessage("摄像头已开启，正在实时识别二维码", false);
+        } catch (err) {
+            console.error("摄像头启动失败", err);
+            cameraActive = false;
+            startCamBtn.style.display = "inline-flex";
+            switchCamBtn.style.display = "none";
+            stopCamBtn.style.display = "none";
+            video.style.display = "none";
+            placeholderDiv.style.display = "flex";
+            cameraStatusSpan.innerHTML = "❌ 摄像头启动失败，请检查权限或是否有可用摄像头";
+            showStatusMessage("无法获取摄像头: " + (err.message || "权限被拒或无摄像头"), true);
+        }
+    }
+
+    // 切换前后置摄像头
+    async function switchCameraMode() {
+        if (!cameraActive) {
+            // 如果未激活，切换模式后再启动
+            currentFacingMode = currentFacingMode === "environment" ? "user" : "environment";
+            await startCamera();
+        } else {
+            // 正在运行中，改变模式后重启摄像头
+            currentFacingMode = currentFacingMode === "environment" ? "user" : "environment";
+            await startCamera();  // 内部会 stop 旧流并启动新流
+        }
+    }
+
+    // ----- 图片上传识别 (独立且不受摄像头干扰)-----
+    function handleImageUpload(file) {
+        if (!file) return;
+        // 预览图片
+        const blobUrl = URL.createObjectURL(file);
+        previewImg.src = blobUrl;
+        previewArea.style.display = "block";
+        
+        const imgElement = new Image();
+        imgElement.onload = () => {
+            URL.revokeObjectURL(blobUrl);
+            // 创建 canvas 绘制完整图片
+            const canvas = document.createElement('canvas');
+            canvas.width = imgElement.width;
+            canvas.height = imgElement.height;
+            const ctx = canvas.getContext('2d');
+            ctx.drawImage(imgElement, 0, 0, imgElement.width, imgElement.height);
+            const imageData = ctx.getImageData(0, 0, imgElement.width, imgElement.height);
+            const decoded = decodeQRFromImageData(imageData, imgElement.width, imgElement.height);
+            if (decoded) {
+                updateResult(decoded);
+                showStatusMessage("✅ 图片识别成功！", false);
+            } else {
+                updateResult("⚠️ 未能在图片中找到二维码，请确保二维码清晰且无遮挡");
+                showStatusMessage("未检测到二维码，尝试调整图片对比度或重新拍摄", true);
+            }
+        };
+        imgElement.onerror = () => {
+            URL.revokeObjectURL(blobUrl);
+            updateResult("图片加载失败，文件可能已损坏");
+            showStatusMessage("图片解析出错，请尝试其他图片", true);
+        };
+        imgElement.src = blobUrl;
+    }
+
+    // 复制结果与打开链接
+    function copyRecognizedText() {
+        let currentText = resultDisplay.innerText;
+        if (!currentText || currentText.includes("等待扫描") || currentText.includes("未识别到二维码")) {
+            showStatusMessage("没有可复制的二维码内容，请先识别二维码", true);
+            return;
+        }
+        navigator.clipboard.writeText(currentText).then(() => {
+            showStatusMessage("✅ 内容已复制到剪贴板", false);
+        }).catch(() => {
+            showStatusMessage("❌ 复制失败，可手动选取文字", true);
+        });
+    }
+
+    function openUrlFromResult() {
+        let text = resultDisplay.innerText;
+        if (!text || text.includes("等待扫描") || text.includes("未识别到二维码")) {
+            showStatusMessage("当前没有有效二维码内容", true);
+            return;
+        }
+        let url = text.trim();
+        let isValidUrl = false;
+        try {
+            if (url.startsWith("http://") || url.startsWith("https://")) {
+                isValidUrl = true;
+            } else if (url.match(/^[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}([/?#].*)?$/)) {
+                url = "https://" + url;
+                isValidUrl = true;
+            } else {
+                // 尝试构造URL
+                new URL(url);
+                isValidUrl = true;
+            }
+        } catch(e) {
+            isValidUrl = false;
+        }
+        if (isValidUrl) {
+            window.open(url, '_blank', 'noopener,noreferrer');
+            showStatusMessage("正在打开链接...", false);
+        } else {
+            showStatusMessage("当前识别内容不是有效的网址，无法打开链接", true);
+        }
+    }
+
+    // ----- 事件绑定 -----
+    startCamBtn.addEventListener('click', () => {
+        startCamera().catch(e => {
+            console.error(e);
+            showStatusMessage("启动摄像头失败：" + (e.message || "未知错误"), true);
+            cameraActive = false;
+        });
+    });
+    switchCamBtn.addEventListener('click', () => {
+        switchCameraMode().catch(err => {
+            console.error(err);
+            showStatusMessage("切换摄像头失败，请重试", true);
+        });
+    });
+    stopCamBtn.addEventListener('click', () => {
+        stopCamera();
+        showStatusMessage("摄像头已关闭", false);
+    });
+
+    // 图片上传: 选择文件触发
+    fileInput.addEventListener('change', (event) => {
+        if (event.target.files && event.target.files.length > 0) {
+            handleImageUpload(event.target.files[0]);
+        } else {
+            previewArea.style.display = "none";
+        }
+        // 清空input value，以便再次上传同一文件也能触发
+        fileInput.value = '';
+    });
+
+    copyBtn.addEventListener('click', copyRecognizedText);
+    openUrlBtn.addEventListener('click', openUrlFromResult);
+
+    // 页面关闭前释放资源
+    window.addEventListener('beforeunload', () => {
+        if (scanningInterval) clearInterval(scanningInterval);
+        if (currentStream) {
+            currentStream.getTracks().forEach(t => t.stop());
+        }
+    });
+
+    // 确保默认摄像头绝对不自动开启！无额外自动调用
+    // 并且保证点击选择图片是正常的文件选择器，不会被摄像头干扰
+    // 修复“选择图片变成了打开摄像头”的原因可能是之前的label内capture属性导致，现在完全独立，移除所有不必要属性
+    // 额外增加手动清理: 防止任何未授权的自动媒体请求
+    console.log("页面已加载，摄像头默认关闭，图片上传功能独立可用。");
+</script>
+</body>
+</html>
