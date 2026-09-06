@@ -1,0 +1,1008 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes, viewport-fit=cover">
+    <title>图片拼接器</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+            background: #f0f2f5;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            padding: 12px;
+            color: #1f2937;
+        }
+
+        .app-card {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 32px;
+            box-shadow: 0 20px 35px -12px rgba(0, 0, 0, 0.08);
+            overflow: hidden;
+        }
+
+        .header {
+            padding: 24px 24px 16px;
+            background: white;
+            border-bottom: 1px solid #edf2f7;
+        }
+        .header h1 {
+            font-size: 1.6rem;
+            font-weight: 600;
+            background: linear-gradient(135deg, #1e2a3a, #2c3e66);
+            -webkit-background-clip: text;
+            background-clip: text;
+            color: transparent;
+            letter-spacing: -0.3px;
+            margin-bottom: 6px;
+        }
+        .header p {
+            color: #64748b;
+            font-size: 0.85rem;
+        }
+
+        .control-bar {
+            padding: 16px 24px;
+            background: #ffffff;
+            border-bottom: 1px solid #eef2f6;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 12px;
+            justify-content: space-between;
+        }
+        .info-tip {
+            background: #f1f5f9;
+            padding: 6px 14px;
+            border-radius: 40px;
+            font-size: 0.7rem;
+            color: #475569;
+        }
+        .actions {
+            display: flex;
+            gap: 10px;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+        button {
+            border: none;
+            background: #f1f5f9;
+            padding: 8px 18px;
+            border-radius: 40px;
+            font-weight: 600;
+            font-size: 0.8rem;
+            cursor: pointer;
+            transition: 0.2s;
+            color: #1e293b;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+        }
+        button.primary {
+            background: #2c3e66;
+            color: white;
+            box-shadow: 0 2px 6px rgba(0, 0, 0, 0.05);
+        }
+        button.primary:hover {
+            background: #1e2f4b;
+            transform: translateY(-1px);
+        }
+        button.outline-danger {
+            background: #fff1f0;
+            color: #b91c1c;
+        }
+        button.outline-danger:hover {
+            background: #fee2e2;
+        }
+        button.download-btn {
+            background: #059669;
+            color: white;
+        }
+        button.download-btn:hover {
+            background: #047857;
+        }
+        button:hover {
+            transform: translateY(-1px);
+        }
+
+        .compress-options {
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            gap: 10px;
+            background: #f8fafc;
+            padding: 6px 14px;
+            border-radius: 40px;
+            font-size: 0.8rem;
+        }
+        .compress-options label {
+            display: flex;
+            align-items: center;
+            gap: 4px;
+            cursor: pointer;
+        }
+        .compress-options input[type="checkbox"] {
+            width: 18px;
+            height: 18px;
+            cursor: pointer;
+        }
+        .compress-options input[type="number"] {
+            width: 60px;
+            padding: 4px 6px;
+            border-radius: 8px;
+            border: 1px solid #d1d5db;
+            font-size: 0.8rem;
+        }
+        .compress-options input[type="range"] {
+            width: 80px;
+            cursor: pointer;
+        }
+        .compress-options .range-value {
+            min-width: 30px;
+            text-align: center;
+        }
+
+        .images-area {
+            padding: 16px 24px 12px;
+            background: #fefefe;
+            border-bottom: 1px solid #edf2f8;
+        }
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: baseline;
+            margin-bottom: 12px;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .section-header h3 {
+            font-size: 0.85rem;
+            font-weight: 600;
+            color: #334155;
+        }
+        .badge {
+            background: #eef2ff;
+            padding: 4px 12px;
+            border-radius: 30px;
+            font-size: 0.7rem;
+            font-weight: 500;
+            color: #1f3a8a;
+        }
+        .image-strip {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            align-items: center;
+            min-height: 110px;
+        }
+        .img-thumb {
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+            width: 90px;
+            transition: 0.15s;
+            border: 1px solid #eef2f8;
+            overflow: hidden;
+            flex-shrink: 0;
+            cursor: pointer;
+        }
+        .img-thumb:active {
+            transform: scale(0.97);
+        }
+        .thumb-img {
+            width: 90px;
+            height: 90px;
+            object-fit: cover;
+            background: #f8fafc;
+            display: block;
+            pointer-events: none;
+        }
+        .thumb-actions {
+            display: flex;
+            justify-content: space-between;
+            padding: 6px 6px;
+            background: white;
+            border-top: 1px solid #f0f2f5;
+        }
+        .thumb-actions button {
+            background: transparent;
+            padding: 4px 6px;
+            font-size: 0.6rem;
+            border-radius: 30px;
+            font-weight: 500;
+            box-shadow: none;
+            pointer-events: auto;
+        }
+        .move-up,
+        .move-down {
+            background: #f1f4f9;
+            color: #334155;
+        }
+        .delete-btn {
+            background: #fff1f0;
+            color: #c2410c;
+        }
+        .empty-placeholder {
+            width: 100%;
+            text-align: center;
+            padding: 32px 16px;
+            background: #fafcff;
+            border-radius: 28px;
+            color: #94a3b8;
+            font-size: 0.8rem;
+        }
+
+        .preview-area {
+            padding: 16px 24px 24px;
+            background: #f8fafc;
+        }
+        .preview-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
+            flex-wrap: wrap;
+            gap: 12px;
+        }
+        .preview-header h3 {
+            font-weight: 700;
+            font-size: 1rem;
+            color: #0f172a;
+        }
+        .preview-img-container {
+            background: #eef2f6;
+            border-radius: 24px;
+            padding: 16px;
+            text-align: center;
+            overflow-x: auto;
+            box-shadow: inset 0 0 0 1px rgba(0, 0, 0, 0.03), 0 8px 20px rgba(0, 0, 0, 0.05);
+            min-height: 120px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        #previewImage {
+            max-width: 100%;
+            height: auto;
+            background: #fef9ef;
+            border-radius: 16px;
+            box-shadow: 0 8px 20px -8px rgba(0, 0, 0, 0.2);
+            display: block;
+            margin: 0 auto;
+            min-height: 60px;
+            object-fit: contain;
+        }
+        .info-note {
+            margin-top: 12px;
+            font-size: 0.7rem;
+            color: #5b6e8c;
+            background: #eef2f6;
+            display: inline-block;
+            padding: 5px 14px;
+            border-radius: 40px;
+        }
+        .save-guide {
+            background: #e6f7ec;
+            border-radius: 40px;
+            padding: 6px 14px;
+            font-size: 0.7rem;
+            color: #047857;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            margin-top: 10px;
+        }
+        footer {
+            padding: 14px 24px 20px;
+            text-align: center;
+            font-size: 0.65rem;
+            color: #94a3b8;
+            border-top: 1px solid #edf2f8;
+            background: white;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.92);
+            z-index: 2000;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            backdrop-filter: blur(8px);
+        }
+        .modal.active {
+            display: flex;
+        }
+        .modal-close {
+            position: absolute;
+            top: 24px;
+            right: 24px;
+            background: rgba(255, 255, 255, 0.2);
+            backdrop-filter: blur(8px);
+            border: none;
+            font-size: 28px;
+            color: white;
+            width: 48px;
+            height: 48px;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+        }
+        .modal-img {
+            max-width: 90%;
+            max-height: 80%;
+            object-fit: contain;
+            border-radius: 24px;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.4);
+            background: #1e1e2a;
+        }
+        .modal-tip {
+            margin-top: 20px;
+            color: #ffecb3;
+            background: rgba(0, 0, 0, 0.5);
+            padding: 6px 18px;
+            border-radius: 40px;
+            font-size: 0.8rem;
+        }
+
+        .preview-error {
+            color: #b91c1c;
+            background: #fee2e2;
+            padding: 12px 20px;
+            border-radius: 16px;
+            font-size: 0.9rem;
+            max-width: 100%;
+            word-break: break-word;
+            margin-top: 10px;
+            white-space: pre-wrap;
+            text-align: left;
+            width: 100%;
+        }
+
+        @media (max-width: 650px) {
+            .control-bar {
+                flex-direction: column;
+                align-items: stretch;
+            }
+            .actions {
+                justify-content: space-between;
+            }
+            .img-thumb {
+                width: 80px;
+            }
+            .thumb-img {
+                width: 80px;
+                height: 80px;
+            }
+            .compress-options {
+                justify-content: center;
+                padding: 8px 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="app-card">
+        <div class="header">
+            <h1>📸 图片拼接 · 纵向长图</h1>
+            <p>多张图片垂直无缝拼接 | 保留原始宽度 | 点击下载直接保存到相册</p>
+        </div>
+
+        <div class="control-bar">
+            <div class="info-tip">
+                🖼️ 保持原始宽度，垂直首尾相接
+            </div>
+            <div class="actions">
+                <button id="addImagesBtn" class="primary">➕ 添加图片</button>
+                <button id="clearAllBtn" class="outline-danger">🗑️ 清空</button>
+                <input type="file" id="hiddenFileInput" multiple accept="image/*" style="display: none;">
+
+                <div class="compress-options">
+                    <label>
+                        <input type="checkbox" id="compressCheckbox"> 统一尺寸并压缩
+                    </label>
+                    <span>宽度</span>
+                    <input type="number" id="targetWidth" value="1080" min="100" max="5000" disabled>
+                    <span>质量</span>
+                    <input type="range" id="qualityRange" min="10" max="100" value="85" disabled>
+                    <span class="range-value" id="qualityValue">85%</span>
+                </div>
+            </div>
+        </div>
+
+        <div class="images-area">
+            <div class="section-header">
+                <h3>🖼️ 图片顺序 (上移/下移调整拼接顺序)</h3>
+                <span class="badge" id="countBadge">0张</span>
+            </div>
+            <div id="imageListStrip" class="image-strip">
+                <div class="empty-placeholder">✨ 点击「添加图片」选择照片，支持多选，按顺序纵向拼接</div>
+            </div>
+            <div style="margin-top: 12px; font-size: 0.65rem; color: #6c86a3; text-align: center;">
+                💡 点击任意缩略图可放大，长按放大图即可保存单张图片到相册
+            </div>
+        </div>
+
+        <div class="preview-area">
+            <div class="preview-header">
+                <h3>⬇️ 拼接预览 · 长按下方图片可直接保存到相册</h3>
+                <button id="downloadLongBtn" class="download-btn">💾 保存长图</button>
+            </div>
+            <div class="preview-img-container" id="previewContainer">
+                <img id="previewImage" alt="拼接预览图" style="max-width:100%; background:#fdf8ed;">
+                <div id="previewError" class="preview-error" style="display:none;"></div>
+            </div>
+            <div style="text-align:center; margin-top: 10px; display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+                <span class="info-note">🔗 图片无间距 · 垂直首尾相连</span>
+                <span class="save-guide">✨ 长按上方图片 → 保存到相册 (手机)</span>
+            </div>
+        </div>
+        <footer>
+            💡 点击「保存完整长图到相册」按钮，图片会自动下载；长按预览图同样可以直接保存
+        </footer>
+    </div>
+
+    <!-- 模态框 用于放大缩略图 -->
+    <div id="imageModal" class="modal">
+        <button class="modal-close" id="modalCloseBtn">✕</button>
+        <img id="modalImage" class="modal-img" alt="放大图片">
+        <div class="modal-tip">✨ 长按图片可保存到相册 | 点击外部关闭</div>
+    </div>
+
+    <script>
+        (function() {
+            // ---------- DOM 引用 ----------
+            const addImagesBtn = document.getElementById('addImagesBtn');
+            const clearAllBtn = document.getElementById('clearAllBtn');
+            const hiddenFileInput = document.getElementById('hiddenFileInput');
+            const imageListStrip = document.getElementById('imageListStrip');
+            const previewImage = document.getElementById('previewImage');
+            const previewError = document.getElementById('previewError');
+            const downloadLongBtn = document.getElementById('downloadLongBtn');
+            const countBadge = document.getElementById('countBadge');
+            const modal = document.getElementById('imageModal');
+            const modalImage = document.getElementById('modalImage');
+            const modalCloseBtn = document.getElementById('modalCloseBtn');
+
+            // 压缩选项
+            const compressCheckbox = document.getElementById('compressCheckbox');
+            const targetWidthInput = document.getElementById('targetWidth');
+            const qualityRange = document.getElementById('qualityRange');
+            const qualityValue = document.getElementById('qualityValue');
+
+            // 启用/禁用压缩参数
+            function toggleCompressOptions() {
+                const enabled = compressCheckbox.checked;
+                targetWidthInput.disabled = !enabled;
+                qualityRange.disabled = !enabled;
+                qualityValue.style.opacity = enabled ? 1 : 0.4;
+            }
+            compressCheckbox.addEventListener('change', toggleCompressOptions);
+            qualityRange.addEventListener('input', function() {
+                qualityValue.textContent = this.value + '%';
+            });
+            toggleCompressOptions();
+
+            // ---------- 核心数据 ----------
+            let imagesQueue = []; // 每个元素 { dataURL, imgElement, naturalW, naturalH }
+
+            // ---------- 工具函数 ----------
+            function showMessage(msg, isError) {
+                const tip = document.createElement('div');
+                tip.textContent = msg;
+                tip.style.position = 'fixed';
+                tip.style.bottom = '80px';
+                tip.style.left = '50%';
+                tip.style.transform = 'translateX(-50%)';
+                tip.style.backgroundColor = isError ? '#b91c1cdd' : '#1e293bdd';
+                tip.style.color = 'white';
+                tip.style.padding = '8px 18px';
+                tip.style.borderRadius = '40px';
+                tip.style.fontSize = '0.8rem';
+                tip.style.zIndex = '3000';
+                tip.style.backdropFilter = 'blur(8px)';
+                tip.style.whiteSpace = 'nowrap';
+                tip.style.maxWidth = '90%';
+                tip.style.overflow = 'hidden';
+                tip.style.textOverflow = 'ellipsis';
+                document.body.appendChild(tip);
+                setTimeout(() => tip.remove(), 2200);
+                console.log(msg);
+            }
+
+            function updateCountBadge() {
+                countBadge.innerText = imagesQueue.length + '张';
+            }
+
+            // ---------- 加载图片 ----------
+            function loadImagesFromFiles(files) {
+                if (!files || files.length === 0) return;
+                const fileArray = Array.from(files).filter(f => f.type.startsWith('image/'));
+                if (fileArray.length === 0) {
+                    showMessage('请选择图片文件', true);
+                    return;
+                }
+
+                previewImage.src = '';
+                previewImage.alt = '正在加载...';
+                previewError.style.display = 'none';
+
+                let loadedCount = 0;
+                const total = fileArray.length;
+                let hasError = false;
+
+                fileArray.forEach((file) => {
+                    const reader = new FileReader();
+                    reader.onload = (e) => {
+                        const dataURL = e.target.result;
+                        const img = new Image();
+                        img.onload = () => {
+                            const processImage = () => {
+                                const w = img.naturalWidth;
+                                const h = img.naturalHeight;
+                                if (w > 0 && h > 0) {
+                                    imagesQueue.push({
+                                        dataURL: dataURL,
+                                        imgElement: img,
+                                        naturalW: w,
+                                        naturalH: h
+                                    });
+                                    loadedCount++;
+                                    if (loadedCount === total) {
+                                        renderThumbnailList();
+                                        generateMosaicAndDisplay();
+                                        showMessage(`✅ 已添加 ${total} 张图片`);
+                                    }
+                                } else {
+                                    // 尝试 decode
+                                    if (img.decode) {
+                                        img.decode().then(() => {
+                                            const w2 = img.naturalWidth;
+                                            const h2 = img.naturalHeight;
+                                            if (w2 > 0 && h2 > 0) {
+                                                imagesQueue.push({
+                                                    dataURL: dataURL,
+                                                    imgElement: img,
+                                                    naturalW: w2,
+                                                    naturalH: h2
+                                                });
+                                            } else {
+                                                hasError = true;
+                                            }
+                                        }).catch(() => { hasError = true; }).finally(() => {
+                                            loadedCount++;
+                                            if (loadedCount === total) {
+                                                renderThumbnailList();
+                                                generateMosaicAndDisplay();
+                                                if (hasError) showMessage('部分图片加载失败，请查看控制台', true);
+                                                else showMessage(`✅ 已添加 ${total} 张图片`);
+                                            }
+                                        });
+                                    } else {
+                                        hasError = true;
+                                        loadedCount++;
+                                        if (loadedCount === total) {
+                                            renderThumbnailList();
+                                            generateMosaicAndDisplay();
+                                            showMessage('部分图片无法识别', true);
+                                        }
+                                    }
+                                }
+                            };
+                            if (img.naturalWidth > 0 && img.naturalHeight > 0) {
+                                processImage();
+                            } else {
+                                if (img.decode) {
+                                    img.decode().then(processImage).catch(() => {
+                                        hasError = true;
+                                        loadedCount++;
+                                        if (loadedCount === total) {
+                                            renderThumbnailList();
+                                            generateMosaicAndDisplay();
+                                            showMessage('部分图片解码失败', true);
+                                        }
+                                    });
+                                } else {
+                                    setTimeout(() => {
+                                        if (img.naturalWidth > 0 && img.naturalHeight > 0) {
+                                            processImage();
+                                        } else {
+                                            hasError = true;
+                                            loadedCount++;
+                                            if (loadedCount === total) {
+                                                renderThumbnailList();
+                                                generateMosaicAndDisplay();
+                                                showMessage('部分图片无法识别', true);
+                                            }
+                                        }
+                                    }, 300);
+                                }
+                            }
+                        };
+                        img.onerror = () => {
+                            hasError = true;
+                            loadedCount++;
+                            if (loadedCount === total) {
+                                renderThumbnailList();
+                                generateMosaicAndDisplay();
+                                showMessage('部分图片加载失败', true);
+                            }
+                        };
+                        img.src = dataURL;
+                    };
+                    reader.onerror = () => {
+                        hasError = true;
+                        loadedCount++;
+                        if (loadedCount === total) {
+                            renderThumbnailList();
+                            generateMosaicAndDisplay();
+                            showMessage('文件读取失败', true);
+                        }
+                    };
+                    reader.readAsDataURL(file);
+                });
+            }
+
+            // ---------- 渲染缩略图 ----------
+            function renderThumbnailList() {
+                if (!imagesQueue.length) {
+                    imageListStrip.innerHTML =
+                        `<div class="empty-placeholder">📷 暂无图片，点击添加图片开始拼接 (保留原始宽度纵向长图)</div>`;
+                    updateCountBadge();
+                    return;
+                }
+
+                let html = '';
+                imagesQueue.forEach((item, idx) => {
+                    const src = item.dataURL || '';
+                    html += `
+                        <div class="img-thumb" data-index="${idx}">
+                            <img class="thumb-img" src="${src}" alt="thumb" loading="lazy">
+                            <div class="thumb-actions">
+                                <button class="move-up" data-idx="${idx}" ${idx === 0 ? 'disabled style="opacity:0.4;"' : ''}>⬆️ 上移</button>
+                                <button class="move-down" data-idx="${idx}" ${idx === imagesQueue.length-1 ? 'disabled style="opacity:0.4;"' : ''}>⬇️ 下移</button>
+                                <button class="delete-btn" data-idx="${idx}">✖️ 删</button>
+                            </div>
+                        </div>
+                    `;
+                });
+                imageListStrip.innerHTML = html;
+                updateCountBadge();
+
+                // 绑定事件
+                document.querySelectorAll('.move-up').forEach(btn => {
+                    if (btn.disabled) return;
+                    btn.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        const idx = parseInt(btn.dataset.idx);
+                        moveImage(idx, 'up');
+                    });
+                });
+                document.querySelectorAll('.move-down').forEach(btn => {
+                    if (btn.disabled) return;
+                    btn.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        const idx = parseInt(btn.dataset.idx);
+                        moveImage(idx, 'down');
+                    });
+                });
+                document.querySelectorAll('.delete-btn').forEach(btn => {
+                    btn.addEventListener('click', (e) => {
+                        e.stopPropagation();
+                        const idx = parseInt(btn.dataset.idx);
+                        deleteImage(idx);
+                    });
+                });
+
+                // 点击放大
+                document.querySelectorAll('.img-thumb').forEach(thumb => {
+                    thumb.addEventListener('click', (e) => {
+                        if (e.target.tagName === 'BUTTON') return;
+                        const idx = parseInt(thumb.dataset.index);
+                        const item = imagesQueue[idx];
+                        if (item && item.dataURL) {
+                            modalImage.src = item.dataURL;
+                            modal.classList.add('active');
+                        }
+                    });
+                });
+            }
+
+            // 移动/删除
+            function moveImage(index, direction) {
+                if (direction === 'up' && index > 0) {
+                    [imagesQueue[index - 1], imagesQueue[index]] = [imagesQueue[index], imagesQueue[index - 1]];
+                    renderThumbnailList();
+                    generateMosaicAndDisplay();
+                } else if (direction === 'down' && index < imagesQueue.length - 1) {
+                    [imagesQueue[index + 1], imagesQueue[index]] = [imagesQueue[index], imagesQueue[index + 1]];
+                    renderThumbnailList();
+                    generateMosaicAndDisplay();
+                }
+            }
+
+            function deleteImage(index) {
+                if (index >= 0 && index < imagesQueue.length) {
+                    imagesQueue.splice(index, 1);
+                    renderThumbnailList();
+                    generateMosaicAndDisplay();
+                }
+            }
+
+            function clearAllImages() {
+                if (imagesQueue.length === 0) return;
+                imagesQueue = [];
+                renderThumbnailList();
+                generateMosaicAndDisplay();
+                showMessage('已清空所有图片');
+            }
+
+            // ---------- 拼接生成 (带自动降级) ----------
+            async function generateMosaicDataURL(options) {
+                // options: { compress, targetWidth, quality }
+                // 如果不传，从界面读取
+                if (!options) {
+                    options = {
+                        compress: compressCheckbox.checked,
+                        targetWidth: parseInt(targetWidthInput.value) || 1080,
+                        quality: parseInt(qualityRange.value) / 100
+                    };
+                }
+
+                if (imagesQueue.length === 0) return null;
+
+                // 收集有效图片
+                const validItems = [];
+                for (const item of imagesQueue) {
+                    const img = item.imgElement;
+                    let w = item.naturalW || (img ? img.naturalWidth : 0);
+                    let h = item.naturalH || (img ? img.naturalHeight : 0);
+                    if (w === 0 && img) {
+                        w = img.naturalWidth || 0;
+                        h = img.naturalHeight || 0;
+                    }
+                    if (w > 0 && h > 0 && img) {
+                        validItems.push({
+                            img: img,
+                            origW: w,
+                            origH: h
+                        });
+                    }
+                }
+
+                if (validItems.length === 0) {
+                    throw new Error('没有有效的图片可拼接');
+                }
+
+                let canvasWidth, canvasHeight, scaleRatio = 1;
+
+                if (options.compress) {
+                    // 压缩模式：统一宽度
+                    const targetW = options.targetWidth;
+                    let maxOrigW = 0;
+                    for (const it of validItems) if (it.origW > maxOrigW) maxOrigW = it.origW;
+                    const baseScale = targetW / maxOrigW;
+                    let totalCompressedH = 0;
+                    for (const it of validItems) {
+                        totalCompressedH += it.origH * baseScale;
+                    }
+                    canvasWidth = Math.floor(targetW);
+                    canvasHeight = Math.floor(totalCompressedH);
+                    scaleRatio = baseScale;
+                } else {
+                    // 无损模式：取最大宽度
+                    let maxW = 0;
+                    for (const it of validItems) if (it.origW > maxW) maxW = it.origW;
+                    let totalH = 0;
+                    for (const it of validItems) totalH += it.origH;
+                    canvasWidth = Math.floor(maxW);
+                    canvasHeight = Math.floor(totalH);
+                    scaleRatio = 1;
+                }
+
+                if (canvasWidth < 1) canvasWidth = 1;
+                if (canvasHeight < 1) canvasHeight = 1;
+
+                // 如果像素数超过 2000万（移动端安全阈值），并且当前是压缩模式，则自动缩小宽度，但这里我们让调用者决定降级
+                // 我们会在外部捕获异常后自动启用压缩
+
+                const canvas = document.createElement('canvas');
+                canvas.width = canvasWidth;
+                canvas.height = canvasHeight;
+                const ctx = canvas.getContext('2d');
+                ctx.fillStyle = "#fef9ef";
+                ctx.fillRect(0, 0, canvasWidth, canvasHeight);
+
+                let currentY = 0;
+                for (const it of validItems) {
+                    let drawW = it.origW * scaleRatio;
+                    let drawH = it.origH * scaleRatio;
+                    if (drawW < 1) drawW = 1;
+                    if (drawH < 1) drawH = 1;
+                    const offsetX = (canvasWidth - drawW) / 2;
+                    try {
+                        ctx.drawImage(it.img, offsetX, currentY, drawW, drawH);
+                    } catch (err) {
+                        console.warn('绘制单张失败:', err);
+                    }
+                    currentY += drawH;
+                }
+
+                // 输出
+                let mimeType = options.compress ? 'image/jpeg' : 'image/png';
+                let qualityParam = options.compress ? options.quality : undefined;
+                const dataURL = canvas.toDataURL(mimeType, qualityParam);
+                const sizeKB = (dataURL.length * 3 / 4) / 1024;
+                console.log(`生成：${canvasWidth}x${canvasHeight}, ${options.compress?'压缩':'无损'}, ${sizeKB.toFixed(1)}KB`);
+                return { dataURL, canvasWidth, canvasHeight, sizeKB };
+            }
+
+            // ---------- 显示拼接图（带自动降级） ----------
+            async function generateMosaicAndDisplay() {
+                previewError.style.display = 'none';
+                previewError.textContent = '';
+
+                if (imagesQueue.length === 0) {
+                    previewImage.src = '';
+                    previewImage.alt = '暂无图片，请添加';
+                    previewImage.style.minHeight = '60px';
+                    return;
+                }
+
+                previewImage.alt = '正在生成...';
+                previewImage.src = '';
+
+                try {
+                    // 1. 按照当前设置生成
+                    const options = {
+                        compress: compressCheckbox.checked,
+                        targetWidth: parseInt(targetWidthInput.value) || 1080,
+                        quality: parseInt(qualityRange.value) / 100
+                    };
+                    let result = await generateMosaicDataURL(options);
+                    if (!result) throw new Error('生成返回 null');
+
+                    // 2. 检查 dataURL 是否有效（长度大于 100 且以 data:image 开头）
+                    if (result.dataURL.length < 100 || !result.dataURL.startsWith('data:image')) {
+                        console.warn('生成的 dataURL 无效，尝试启用压缩模式重试');
+                        // 自动启用压缩
+                        const fallbackOptions = {
+                            compress: true,
+                            targetWidth: 1080,
+                            quality: 0.8
+                        };
+                        result = await generateMosaicDataURL(fallbackOptions);
+                        if (!result) throw new Error('降级压缩生成失败');
+                        // 提示用户
+                        showMessage('⚠️ 原图拼接过大，已自动启用压缩模式（宽度1080）', false);
+                    }
+
+                    // 3. 设置预览
+                    const { dataURL, canvasWidth, canvasHeight, sizeKB } = result;
+                    previewImage.onerror = function(e) {
+                        const errMsg = '预览图片加载失败 (img.onerror)';
+                        const detail = `画布: ${canvasWidth}x${canvasHeight}, DataURL长度: ${dataURL.length}字符 (${sizeKB}KB), 图片数: ${imagesQueue.length}`;
+                        console.error(errMsg, detail);
+                        previewError.style.display = 'block';
+                        previewError.textContent = `❌ ${errMsg}\n${detail}\n建议：尝试使用「保存长图」按钮下载，或减少图片数量。`;
+                        previewImage.src = '';
+                        previewImage.alt = '加载失败';
+                    };
+                    previewImage.src = dataURL;
+                    previewImage.alt = '拼接长图 (长按可保存)';
+                    previewImage.style.minHeight = 'auto';
+                } catch (err) {
+                    console.error('生成失败:', err);
+                    previewImage.src = '';
+                    previewImage.alt = '生成失败';
+                    previewError.style.display = 'block';
+                    previewError.textContent = `❌ 生成失败: ${err.message}`;
+                }
+            }
+
+            // ---------- 下载 ----------
+            async function downloadFullImage() {
+                if (imagesQueue.length === 0) {
+                    showMessage('还没有任何图片，请先添加图片', true);
+                    return;
+                }
+                try {
+                    const options = {
+                        compress: compressCheckbox.checked,
+                        targetWidth: parseInt(targetWidthInput.value) || 1080,
+                        quality: parseInt(qualityRange.value) / 100
+                    };
+                    let result = await generateMosaicDataURL(options);
+                    if (!result) throw new Error('生成失败');
+                    if (result.dataURL.length < 100 || !result.dataURL.startsWith('data:image')) {
+                        // 自动降级
+                        const fallbackOptions = { compress: true, targetWidth: 1080, quality: 0.8 };
+                        result = await generateMosaicDataURL(fallbackOptions);
+                        if (!result) throw new Error('降级失败');
+                        showMessage('已自动使用压缩模式下载', false);
+                    }
+                    const link = document.createElement('a');
+                    const timestamp = new Date().toISOString().slice(0, 19).replace(/:/g, '-');
+                    const ext = result.dataURL.startsWith('data:image/png') ? 'png' : 'jpg';
+                    link.download = `拼接长图_${timestamp}.${ext}`;
+                    link.href = result.dataURL;
+                    link.click();
+                    showMessage('✅ 已开始下载');
+                } catch (err) {
+                    console.error('下载失败:', err);
+                    showMessage('下载失败，可尝试长按预览图保存', true);
+                }
+            }
+
+            // ---------- 事件绑定 ----------
+            function bindUpload() {
+                addImagesBtn.addEventListener('click', () => {
+                    hiddenFileInput.click();
+                });
+                hiddenFileInput.addEventListener('change', (e) => {
+                    if (hiddenFileInput.files && hiddenFileInput.files.length) {
+                        loadImagesFromFiles(hiddenFileInput.files);
+                        hiddenFileInput.value = '';
+                    }
+                });
+            }
+
+            function bindClear() {
+                clearAllBtn.addEventListener('click', () => {
+                    if (imagesQueue.length > 0 && confirm("清空所有图片？")) {
+                        clearAllImages();
+                    }
+                });
+            }
+
+            function bindDownload() {
+                downloadLongBtn.addEventListener('click', () => {
+                    downloadFullImage();
+                });
+            }
+
+            function bindModal() {
+                modalCloseBtn.addEventListener('click', () => {
+                    modal.classList.remove('active');
+                });
+                modal.addEventListener('click', (e) => {
+                    if (e.target === modal) {
+                        modal.classList.remove('active');
+                    }
+                });
+            }
+
+            // ---------- 初始化 ----------
+            function init() {
+                bindUpload();
+                bindClear();
+                bindDownload();
+                bindModal();
+                previewImage.src = '';
+                previewImage.alt = '添加图片后自动生成拼接长图';
+                previewImage.style.minHeight = '60px';
+                previewError.style.display = 'none';
+                renderThumbnailList();
+                console.log('图片拼接器初始化完成');
+            }
+
+            init();
+        })();
+    </script>
+</body>
+</html>
