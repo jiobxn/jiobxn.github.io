@@ -2,18 +2,39 @@
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
 <meta name="apple-mobile-web-app-capable" content="yes">
-<title>老式计算器 · 一步一算</title>
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="计算器">
+<link rel="apple-touch-icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 180 180'%3E%3Crect width='180' height='180' fill='%23000'/%3E%3Crect x='30' y='28' width='120' height='30' rx='6' fill='%23a5a5a5'/%3E%3Cg fill='%23333'%3E%3Crect x='30' y='72' width='26' height='26' rx='13'/%3E%3Crect x='62' y='72' width='26' height='26' rx='13'/%3E%3Crect x='94' y='72' width='26' height='26' rx='13'/%3E%3Crect x='30' y='106' width='26' height='26' rx='13'/%3E%3Crect x='62' y='106' width='26' height='26' rx='13'/%3E%3Crect x='94' y='106' width='26' height='26' rx='13'/%3E%3C/g%3E%3Cg fill='%23ff9f0a'%3E%3Crect x='126' y='72' width='24' height='60' rx='12'/%3E%3C/g%3E%3C/svg%3E">
+<title>计算器</title>
 <style>
-  * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
-  body {
-    background: #000; min-height: 100vh; display: flex; align-items: center; justify-content: center;
-    font-family: -apple-system, "SF Pro Text", "PingFang SC", sans-serif;
+  * {
+    margin: 0; padding: 0; box-sizing: border-box;
+    -webkit-tap-highlight-color: transparent;
   }
-  .calc-wrap { width: 100%; max-width: 400px; padding: 20px 16px; user-select: none; }
-  button { font: inherit; border: none; cursor: pointer; }
+  html, body {
+    /* 关键：全局禁掉双击缩放 */
+    touch-action: manipulation;
+    -webkit-text-size-adjust: 100%;
+  }
+  body {
+    background: #000;
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex; align-items: center; justify-content: center;
+    font-family: -apple-system, "SF Pro Text", "PingFang SC", sans-serif;
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+    overflow: hidden;
+  }
+  .calc-wrap { width: 100%; max-width: 400px; padding: 20px 16px; user-select: none; -webkit-user-select: none; }
+  button {
+    font: inherit; border: none; cursor: pointer;
+    touch-action: manipulation;   /* 关键：按钮禁双击缩放 */
+    -webkit-user-select: none;
+    user-select: none;
+  }
   .calc-display {
     min-height: 130px; display: flex; align-items: flex-end; justify-content: flex-end;
     padding: 8px 16px 20px; overflow: hidden;
@@ -38,7 +59,6 @@
     .calc-display { min-height: 100px; }
   }
 </style>
-<base target="_blank">
 </head>
 <body>
 <div class="calc-wrap">
@@ -68,10 +88,9 @@
     return s;
   }
 
-  // 关键：最大字号提高，按 1px 缩小，直到刚好铺满一行
   function fitText(){
     var display = out.parentElement;
-    var maxW = display.clientWidth - 32;   // 减去左右 padding
+    var maxW = display.clientWidth - 32;
     var short = window.matchMedia('(max-height: 700px)').matches;
     var maxSize = short ? 64 : 84;
     var size = maxSize;
