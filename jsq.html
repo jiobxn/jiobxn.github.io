@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<title>老式计算器 · 一步一算</title>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+  body {
+    background: #000; min-height: 100vh; display: flex; align-items: center; justify-content: center;
+    font-family: -apple-system, "SF Pro Text", "PingFang SC", sans-serif;
+  }
+  .calc-wrap { width: 100%; max-width: 400px; padding: 20px 16px; user-select: none; }
+  button { font: inherit; border: none; cursor: pointer; }
+  .calc-display {
+    min-height: 130px; display: flex; align-items: flex-end; justify-content: flex-end;
+    padding: 8px 16px 20px; overflow: hidden;
+  }
+  .calc-display span {
+    color: #fff; font-weight: 400; line-height: 1.05;
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+    flex-shrink: 0;
+    text-align: right;
+    letter-spacing: -0.02em;
+  }
+  .calc-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  .calc-btn { height: 76px; border-radius: 999px; font-size: 30px; color: #fff; background: #333; transition: filter 0.1s ease-out; }
+  .calc-btn:active { filter: brightness(1.5); }
+  .calc-btn.fn { background: #a5a5a5; color: #000; font-size: 24px; }
+  .calc-btn.op { background: #ff9f0a; font-size: 34px; }
+  .calc-btn.op.active { background: #fff; color: #ff9f0a; }
+  .calc-btn.zero { grid-column: span 2; }
+  @media (max-height: 700px) {
+    .calc-btn { height: 64px; font-size: 26px; }
+    .calc-display { min-height: 100px; }
+  }
+</style>
+<base target="_blank">
+</head>
+<body>
+<div class="calc-wrap">
+  <div class="calc-display"><span id="calcOut">0</span></div>
+  <div class="calc-grid" id="calcGrid"></div>
+</div>
+<script>
+(function(){
+  var out = document.getElementById('calcOut');
+  var grid = document.getElementById('calcGrid');
+  var current = '0', stored = null, pendingOp = null, overwrite = true;
+  var lastOp = null, lastOperand = null, error = false;
+  var currency = '';
+  var currencyList = ['', '¥', '$'];
+
+  function calc(a, op, b){
+    if(op === '+') return a + b;
+    if(op === '-') return a - b;
+    if(op === '*') return a * b;
+    if(op === '/'){ if(b === 0) return null; return a / b; }
+  }
+  function fmt(n){
+    if(!isFinite(n)) return '错误';
+    var r = Math.round(n * 1e8) / 1e8;
+    var s = String(r);
+    if(s.replace('-','').replace('.','').length > 12) s = r.toPrecision(8).replace(/\.?0+$/,'');
+    return s;
+  }
+
+  // 关键：最大字号提高，按 1px 缩小，直到刚好铺满一行
+  function fitText(){
+    var display = out.parentElement;
+    var maxW = display.clientWidth - 32;   // 减去左右 padding
+    var short = window.matchMedia('(max-height: 700px)').matches;
+    var maxSize = short ? 64 : 84;
+    var size = maxSize;
+    out.style.fontSize = size + 'px';
+    var guard = 0;
+    while(out.offsetWidth > maxW && size > 12 && guard++ < 200){
+      size -= 1;
+      out.style.fontSize = size + 'px';
+    }
+  }
+
+  function render(){
+    if(error){
+      out.textContent = current;
+    } else {
+      var text = current;
+      if(currency){
+        text = text.charAt(0) === '-' ? '-' + currency + text.slice(1) : currency + text;
+      }
+      out.textContent = text;
+    }
+    fitText();
+    highlightOp();
+  }
+  function highlightOp(){
+    var btns = grid.querySelectorAll('.calc-btn.op');
+    btns.forEach(function(b){ b.classList.toggle('active', pendingOp && overwrite && b.dataset.op === pendingOp); });
+  }
+  function showError(){ current = '错误'; error = true; pendingOp = null; stored = null; overwrite = true; render(); }
+
+  function inputDigit(d){
+    if(error) clearAll();
+    lastOp = null;
+    if(overwrite){ current = (d === '.') ? '0.' : d; overwrite = false; }
+    else {
+      if(d === '.' && current.indexOf('.') >= 0) return;
+      if(current.replace('-','').replace('.','').length >= 12) return;
+      current += d;
+    }
+    render();
+  }
+  function pressOp(op){
+    if(error) return;
+    var v = parseFloat(current);
+    if(pendingOp && overwrite){ pendingOp = op; render(); return; }
+    if(pendingOp){
+      var r = calc(stored, pendingOp, v);
+      if(r === null){ showError(); return; }
+      current = fmt(r); stored = r;
+    } else { stored = v; }
+    pendingOp = op; overwrite = true; lastOp = null; render();
+  }
+  function pressEquals(){
+    if(error) return;
+    var v = parseFloat(current);
+    if(pendingOp){
+      lastOp = pendingOp; lastOperand = v;
+      var r = calc(stored, pendingOp, v);
+      pendingOp = null; stored = null; overwrite = true;
+      if(r === null){ showError(); return; }
+      current = fmt(r);
+    } else if(lastOp){
+      var r2 = calc(v, lastOp, lastOperand);
+      if(r2 === null){ showError(); return; }
+      current = fmt(r2);
+    }
+    render();
+  }
+  function pressPercent(){
+    if(error) return;
+    current = fmt(parseFloat(current) / 100);
+    render();
+  }
+  function clearAll(){
+    current = '0'; stored = null; pendingOp = null; overwrite = true; lastOp = null; lastOperand = null; error = false; render();
+  }
+  function toggleCurrency(){
+    var i = currencyList.indexOf(currency);
+    currency = currencyList[(i + 1) % currencyList.length];
+    render();
+  }
+
+  var keys = [
+    {k:'AC', cls:'fn', act:clearAll},
+    {k:'¥/$', cls:'fn', act:toggleCurrency},
+    {k:'%', cls:'fn', act:pressPercent},
+    {k:'÷', cls:'op', op:'/', act:function(){pressOp('/')}},
+    {k:'7', act:function(){inputDigit('7')}},
+    {k:'8', act:function(){inputDigit('8')}},
+    {k:'9', act:function(){inputDigit('9')}},
+    {k:'×', cls:'op', op:'*', act:function(){pressOp('*')}},
+    {k:'4', act:function(){inputDigit('4')}},
+    {k:'5', act:function(){inputDigit('5')}},
+    {k:'6', act:function(){inputDigit('6')}},
+    {k:'−', cls:'op', op:'-', act:function(){pressOp('-')}},
+    {k:'1', act:function(){inputDigit('1')}},
+    {k:'2', act:function(){inputDigit('2')}},
+    {k:'3', act:function(){inputDigit('3')}},
+    {k:'+', cls:'op', op:'+', act:function(){pressOp('+')}},
+    {k:'0', cls:'zero', act:function(){inputDigit('0')}},
+    {k:'.', act:function(){inputDigit('.')}},
+    {k:'=', cls:'op', act:pressEquals}
+  ];
+  keys.forEach(function(item){
+    var b = document.createElement('button');
+    b.className = 'calc-btn' + (item.cls ? ' ' + item.cls : '');
+    b.textContent = item.k;
+    if(item.op) b.dataset.op = item.op;
+    b.addEventListener('click', item.act);
+    grid.appendChild(b);
+  });
+
+  document.addEventListener('keydown', function(e){
+    if(/^[0-9.]$/.test(e.key)){ inputDigit(e.key); e.preventDefault(); }
+    else if(e.key === '+' || e.key === '-' || e.key === '*' || e.key === '/'){ pressOp(e.key); e.preventDefault(); }
+    else if(e.key === 'Enter' || e.key === '='){ pressEquals(); e.preventDefault(); }
+    else if(e.key === '%'){ pressPercent(); }
+    else if(e.key === 'Escape'){ clearAll(); }
+  });
+
+  window.addEventListener('resize', fitText);
+  render();
+})();
+</script>
+</body>
+</html>
